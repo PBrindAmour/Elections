@@ -15,4 +15,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1development_1json__JsonSchema="https://starship.rs/config-schema.json" /></VisualStudio></ProjectExtensions>
+
 </Project>

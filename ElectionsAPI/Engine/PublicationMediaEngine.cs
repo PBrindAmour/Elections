@@ -26,7 +26,12 @@ namespace ElectionsAPI.Engine
                 var startDate = await GetLatestPublicationAsync(twitterId, user.MediaUserId.Value);
                 if(startDate == DateTime.MinValue)
                 {
-                    startDate = new DateTime(2022, 8, 31, 0, 0, 0, DateTimeKind.Local); // La date à partir duquel on veut débuter s'il n'y a pas de publication sauvegardée.
+                    startDate = new DateTime(2022, 7, 1, 0, 0, 0); // La date à partir duquel on veut débuter s'il n'y a pas de publication sauvegardée.
+                }
+                else
+                {
+                    startDate = startDate.Value.AddSeconds(1);
+                    startDate = startDate.Value.AddHours(4);
                 }
                 var postsTwitter = await _client.GetPublicationsAsync(user.MediaUserId.Value, startDate.Value, DateTime.Now);
                 await _store.InsertPublicationsAsync(postsTwitter);
@@ -36,7 +41,6 @@ namespace ElectionsAPI.Engine
         public async Task<DateTime?> GetLatestPublicationAsync(short mediaId, long mediaUserId) //Méthode qui recherche la dernière publication sauvegardée.
         {
             return await _store.GetLatestPublicationAsync(mediaId, mediaUserId);
-
         }
 
         
