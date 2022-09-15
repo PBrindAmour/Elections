@@ -22,7 +22,6 @@ CREATE TABLE Publication
 	Texte text,
 	PublicationDate datetime not null,
 	UrlPublication text,
-	UNIQUE(MediaID, PublicationMediaID)
 );
 
 CREATE TABLE Region

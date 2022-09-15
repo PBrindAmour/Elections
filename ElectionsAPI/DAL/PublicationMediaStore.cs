@@ -37,7 +37,6 @@ namespace ElectionsAPI.DAL
         public async Task<List<PersonneMedia>> GetPersonneMediasAsync() // Méthode pour aller chercher les médias
         {
             var personneMediaList = await _context.PersonneMedias
-                .Where(p => p.PersonneId == 451 || p.PersonneId == 1) // Lorsqu'on veut modifier les paramètres (ici la personne)
                 .ToListAsync();
             return personneMediaList; // Retourne la liste de publications pour chaque personne
         }
