@@ -51,5 +51,12 @@ namespace ElectionsAPI.Controllers
         {
             return await _engine.GetCandidats(prenom, nom, parti, circonscription, region, genre);
         }
+
+        [HttpPost("Get Tf-Idf")]
+        public async Task<Dictionary<string,Dictionary<short,double>>> GetTfIdf([FromBody]FiltreRecherche filtreRecherche)
+        {
+            return await _engine.GetTfIdf(filtreRecherche.PartiId, filtreRecherche.MediaId);
+        }
     }
+
 }

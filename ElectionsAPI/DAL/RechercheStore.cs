@@ -179,5 +179,36 @@ namespace ElectionsAPI.DAL
                                    ).ToListAsync();
             return candidats;
         }
+
+        public async Task<List<string>> GetPublicationTexte(short partiId, List<short> mediaId)
+        {
+
+            var textes = await (from pub in _context.Publications
+                                join pm in _context.PartiMedia
+                                on pub.MediaUserId equals pm.MediaUserId
+                                where mediaId.Contains(pm.MediaId)
+                                join part in _context.Partis
+                                on pm.PartiId equals part.PartiId
+                                where pm.PartiId == partiId && mediaId.Contains(pm.MediaId) && mediaId.Contains(pub.MediaId)
+                               select pub.Texte).ToListAsync();
+            return textes;
+        }
     }
 }
+
+/*
+ * var textesFinal = new List<string>();
+            foreach (var media in mediaId)
+            {
+                var textes = await (from pub in _context.Publications
+                                    join pm in _context.PartiMedia
+                                    on pub.MediaId equals pm.MediaId
+                                    join part in _context.Partis
+                                    on pm.PartiId equals part.PartiId
+                                    where pm.PartiId == partiId
+                                    where pm.MediaId == media
+                                    select pub.Texte).ToListAsync();
+                textesFinal.AddRange(textes);
+            }
+            
+            return textesFinal;*/

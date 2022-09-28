@@ -13,5 +13,6 @@ namespace ElectionsAPI.DAL.Interfaces
         Task<InfoPublication> GetInfoPublications(short partiId, short mediaId, string mot);
         Task<List<ListePublicationsCandidat>> GetListePublicationCandidat(short personneId);
         Task<List<Candidats>> GetCandidats(string? prenom, string? nom, string? parti, string? circonscription, string? region, char? genre);
+        Task<List<string>> GetPublicationTexte(short partiId, List<short> mediaId);
     }
 }

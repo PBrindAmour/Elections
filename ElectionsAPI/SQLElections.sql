@@ -263,6 +263,8 @@ INSERT INTO Media (MediaID,Nom,Officiel) values (4,'Instagram',0)
 INSERT INTO Media (MediaID,Nom,Officiel) values (5,'Publicite',1)
 INSERT INTO Media (MediaID,Nom,Officiel) values (6,'CinqChefsUneElection',1)
 INSERT INTO Media (MediaID,Nom,Officiel) values (7,'DébatDesChefs',1)
+INSERT INTO Media (MediaID,Nom,Officiel) values (8,'FaceAFaceTVA',1)
+INSERT INTO Media (MediaId,Nom,Officiel) values (9,'TLMP',1)
 
 --PARTI
 INSERT INTO Parti (PartiID,Nom,Abreviation) values (1,'Coalition Avenir Québec','CAQ')
@@ -271,6 +273,18 @@ INSERT INTO Parti (PartiID,Nom,Abreviation) values (3,'Parti Québécois','PQ')
 INSERT INTO Parti (PartiID,Nom,Abreviation) values (4,'Québec Solidaire','QS')
 INSERT INTO Parti (PartiID,Nom,Abreviation) values (5,'Parti Conservateur du Québec','PCQ')
 INSERT INTO Parti (PartiID,Nom,Abreviation) values (6,'Climat Quebec','CQ')
+
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,7,1,'François Legault')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,8,1,'François Legault')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (2,7,2,'Dominique Anglade')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (2,8,2,'Dominique Anglade')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (3,7,3,'Gabriel Nadeau-Dubois')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (3,8,3,'Gabriel Nadeau-Dubois')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (4,7,4,'Paul St-Pierre Plamondon')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (4,8,4,'Paul St-Pierre Plamondon')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (5,7,5,'Éric Duhaime')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (5,8,5,'Éric Duhaime')
+
 
 --PERSONNE
 --CAQ
@@ -2625,3 +2639,20 @@ join PersonneMedia pm on p.MediaUserID = pm.MediaUserID
 join Personne ps on pm.PersonneID=ps.PersonneID
 join Parti pp on ps.PartiID = pp.PartiID
 join Circonscription c on ps.CirconscriptionID = c.CirconscriptionID
+
+select * from publication p
+join PartiMedia pm on p.MediauserID = pm.MediauserID and pm.MediaID = 8
+join parti part on pm.PartiID = part.PartiID
+where p.MediaID = 8 and part.PartiID = 1
+
+
+select p.texte from Parti part
+join partimedia pm on part.PartiID = pm.PartiID
+join Publication p on pm.MediaID = p.MediaID
+where pm.MediaID = 8 and pm.PartiID = 1
+
+
+select * from parti part
+join PartiMedia pm on part.PartiID = pm.PartiID
+join Publication pub on pm.MediaUserID = pub.MediaUserID
+where part.PartiID = 1 and pm.MediaID = 8 and pub.MediaID = 8

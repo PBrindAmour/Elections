@@ -9,5 +9,6 @@ namespace ElectionsAPI.Engine.Interfaces
         Task<List<InfoPublication>> GetInfoPublications(string mot);
         Task<List<ListePublicationsCandidat>> GetListePublicationsCandidat(short personneId);
         Task<List<Candidats>> GetCandidats(string? prenom, string? nom, string? parti, string? circonscription, string? region, char? genre);
+        Task<Dictionary<string, Dictionary<short, double>>> GetTfIdf(List<short> partiId, List<short> mediaId);
     }
 }
