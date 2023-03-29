@@ -8,35 +8,14 @@ using System.Text.RegularExpressions;
 
 namespace ElectionsAPI.DAL
 {
-    public class RechercheStore : IRechercheStore 
+    public class RechercheStore : IRechercheStore
     {
         private readonly ElectionContext _context; // Le context est une variable privée puisque c'est la connexion à la base de données.
 
         public RechercheStore(ElectionContext context) // Le contexte est définit.
         {
             _context = context;
-        }
-
-        public async Task<List<InfoCandidat>> GetInfoCandidats() //Méthode pour la recherche d'informations d'une liste de cadidats.
-        {
-            var infoCandidats = await (from p in _context.Personnes
-                                       join c in _context.Circonscriptions
-                                       on p.CirconscriptionId equals c.CirconscriptionId
-                                       join pp in _context.Partis
-                                       on p.PartiId equals pp.PartiId
-                                       join r in _context.Regions
-                                       on c.RegionId equals r.RegionId
-                                       select new InfoCandidat
-                                       {
-                                           Prenom = p.Prenom,
-                                           Nom = p.Nom,
-                                           Genre = p.Genre,
-                                           NomParti = pp.Nom,
-                                           NomCirconscription = c.Nom,
-                                           NomRegion = r.Nom
-                                       }).ToListAsync();
-            return infoCandidats;
-        }
+        }             
 
         public async Task<InfoGenre> GetInfoGenre(short partiId) //Méthode qui détermine les statistiques de genre par partis.
         {
@@ -92,21 +71,25 @@ namespace ElectionsAPI.DAL
 
 
         // Méthode pour aller chercher la liste de publications par parti et par média.
-        public async Task<InfoPublication> GetInfoPublications(short partiId, short mediaId, string mot) 
+        public async Task<InfoPublication> GetInfoPublications(short partiId, short mediaId, string mot)
         {
-            var publications = await (from p in _context.Publications
-                                      join pm in _context.PartiMedia
-                                      on p.MediaUserId equals pm.MediaUserId
-                                      where p.Texte.Contains(mot)                                   
-                                      join pp in _context.Partis
-                                      on pm.PartiId equals pp.PartiId
-                                      where pp.PartiId == partiId
-                                      where p.MediaId == mediaId
-                                      select p.Texte).ToListAsync();
+            var publications = await (from pub in _context.Publications
+                                      join pm in _context.PartiMedia on pub.MediaUserId equals pm.MediaUserId
+                                      into join_partimedia from jp in join_partimedia.DefaultIfEmpty()
+                                      join ppm in _context.PersonneMedias on pub.MediaUserId equals ppm.MediaUserId
+                                      into join_personnemedia from jpm in join_personnemedia.DefaultIfEmpty()
+                                      join pers in _context.Personnes on jpm.PersonneId equals pers.PersonneId
+                                      into join_personnes
+                                      from jpp in join_personnes.DefaultIfEmpty()
+                                      where mediaId == pub.MediaId
+                                      where (pub.MediaId == jp.MediaId && partiId == jp.PartiId) || (pub.MediaId == jpm.MediaId && partiId == jpp.PartiId)
+                                      where pub.Texte.Contains(mot)
+                                      select pub.Texte).ToListAsync();
+
             int total = 0;
-            foreach(var publication in publications)
+            foreach (var publication in publications)
             {
-                 total = total + Regex.Matches(publication, mot).Count; // Utilisation de la méthode Regex qui permet de compter l'occurence d'un mot dans un texte, ici on compte dans tous les textes.
+                total = total + Regex.Matches(publication, mot).Count; // Utilisation de la méthode Regex qui permet de compter l'occurence d'un mot dans un texte, ici on compte dans tous les textes.
             }
 
             // Compte le nombre de publications où le mot se retrouve
@@ -120,6 +103,46 @@ namespace ElectionsAPI.DAL
                 NomParti = nomParti.Nom,
                 NomMedia = nomMedia.Nom,
                 Mot = mot,
+                NombrePublications = comptePublication,
+                NombreTotal = total
+            };
+        }
+
+        public async Task<InfoPublication> GetInfoPublicationsDeux(short partiId, short mediaId, string motUn, string motDeux)
+        {
+            var publications = await (from pub in _context.Publications
+                                      join pm in _context.PartiMedia on pub.MediaUserId equals pm.MediaUserId
+                                      into join_partimedia
+                                      from jp in join_partimedia.DefaultIfEmpty()
+                                      join ppm in _context.PersonneMedias on pub.MediaUserId equals ppm.MediaUserId
+                                      into join_personnemedia
+                                      from jpm in join_personnemedia.DefaultIfEmpty()
+                                      join pers in _context.Personnes on jpm.PersonneId equals pers.PersonneId
+                                      into join_personnes
+                                      from jpp in join_personnes.DefaultIfEmpty()
+                                      where mediaId == pub.MediaId
+                                      where (pub.MediaId == jp.MediaId && partiId == jp.PartiId) || (pub.MediaId == jpm.MediaId && partiId == jpp.PartiId)
+                                      where pub.Texte.Contains(motUn)
+                                      where pub.Texte.Contains(motDeux)
+                                      select pub.Texte).ToListAsync();
+
+            int total = 0;
+            foreach (var publication in publications)
+            {
+                total = total + Regex.Matches(publication, motUn).Count; // Utilisation de la méthode Regex qui permet de compter l'occurence d'un mot dans un texte, ici on compte dans tous les textes.
+            }
+
+            // Compte le nombre de publications où le mot se retrouve
+            var comptePublication = publications.Where(p => p.Contains(motUn)).Count();
+            var nomParti = await _context.Partis.Where(p => p.PartiId == partiId).SingleAsync();
+            var nomMedia = await _context.Medias.Where(m => m.MediaId == mediaId).SingleAsync();
+
+            // Retourne pour chaque média et chaque parti, le nombre de publications où le mot se retrouve et le nombre total d'occurence 
+            return new InfoPublication
+            {
+                NomParti = nomParti.Nom,
+                NomMedia = nomMedia.Nom,
+                Mot = motUn + " & " + motDeux,
                 NombrePublications = comptePublication,
                 NombreTotal = total
             };
@@ -142,10 +165,10 @@ namespace ElectionsAPI.DAL
                                           Url = p.UrlPublication
                                       }
                                       ).ToListAsync();
-            
-            return publications;        
-        }       
-        
+
+            return publications;
+        }
+
         //Méthode pour aller chercher la liste de candidats
         public async Task<List<Candidats>> GetCandidats(string? prenom, string? nom, string? parti, string? circonscription, string? region, char? genre)
         {
@@ -180,35 +203,11 @@ namespace ElectionsAPI.DAL
             return candidats;
         }
 
-        public async Task<List<string>> GetPublicationTexte(short partiId, List<short> mediaId)
+        public async Task<List<Tfidf>> GetTfidfs()
         {
-
-            var textes = await (from pub in _context.Publications
-                                join pm in _context.PartiMedia
-                                on pub.MediaUserId equals pm.MediaUserId
-                                where mediaId.Contains(pm.MediaId)
-                                join part in _context.Partis
-                                on pm.PartiId equals part.PartiId
-                                where pm.PartiId == partiId && mediaId.Contains(pm.MediaId) && mediaId.Contains(pub.MediaId)
-                               select pub.Texte).ToListAsync();
-            return textes;
+            var tfidfs = await (from tf in _context.Tfidfs
+                                select tf).ToListAsync();
+            return tfidfs;
         }
     }
 }
-
-/*
- * var textesFinal = new List<string>();
-            foreach (var media in mediaId)
-            {
-                var textes = await (from pub in _context.Publications
-                                    join pm in _context.PartiMedia
-                                    on pub.MediaId equals pm.MediaId
-                                    join part in _context.Partis
-                                    on pm.PartiId equals part.PartiId
-                                    where pm.PartiId == partiId
-                                    where pm.MediaId == media
-                                    select pub.Texte).ToListAsync();
-                textesFinal.AddRange(textes);
-            }
-            
-            return textesFinal;*/

@@ -1,5 +1,6 @@
 ﻿namespace ElectionsAPI.Controllers.Models
 {
+    // Modèle pour les informations d'un candidat
     public class InfoCandidat
     {
         public string Prenom { get; set; }

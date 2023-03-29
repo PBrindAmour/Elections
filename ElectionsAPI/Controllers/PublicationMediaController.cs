@@ -17,7 +17,19 @@ namespace ElectionsAPI.Controllers
         [HttpPost(Name = "GetTwitter")]
         public async Task GetTwitter() //Pour aller chercher les posts twitter
         {
-            await _engine.GetPostsAsync();
+            await _engine.GetPostsPartisAsync();
         }
+
+        [HttpGet(Name = "NettoyerPosts")]
+        public async Task NettoyerPosts() //Pour aller chercher les posts twitter
+        {
+            await _engine.NettoyerPosts();
+        }
+
+        /*[HttpPost(Name = "GetTwitterPartis")]
+        public async Task GetTwitterPartis() //Pour aller chercher les posts twitter
+        {
+            await _engine.GetPostsPartisAsync();
+        }*/
     }
 }

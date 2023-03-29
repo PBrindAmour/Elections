@@ -68,6 +68,7 @@ namespace ElectionsAPI.Clients
             }
         }
 
+
         private List<Publication> GetPublicationList(List<TwitterPost> posts)
         {
             return posts.Select(p => new Publication

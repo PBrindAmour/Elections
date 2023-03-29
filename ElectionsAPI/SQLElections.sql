@@ -85,7 +85,59 @@ CREATE TABLE DictionnaireTheme
 	Mot varchar(50) not null
 	PRIMARY KEY (ThemeID, Mot)
 )
-INSERT INTO Theme (ThemeID,Nom) VALUES (1,'Économie')
+
+CREATE TABLE TestLisibilite
+(
+	TestID smallint not null PRIMARY KEY,
+	Nom varchar(40) not null,
+);
+
+CREATE TABLE Lisibilite
+(
+	PublicationID int not null FOREIGN KEY REFERENCES Publication(PublicationID),
+	TestID smallint not null FOREIGN KEY REFERENCES TestLisibilite(TestID),
+	Valeur float,
+	Primary Key (PublicationID, TestID)
+);
+
+CREATE TABLE TextCompressibilite
+(
+	TextID smallint not null PRIMARY KEY,
+	Nom varchar(40) not null,
+);
+
+CREATE TABLE Compressibilite
+(
+	PublicationID int not null FOREIGN KEY REFERENCES Publication(PublicationID),
+	TextID smallint not null FOREIGN KEY REFERENCES TextCompressibilite(TextID),
+	Valeur float,
+	Primary Key (PublicationID, TextID)
+);
+
+CREATE TABLE Tfidf
+(
+	PartiID smallint not null FOREIGN KEY REFERENCES Parti(PartiID),
+	MediaID smallint not null FOREIGN KEY REFERENCES Media(MediaID),
+	Mot varchar(60) not null,
+	Valeur float,
+	PRIMARY KEY (PartiID, MediaID, Mot)
+);
+
+
+INSERT INTO TextCompressibilite(TextID,Nom) VALUES (1,'Texte régulier')
+INSERT INTO TextCompressibilite(TextID,Nom) VALUES (2,'Texte Nettoyé')
+INSERT INTO TextCompressibilite(TextID,Nom) VALUES (3,'Texte Tronqué')
+
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (1,'FLESH Facilité de lecture')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (2,'FLESH Niveau de scolarité')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (3,'ARI Niveau de scolarité')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (4,'FLESH Facilité de lecture texte nettoyé')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (5,'FLESH Niveau de scolarité texte nettoyé')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (6,'ARI Niveau de scolarité texte nettoyé')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (7,'FLESH Facilité de lecture texte tronqué')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (8,'FLESH Niveau de scolarité texte tronqué')
+INSERT INTO TestLisibilite(TestID,Nom) VALUES (9,'ARI Niveau de scolarité texte tronqué')
+
 INSERT INTO DictionnaireTheme (ThemeID,Mot) VALUES (1,'dollar')
 INSERT INTO DictionnaireTheme (ThemeID,Mot) VALUES (1,'millions$')
 INSERT INTO DictionnaireTheme (ThemeID,Mot) VALUES (1,'fiscal')
@@ -272,7 +324,6 @@ INSERT INTO Parti (PartiID,Nom,Abreviation) values (2,'Parti Libéral du Québec
 INSERT INTO Parti (PartiID,Nom,Abreviation) values (3,'Parti Québécois','PQ')
 INSERT INTO Parti (PartiID,Nom,Abreviation) values (4,'Québec Solidaire','QS')
 INSERT INTO Parti (PartiID,Nom,Abreviation) values (5,'Parti Conservateur du Québec','PCQ')
-INSERT INTO Parti (PartiID,Nom,Abreviation) values (6,'Climat Quebec','CQ')
 
 INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,7,1,'François Legault')
 INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,8,1,'François Legault')
@@ -285,6 +336,12 @@ INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (4,8,4,'Paul 
 INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (5,7,5,'Éric Duhaime')
 INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (5,8,5,'Éric Duhaime')
 
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,4,1,'CAQ')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (2,4,2,'PLQ')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (3,4,3,'PQ')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (4,4,4,'QS')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (5,4,5,'PCQ')
+
 
 --PERSONNE
 --CAQ
@@ -294,6 +351,11 @@ INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,3,10004414
 INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,4,202372541,'coalition_avenir_quebec')
 INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,5,1,'CAQ')
 INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,6,1,'François Legault')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (1,3,1,'CAQ')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (2,3,2,'PLQ')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (3,3,3,'PQ')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (4,3,4,'QS')
+INSERT INTO PartiMedia (PartiID,MediaID,MediaUserID,Surnom) values (5,3,5,'PCQ')
 
 
 INSERT INTO Personne (PersonneID,Prenom,Nom,genre,Age,PartiID,CirconscriptionID) values (1,'François','Legault','H',65,1,44)
@@ -2626,7 +2688,89 @@ from personne
 group by CirconscriptionId, partiid, actif having count(*) > 1
 
 
+UPDATE publication SET Texte = 'le problème avec les 4 chefs qui sont ici aujourd''hui c’est qu’ils ont tous la même chose. c''est une surenchère de savoir lequel des chef représente un pourcentage le plus élevé possible pour bien paraître. mais il n’y en a aucun qui va nous dire exactement les sacrifices qu’ils vont demander aux québécois. combien ils vont fermer d''entreprise. combien ils vont demander d’automobilistes de vendre leur voiture. il y a un paquet de sacrifices qui devrait être fait. c’est bien beau parler de l''environnement et dire qu’il faut réduire les GES au Québec mais l’environnement ne s’arrête pas à nos frontière. l’environnement elle est planétaire et il faut regarder l’impact qu’on va avoir sur la planète pas juste au Québec et exporter notre pollution. 
+écouter madame Anglade vient de parler de la délégation allemande qui était au Québec il y a à peine quelques jours. puis au Canada le chancelier était ici. l''Allemagne a désespérément besoin présentement de gaz naturel liquéfié notamment. le Québec a dit non comme les quatre partis qui sont contre le projet par exemple GNL Québec au Saguenay alors que présentement l''allemagne se demande comment ils vont chauffer cet hiver. on aurait l’opportunité au Québec au lieu d''avoir du transfert des centrales présentement en allemagne qui vont fonctionner au charbon d''envoyer du gaz de réduire la charge environnement de 60%. il y a encore 50 ans de croissance.
+madame anglade je sais que ça parait bien de vouloir parler contre les hydrocarbures la réalité dans le monde c''est qu''on en a encore pour 50 ans de croissance de la demande du gaz. le Québec a une réserve. on aurait la chance de réduire l''empreinte écologique de la planète puis de créer des emplois lucratifs dans nos régions puis vous dites non à sa juste pour bien paraître. ce n’est pas rationnel madame anglade.
+vous êtes trop idéologique madame anglade. vous le savez que c’est faux. vous savez parfaitement qu''on continue à avoir besoin d''hydrocarbures qu''on le veuille ou non. on a une réserve ici et vous savez que le gaz québécois en plus on aurait une empreinte meilleure que celui qu’on importe. vous voulez que le québec soit 100% importateur d’hydrocarbures. quand vous étiez à la caq avec monsieur legault pourtant vous étiez les champions des hydrocarbures. qu''est-ce qui s’est passé. 
+pas besoin de reculer en 1950 madame anglade. juste avec les chiffres et de vous rappeler l’époque où vous étiez présidente de la caq. Monsieur Legault président de la CAQ et vous êtes une championne qui disait qu''il fallait développer les hydrocarbures avec monsieur Legault. vous vouliez faire du Québec la norvège de l’amérique. avez-vous oublié ça.
+monsieur Legault vous savez qu’il y a 4 ans par exemple vous disiez le contraire. vous proposer un 3e à l’est et vous vous souvenez peut-être pas mais vous aviez aussi déposé des études. je sais que vous les avez enlevés du site web parce que ça ne faisait plus votre affaire. ce soir je vous demande de regarder les Québécois dans les yeux et regarder la caméra. allez-vous oui ou non rendre public les études sur le 3e lien. parce que vous cachez les études pour après l''élection les électeurs ont droit de savoir avant le 3 octobre monsieur Legault. on veut voir les études. allez-vous oui ou non les rendre public. on les a payés on veut les lire avant de voter.
+engagez-vous à les déposer alors monsieur legault. on a payé pour ces études là on a le droit de les voir.
+ monsieur legault je voudrais parler du transport à Québec et des ponts parce que vous savez depuis quarante-huit heures le Pont Pierre Laporte les travaux ont été stoppés pour soulager le poids sur le pont. on dit qu’il y a de graves problèmes au niveau du poids sur le pont. il y aurait même des recommandations et je voudrais savoir si vous avez vu ce rapport-là à l''effet qu’il y a une recommandation de fermer deux voies sur le Pont Pierre Laporte. est-ce que c’est vrai.
+non mais allez-vous fermer deux voies sur le pont pierre laporte.
+Mais non absolument pas du tout. ce qu’on veut nous d''ailleurs le tracé qu’on propose c’est un tracé qui va rentrer à l''intérieur des terres pour éviter justement de déranger les citoyens de l''île. il y a déjà la partie Nord va déjà construite de toute façon. elle est déjà en construction.
 
+ monsieur bruneau je pense que madame anglade a raison sur la prévention. c''est vrai qu''il faut faire quelque chose sur la santé mentale. également il y a des investissements majeurs qui doivent être fait surtout avec les deux années qu''on vient de terminer. il y a un grave problème.
+ il y a un lien avec la violence avec la montée de violence. il y a aussi toute cette mouvance de vouloir désarmer les policier de vouloir définancer la police. on peut pas échapper à ça et je sais que monsieur nadeau-dubois ne veut pas entendre parler de ça ici ce soir mais ça a rapport avec ce qui se passe présentement. il va falloir qu''on va refasse confiance à nos policiers et que les policiers puissent faire leur travail. puis il y a des marges de manœuvre. qu’ils aient les mains un peu plus libéré et qu’on arrête le de casser du sucre sur leur dos.
+vous voulez désarmer les policiers monsieur Nadeau-Dubois.
+c’est dans votre programme et vous ne l’avez pas mis dans votre plateforme.
+en fait d’abord c’est pas tout à fait ça. parce qu’il a des gens qui n’ont pas de voitures qui vont  profiter d''une baisse sur l''essence. parce ce que tout le monde consommer des produits malheureusement ils se promènent tous sur les routes et ça a besoin de l''essence et ça a un effet domino sur l''ensemble des prix. nous on pense que c''est important. en Ontario un gouvernement conservateur a été élu il y a quelques mois. depuis le mois de juillet l’Ontario a suspendu une partie des taxes sur l''essence. aujourd''hui l''écart entre le Québec et l''Ontario s''est accrue ce qui fait que de plus en plus québécois qui vont mettre de l’essence du côté de l’ontario. tantôt monsieur legault parlait de hausse de taxes du parti québécois mais il n’est pas mieux. il a refusé une baisse de taxes comme un paquet d’états et d’autres provinces au canada ont fait.
+c’est ça qui est hallucinant avec Québec solidaire. à chaque fois qu''il y a un problème il y a une taxe. leur campagne ressemble à ça une nouvelle taxe par jour. il y a une espèce de strip-tease de taxe. un moment donné c’est qu’il faut que quelqu’un paye pour ça. c''est ça le problème monsieur nadeau dubois. si l’argent poussait dans les arbres je voterais même pour vous mais malheureusement la réalité n’est pas exactement celle dans laquelle vous vivez. une taxe par jour monsieur Legault appelle ça des taxes orange.
+non je vie sur la même planète une planète que le Québec n’est pas déconnecté de la planète monsieur nadeau Dubois. moi je ne vous insulte pas et je ne vous dirais jamais de vous présenter à Cuba. j’aimerais qu’on reste respectueux. moi j’aime le Québec.
+nous notre plan ce n’est pas compliqué. on a les baisses d''impôts les plus généreuse de tous.
+non on veut moi ce que je dis aux gens c''est que les baisses d''impôts qu’on propose c''est qu''on veut que l''État du Québec se serre la ceinture plutôt que les familles du Québec se serrent la ceinture. on voudrait que ces gens-là on veut offrir des impôts de 2 à 3000 $ pour une famille par exemple qui gagne 80 - 90000$. on pense que c''est important de le faire.
+ce n’est pas ce qu’on propose.
+ d''abord pour la pénurie de main d’œuvre en partant on croit que si monsieur Legault avait tenu parole. vous savez lors de la dernière élection lorsqu''il était ici sur le plateau monsieur Legault disait qu''il était pour réduire la taille de l''état de 5000 employés. non seulement il ne l''a pas fait mais il a en plus augmenter la taille de l''État. tous ses employés pourraient être dans le secteur privé pour combler une partie de la pénurie de main d’œuvre et d''autre part on a une politique qui n''est pas tout à fait pareil mais la politique de Monsieur st-pierre Plamondon. mais elle va dans le même sens. je pense que tout le monde est conscient que les gens rendu à 60 65 ans aujourd''hui les gens sont quand même en forme. et il y a quand même 15 % des aînés qui aimeraient ça retourner sur le marché du travail.
+On veut le faire de façon incitative. c''est-à-dire qu''on veut donner des crédits d''impôt. on veut même tripler les crédits d''impôt pour les 65 ans et plus parce qu''il y en a qui ne veulent pas. qu''ils ont l''impression qu''il a tellement leur chèque de pension il n’y a pas d''incitatif à revenir à l''emploi. donc on veut y aller de façon positive et on veut les aider financièrement c''est le même esprit mais c''est.
+Je le regrette amèrement je vous le promets.
+ là-dessus monsieur Nadeau-Dubois a raison tous les politiciens nous promettent toujours ça. le problème c''est que le monopole public est inefficace et tant et aussi longtemps qu’on n’acceptera pas d''additionner la contribution du secteur privé on va être pris dans une spirale et on n’en sort jamais. si on avait des cliniques privées si on avait des hôpitaux privés on aurait une offre supplémentaire tout évidemment en embauchant et en formant davantage de médecin.
+ vous avez étudié en suède je pense. vous connaissez le modèle suédois en matière de santé.
+ vous savez qu''en Suède justement il y a un hôpital privé qui concurrence le public et c''est un modèle scandinave. payer par les contribuables et ça fonctionne mieux. il y a d’autre modèles.
+ monsieur Legault j''aimerais ça vous croire ce soir sauf que quand on a fusionné l''ADQ avec la CAQ vous nous avez dit oui au privé et vous n’avez jamais rien fait. vous avez brisé votre engagement pour la suite. comment voulez-vous qu’on vous croie aujourd''hui.
+ bien d''abord quand vous dites qu''on a surfer là-dessus pour des raisons électorales moi je peux vous dire que quand j''ai choisi de me présenter à la direction d’un parti qui était à 1 % et qui avait 500 membres ce n''était pas par opportunisme Monsieur Bruneau. je l''ai fait par conviction profonde et toute ma vie j''ai défendu les libertés individuelles. je veux juste que vous sachiez cela.
+La question c''est que je vais parler à la population du Québec. je ne vais pas tenter de les infantiliser comme monsieur Legault a fait pendant 2 ans. je vais parler à la population du Québec à des adultes responsables. on va protéger les plus vulnérables mais on va laisser les gens vivre.
+ monsieur Legault on ne va pas faire une guerre de chiffres. vous savez que c''est faux. vous savez qu''on a plus de mort par capita que partout ailleurs au Canada.
+Monsieur Legault je m''excuse là ce qui était irresponsable c''était de gérer une crise de façon non scientifiques. pouvez-vous aujourd''hui nous dire sur quelle étude scientifique vous avez fait des couvre-feux au Québec ou si c''est juste des sondages d''opinion qui ont fait que vous avez confiner que vous avez imposé des contraintes.
+ vous avez ratatiner le nombre d''heures où les gens interagissent entre eux c''est sûr que ça va réduire les contacts.
+ monsieur Legault vous n''avez pas été solidaires avec les Québécois et avec les enfants du Québec non plus. je veux juste vous dire monsieur Legault comment ça se fait qu''on a été les plus confiné. comment ça se fait que vous avez été le pire confineur du continent. ce n''est pas rien. il y a nulle part ailleurs où ils ont fermé l''industrie de la construction. nulle part ailleurs ils ont fermé les salles à manger aussi longtemps que vous avez fait. nulle part ailleurs on a gardé le masque aussi longtemps monsieur Legault. vous avez été le 1er ministre du confinement.
+Nous on veut aider davantage les aidants naturels. je pense que c''est important. je suis un peu d''accord avec Monsieur Nadeau Dubois on peut pas arrêter les chantiers en cours de route. là mais le projet de monsieur Legault faut le dire c’est très électoraliste parce que on aura pas les moyens à huit cent mille pièces la chambre d’en faire beaucoup et de soigner beaucoup d''aînés. dans la maison des aîné c''est beau pour le tape à l''œil pour couper des rubans pour un politicien en campagne électoral mais à long terme pour les aînés du Québec je suis pas sûr que ça va être très efficace.
+ vous parlez comme Monsieur Nadeau Dubois vous promettez des gros projets pour flasher mais vous savez Parfaitement que ce n''est pas économiquement responsable. vous savez que vous ne pourrez jamais offrir des chambres à 800 00$ pour tous les aînés du Québec.
+ monsieur Plamondon au parti au Québécois à l''époque au Parti libéral ensuite et la CAQ nous ont tous promis qu''ils allaient éliminer l’attente dans les CPE. aujourd''hui au moment où on se parle il y a 52000 enfants qui végètent sur des listes d''attente. le monopole public ne peut pas régler ça. on est pris comme dans le domaine de la santé on parlait tantôt.
+ non nous on veut juste bonifier. c''est-à-dire on veut que les parents qui n''ont pas d''aide actuellement puisse avoir 200$ par enfant par semaine parce que ces 52 000 personnes la ils payent aussi des impôts et ils ont aussi droit d''avoir de l''aide de l''État.
+ non il y a une autre affaire qu''il faut prendre en considération aussi avec le télétravail. il y a de plus en plus de parents qu''il reste à la maison deux trois jours semaines et qui vont au bureau deux trois jours semaine. le modèle des CPE actuel est un modèle région rigide qui ne leur convient pas. il faut également aider ces parents-là qui ont besoin d''avoir un modèle qui est un peu plus sur mesure. 
+ non on va continuer les gens de CPE.
+ il vous promet encore la même chose. comment pouvez-vous le croire il nous a dit la même chose il y a 4 ans.
+monsieur bruneau c''est quand même paradoxal d''entendre monsieur legault ce soir dire qu’il est fier de son bilan en matière d''éducation parce que les parents viennent d’assister à une rentrée scolaire qui était plutôt chaotique dans plusieurs cas avec des pénuries de chauffeurs d''autobus des gens mêmes des enseignants qui n''étaient pas. lui-même la ventilation alors qu''il avait reçu l''argent du fédéral ils sont arrivés dans les écoles et la ventilation il n''y avait rien de réglé de ce côté-là. c''est quand même paradoxal monsieur legault il se vante de ce bilan la y a pas grand-chose à être fier monsieur le premier ministre. 
+ c’est sûr que c’est quelques centaines de dollars minimum la parce que et là on ne parle pas nécessaire juste de l’habillement aussi et des fournitures scolaires. 
+oui on met nous ce qu''on veut. c''est justement ce que par les baisses d''impôts notamment on puisse alléger le fardeau des familles. on veut également que les enfants bouge. la notre priorité c''est aussi le sport. on a on est le parti qui a misé sur le sport. on veut avoir par exemple 30 minutes de sport à l''école tous les jours de la maternelle jusqu''à la fin du secondaire. on veut donner un crédit d''impôt de 500 dollars pour les pratiques d''activités sportives. je pense que c''est important de remettre le québec a bougé parce que pendant deux ans on était plutôt sédentaire.
+mais vous avez raison qu''il y a des problèmes au niveau du décrochage et on commence à peine à mesurer l’impact de la pandémie parce que les enfants ont beaucoup souffert pendant cette période-là. vous le savez le manque de socialisation de manque de sport de l''étude sur un ordinateur du matin au soir. ils ont baissé leur activité physique de deux heures par semaine. ils sont deux heures de plus par semaine devant un écran. on va avoir des gros problèmes. on est en train de préparer un gros problème à l’avenir.
+on ne prévoit pas couper en éducation au contraire. ce qu''on dit c''est qu''il faut investir. il faut mieux investir faut prendre en considération.
+mais non ça veut dire investir davantage. on veut continuer à accroître les budgets comme on l''a toujours fait. le but c''est pas juste une question d''argent madame anglade c’est aussi une question d''organisation. et nous on veut aussi décentraliser on veut que les parents aient plus leur mot à dire en matière d''éducation. on veut que ce soit pas dans la structure que l’argent se perde. quand on fait juste garocher de l''argent ça n''arrête pas les problèmes madame anglade. ça peut en créer des fois.    
+monsieur legault arrêter de faire peur aux gens. ce soir d''abord on veut juste ralentir la croissance des dépenses. on veut pas couper on veut ralentir la croissance des dépenses. monsieur legault depuis vous êtes le vous avez clignoter à droite pour faire élire il y a quatre ans puis vous avez viré à gauche. depuis quatre ans monsieur legault vous avez dépenser. vous avez empilé le pire déficit de l''histoire du québec. vous êtes un homme moi j''ai voté pour vous parce que je vous ai cru. je pensais que vous alliez réduire la taille de l''état. je pensais que vous alliez assainir les finances publiques. je pensais vous alliez améliorer système de santé. vous avez vous avez rien fait de ça monsieur legault. vous avez continué à engraisser la taille de l''état. Arrêtez de nous dire ce soir que vous avez responsable avec les finances publiques. nous on va être rigoureux. ce que vous n''avez pas eu le courage de faire vous l''avez promis en élection vous l''avez pas fait pendant vos quatre années. 
+par une réduction. 
+vous savez ou on coupe le plus.
+je vais vous le dire monsieur legault si vous me laissez répondre. la principale coupure qu''on veut faire c’est les subventions aux entreprises. moi dans mon gouvernement il n’y aura pas un pierre fitzgibbon et qui va distribuer des milliards à gauche et à droite dans des entreprises.
+c’est quand même quelques milliards et il faut commencer quelque part monsieur legault.
+bon le bonhomme 7 heures qui sort. avez-vous vu comment vous dépenser. avez-vous vu comment l''espace du gouvernement à augmenter sous votre leadership. vous êtes comptable vous savez que ça n''a pas de bon sens où on s’en va. vous n’arrêtez plus d''engraisser l’état.
+absolument puis pour nous justement une immigration réussie au québec c’est pas une question de nombre. c''est est-ce que ces gens-là vont travailler puis est-ce qu''ils vont s''intégrer à la majorité francophone. moi je pense que c''est les deux principaux les deux principales préoccupations qu''on devrait tous avoir. je pense pas qu''on est si loin que ça sur ces enjeux l.e un immigrant qui arrive ici et qu’il n’a pas de travail c’est un échec et pour lui et pour la société d''accueil. il faut s''assurer qu''on puisse les intégrer sur le marché de l’emploi et un immigrant qui arrive ici et qui ne parle pas français après plusieurs années c''est un échec aussi pour la société d''accueil et pour l’immigrant. et au lieu d''avoir une surenchère sur les nombres pourquoi on focalise pas sur les critères pour s''assurer que les gens répondent à ces deux critères la.
+non pas du tout ça veut dire qu''au québec on a quand même des valeurs communes qui sont importants. je pense à l''égalité des hommes et des femmes. je pense aux conjoints de même sexe ou je pense que c''est important d''envoyer un signal clair que dans le processus de sélection que ces gens partagent nos valeurs. il faut mieux les intégrer. il faut quand même qu''ils arrivent ici et qu’ils ne pensent pas que des lois religieuses qui ont préséance sur les lois de la nation.
+mais d''abord si on ne leur dit pas ils ne sauront pas. il faut que ce soit clair avant même d’aller.
+non mais il y a déjà un processus de sélection. 
+on ne veut pas le tester on veut l’affirmer. on veut s''assurer que les gens comprennent avant même d''arriver ici qu''il y a certaines valeurs qui nous sont commune. vous n’être pas contre ça monsieur nadeau dubois. vous n''êtes pas contre l''égalité des hommes et des femmes. vous n''êtes pas contre le respect des droits des minorités sexuel.
+mais on va l’affirmer dans le processus de sélection. il y a déjà processus de sélection. il y a déjà des entrevues. il faut juste réitérer ça et je pense que c''est important de le faire. il faut que les gens comprennent.
+ il faudrait aussi monsieur nadeau dubois puis l''action s’entendra peut-être moins mais il y a tout l''aspect de l''immigration illégale aussi qu''un jour on va devoir régler. cette année sa pourrait monter jusqu''à quarante mille immigrants qui vont entrer au québec notamment par le chemin roxham. je pense que ça aussi c''est un problème. ici d''abord c''est inéquitable pour les immigrants qui ont le processus légal. puis deuxièmement ça pose un paquet de problèmes sur le contrôle des frontières et je pense que la dessus messieurs legault a été très timide avec le gouvernement fédéral. mais un moment donné il faut que les cinq partis ici on s’unisse pour parler d’une seule voix avec ottawa sur cet enjeux.
+madame anglade vous étiez favorable au projet. vous l''avez même amendé pour le rendre encore pire. you betrayed english quebecers actually on that bill. je veux juste vous rappeler que vous avez trahi la communauté anglophone avec vos positions sur cet enjeu-là. 
+ ultimement mais vous étiez pour au départ.
+vous avez été favorable au projet de loi. vous trouviez même qu''ils n''allaient pas assez loin. vous avez proposé des amendements. les amendements ont été adoptés par la coalition avenir québec de monsieur legault. après ça vous avez changé d’idée. vous vouliez retirer vos amendements et la ne caq voulait plus.
+mais ce qu''on va faire monsieur legault je regarde les statistiques de statistiques canada et moi je m’inquiète de voir le déclin du français au québec. ok là-dessus je pense qu''on est d''accord. mais c''est pas la faute des anglophones. la dernière chose qu''on a besoin c''est de commencer à se battre contre les anglo-québécois qui ont des droits historiques. ce qu''il faut faire c''est mieux franciser nos immigrants. la raison pourquoi le français décline au québec c''est parce que nos immigrants s''intègrent pas suffisamment en nombre à la majorité francophone. c''est la dessus qu’il faut faire quelque chose.
+mais je leur offre une option de centre droit. je pense que les anglophones comme les francophones la priorité c''est plus des chicanes constitutionnelles. c’est plus des chicanes linguistiques. on veut avoir un meilleur système de santé. on veut payer moins d''impôts. on veut exploiter nos hydrocarbures. on veut que tous les parents puissent avoir de l''aide pour leurs services de garde de leurs enfants. on veut des choses très simples et je pense qu''il faut aller au-delà de la langue. parce que vous savez après le 3 octobre on risque d''être dans une nouvelle réalité politique au québec. les deux vieux partis si le camp du oui puis le camp du non sont à moins de 10 % chez les francophones présentement. on entre dans un nouveau paradigme et je pense que les anglophones doivent faire partie aussi de cette nouvelle réalité politique. 
+ c''est faux madame anglade.
+moi je pense que le financement doit être légal en fonction peu importe la langue.
+je n’ai jamais dit non.
+non je dis que la loi doit être égal peu importe la langue. 
+il divise le parti libéral.
+non il doit être mis aux poubelles.
+oui parce que ce projet de loi la symbolise la division.
+moi je pense qu''il faut partir sur de nouvelles bases. le projet de loi 96 il est perçu comme par les anglo-québécois comme une attaque à leurs droits fondamentaux. je pense que c''est des mauvaises bases si on veut avoir un projet qui unis les québécois et qui cible davantage les immigrants pour les intégrer la majorité francophone. faut repartir sur une nouvelle base. il faut présenter une nouvelle législation.
+écoutez il faut la différence il y a du racisme au québec comme il y a dans à peu près toutes les sociétés. cela étant dit y''a pas de système raciste au québec. c''est faux de dire que les québécois sont systématiquement racistes ou qu''on a un système qui va faire de la ségrégation en fonction de la race. donc je comprends que cet item là il est très lourd et il est galvauder et malheureusement je pense qu''il est très divisif dans notre société. et moi j''aime beaucoup mieux dire qu''on va se battre contre le racisme plutôt que de commencer à parler d''un système raciste.
+moi je me définis comme un nationaliste. 
+c’est sûr que je veux le faire à l''intérieur de la canada. je ne souhaite pas de référendum sur l''indépendance du québec. ceci étant dis-moi j’ai une approche différente sur le plan constitutionnel. puis j''en ai pas beaucoup parlé pendant la campagne électorale parce que je ne veux qu’on se divise. mais tout à l''heure on parlait plus d''immigration je pense que tout le monde ou à peu près autour de la table on serait d''accord d''aller chercher tous les pouvoirs pour le québec en matière d''immigration. moi j''aimerais ça que les québécois j''aimerais c''est qu''au lendemain de l''élection les cinq on se réunisse avec nos partis qu''on parle d''une seule voix. ça fait des années que les québécois se divise en des oui et des non et qu’on a un front uni à ottawa contre nous. je pense qu''on serait capable de s’unir et on pourrait arriver à ottawa avec même au canada anglais dans les autres provinces des conservateurs comme moi dans d''autres provinces qui sont beaucoup plus décentralisateur et on pourrait faire des alliances. j''aimerais ça qu''on divise le canada et qu''on unissent le québec pour aller chercher nos pouvoirs en immigration. 
+monsieur plamondon je vous tends la main ce soir. est ce que oui ou non vous accepteriez que les cinq on dise on parle d''une seule voix et qu’on dise à ottawa on veut rapatrier.
+ce n’est pas de cela qu’on parle monsieur plamondon. la dépendance d''un peuple quand la jeunesse n''en veut pas.
+on est tous dépendantistes quand on n’est pas péquiste. moi je suis là c''est le sens même de voir.
+vous savez à trois reprises j''ai fait un appel au calme. je pense que tous les chefs faut le faire auprès de nos troupes d''abord et avant tout pour être près de l''ensemble de la
+population québécoise. on a la chance de vivre dans une démocratie extraordinaire au québec. la démocratie parlementaire la plus vieille du continent. aujourd''hui d''ailleurs c''est la journée internationale de la démocratie et c’est une des valeurs cher moi. c’est une des choses dont je suis plus fier au québec. c''est notre esprit démocratique et je pense qu''il faut expliquer aux gens encore une fois que c''est par des débats comme ce soir c''est par des élections comme c''est comme les élections du 3 octobre qu’on change la société. c''est pas en menaçant les gens avec des actes de violence.
+bien d''abord je vais vous remercie monsieur bruneau parce que vous êtes sorti de votre retraite pour animé le débat ce soir. je pense que tous les québécois apprécient. je voulais commencer en soulignant puis je veux aussi parler aux québécois pour dire que ce soir vous avez assisté à un débat qui pourrait mener à une élection historique le 3 octobre prochain. il est possible qu''un vieux clivages disparaissent et qu''un nouveau clivages apparaisse. vous avez vu ce soir qu''il y a des différences. il y a un parti qui est très différent c''est le parti conservateur du québec. on est les seuls qui se sont tenus debout contre monsieur legault au cours des dernières années. on est les seuls qui propose d''additionner la contribution du secteur privé en matière de santé pour rendre le système  plus efficace. on est les seuls qui souhaitons explorer notre gaz par exemple pour financer notre transition énergétique. les seuls qui veulent donner davantage de liberté de choix aux parents pour l''éducation et la garde de leurs enfants. et finalement les seuls qui propose des baisses d''impôts et de taxes sans piger dans les poches de la prochaine génération. et pour ça ce soir je vous invite le si vous aussi vous êtes des québécois qui souhaitait être libre chez nous. mais je vous invite à appuyer le parti conservateur du québec. Merci. 
+' WHERE PublicationId = 13440
 
 select * from personne where prenom = 'Priscilla'
 
@@ -2641,10 +2785,12 @@ join Parti pp on ps.PartiID = pp.PartiID
 join Circonscription c on ps.CirconscriptionID = c.CirconscriptionID
 
 select * from publication p
-join PartiMedia pm on p.MediauserID = pm.MediauserID and pm.MediaID = 8
-join parti part on pm.PartiID = part.PartiID
-where p.MediaID = 8 and part.PartiID = 1
+join PersonneMedia pm on p.MediauserID = pm.MediauserID
+join personne pers on pm.PersonneID = pers.PersonneID
+where p.MediaID = 2 and pers.PersonneID = 1
 
+select * from personne
+where Personne.PersonneID = 301
 
 select p.texte from Parti part
 join partimedia pm on part.PartiID = pm.PartiID
@@ -2655,4 +2801,133 @@ where pm.MediaID = 8 and pm.PartiID = 1
 select * from parti part
 join PartiMedia pm on part.PartiID = pm.PartiID
 join Publication pub on pm.MediaUserID = pub.MediaUserID
-where part.PartiID = 1 and pm.MediaID = 8 and pub.MediaID = 8
+where part.PartiID = 1 and pub.MediaID = 5 and pm.MediaID = 1
+
+select * from publication
+where publication.mediaid = 1 and publication.MediaUserID = 1
+
+delete  Theme
+
+ALTER TABLE Publication
+add TexteNettoye text;
+
+SELECT @@SERVERNAME
+
+select * from Compressibilite comp
+join Publication pub on comp.PublicationID = pub.PublicationDate
+where pub.MediaID = 1
+
+
+delete compressibilite
+
+
+
+select * from compressibilite
+
+select count (*) from publication pub
+left join PartiMedia pm on pub.MediauserId = pm.mediauserid
+left join personnemedia ppm on pub.mediauserid = ppm.mediauserid
+left join personne p on ppm.personneid = p.personneid
+where (pub.mediaid = 2 and pm.partiid = 5 or p.PartiID = 5 and pub.PublicationDate > Convert(datetime, '08/31/2022') and pub.PublicationDate < Convert(datetime, '10/10/2022')) 
+
+
+select * from publication
+where publication.publicationdate < '7/1/2022' and mediauserid = 253850443
+
+select mediauserid from partimedia
+where partimedia.MediaID = 2 and PartiMedia.PartiID = 1
+
+Alter table Lisibilite
+alter column valeur float
+
+select * from publication
+where publication.mediaid = 1
+
+--left join Publication pub on Lisibilite.PublicationID = pub.PublicationID
+--where pub.publicationid = 12101
+
+select lisibilite.publicationid,TestID,valeur from Lisibilite
+left join Publication pub on Lisibilite.PublicationID = pub.PublicationID
+where pub.MediaID = 1 and TestID < 4 
+
+select * from publication
+where Publication.MediaID = 6
+
+select * from publication
+where CONVERT(TEXT, UrlPublication) = 'https://twitter.com/260846506/status/1569745651084283912'
+
+delete publication.texteTronquer from publication
+where Publication.PublicationID = 12101
+
+update publication set TexteNettoye = NULL
+
+select * from publication pub
+left join PartiMedia pm on pub.MediauserId = pm.mediauserid
+left join personnemedia ppm on pub.mediauserid = ppm.mediauserid
+left join personne p on ppm.personneid = p.personneid 
+where pub.texte  like '%famille%' and (pm.partiId = 5)
+
+select * from personne
+where PersonneID = 614
+
+select * from lisibilite
+
+select count (*) from publication
+
+left join publication on Lisibilite.PublicationID = Publication.PublicationID
+where publication.MediaID = 6
+
+--update publication set TexteTronquer = NULL
+
+delete lisitiblite
+where Lisibilite.PublicationID = 11973
+
+--update publication
+set texte = 'la parole est au peuple. bonjour ça va bien. le parti qui a le meilleur plan c’est la caq continuons .bonsoir.je me considère chanceux dans la vie. je viens d''un milieu populaire puis le petit gars de sainte-anne de bellevue est rendu premier ministre. moi mon objectif ce serait que tous les jeunes aient tous les outils pour aller au bout de leur potentiel. je pense qu’il y a du travail à faire en éducation. je pense qu''on peut faire mieux en économie. on a un grand défi de réduire nos ges. c''est un gros défi de gestion en santé et c''est important pour moi de protéger notre français d''arrêter le déclin qu''on voit. donc c''est pour toutes ces raisons que je m''implique en politique.d''abord ce qui est important c''est d''agir dans les 5 endroits où il y a des ges. le transport on a beaucoup de projets de transport collectifs. deuxièmement les industries il faut que les industries passent à l''électricité. donc acier vert aluminium vert hydrogène vert je pense qu''on a la meilleure équipe économique pour faire une économie verte. ensuite l''agriculture faut vendre plus et acheter plus localement. il y a aussi toute la question du recyclage donc recyclage des contenants finalement les bâtiments l''énergie propre c''est important l''efficacité énergétique .je pense qu''on a un sujet qui est important. d''abord moi je trouve ça noble ce que propose monsieur nadeau dubois d''aller plus vite que le 37 et demi pour cent mais faut quand même regarder les impacts sur les citoyens. quand vous dites monsieur nadeau dubois vous voulez mettre une taxe orange de 7500 dollars sur une fourgonnette familiale. que vous voulez aussi fermer des entreprises. que vous voulez augmenter la dette de 40% en investissant 74 milliards. mais moi j''ai l''impression que c''est un peu comme de la magie c''est un peu comme si vous étiez au pays des merveilles monsieur nadeau dubois.oui je veux revenir à monsieur nadeau dubois. d’abord je ne l''ai pas entendu nous féliciter pour le contrat qu''on a signé avec new york ça va retirer l''équivalent d''un million d’autos des routes. maintenant je pense monsieur nadeau dubois vous devez une réponse au québécois vous avez dit la taxe orange de 7500$ ne va pas s''appliquer pour des familles de 3 enfants au québec. 85 % des familles ont un ou deux enfants ensuite vous avez dit la taxe orange s''appliquera pas dans certaines régions. je pense les québécois ont droit de savoir quelle région.d''abord actuellement entre québec et levis il y a deux ponts qui sont congestionnés. il y a une étude qui est en cours parce qu’on a annoncé il y a un an qu''on va faire un tunnel de centre-ville à centre-ville c''est la meilleure façon de faire la promotion du transport collectif .les gens de levis ont besoin d’avoir un lien. nous on ne pense pas qu''un pont qui détruirait l''île d''orléans en faisant une autoroute c''est la bonne idée. on a besoin d''un lien et nous on propose un tunnel. il y a une étude qui est fait actuellement ce moment.je ne sais pas combien.l’étude va être fait sur un tunnel centre-ville à centre-ville avec 4 voies pas un pont.bien non on évolue tout le monde évolue un pont sur l’ile d’orléans .les gens de l’ile d’orléans ne veulent rien savoir de votre pont.ne faites pas peur au monde le pont est sécuritaire .écoutez détruire le paysage d''une des plus belles villes au monde avec des pilons détruire l''île d''orléans avec une autoroute ce n’est pas une bonne idée.qu’est-ce que vous proposezvous proposez quoi. rien.l’étude était négative pour votre pont .d’abord les études sur le troisième lien c''était un lien à l''est avec 6 voies.nous ce qu''on propose c''est un tunnel avec quatre voies dont deux voix aux heures de pointe qui sont pour le transport collectif. plutôt que de prendre 30 minutes ça va prendre 10 minutes. pour ce qui est du tramway ben écoutez d''une grande ville comme québec là on a besoin d’un tramway.absolument écoutez c''est mathématique. si on regarde les plans des trois qui sont ici c''est impossible avec l''efficacité énergétique et l''éolien. parce que l''éolien c''est intermittent ça prend des barrages ou du nucléaire. nous on dit des barrages maintenant quand madame anglade parle d''hydrogène vert ça prend beaucoup d''électricité. mais elle n’est pas capable de nous dire où elle va prendre l''électricité pour l''hydrogène vert. ça ne marche pas son affaire .mais d''abord je vais être très clair. il y a effectivement des milieux où il y a de l''acceptabilité sociale puis il y a des milieux où il n’y a pas d''acceptabilité sociale. quand il n’y a pas d''acceptabilité sociale il n’y aura pas d''exploitation donc c''est clair on va exploiter là où le milieu est d''accord pour qu''on travaille dans certaines mines.  ça prend plus d''infirmières. ça prend trois ans former des infirmières qu''est-ce qu''on a fait on a mis des incitatifs pour en ramener de la retraite. on a mis des incitatifs pour les étudiants qui étudient en sciences infirmières. mais un moment donné il n’y a personne ici qui peut faire de la magie. c’est le sujet qu’on entend le plus parler. il y a des familles qui arrivent pas. il y a des retraités qui ont des petites pensions qui sont mal pris et contrairement à ce que dit monsieur saint-pierre-plamondon c''est la caq en 2022 le maintenant qui offre le plus d''argent dans le portefeuille. on veut donner 4 à 600 dollars au mois de décembre à tous ceux qui gagnent moins de 100000. puis on veut donner 2000 dollars de plus à partir de 2022 au 70 ans et plus. puis après on va baisser les impôts .bon d''abord nous ce qui est le plus important ce sont les montants ponctuels qu''on donne en 2022. 4 à 600 dollars en décembre puis 2000 dollars pour les personnes de 70 ans et plus. les baisses d''impôts commencent l''année prochaine sont moins élevés que le parti libéral est parti conservateur parce qu''on pense qu''il faut agir à court terme. maintenant économiquement on a besoin de soulager les contribuables de donner un incitatif au travail on est dans le plafond au canada en amérique du nord pour les impôts .le défi au québec c’est de créer de la richesse. quand on est arrivé au pouvoir il y a 4 ans on avait un écart de richesse de 16% c''était comme ça depuis 10 ans avec l''ontario. on a réduit ça à 13% donc faut attirer plus d''investissement des entreprises. mais moi j''ai une question pour monsieur nadeau dubois qui a dit je le cite il y a des secteurs de notre économie qui certainement doivent décroître. donc je pense les québécois ont le droit de savoir quelles entreprises dans quelle région vous voulez les fermer. dans quelle région vous voulez fermer des entreprises c''est ce que vous avez dit.bien je vous ai cité.quelles entreprises vous allez fermezarrêtez de jouer pays des merveilles. arrêtez de dire qu’il faut faire de la magie.monsieur duhaime vous voulez exploiter du gaz puis du pétrole nous on veut développer l''électricité incluant des barrages contrairement aux trois parties qui sont ici. madame anglade les salaires n’ont jamais augmenté aussi vite qu''actuellement. les travailleurs sont contents. maintenant la solution là augmenter la productivité des entreprises requalifier ceux qui étaient par exemple dans le secteur du détail ce n’est pas vrai que la seule solution c’est l''immigration. ça vous intéresse pas de protéger le français ça vous intéresse pas.bien non si on taxe les pétrolières ils vont répercuter ça au consommateur comment ça se fait qu’il ne comprend pas ça.on aime mieux donner un montant de 4 à 600 dollars et laisser la liberté aux gens. ça vous dit quelque chose ça la liberté .c’est faux.est-ce que vous admettez qu’il y a eu moins de décès au québec. combien vous étiez prêts à sacrifier d’ainés de plus. deux fois plus d’ainés trois fois plus d’ainés. vous avez été irresponsable avec nos ainés.la qualité des emplois.mais la seule façon d''y arriver c''est de créer de la richesse comme on a fait contrairement à ce que dit madame anglade on a réduit notre écart avec l''ontario. il faut créer des emplois mieux payés aujourd''hui. le défi c''est créer des emplois c''est de créer des emplois bien payés mieux payés. c''est comme ça qu''on va réduire notre écart de richesse on va donner le moyen aux québécois de s''acheter une maison de s''acheter un condo. c''est ça la façon. écoutez d''abord en 2018 on a hérité d''un système de santé qui était malade. ensuite on a eu la pandémie. depuis 2 ans et demi et malgré ça on a réussi en quelques mois à former 10000 préposés aux bénéficiaires. on a réussi à ce qui est 300 000 québécois de plus qu''a accès à un groupe de médecine de famille. puis christian dubé a déposé un plan complet. évidemment ça prend trois ans former des infirmières donc il y a personne ici qui peut faire de magie mais il faut y aller graduellement puis il faut décentraliser c’est ça qui est le plus important.on va laisser votre choix pour vous autres maintenant le privé.on va continuer avec les autres provinces à demander de l’argent.puis on a pas mal plus de chance d''y arriver que de faire référendum sur la souveraineté dans les prochains mois. mais je veux revenir à votre question monsieur roy le privé en santé nous on propose plus de privé mais du privé gratuit ça va permettre d''innover. et moi j''aimerais ça poser une question monsieur nadeau dubois les dizaines de milliers de personnes qui se sont faites opérer pendant pandémie au privé gratuitement qu''est-ce que vous leur dites. que ce n’était pas une bonne idée parce que c''est pas votre idéologie. qu''est-ce que vous leur dites à ces personnes qui ont été satisfaites qui ont rien payé.on va faire les deux.vous proposez quoi. ça prend plus d’infirmière et ça prend 3 ans former les infirmières. qu’est-ce qu’on a fait, on a ajouté des incitatifs pour en ramener de la retraite. on a mis des incitatifs pour les étudiants qui étudient en sciences infirmières mais un moment donné, il n’y a personne ici qui peut faire de la magie.en 2018 on avait promis d''ajouter 800 millions en soins et services à domicile. on a ajouté deux milliards. ok et on a le même problème qu''on vient de discuter. ça prend des infirmières ça prend le temps des former les infirmières. maintenant quand j''entends certains mettre ça en opposition avec des maisons des ainés mais voyons donc on a besoin des deux quand une personne. bien oui on a besoin des deux. il y a des personnes qui ne sont plus autonomes ils ont besoin d''aller dans une maison des ainés et on doit ça à nos aînés. il y a aussi la question de trouver travailleurs de la construction rapidement. c''est pour ça quand monsieur nadeau dubois dit il va mettre 74 milliards dans le transport collectif mais est-ce qu’il va arrêter de bâtir des hôpitaux des écoles. on ne sait pas. dans notre programme on veut augmenter le salaire des psychologues qui sont au public pour être compétitif avec le privé. mais je veux quand même répliquer à ce que monsieur duhaime me dit tantôt à propos des deux dernières années. parce que monsieur duhaime durant deux ans il a joué le rôle d''un agitateur qui a profité de la souffrance des gens au québec. il pense que ce n’est pas vrai qu''il y a eu moins de décès au québec franchement c''est irresponsable la façon dont a agi monsieur duhaime et je veux que les québécois le sache.vous n’êtes pas capable d’admettre. est-ce que vous admettez qu’il y a eu moins de décès au québec. combien vous étiez prêt à sacrifiez d’aînés de plus. étiez vous prêt a sacrifiez deux fois plus d’aînés, trois fois plus d’aînés. vous avez été irresponsable avec nos aînés.l''éducation ça a toujours été ma priorité. ça sera toujours ma priorité tout ce que j''ai dans la vie c''est à cause de l''éducation. dans quatre dernières années on a augmenté le budget de l''éducation de 26% on a augmenté salaire des enseignants de 15%. il y avait pas beaucoup d''appui chez mes amis le quand je disais je veux des négociations différenciées avec les syndicats. donc il faut valoriser la profession d''enseignants ça prend quatre ans avant de former un enseignant. on a mis des bonis pour ceux qui vont étudier en éducation donc faut continuer.non non c’est faux.elle a raison parce que et je regarde depuis quatre ans depuis qu''on est là on a ajouté 2000 orthophonistes orthopédagogues et professionnels pour les enfants qui ont des difficultés d’apprentissage. parce que d’abord de ces enfants il y en a 25% c’est eux autre qui vont décrocher éventuellement. donc il faut continuer ça prend 4 ans pour former des orthophonistes des orthopédagogues on est en train de le faire. mais encore une fois on ne peut pas faire de magie les 2000 qu’on pouvait embaucher on les a embaucher et quand on va être capable d’en faire plus on va en faire plus.ce qu’il faut c’est d’améliorer nos écoles publiques et on avait promis en 2018 d''ajouter une heure par jour. ça c''est 5 heures par semaine dans toutes les écoles secondaires pour faire trois choses plus de sport plus d''activités artistiques plus d''aide aux devoirs. savez-vous quoi on l’a fait donc ça fait que les autobus jaunes partent maintenant une heure plus tard. les jeunes qui sont dans nos écoles publiques ont plus de sport plus d’art plus d’aide aux devoirs faut continuer dans cette direction. d''abord moi je suis content de dire qu’on a triplé depuis 4 ans le nombre de classes de maternelles 4 ans. il y a des parties ici qui sont contre parce qu''ils défendent les cpe ils voient ça comme en opposition. nous on offre le choix aux parents c''est quoi l''avantage entre autres des maternelles 4 ans. c''est que c''est des dans des écoles primaires où il y a plus d''orthophonistes pour les autres années donc on veut continuer. ça marche dans beaucoup de pays mais là il y a des parties ici là qui sont contre les maternel 4 ans je comprends pas ça.mais pourquoi vous êtes contre ça fonctionne bien dans les pays scandinaves. vous les connaissez les pays scandinaves pourquoi vous êtes contre les maternelles 4 ans. ils ont le choix entre les garderies ou la maternelle 4 ans.on a augmenté de 15% le salaire des enseignants. ce qu''on doit réaliser oui parce que je sais qu''elle aime ça sortir cette phrase là. mais on a augmenté les salaires mais que les femmes on ne les a pas traité équitablement. c''est contraire on a augmenté le salaire des enseignantes des éducatrices des préposés de 15%. puis les garderies quand vous avez quitté le pouvoir en 2018 il y en avait autant qu''aujourd''hui de place manquantes. vous aviez créé une histoire de maison de fous. il y avait 12 étapes à cause de tony tomassi. il y avait 12 étapes avant d''ouvrir une place en garderie. c’était pareil avec vous. je suis assez d''accord avec ce qui vient d’être dit. le vrai débat ce n’est pas sur l''immigration c''est sur notre capacité à intégrer les nouveaux arrivants aux français. et on a adopté le projet de loi 96 on a augmenté le pourcentage d’immigrants qui parle français. on a doublé les cours de français pour les nouveaux arrivants. mais le premier devoir du premier ministre du québec c''est d''assurer l''avenir du français. puis pour ça ben on a besoin effectivement de limiter le nombre de nouveaux arrivants qui ne parlent pas français.vous oubliez une chose monsieur st-pierre-plamondon c''est que quand le parti québécois était au pouvoir sur les immigrants choisis par le gouvernement du québec le gouvernement du pq acceptait qu''il y en ait seulement 50% qui parle français.nous on est rendu à 80%. à cause de la pandémie. mais on va continuer dans cette direction là en utilisant plus la régionalisation les étudiants. mais il y a une différence là de dire je suis un peu d''accord avec vous qu’il ne faut pas aller comme gabriel nadeau dubois et madame anglade à 70000 80000. moi je pense que 50 000 en régionalisant en exigeant qui en un plus grand pourcentage qui parle français je pense qu''on peut y arriver. vous voulez seulement 35000 immigrants vous dites ce n’est pas possible. 50 000 donc sûrement pas possible le 70000 des libéraux puis 80000 de québec solidaire. moi ce que je vous dis là c''est que si on exige qui est nouveau qui est un plus grand pourcentage qui parle français avant d''arriver on va y arriver. c''est ça le pari qu''on fait je et les immigrants temporaires mais ils sont temporaires.d''abord c''est important de se rappeler que le gouvernement du québec en 1977 a rapatrié 60% de la sélection des immigrants. donc on a déjà eu des gains on a fait des gains sur d''autres sujets avec le gouvernement fédéral. mais c''est certain si tous les partis se mettent ensemble les québécois appuient le rapatriement de plus de pouvoir. mais on va voir plus de chances d''avoir un succès que de faire un référendum sur la souveraineté.d''abord le 60% là autant les libéraux que le pq quand ils étaient là ils acceptaient qu''il y en ait seulement 50 % qui parle français. donc il faut augmenter ce pourcentage on l''augmenter à 80% donc commençons par ceux qu''on contrôle.ce n’est pas ça la clé. puis d''ailleurs même monsieur saint-pierre plamondon en 2020 dans sa première course à la chefferie il était contre le fait d''étendre la loi sage au 101 au cégep. la clé c''est l''intégration au français des nouveaux arrivants pas interdire comme veut le faire monsieur saint-pierre plamondon à des francophones d''aller perfectionner leur anglais dans un cégep anglophone. ce n’est pas la bonne mesure.je pense ça apaisé le peuple québécois. on a eu toutes sortes de propositions. on est allé avec une proposition équilibrée qui va beaucoup moins loin qu''en france où on dit les personnes qui sont en autorité ne pourront pas porter de signes religieux. quand ils sont en fonction ça veut dire que la personne chez elle sur la rue peut porter tous les signes religieux. mais en fonction ces personnes par respect pour leurs clients pour leurs élèves doivent être neutre et ne pas avoir de signes religieux. je pense que il faut pas rouvrir le débat comme certains veulent le faire ici. tous ceux qui vivent au québec. monsieur nadeau dubois vous avez cédé aux radicaux de votre parti parce que vous disiez exactement le contraire la dernière fois.il y aura toujours des gens qui sont souverainistes et puis je pense que c''est un projet qui est légitime. mais ce que je sens actuellement c''est que la majorité des québécois pour eux autres ce n’est pas une priorité actuellement à court terme. c''est l''inflation à moyen terme c''est de relever le défi des changements climatiques. ils ont d''autres priorités que faire un référendum sur la souveraineté. écoutez on n’en veut pas de référendum on pense que ça diviserait les québécois. non ce n’est pas ce que j’ai dit.idéalement on changerait ça mais ce n’est pas une priorité on a d''autres choses de pas mal plus urgent.quand je suis arrivé en 2018 le budget de la culture au québec c''était 1,2 milliards par année. cette année c''est 1,7 milliards par année. on a augmenté le budget 49%. on a ajouté des sorties culturelles. j''essaie d''encourager la lecture sur mes médias sociaux. puis on a annoncé que ça a été élus. 65 millions de plus vous n’aimerez peut-être pas ça pour télé-québec pour plus d''émissions québécoises. l''économie verte là ça presse de réduire nos ges puis créer de la richesse. avec la pandémie là je sens que ce n’est vraiment pas une priorité des québécois. '
+where Publication.mediaid= 7 and MediaUserID = 1
+
+select * from PartiMedia
+
+select * from PersonneMedia
+where mediauserid =	260846506
+
+
+
+select * from publication
+left join PartiMedia on Publication.MediaUserID = PartiMedia.MediaUserID
+left join PersonneMedia on Publication.MediaUserID = PersonneMedia.MediaUserID
+where publication.MediaID = 2 and publicationdate > '10/4/2022' and publicationdate < '1/1/2023' and (publication.MediaUserID = 260846506 or publication.MediaUserID = 253850443 or publication.MediaUserID = 472202033 or publication.MediaUserID = 17814716 or publication.MediaUserID = 28720732 or publication.MediaUserID = 80925103 or publication.MediaUserID = 404071871 or publication.MediaUserID = 17029532 or publication.MediaUserID = 271909038 or publication.MediaUserID = 172395137 or publication.MediaUserID = 595874095) 
+
+select * from compressibilite
+
+select * from publication
+where Publication.publicationId = 	14482
+
+
+
+
+delete tfidf 
+where tfidf.mediaid = 1
+
+select * from tfidf
+where tfidf.mediaid = 2
+
+select * from publication
+where texte like '%entraînement%' and mediaid = 1
+
+--where partiId = 1 and mot = 'député'
+
+select count(*) from publication
+where publication.mediaid = 2 and  (publication.MediaUserID = 260846506 or publication.MediaUserID = 253850443) and publication.publicationdate < '6/1/2022' and publicationdate > '4/1/2022'
+
+select * from publication
+where publication.MediaUserID = 271909038
+
+-- CAQ (publication.MediaUserID = 260846506 or publication.MediaUserID = 253850443)
+-- PLQ (publication.MediaUserID = 472202033 or publication.MediaUserID = 17814716)
+-- PQ (publication.MediaUserID = 28720732 or publication.MediaUserID = 80925103)
+-- QS (publication.MediaUserID = 404071871 or publication.MediaUserID = 17029532 or publication.MediaUserID = 271909038)
+-- PCQ (publication.MediaUserID = 172395137 or publication.MediaUserID = 595874095)
+
+
+where publication.mediaid = 2 and (publication.MediaUserID = 260846506 or publication.MediaUserID = 472202033 or publication.MediaUserID = 28720732 or publication.MediaUserID = 271909038 or publication.MediaUserID = 404071871 or publication.MediaUserID = 172395137 or publication.MediaUserID = 253850443 or publication.MediaUserID = 17814716 or publication.MediaUserID = 80925103 or publication.MediaUserID = 17029532 or publication.MediaUserID =595874095)

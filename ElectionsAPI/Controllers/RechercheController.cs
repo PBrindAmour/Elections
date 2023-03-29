@@ -17,26 +17,20 @@ namespace ElectionsAPI.Controllers
             _engine = engine;
         }
 
-        [HttpGet("candidats")]
-        public async Task<ActionResult<List<InfoCandidat>>> GetInfoCandidats() // Méthode qui apelle l'engine pour les infos d'un candidat.
-        {
-            return await _engine.GetInfoCandidats();
-        }
-
-        [HttpGet("genres")]
+        [HttpGet("GetNombrePublicationTwitterParGenres")]
         public async Task<ActionResult<List<InfoGenre>>> GetInfoGenre() // Méthode qui apelle l'engine pour les infos genré des partis.
         {
             return await _engine.GetInfoGenre();
         }
 
         // Méthode pour recevoir les publication d'un candidat.
-        [HttpGet("publications par candidat")]
+        [HttpGet("GetPublicationsParCandidatId")]
         public async Task<ActionResult<List<ListePublicationsCandidat>>> GetListePublicationCandidat(short personneId)
         {
             return await _engine.GetListePublicationsCandidat(personneId);
         }
 
-        [HttpGet("publications")]
+        [HttpGet("GetNombrePublicationsParTerme")]
         [Transaction]
         // Méthode qui apelle l'engine pour la recherche du nombre d'occurence d'un mot par parti et par médias.
         public async Task<ActionResult<List<InfoPublication>>> GetInfoPublication(string mot="environnement")
@@ -45,18 +39,28 @@ namespace ElectionsAPI.Controllers
 
         }
 
+        [HttpGet("GetNombrePublicationsDeuxTermes")]
+        [Transaction]
+        // Méthode qui apelle l'engine pour la recherche du nombre d'occurence de deux mots par parti et par médias.
+        public async Task<ActionResult<List<InfoPublication>>> GetInfoPublicationDeux(string motUn = "logement", string motDeux = "social")
+        {
+            return await _engine.GetInfoPublicationsDeux(motUn,motDeux);
+
+        }
+
         // Méthode pour recevoir une liste de candidats
-        [HttpGet("Get candidat")]
+        [HttpGet("GetCandidatsFiltre")]
         public async Task<List<Candidats>> GetListeCandidats(string? prenom, string? nom, string? parti, string? circonscription, string? region, char? genre)
         {
             return await _engine.GetCandidats(prenom, nom, parti, circonscription, region, genre);
         }
 
-        [HttpPost("Get Tf-Idf")]
-        public async Task<Dictionary<string,Dictionary<short,double>>> GetTfIdf([FromBody]FiltreRecherche filtreRecherche)
+        [HttpGet("GetValeurTf-IdfMoyen")]
+        public async Task<String> GetValeurTfIdf()
         {
-            return await _engine.GetTfIdf(filtreRecherche.PartiId, filtreRecherche.MediaId);
+            return await _engine.GetValeurTfIdf();
         }
     }
+
 
 }

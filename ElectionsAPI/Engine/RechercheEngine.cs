@@ -1,8 +1,8 @@
 ﻿using ElectionsAPI.Controllers.Models;
 using ElectionsAPI.DAL.Interfaces;
-using ElectionsAPI.DAL.Models;
 using ElectionsAPI.Engine.Interfaces;
-using System.Collections.Generic;
+
+
 
 /* L'engine de recherche fait la communication entre le controller de recherche et le store qui permet la connexion à la base de données.*/
 
@@ -14,10 +14,6 @@ namespace ElectionsAPI.Engine
         public RechercheEngine(IRechercheStore store)
         {
             _store = store;
-        }
-        public async Task<List<InfoCandidat>> GetInfoCandidats() //L'engine appelle seulement le store sans rien ajouter pour cette méthode.
-        {
-            return await _store.GetInfoCandidats();
         }
 
         public async Task<List<InfoGenre>> GetInfoGenre()  //Méthode qui recherche les statistiques de genre des partis. On retourne sous forme de liste les informations.
@@ -50,166 +46,83 @@ namespace ElectionsAPI.Engine
         }
         public async Task<List<InfoPublication>> GetInfoPublications(string mot) //Méthode qui recherche l'occurence d'un mot dans la base de données.
         {
-            var results = new List<InfoPublication>();
+            var infoPublications = new List<InfoPublication>();
             var partis = await _store.GetPartis();
             var partiIds = partis.Select(x => x.PartiId);
-            foreach(var id in partiIds) //Pour chaque parti.
+            foreach (var id in partiIds) //Pour chaque parti.
             {
-                
                 var medias = await _store.GetMedias();
                 var mediaIds = medias.Select(medias => medias.MediaId);
-                foreach(var mediaId in mediaIds) //Pour chaque médias.
+                foreach (var mediaId in mediaIds) //Pour chaque médias.
                 {
-                    var partiPublication = await _store.GetInfoPublications(id,mediaId,mot);
-                    if(partiPublication.NombreTotal != 0) //Si le média ne contient aucune fois le mot on laisse faire.
+                    var partiPublication = await _store.GetInfoPublications(id, mediaId, mot);
+                    if (partiPublication.NombreTotal != 0) //Si le média ne contient aucune fois le mot on laisse faire.
                     {
-                        results.Add(partiPublication);
+                        infoPublications.Add(partiPublication);
                     }
                 }
             }
 
-            return results; //Retourne une liste de parti et pour chacun, une liste de média ou l'on décrit le nombre d'occurence d'un mot.
+            return infoPublications; //Retourne une liste de parti et pour chacun, une liste de média ou l'on décrit le nombre d'occurence d'un mot.
         }
 
-
-        public async Task<Dictionary<string,Dictionary<short, double>>> GetTfIdf(List<short> partiId, List<short> mediaId)
+        public async Task<List<InfoPublication>> GetInfoPublicationsDeux(string motUn, string motDeux) //Méthode qui recherche l'occurence de deux mots dans la même publication.
         {
-            var dictionnairesParti = new List<Tuple<short, Dictionary<string, int>>>();
-            var dictionnaire = new Dictionary<string,int>();
-            foreach(var parti in partiId)
-            {          
-                var texts = await GetTextes(parti, mediaId);
-                dictionnaire = await GetDictionnaire(texts);
-                var motsTotal = 0;
-                foreach(var mot in dictionnaire)
-                {
-                    motsTotal = motsTotal + mot.Value;
-                }
-                dictionnaire.Add("MotsTotal", motsTotal);
-                var dicparti = new Tuple<short, Dictionary<string, int>>(parti, dictionnaire);
-                dictionnairesParti.Add(dicparti);
-            }
-
-            var result = CalculDictionnaire(dictionnairesParti, partiId);
-
-            return result;
-
-        }
-
-        private async Task<List<string>> GetTextes(short partiId, List<short> mediaId)
-        {
-            var texts = await _store.GetPublicationTexte(partiId, mediaId);
-            return texts;
-        }
-
-        private async Task<Dictionary<string,int>> GetDictionnaire(List<string> texts)
-        {
-            var dictionnaire = new Dictionary<string, int>();
-            foreach (var text in texts)
+            var infoPublications = new List<InfoPublication>();
+            var partis = await _store.GetPartis();
+            var partiIds = partis.Select(x => x.PartiId);
+            foreach (var id in partiIds) //Pour chaque parti.
             {
-                var newtext = text.Trim().ToLower();
-                var mots = newtext.Split(new char[] { ' ', '\n', '.' });
-                foreach (var mot in mots)
+                var medias = await _store.GetMedias();
+                var mediaIds = medias.Select(medias => medias.MediaId);
+                foreach (var mediaId in mediaIds) //Pour chaque médias.
                 {
-                    int value;
-                    if (!dictionnaire.TryGetValue(mot, out value))
-                        dictionnaire.Add(mot, 1);
-                    else
-                        dictionnaire[mot] = value + 1;
+                    var partiPublication = await _store.GetInfoPublicationsDeux(id, mediaId, motUn, motDeux);                  
+                    if (partiPublication.NombreTotal != 0) //Si le média ne contient aucune fois le mot on laisse faire.
+                    {
+                        infoPublications.Add(partiPublication);
+                    }
                 }
             }
-            return dictionnaire;
+
+            return infoPublications; //Retourne une liste de parti et pour chacun, une liste de média ou l'on décrit le nombre d'occurence d'un mot.
         }
 
-        private decimal GetPourcentage(int a, int b) //Méthode simple pour le calcul d'un pourcentage de deux variables qui forment un tout.
+        static private double GetPourcentage(int a, int b) //Méthode simple pour le calcul d'un pourcentage de deux variables qui forment un tout.
         {
-         
-            if(a + b == 0)
+
+            if (a + b == 0)
             {
                 return 0;
             }
-            decimal pourcentage = ((decimal)a/(a+b)*100);
+            var pourcentage = ((double)a / (a + b) * 100);
             return pourcentage;
         }
 
-        private Dictionary<string, Dictionary<short, double>> CalculDictionnaire(List<Tuple<short, Dictionary<string, int>>> dictionnaires, List<short> partiId)
+        public async Task<String> GetValeurTfIdf()
         {
-            var resultat = new Dictionary<string,Dictionary<short, double>>();
-            var motsTotal = new Dictionary<short, double>();
-            motsTotal.Add(0, 0);
-            resultat.Add("MotsTotal", motsTotal);
-            foreach(var dictionnaire in dictionnaires)
+            var TfIdfs = await _store.GetTfidfs();
+            var partis = await _store.GetPartis();
+            var medias = new List<short>(){ 1, 2, 4};
+            var resultat = "";
+            foreach(var parti in partis)
             {
-                foreach(KeyValuePair<string, int> mot in dictionnaire.Item2)
+                var resultatTemp = "";
+                var TfidfsParti = TfIdfs.Where(x => x .PartiId== parti.PartiId).ToList();
+                foreach(var media in medias)
                 {
-                    if(!resultat.ContainsKey(mot.Key))
+                    var tfidfMediaParti = TfidfsParti.Where(y => y.MediaId == media);
+                    var total = 0.0;
+                    foreach (var tfidf in tfidfMediaParti)
                     {
-                        var valeurs = GetValeursDictionnaires(mot.Key,partiId, dictionnaires);
-                        resultat.Add(mot.Key, valeurs);
-                        
+                        total += tfidf.Valeur.Value;
                     }
+                    resultatTemp += "MediaId = " + media + " Nombre de mots = " + tfidfMediaParti.Count() + " Valeur totale = " + total + "   Moyenne --> " + (total/tfidfMediaParti.Count()) + "\n";
                 }
+                resultat+= "Parti : " + parti.Nom + "\n" + resultatTemp + "\n";
             }
             return resultat;
         }
 
-        private Dictionary<short,double> GetValeursDictionnaires(string mot, List<short> partiId, List<Tuple<short, Dictionary<string, int>>> dictionnaires)
-        {
-            var valeurDictionnaires = new Dictionary<short, double>();
-            var results = new Dictionary<short, double>();
-            for(int i = 0; i < dictionnaires.Count; i++)
-            {
-                if (dictionnaires[i].Item2.ContainsKey(mot))
-                {
-                    //C'est ici qu'on calcul directement le TF et on l'envoi à la méthode suivante pour le Tf-Idf
-                    var test1 = (double)(dictionnaires[i].Item2[mot]);
-                    var test2 = (double)(dictionnaires[i].Item2["MotsTotal"]);
-                    var tf = (test1 / test2);
-                    valeurDictionnaires.Add(dictionnaires[i].Item1, tf);
-                }
-                else
-                {
-                    //Si le mot ne se retrouve pas dans le dictionnaire on lui donne la valeur de 0
-                    valeurDictionnaires.Add(dictionnaires[i].Item1, 0);
-                }
-            }
-            results = CalculTfIdf(valeurDictionnaires);
-            return results;
-        }
-
-       /* private Dictionary<short, double> CalculTF(Dictionary<short, int> valeurDictionnaire)
-        {
-            Dictionary<short, double> resultat = new Dictionary<short, double>();
-            foreach (KeyValuePair<short, int> parti in valeurDictionnaire)
-            {
-                if (parti.Value > 0)
-                {
-                    compteurDocuments++;
-                }
-            }
-
-        }*/
-
-        private Dictionary<short, double> CalculTfIdf(Dictionary<short, double> valeurDictionnaire)
-        {
-            Dictionary<short, double> resultat = new Dictionary<short, double>();
-            int compteurDocuments = 0;
-            foreach(KeyValuePair<short, double> parti in valeurDictionnaire)
-            {
-                if (parti.Value > 0)
-                {
-                    compteurDocuments++;
-                }
-            }
-            var IDF = Math.Log((double)(valeurDictionnaire.Count)/((double)compteurDocuments));
-
-            foreach (KeyValuePair<short, double> parti in valeurDictionnaire)
-            {
-                var calcul = (double)IDF * parti.Value;
-                resultat.Add(parti.Key, calcul);
-            }
-            return resultat;
-
-        }
     }
 }

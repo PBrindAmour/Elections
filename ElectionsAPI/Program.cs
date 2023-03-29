@@ -22,8 +22,10 @@ builder.Services.AddScoped<IPublicationMediaStore, PublicationMediaStore>();
 builder.Services.AddScoped<IPublicationMediaEngine, PublicationMediaEngine>();
 builder.Services.AddScoped<IRechercheStore, RechercheStore>();
 builder.Services.AddScoped<IRechercheEngine, RechercheEngine>();
-builder.Services.AddScoped<ITfIdfEngine, TfIdfEngine>();
-builder.Services.AddScoped<ITfIdfStore, TfIdfStore>();
+builder.Services.AddScoped<IOutilsAnalyseEngine, OutilsAnalyseEngine>();
+builder.Services.AddScoped<IOutilsAnalyseStore, OutilsAnalyseStore>();
+builder.Services.AddScoped<INettoyeurTexteEngine, NettoyeurTexteEngine>();
+builder.Services.AddScoped<INettoyeurTexteStore, NettoyeurTexteStore>();
 builder.Services.AddScoped<IMediaClient, TwitterClient>(); //Seulement Twitter pour l'instant
 
 var connectionString = config.GetSection("ConnectionStrings:ElectionsDB").Value; 

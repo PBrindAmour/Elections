@@ -1,5 +1,6 @@
 ﻿namespace ElectionsAPI.Controllers.Models
 {
+    //Le modèle candidat permet de retrouver les informations sur un candidat
     public class Candidats
     {
         public short PersonneId { get; set; }

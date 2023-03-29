@@ -9011,3 +9011,3854 @@ vous savez à trois reprises j''ai fait un appel au calme je pense que tous les 
 population québécoise on a la chance de vivre dans une démocratie extraordinaire au québec la démocratie parlementaire la plus vieille du continent aujourd''hui d''ailleurs c''est la journée internationale de la démocratie et c’est une des valeurs cher moi c’est une des choses dont je suis plus fier au québec c''est notre esprit démocratique et je pense qu''il faut expliquer aux gens encore une fois que c''est par des débats comme ce soir c''est par des élections comme c''est comme les élections du 3 octobre qu’on change la société c''est pas en menaçant les gens avec des actes de violence
 bien d''abord je vais vous remercie monsieur bruneau parce que vous êtes sorti de votre retraite pour animé le débat ce soir je pense que tous les québécois apprécient je voulais commencer en soulignant puis je veux aussi parler aux québécois pour dire que ce soir vous avez assisté à un débat qui pourrait mener à une élection historique le 3 octobre prochain il est possible qu''un vieux clivages disparaissent et qu''un nouveau clivages apparaissent vous avez vu ce soir qu''il y a des différences il y a un parti qui est très différent c''est le parti conservateur du québec on est les seuls qui se sont tenus debout contre monsieur legault au cours des dernières années on est les seuls qui propose d''additionner la contribution du secteur privé en matière de santé pour rendre le système  plus efficace on est les seuls qui souhaitons explorer notre gaz par exemple pour financer notre transition énergétique les seuls qui veulent donner davantage de liberté de choix aux parents pour l''éducation et la garde de leurs enfants et finalement les seuls qui propose des baisses d''impôts et de taxes sans piger dans les poches de la prochaine génération et pour ça ce soir je vous invite le si vous aussi vous êtes des québécois qui souhaitait être libre chez nous mais je vous invite à appuyer le parti conservateur du québec merci 
 ','9/15/2022 20:00:00 PM','https://www.youtube.com/watch?v=f0oeYAO2bw8')
+
+
+/* SUITE */
+
+
+
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'François Legault fait part de ses priorités pour Montréal', 'François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a rencontré aujourd’hui la mairesse de Montréal, Valérie Plante, pour discuter de sa vision de la métropole. Il a notamment été question des enjeux de sécurité publique, du financement des villes et de transport collectif. Parmi les priorités de François Legault pour Montréal, on retrouve également l’économie, la culture, le logement ainsi que les infrastructures publiques comme les écoles et les hôpitaux.
+
+En mêlée de presse, en compagnie de Chantal Rouleau, candidate dans Pointe-aux-Trembles, ministre déléguée aux Transports et ministre responsable de la région de Montréal et de la Métropole, il a également confirmé son intention de réaliser la Porte de l’Est; trois projets d’infrastructures qui changeront complètement le visage de l’Est de Montréal et qui viendront faciliter les déplacements à Anjou. Ces derniers s’ajoutent aux travaux déjà entamés dans un premier mandat afin de desservir l’est de Montréal en transport en commun grâce au REM de l’Est.
+
+Si la CAQ est réélue, ces trois projets viendront transformer le secteur autour de la future station de métro à Anjou, qui sera aussi le terminus de la ligne bleue. La Porte de l’Est offrira aux citoyens un accès sécuritaire, agréable et fluide à ce qui deviendra le plus important pôle de transport collectif et commercial de l’Est de Montréal. De plus, les quartiers résidentiels seront reconnectés et verdis afin d’améliorer la qualité de vie des résidents et d’éliminer la fracture urbaine causée par l’A-25. 
+
+Les trois projets de la Porte de l’Est sont les suivants :
+
+Réaménager les voies de desserte de l’A-25 et de l’A-40 en boulevard urbain sous l’échangeur Anjou afin d’assurer la sécurité de tous les usagers. 
+Construire un pont d’étagement enjambant l’A-25 destiné aux autobus, aux voitures, aux cyclistes et aux piétons pour relier les boulevards Bélanger et Châteauneuf.
+Construire un lien aménagé en parc au-dessus de l’A-25 à la hauteur du boulevard Yves-Prévost afin de reconnecter deux quartiers résidentiels. 
+Le début des travaux est prévu d’ici 2026. 
+
+CITATION 
+
+« On a beaucoup fait pour Montréal depuis quatre ans. On s’engage, si la CAQ est réélue, à réaliser une nouvelle Porte de l’Est à Anjou. C’est un projet d’envergure qui va complètement améliorer la mobilité à Anjou et qui va être excellent pour l’Est de Montréal. On va continuer de travailler à développer notre Métropole. Le succès du Québec passe par le succès de Montréal. »
+
+– François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec', '9/13/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/13/francois-legault-fait-part-de-ses-priorites-pour-montreal/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Des engagements importants pour appuyer la croissance économique des municipalités', 'Lors du Sommet électoral de l’Union des municipalités du Québec, François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a pris des engagements importants pour appuyer la croissance économique des municipalités. Il a notamment annoncé son intention de pérenniser le transfert de la croissance d’un point de la TVQ aux municipalités si son gouvernement est réélu. Voici sa déclaration intégrale (la version prononcée fait foi) :
+
+« Bonjour tout le monde,
+
+Je suis content d’être ici aujourd’hui. Comme vous le savez, j’adore le Québec. Notre territoire est immense et magnifique. Plus je fais le tour et plus je l’aime. Le Québec est à l’image des Québécois : sympathique, dynamique et accueillant.
+
+La vitalité du Québec repose beaucoup sur les municipalités de toutes les tailles. Je pense que la CAQ a fait beaucoup pour les villes du Québec depuis quatre ans. Dans le dernier pacte fiscal entre notre gouvernement et l’UMQ, on a transféré l’équivalent de la croissance d’un point de la TVQaux municipalités. On a créé un Fonds régions et ruralité avec une enveloppe de 1,3 milliard de dollars sur cinq ans. On a bonifié le Programme de partage des revenus des redevances sur les ressources naturelles.
+
+Les municipalités vont bénéficier jusqu’en 2024 d’un financement de plus de 7 milliards de dollars. On a donc plus que doublé ce que les libéraux avaient donné aux municipalités. Ces montants sont historiques. À la CAQ, on voit le milieu municipal comme un partenaire avec qui on veut continuer de travailler.
+
+Je profite de ma présence ici pour annoncer que si la population nous réélit, on prend l’engagement d’inscrire dans une loi le partage de la croissance d’un point de TVQ avec les municipalités. Et on a de grandes ambitions pour la croissance de notre économie, ce qui devrait se refléter sur la TVQ. Donc, la CAQ répond à une des demandes de l’UMQ de pouvoir prévoir le financement des prochaines années.
+
+Depuis quatre ans, on a fait beaucoup de choses ensemble. On a déposé la première Politique nationale d’architecture et d’aménagement en 40 ans. L’architecture, l’aménagement, la beauté, c’est important dans nos vies. Je veux vous remercier pour votre collaboration dans ce dossier.
+
+On a aussi, comme on l’avait promis, mis en place un droit de préemption pour les municipalités. C’est important qu’elles aient un plus grand pouvoir sur le développement de leur territoire. Je répète aussi que si la CAQ est réélue, on va modifier la loi sur l’expropriation. On ne veut voler personne. On va payer la valeur marchande. Mais c’est important que des terrains stratégiques puissent être utilisés.
+
+Sur la question du logement, on s’était engagé à créer 15 000 nouveaux logements. Dans les quatre dernières années, notre gouvernement a investi 2,6 milliards de dollars et les 15 000 unités sont en voie d’être livrées. On a déjà annoncé que si on est réélu, on va ajouter 1,8 milliard de dollars pour 11 700 nouveaux logements sociaux et abordables de plus. Selon les spécialistes du ministère des Affaires municipales et de l’Habitation et du ministère des Finances, ça devrait combler 100 % du besoin.
+
+On a eu des inondations majeures en 2019. On investit 479 millions de dollars pour cartographier le territoire, identifier les risques, financer les mesures de prévention des sinistres et mieux encadrer ce qui peut être fait en zones inondables. Ces montants vont assurer la sécurité des citoyens et la protection des biens partout au Québec.
+
+Ce plan a été préparé avec le milieu scientifique, mais aussi avec le milieu municipal qui connaît très bien la réalité de leurs milieux de vie.
+
+Nos municipalités vont devoir faire face aux conséquences de plus en plus grandes des changements climatiques. Des phénomènes météo extrêmes vont se répéter de plus en plus souvent. C’est pourquoi on a récemment lancé le programme Oasis. Il vise à aider financièrement les municipalités à faire face à ces changements climatiques. Si c’est nécessaire d’ajouter des montants, on va le faire.
+
+On a un plan de lutte contre les changements climatiques de 7 milliards de dollars. Ces montants vont être utilisés pour les meilleurs projets. Que ce soient des projets du gouvernement, des projets des entreprises ou des projets des municipalités, l’important, c’est de faire le plus de chemin possible avec ce 7 milliards pour réduire nos GES.
+
+On a annoncé que les cotisations au RRQ vont devenir facultatives pour inciter le retour au travail de jeunes retraités. C’est une de vos demandes.
+
+Je sais que plusieurs municipalités ont des défis importants concernant l’eau potable. Il faudra regarder ça au cas par cas. C’est normal que les municipalités qui construisent de nouvelles résidences payent pour l’eau potable. Mais d’autres ont un problème existant et n’ont pas toujours l’assiette fiscale nécessaire pour faire face à ces investissements importants. Il faut cependant être équitable avec les municipalités qui ont déjà payé pour ces travaux. C’est un grand chantier que je m’engage à ouvrir si on est réélu.
+
+C’est un peu la même approche que je veux prendre pour les terrains des nouvelles écoles : du cas par cas.
+
+Je sais que vous avez des demandes concernant les infrastructures sportives… La campagne électorale n’est pas finie. Je sais aussi que vous avez des demandes concernant l’accès à la nature. Là aussi, la campagne n’est pas finie.
+
+En terminant, je voudrais encore vous remercier pour votre travail pendant la pandémie. Votre collaboration a été admirable. On a investi 800 millions de dollars pour aider les municipalités et 1,8 milliard pour soutenir les transports publics.
+
+Une de mes grandes fiertés, c’est qu’on ait utilisé Accès Entreprise Québec dans chaque MRC pour identifier les PME qui devaient être aidées, ça nous a permis d’avoir la meilleure reprise économique au Canada. C’est un bon exemple que l’efficacité passe par la décentralisation.
+
+On est un gouvernement qui reconnaît le rôle des villes comme gouvernement de proximité. On souhaite que les villes aient une plus grande autonomie. C’est comme ça qu’on va mieux servir la population.
+
+Continuons!
+
+Merci, »
+
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec', '9/16/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/16/des-engagements-importants-pour-appuyer-la-croissance-economique-des-municipalites/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Plus d’accès à la nature pour les Québécois', 'Créer trois nouveaux parcs nationaux et agrandir cinq parcs existants.
+Bonifier le Sentier national du Québec.
+Soutenir les villes et les municipalités pour créer et mettre en valeur espaces verts et améliorer l’accès aux plans d’eau.
+Créer de nouvelles aires protégées et les rendre accessibles au public de façon durable.
+En compagnie de Maïté Blanchette Vézina, candidate dans Rimouski, et d’Isabelle Charest, candidate dans Brome-Missisquoi et ministre déléguée à l’Éducation, François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a annoncé que si les Québécois lui renouvellent leur confiance, un prochain gouvernement de la CAQ investira 538 millions de dollars afin d’améliorer l’accès à la nature pour les Québécois dans toutes les régions.
+
+Le chef de la CAQ a profité de sa présence au Parc national du Bic pour réitérer son admiration de la beauté des paysages québécois et son amour des régions du Québec. Il a, du même souffle, partagé son désir d’inciter les Québécois et les touristes à les visiter davantage. Pour y arriver, son gouvernement mettra quatre mesures de l’avant.
+
+Premièrement, pour ajouter au grand réseau de parcs nationaux et de réserves fauniques qui mettent en valeur les plus beaux coins du territoire, trois nouveaux parcs nationaux seront créés : Côte-de-Charlevoix, Dunes-de-Tadoussac et Nibiischii. De plus, cinq parcs nationaux existants seront agrandis : Mont-Orford, Plaisance, Îles-de-Boucherville, Mont-Saint-Bruno et Bic.
+
+Le Sentier national québécois, qui s’étend de Gatineau à Gaspé, sera aussi bonifié. Le développement et l’entretien de ce sentier permettra à un plus grand nombre de Québécois de profiter de plus de 1 650 kilomètres de sentiers en milieux naturels dédiés à la randonnée pédestre, à la raquette et au ski nordique.
+
+François Legault veut également faciliter l’accès durable aux espaces verts dans les villes et dans les municipalités. Pour ce faire, il propose de collaborer avec ces dernières pour en créer davantage et pour améliorer l’accès des citoyens aux différents cours d’eau.
+
+Finalement, un prochain gouvernement de la CAQ favorisera la protection des milieux naturels en bonifiant notre réseau d’aires protégées et en rendant ces territoires plus accessibles aux amateurs de nature.
+
+CITATION 
+
+« J’aime le Québec et j’aime notre territoire. Je suis tellement fier de la beauté de nos lacs, de nos forêts et de nos parcs. Ces paysages appartiennent à tous les Québécois. Et on veut que tous les Québécois puissent y avoir accès. On veut protéger la beauté du Québec pour que nos enfants et nos petits-enfants puissent en profiter. »
+
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec', '9/17/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/17/plus-dacces-a-la-nature-pour-les-quebecois/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Un important investissement pour les services de proximité dans nos villages', 'Investissement de 470 millions de dollars pour aider les villages du Québec à assurer les services de proximité.
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a profité de son passage dans Lotbinière pour annoncer, aux côtés d’Isabelle Lecours, candidate dans Lotbinière-Frontenac et de Caroline Proulx, candidate dans Berthier et ministre du Tourisme, son intention d’investir 470 millions de dollars en vue d’aider les villages du Québec à assurer les services de proximité à leurs citoyens.
+
+L’achat dans les cœurs de villages du Québec est en déclin depuis plusieurs années, au profit des géants du web et des grandes surfaces. Un prochain gouvernement de la CAQ consacrera donc 470 millions afin de soutenir et de relancer l’économie locale dans nos villages et ainsi, d’assurer des services de proximité.
+
+CITATION 
+
+« Le Québec, c’est grand. Et on veut que nos régions soient habitées. On veut protéger l’histoire de nos villages. On veut protéger ce sentiment d’appartenance à sa communauté. Depuis quatre ans, on a prouvé que la CAQ, c’est le parti des régions. On le prouve encore aujourd’hui avec cette annonce. Continuons! »
+
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec', '9/18/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/18/un-important-investissement-pour-les-services-de-proximite-dans-nos-villages/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Donner une seconde vie aux églises québécoises', 'EN BREF :
+
+Investir 40 millions de dollars supplémentaires au cours du mandat pour mettre en valeur, restaurer et requalifier les bâtiments patrimoniaux religieux.
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a annoncé son intention, si son parti est reporté au pouvoir, d’accroître les sommes servant à donner une seconde vie aux églises du Québec pour freiner la destruction de ces bâtiments importants de notre patrimoine collectif.
+
+Dans son précédent mandat, le gouvernement de la CAQ a honoré sa promesse de bonifier le financement de la restauration des églises. Accompagné de Vincent Caron, candidat dans Portneuf, et de Sonia LeBel, candidate dans Champlain et présidente du Conseil du trésor, le chef de la CAQ a proposé d’augmenter de 10 millions de dollars par année au cours d’un prochain mandat le budget de deux programmes servant à la sauvegarde de bâtiments patrimoniaux religieux.
+
+Ceux-ci servent à protéger et à valoriser le patrimoine culturel en soutenant la restauration d’églises ou en les requalifiant pour de nouveaux usages répondant aux besoins des communautés. La bonification de ces deux programmes permettra de préserver l’héritage patrimonial que constituent ces églises et de les maintenir en bon état.
+
+CITATION 
+
+« Nos églises font partie du paysage québécois. Elles sont une partie importante de notre patrimoine bâti. Encore aujourd’hui, on retrouve des églises au cœur de nos villes et de nos villages. Même si le Québec est laïque, nos églises font partie de notre histoire. C’est un héritage précieux. Ça fait partie de la beauté du Québec. Et on a le devoir de protéger ce patrimoine-là. »
+
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec', '9/15/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/18/donner-une-seconde-vie-aux-eglises-quebecoises/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'20 nouvelles chaires de recherche pour étudier le Québec', 'Créer 20 nouvelles chaires de recherche pour étudier le Québec.
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a annoncé que si les Québécois reportent sa formation politique au pouvoir, son gouvernement créera 20 nouvelles chaires de recherches en études québécoises.
+
+Accompagné de Shirley Dorismond, candidate dans Marie-Victorin, et de Simon Jolin-Barrette, candidat dans Borduas et ministre de la Justice et de la Langue française, le chef de la CAQ a exprimé son intention de mettre fin au déclin des études sur le Québec observé depuis les années 1990.
+
+François Legault considère que ces 20 nouvelles chaires viendront soutenir la recherche sur la réalité et les ambitions québécoises, que ce soit en matière de langue, de culture, d’histoire, de géographie, de politique, de développement économique ou social. Ceci permettra de mieux connaître, de promouvoir et de défendre les particularités de l’approche québécoise.
+
+Chaque chaire obtiendra un maximum de 1,5 million de dollars sur 3 ans, avec une possibilité de renouvellement. L’attribution du financement se fera par appels de projets qui seront évalués par un comité indépendant.
+
+CITATION 
+
+« Il est grand temps d’encourager nos plus grands esprits à nous aider à mieux nous comprendre, pour qu’on puisse continuer d’avancer en tant que nation. Notre trajectoire, notre histoire, notre culture, notre territoire et notre langue sont uniques au monde. Il faut les étudier, les comprendre. »
+
+–François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec', '9/19/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/19/20-nouvelles-chaires-de-recherche-pour-etudier-le-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Création de Clic École pour simplifier la vie des parents', 'Création du nouvel outil Clic École.
+Une interface simple et facile avec toutes les informations qui concernent la vie scolaire de votre enfant.
+Orford, 20 septembre 2022 – Le chef de la Coalition Avenir Québec et premier ministre du Québec, François Legault, a profité de son passage à Orford pour annoncer la création de Clic École, un nouvel outil pour simplifier la vie des parents, si son parti est reconduit au pouvoir.
+
+En compagnie de Gilles Bélanger, candidat dans Orford, et d’Isabelle Charest, candidate dans Brome-Missisquoi et ministre déléguée à l’Éducation, François Legault a soulevé le défi qu’entraîne la multiplication des outils technologiques en éducation, notamment depuis le début de la pandémie. Ces nombreux outils et logiciels viennent parfois semer la confusion auprès des parents et des élèves en raison de leur trop grand volume et de leurs fonctionnalités diverses. Afin de répondre à cette préoccupation, François Legault propose, dans un second mandat, la création d’une nouvelle interface numérique pour nos écoles : Clic École. Cet outil sera accessible facilement et adapté à la navigation mobile.
+
+La Coalition Avenir Québec souhaite s’inspirer du modèle de Clic Santé afin de mettre en commun les services numériques en éducation et ainsi, simplifier la vie des parents, élèves et enseignants. Un gouvernement de la CAQ investira 4 millions de dollars pour créer ce portail qui servira aux établissements scolaires primaires et secondaires, publics et privés. À un seul endroit, peu importe l’école, il sera notamment possible de déclarer les absences et les retards de ses enfants, de consulter le calendrier scolaire, d’accéder aux documents officiels tels que les bulletins et de communiquer avec l’école.
+
+Ce nouvel engagement s’ajoute aux nombreuses solutions proposées par la Coalition Avenir Québec afin de renforcer le système d’éducation dans un prochain mandat. Depuis le début de la campagne, la Coalition Avenir Québec est le parti qui a pris le plus d’engagements en Éducation. Le chef de la CAQ a tenu à rappeler ces annonces porteuses.
+
+Pour stimuler la réussite et pour lutter contre le décrochage scolaire :
+
+Créer une plateforme virtuelle pour les élèves en difficulté. Celle-ci permettra d’optimiser le travail des professionnels du réseau scolaire tout en offrant plus de services aux élèves. En outre, le programme de tutorat sera rendu permanent.
+Favoriser le goût de la lecture chez les jeunes en offrant 300 $ annuellement à chaque enseignant du préscolaire et du primaire pour l’achat de livres et en lançant une vaste campagne de promotion de la lecture.
+Mettre l’accent sur l’enseignement du français aux jeunes en entreprenant une révision de l’ensemble des programmes d’enseignement du français.
+Rendre disponible aux écoles primaires qui le désirent, le programme L’Agroalimentaire s’invite à l’école de l’organisme AgrÉcole pour initier les élèves à l’agriculture.
+Pour les infrastructures scolaires :
+
+Ajouter 2 milliards de dollars aux investissements prévus pour la rénovation des écoles, atteignant ainsi un total de 9 milliards, afin de rendre ces milieux de vie attrayants et stimulants, en plus de continuer le déploiement des nouvelles belles écoles.
+Pour la pénurie de main-d’œuvre :
+
+Moderniser et valoriser la formation professionnelle en investissant 348 M$ au cours du prochain mandat afin de former 30 000 diplômés supplémentaires en formation professionnelle dans les secteurs névralgiques de l’économie.
+Le chef de la CAQ a également tenu à rappeler ce que son gouvernement a fait dans le précédent mandat pour contrer la pénurie de main-d’œuvre en éducation :
+
+Concrétiser des hausses salariales historiques pour le personnel enseignant.
+Ajouter 2 000 ressources de plus en soutien à la réussite.
+Augmenter de 9 % le nombre d’étudiants inscrits dans les facultés d’éducation.
+Attirer plus de 700 retraités grâce à un incitatif financier, pour qu’ils reprennent du service et prêtent main-forte.
+Embaucher près de 600 candidats grâce à la campagne de recrutement « Répondez présent » de juin dernier. 
+Ajouter trois nouveaux programmes de maîtrise qualifiante avec un potentiel de plus de 800 enseignants supplémentaires par année.
+Créer des postes d’aide à la classe dans 100 écoles à travers le Québec.
+CITATION
+
+« Les parents ont un rôle important à jouer dans la réussite scolaire de leur enfant. Avec Clic École, on vient faciliter la vie des parents. Depuis quatre ans, on a montré que le gouvernement de la CAQ, c’est le gouvernement de l’éducation. Continuons! »
+
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec', '9/20/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/20/creation-de-clic-ecole-pour-simplifier-la-vie-des-parents/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Rénover et construire des infrastructures sportives pour faire bouger les Québécois', 'Rénover et construire des infrastructures sportives pour faire bouger les Québécois', '9/20/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/20/renover-et-construire-des-infrastructures-sportives-pour-faire-bouger-les-quebecois/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Des gestes importants pour créer de la richesse dans les régions du Québec', 'À l’occasion du Congrès annuel de la Fédération québécoise des municipalités, François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a réitéré l’importance et l’expertise des municipalités dans le développement économique régional et a rappelé les engagements qu’il a pris pour les soutenir.
+
+Il a profité de l’occasion pour annoncer son intention d’investir 120 millions de dollars afin d’appuyer l’industrie forestière et d’assurer la pérennité de nos forêts au cours du prochain mandat, si son gouvernement est réélu. De plus, il s’est engagé à renouveler le Fonds régions et ruralité dans le prochain pacte fiscal. Voici la version intégrale de son discours (la version prononcée fait foi) :
+
+« Bonjour tout le monde,
+
+Je suis content d’être ici aujourd’hui. Content aussi d’avoir travaillé avec vous depuis quatre ans. Dans le quotidien, c’est vous qui connaissez les besoins de vos citoyens.
+
+Depuis quatre ans, je pense qu’on a montré qu’on est capables de travailler ensemble, qu’on vous fait confiance. Depuis quatre ans, dans le pacte fiscal, on a donné plus de moyens que jamais aux municipalités.
+
+On a transféré la croissance d’un point de TVQ. On a mis en place le Fonds régions et ruralité, qui permet aux municipalités de prévoir leurs investissements dans des projets régionaux à long terme. Et aujourd’hui, je prends l’engagement de renouveler le Fonds régions et ruralité dans le prochain pacte fiscal.
+
+On a aussi bonifié le programme de financement de la voirie locale, qui est passé de 224 millions de dollars à 350 millions par année. Dans le dernier mandat, on a investi 1,6 milliard de dollars dans la voirie locale, plus du double du gouvernement précédent. On a commencé le transfert de 5 000 emplois dans les régions, comme vous l’aviez demandé. On a déposé aussi notre Politique nationale d’architecture et d’aménagement.
+
+On a travaillé ça avec vous. On tient de plus en plus compte des particularités de chaque région, avec moins de mur-à-mur. La décentralisation, on y croit.
+
+D’ailleurs, une de mes grandes fiertés, c’est d’avoir eu en 2021 la meilleure reprise économique au Canada. Pourquoi? Parce qu’on vous a demandé de gérer l’aide aux PME dans chaque MRC, en mettant de l’argent dans Accès Entreprise Québec. C’est vous qui connaissez le mieux les PME sur votre territoire.
+
+Maintenant, le plus grand défi des prochaines années, c’est de faire face aux changements climatiques. On a un plan de lutte aux changements climatiques de 7 milliards de dollars. C’est important de comprendre que ces montants vont être utilisés pour les meilleurs projets. Que ce soit des projets du gouvernement, des projets des entreprises ou des projets des municipalités. L’important, c’est de faire le plus de chemin possible avec ce 7 milliards pour réduire nos GES.
+
+On pense qu’avec notre plan, on va réduire nos GES de 37,5 % d’ici 2030. On pense qu’avec l’électricité qu’on peut développer d’ici 2030, c’est le maximum qu’on peut atteindre. Mais il va falloir continuer à développer plus d’énergies renouvelables. On n’aura pas le choix, pour atteindre notre objectif de zéro GES en 2050.
+
+Les experts nous disent qu’on va avoir besoin de l’équivalent d’un demi-Hydro-Québec de plus pour électrifier notre économie. La décarbonation du Québec va aller aussi vite qu’on est capable de produire de l’électricité propre. On va s’y prendre de trois manières. Premièrement, il y a l’efficacité énergétique. Deuxièmement, il y a des projets d’énergie renouvelable comme l’éolien qu’on va continuer d’accélérer. Troisièmement, on va regarder pour bâtir de nouveaux barrages.
+
+Depuis quatre ans, on a lancé autant d’appels d’offres dans le secteur des énergies renouvelables que dans les vingt années précédentes. Et ça va continuer!
+
+On a annoncé aussi que, si la CAQ est réélue, on va investir 150 millions de dollars pour l’accès à la nature dans nos municipalités. On va donner les moyens aux municipalités pour transformer de grands terrains, comme des terrains de golf, en parcs. Pour créer des plages, pour faciliter l’accès aux berges. Et pour bâtir des infrastructures d’accueil comme des pavillons, des quais, des chalets, des vestiaires.
+
+L’autre dossier important quand on parle d’environnement, c’est l’eau. L’eau du Québec, c’est notre or bleu. Il faut en prendre soin. On a annoncé un Fonds bleu de 650 millions de dollars pour le prochain mandat : pour lutter contre les plantes envahissantes dans nos lacs et rivières; pour aider nos agriculteurs à agrandir les bandes riveraines qui protègent nos cours d’eau; pour nettoyer les berges de nos rivières; et aussi, pour accélérer la mise aux normes des fosses septiques des résidences isolées, une demande de longue date de la FQM.
+
+L’autre grand défi, c’est le logement. Pas facile de trouver des travailleurs de la construction. Mais l’argent est disponible. On a investi 2,6 milliards de dollars pour 15 000 logements abordables et sociaux qui sont en train d’être construits. Et si la CAQ est réélue, on s’engage à ajouter 1,8 milliard pour 11 700 logements abordables et sociaux de plus. Ça répond aux prévisions du ministère de l’Habitation et du ministère des Finances.
+
+On veut aussi donner plus de pouvoir aux municipalités pour l’aménagement de leur territoire, incluant les terrains pour les logements. On a modifié la loi pour vous donner un droit de préemption et on s’engage à modifier la loi sur l’expropriation.
+
+Un autre dossier qu’on a réglé et dont je suis très fier, c’est l’accès à internet haute vitesse dans toutes les régions du Québec. C’était une grosse demande de la FQM. Et il y avait beaucoup de sceptiques parce que les gouvernements précédents n’avaient pas livré la marchandise. Nous, on a livré! Et ce n’est pas fini.
+
+On a annoncé le Fonds ID Québec. ID, comme infrastructures et données. On va investir dans le cellulaire et dans la fibre optique, pour que toutes les régions aient accès à des infrastructures numériques à la fine pointe. C’est ça l’économie de demain.
+
+On a aussi annoncé que si on est élus, on va déployer un service de soins héliportés en région. Pour déplacer rapidement les patients qui en ont besoin vers les centres spécialisés.
+
+Il y a quelques jours, on a annoncé qu’on va investir 470 millions de dollars pour aider les petites municipalités à assurer les services de base aux citoyens, comme les épiceries. Et les modalités vont être établies avec la FQM.
+
+On a aussi annoncé qu’on va investir 120 millions de dollars pour maintenir nos églises en bon état.
+
+J’ai aussi annoncé il y a quelques jours, le plus grand chantier de l’histoire du Québec pour construire des infrastructures sportives et récréatives. On va investir 1,5 milliard de dollars. Les municipalités vont pouvoir nous proposer leurs projets. Et on va contribuer à la hauteur de 66 % pour les projets retenus. On va construire et rénover des arénas, des piscines, des terrains de soccer, des gymnases, des parcs de planche à roulettes et toutes sortes d’installations sportives et récréatives.
+
+L’autre secteur qui a beaucoup de potentiel pour réduire les GES, c’est le secteur forestier. Je vous annonce aujourd’hui que, si la CAQ est réélue, on va investir 120 millions de dollars dans le prochain mandat pour appuyer le secteur forestier. On va ajouter 60 millions pour doubler le financement du programme Innovation bois, pour des produits, des technologies et des procédés innovants dans l’industrie forestière. Et 60 millions de plus en sylviculture, pour planter des arbres.
+
+En terminant, je pense que les quatre dernières années ont démontré que la CAQ, c’est le parti des régions. Moi, j’ai le goût de continuer avec vous pour un autre quatre ans. Continuons!
+
+Merci, »', '9/23/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/23/des-gestes-importants-pour-creer-de-la-richesse-dans-les-regions-du-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Visite de François Legault aux Îles-de-la-Madeleine', 'François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, s’est rendu aujourd’hui aux Îles-de-la-Madeleine pour rencontrer les citoyens et constater les dégâts causés par la tempête post-tropicale Fiona. Accompagné de Jonathan Lapierre, candidat dans la circonscription Îles-de-la-Madeleine, il a pu s’entretenir avec plusieurs résidents dont les biens ont été endommagés par la tempête.
+
+Le passage de Fiona a notamment rappelé l’importance de l’adaptation aux changements climatiques, dont la lutte contre l’érosion des berges. Cela concerne particulièrement les Îles-de-la-Madeleine où les côtes reculent bon an mal an de plusieurs centimètres. La Gaspésie, le Bas-Saint-Laurent et la Côte-Nord sont également affectés de façon importante par ce phénomène.
+
+En point de presse, François Legault a annoncé qu’un prochain gouvernement de la CAQ aidera encore davantage les municipalités à lutter contre l’érosion des berges. 100 millions de dollars supplémentaires seront investis à cette fin au cours d’un prochain mandat. Un bureau de projet afin de faire face aux défis particuliers de l’érosion des berges sera également créé.
+
+Rappelons que près d’un milliard de dollars sont déjà réservés dans différents ministères pour l’adaptation aux changements climatiques, dont 70,1 M$ afin de cartographier les zones à risques d’érosion et d’implanter des solutions d’adaptation.
+
+CITATION 
+
+« On avait prévu, même avant la tempête, de faire une annonce qui est très importante pour les Îles. Si la CAQ est réélue, on va investir 100 M de plus pour lutter contre l’érosion des berges. Et si les municipalités ont besoin de plus d’argent, on est ouverts à bonifier encore le budget du programme. On va protéger tout le territoire côtier au Québec de l’érosion des berges. »', '9/15/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/26/visite-de-francois-legault-aux-iles-de-la-madeleine/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Mettre en valeur la pratique de la chasse et de la pêche au Québec', 'Réduire de 50 % le prix des permis de pêche sportive et de chasse au petit gibier pour les 65 ans et plus.
+Soutenir l’aménagement de sentiers pédestres pour un meilleur accès au territoire.
+Créer la Vitrine Chasse et Pêche Québec.
+François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a profité de sa présence en Gaspésie pour annoncer son intention de financer trois mesures visant à mettre en valeur la pratique de la chasse et de la pêche au Québec si son parti est réélu, un investissement total de 26,8 millions de dollars.
+
+Accompagné de Stéphane Sainte-Croix, candidat dans Gaspé, et de Catherine Blouin, candidate dans Bonaventure, le chef de la CAQ a rappelé l’importance d’appuyer la pratique de la chasse et de la pêche puisqu’elle permet de découvrir et de mieux connaître notre territoire. De plus, cette industrie génère près d’un milliard de dollars en retombées économiques chaque année.
+
+Afin d’inciter davantage d’aînés à aller chasser et pêcher et à profiter des magnifiques lacs et forêts du Québec, François Legault a pris l’engagement de réduire de 50 % le prix des permis de pêche sportive et de chasse au petit gibier pour les 65 ans et plus. Avec le coût de la vie qui augmente, le chef de la CAQ est convaincu que ce rabais sera bienvenu pour les aînés.
+
+Les sommes investies permettront aussi d’aménager des sentiers de chasse et de pêche partout sur le territoire québécois en créant un programme qui soutiendra les municipalités, les MRC et les ZEC. Ces circuits seront indiqués sur une carte interactive pour que les Québécois puissent les repérer facilement.
+
+Finalement, un gouvernement de la CAQ réélu créera la Vitrine Chasse et Pêche Québec. Inspiré de la vitrine touristique Bonjour Québec, ce nouveau site Internet viendra moderniser les outils de promotion et de réservation pour faciliter la vie des chasseurs et des pêcheurs.
+
+CITATION 
+
+« On pense que ces trois mesures vont permettre à plus de Québécois de profiter des plaisirs de la chasse et de la pêche. C’est beau le Québec. Je souhaite que plus de Québécois profitent de nos forêts et nos lacs. Continuons! »', '9/27/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/27/mettre-en-valeur-la-pratique-de-la-chasse-et-de-la-peche-au-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'François Legault livre sa vision économique pour le Québec', 'François Legault, chef de la Coalition Avenir Québec et premier ministre du Québec, a profité de son passage devant la Chambre de commerce du Montréal métropolitain pour réitérer les priorités économiques de son parti. Il a également souligné l’importance d’investir en éducation et dans les secteurs d’avenir afin de créer un Québec plus vert et plus prospère pour les prochaines générations. Voici la version intégrale de son discours (la version prononcée fait foi) :
+
+« Bonjour tout le monde,
+
+Je suis content d’être à la Chambre de commerce du Montréal métropolitain. Je suis un Montréalais. J’ai grandi ici, j’ai fait des affaires ici, j’ai élevé mes enfants ici et je paye mes taxes ici! J’aime Montréal.
+
+On ne le dit pas assez, mais Montréal est une ville extraordinaire. Ville des festivals, des arts, de la culture. La plus grande ville francophone d’Amérique. Et le moteur économique du Québec.
+
+
+J’ai de grands projets pour Montréal. En particulier pour l’est de Montréal. On a tous ces immenses terrains. On va les décontaminer. On va les développer. Ce sont des terrains sur l’île de Montréal. Quel potentiel extraordinaire! Et on a besoin d’un Montréal fort pour avoir un Québec fort.
+
+Depuis quatre ans, depuis 2018, on s’est donné un bel élan au Québec. Vous le savez, mon obsession, c’est d’éliminer notre écart de richesse avec l’Ontario. De 2008 à 2018, pendant 10 ans, l’écart de richesse Québec-Ontario est resté à 16 %. Depuis quatre ans, on a réussi à réduire cet écart à 13 %. C’est tout un virage! Un virage qui s’explique par une augmentation de notre productivité. Et je ne veux pas qu’on s’arrête là.
+
+Dans le dernier mandat, au cours des quatre dernières années, on a beaucoup investi dans les secteurs d’avenir. Je pense, entre autres, à la filière batterie. On a la chance d’avoir du lithium au Québec. C’est important qu’on exploite ces minéraux-là. Mais c’est important qu’on les transforme ici. C’est une opportunité exceptionnelle de créer des emplois mieux payés. C’est une opportunité pour attirer des grandes entreprises au Québec. On a déjà commencé avec GM et avec BASF.
+
+Il y a aussi l’aluminium vert et l’acier vert. Avec notre hydroélectricité, on est capable de produire des métaux moins polluants.
+
+On a aussi investi dans le secteur de l’aérospatiale. C’est une de nos grandes expertises. C’est une partie importante de nos exportations. Dans le dernier mandat, on a investi avec Pratt & Whitney, Bell Textron, CAE et dans le Airbus A220.
+
+Il y a aussi le secteur de l’intelligence artificielle. On a beaucoup de professeurs et de chercheurs dans ce secteur. On a investi dans les premières zones d’innovation à Bromont et à Sherbrooke, pour créer des pôles d’expertise en science quantique et en technologies intelligentes. Disons qu’on n’est pas exactement resté dans les années 90, contrairement à ce qu’on entend parfois.
+
+Depuis quatre ans, en plus de miser sur des secteurs d’avenir, on s’est donné des leviers pour aider nos entrepreneurs. On a réformé Investissement Québec. Le mandat chez Investissement Québec, c’est de faire exploser les investissements des entreprises.
+
+On a aussi réorienté nos délégations du Québec à l’étranger. Maintenant, leur mission première, c’est d’aider nos entreprises à exporter.
+
+Mais le grand enjeu des prochaines années, ce sont les changements climatiques. Il faut radicalement diminuer nos émissions de gaz à effet de serre. Mon objectif est que le Québec devienne le premier État carboneutre en Amérique du Nord, avant 2050.
+
+On a tous les outils pour y arriver. Ça passe par une électrification massive de notre économie. Il faut électrifier nos transports, nos industries, nos bâtiments, notre agriculture. Sauf que pour tout électrifier, ça va nous prendre du jus. En ce moment, Hydro-Québec produit environ 200 térawattheures par année. On estime que, pour atteindre notre objectif de zéro GES, on va avoir besoin de 100 térawattheures de plus. C’est l’équivalent d’ajouter une moitié d’Hydro-Québec. C’est énorme!
+
+Pour créer toute cette électricité, on a trois stratégies. Premièrement, on va miser sur l’efficacité énergétique. C’est la manière la plus rapide et la moins coûteuse de dégager de l’électricité. En plus, c’est bon pour les Québécois : ça fait baisser la facture. Et c’est bon pour nos entreprises, qui vont être plus productives. Deuxièmement, on va produire plus d’énergie éolienne. Le coût a baissé au cours des dernières années et on peut en construire rapidement. Troisièmement, on a besoin d’une électricité qui n’est pas intermittente. Une électricité qu’on peut avoir en réserve pour les périodes de pointe. On ne peut pas y arriver seulement avec de l’efficacité énergétique et avec de l’éolien. C’est pour ça qu’on a demandé à Hydro-Québec de regarder la possibilité de construire de nouveaux barrages. Évidemment, on va faire ça en partenariat avec les nations autochtones. Il ne faut pas oublier que notre contrat avec Churchill Falls se termine en 2041. Je ne veux pas qu’on se retrouve en position de faiblesse pour cette négociation. Et quand on pense que ça prend à peu près 15 ans à négocier et construire un nouveau barrage, il faut donc le faire maintenant.
+
+Notre plan vise à réduire nos GES de 37,5 % d’ici 2030. Avec cet objectif, on serait parmi les meilleurs en Amérique du Nord. Il ne faut pas oublier qu’on est déjà les premiers en Amérique du Nord, quand on regarde les GES par habitant. Sur 50 États américains et 10 provinces canadiennes, le Québec a le plus bas niveau de GES par habitant. On est premier sur 60 États et provinces.
+
+Quand j’entends certaines personnes, on dirait qu’on est 60e sur 60. Et il y en a qui proposent d’aller plus loin que 37,5 % d’ici 2030. Il y en a qui parlent de 45 %. Il y en a même un qui parle de 55 %… Ils ont juste oublié de nous dire où ils vont prendre l’électricité.
+
+Donc, la transition énergétique est une opportunité exceptionnelle pour le Québec. On a tous les atouts pour que le Québec devienne un leader mondial de l’économie verte.
+
+Un autre grand chantier pour l’avenir du Québec, c’est l’économie numérique. On a livré la marchandise pendant le mandat en branchant tous les Québécois à Internet haute vitesse. Durant la campagne, on a annoncé que, si la CAQ est réélue, on va créer le Fonds ID Québec. ID, pour infrastructures et données. Un fonds de 3 milliards. Et on prévoit que ça va amener des investissements privés de 4,8 milliards. Donc, on vise des investissements de 7,8 milliards dans les infrastructures numériques du Québec.
+
+Concrètement, ID Québec va permettre de faire trois choses. Premièrement, on va compléter le réseau cellulaire d’ici 2026. Pour les Québécois qui vivent en région, et pour nos PME, c’est incontournable. Deuxièmement, on va faire passer la majorité du réseau cellulaire à la 5G et au-delà d’ici 2030. Ça va nous permettre d’être compétitifs et ça va permettre d’attirer des investissements étrangers privés au Québec. Troisièmement, on va donner accès à un réseau de fibre optique partout au Québec. Grâce à ça, toutes les régions et toutes les entreprises vont avoir accès aux technologies de pointe. C’est important. Parce qu’avec l’automatisation et l’intelligence artificielle, nos entreprises vont avoir besoin de plus de capacité pour traiter des données. Le Canada a pris un certain retard sur l’Europe dans le numérique. Avec ID Québec, on va être en avant de la parade!
+
+L’autre élément important dans notre vision pour l’économie du Québec, c’est l’achat québécois. On a d’abord revu nos politiques pour que l’État s’approvisionne autant que possible auprès d’entreprises québécoises. On a aussi dévoilé une nouvelle étiquette pour identifier facilement les produits du Québec. Et s’il y a eu une bonne nouvelle pendant la pandémie, c’est que beaucoup de Québécois ont pris l’habitude, par solidarité, d’acheter québécois. C’est bon pour l’économie et c’est bon pour la fierté!
+
+Maintenant, je veux vous dire quelques mots sur la pénurie de main-d’œuvre. Je sais que c’est un enjeu important pour beaucoup d’entreprises.  C’est un problème dans toutes les sociétés industrialisées.
+
+On va vivre, au cours des prochaines années, une transformation importante du marché du travail. Il y a des secteurs comme le commerce de détail qui vont perdre des emplois. Notre défi, c’est d’aider financièrement les personnes touchées à se requalifier dans d’autres secteurs. On a commencé à y travailler.
+
+Je veux vous dire aussi que l’immigration n’est pas une panacée. L’immigration augmente l’offre de travail, mais elle augmente aussi la demande de services en santé, en éducation, en logement. Et il y a un enjeu d’intégration des nouveaux arrivants au français. On voit actuellement un déclin du français.
+
+À Montréal, sur l’île, on a seulement 56 % des travailleurs qui travaillent en français. Le français va toujours être vulnérable en Amérique du Nord. Et, pour moi, c’est important qu’on continue de parler français. Cela dit, on travaille très fort en ce moment pour que la sélection des immigrants et des travailleurs temporaires soit mieux arrimée aux besoins du marché du travail. On veut aussi accueillir beaucoup d’étudiants étrangers qui viennent étudier dans nos cégeps et dans nos universités francophones. On doit aussi mieux cibler les études dans les secteurs où il y a pénurie. Déjà, on a mis des bonus importants pour les étudiants en Éducation, en Santé, en TI et en Ingénierie.
+
+Durant la campagne, on a annoncé que, si la CAQ est réélue, on va faire une réforme majeure de la formation professionnelle. On vise à décerner 30 000 diplômes de plus dans des secteurs stratégiques. On va miser sur la formation à distance et on va créer des programmes courts rémunérés, dans les secteurs clés.
+
+On veut aussi continuer de mettre des incitatifs pour que les travailleurs plus âgés restent ou reviennent au travail. On a annoncé que, si on est réélu, on va rendre optionnelle la cotisation au RRQ pour les travailleurs de 65 ans et plus.
+
+Mais les entreprises, comme partout dans le monde, vont avoir un grand défi : augmenter leur productivité. On veut travailler avec vous, pour relever ce grand défi.
+
+Par ailleurs, à court terme, on a un problème avec l’inflation. L’important c’est d’aider les Québécois. On va remettre un montant ponctuel de 400 à 600 $ en décembre prochain. On va augmenter le crédit d’impôt pour nos aînés jusqu’à 2 000 $. On va baisser les impôts. Et on va limiter les augmentations de tarifs du gouvernement à 3 %. D’ailleurs, je vous annonce que, si la CAQ est réélue, le premier projet de loi qu’on va déposer va porter sur l’inflation. C’est ça qui est le plus pressant. Et c’est ça qu’on va faire en partant dans un second mandat.
+
+Donc, je termine en vous disant que, depuis quatre ans, on a prouvé que la CAQ, c’est LE parti de l’économie. On a une équipe économique solide, avec des gestionnaires d’expérience comme Éric Girard aux Finances, comme Sonia LeBel au Trésor et comme Pierre Fitzgibbon à l’Économie.
+
+Mais on ne pourra pas éliminer notre écart de richesse sans vous. Et on ne pourra pas éliminer notre écart de richesse sans Montréal.
+
+Je suis un entrepreneur, en affaires, mais aussi en politique. J’ai fondé un parti politique, une start-up qui a connu un certain succès.
+
+J’aime les entrepreneurs. J’aime les dirigeants d’entreprises qui sont audacieux. J’ai le goût de travailler avec vous pour bâtir ensemble un Québec plus prospère, un Québec plus vert, un Québec plus fier!
+
+Merci, »', '9/28/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/09/28/francois-legault-livre-sa-vision-economique-pour-le-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Une COP-Québec pour repenser notre avenir', '
+La cheffe du Parti libéral du Québec était présente lors de la rencontre Maîtres chez vous de l’organisation Force jeunesse, aujourd’hui, pour échanger avec les jeunes Québécois. En priorisant la réduction des émissions de gaz à effet de serre de 45% d’ici 2030, par rapport au niveau de 1990 elle s’est engagée formellement à passer toutes les décisions du gouvernement sous la loupe des changements climatiques. Sous un gouvernement libéral, c’est la première ministre qui sera responsable de ce dossier, ce qui démontre toute l’importance que sa formation politique accorde à la lutte aux changements climatiques.
+
+De plus, un gouvernement dirigé par Dominique Anglade organisera une « COP-Québec » qui réunira des chercheurs, des scientifiques et des gouvernements de partout en Amérique du Nord. En réunissant tous les acteurs importants de la lutte aux changements climatiques nous pourrons définir les actions que le gouvernement du Québec devra mettre en place au cours des prochaines années pour atteindre nos objectifs.
+
+Enfin, le parti de Dominique Anglade maintient son objectif d’atteindre la carboneutralité du Québec en 2050. Pour la cheffe, il est urgent d’agir et le Parti libéral du Québec sera au rendez-vous pour ce grand défi du 21e siècle.
+
+« Pendant que la CAQ se satisfait de timides mesures en matière d’environnement, nous prenons des engagements qui nous permettront d’atteindre les objectifs que nous nous sommes fixés. Le Québec doit être un leader au Canada et en Amérique du Nord dans la lutte aux changements climatiques et nous y arriverons, notamment grâce à notre ambitieux Projet ÉCO. »', '9/17/2022 20:00:00 PM','https://plq.org/fr/communiques/une-cop-quebec-pour-repenser-notre-avenir/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Le PLQ propose un programme public de psychothérapie', '
+Nous faisons face à une explosion du nombre de personnes aux prises avec des problèmes de santé mentale. Pour y remédier, le Parti libéral du Québec propose la mise en place d’un programme de psychothérapie public gratuit. Sa cheffe, Dominique Anglade, veut ainsi favoriser l’accès pour tous à des soins de santé mentale de qualité.
+
+La pandémie a contribué de façon importante à une forte hausse des problèmes de santé mentale et le Parti libéral du Québec propose une solution concrète pour diminuer les listes d’attente à des soins et les rendre plus accessibles à l’ensemble de la population. Un programme de psychothérapie public permettrait d’obtenir des services d’une personne habilité à offrir les soins nécessaires.
+
+Ainsi, les personnes aux prises avec des troubles anxieux ou dépressifs, par exemple, seraient d’abord évaluées pour ensuite être redirigées vers le psychothérapeute habilité à lui prodiguer les soins appropriés et cela, tout à fait gratuitement. Selon Mme Anglade, le gouvernement a la responsabilité d’offrir à tous ses citoyens un accès égal aux soins contre ce qui est maintenant convenu d’appeler le mal du siècle.
+
+« Au Parti libéral du Québec, nous avons compris que les problèmes de santé mentale doivent être considérés au même titre que les problèmes de santé physique. Tous les Québécois devraient donc avoir accès à des soins de qualité, sans égard à leur salaire.»', '9/18/2022 20:00:00 PM','https://plq.org/fr/communiques/le-plq-propose-un-programme-public-de-psychotherapie/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Le plan libéral pour les aînés', 'La cheffe du Parti libéral du Québec, Dominique Anglade, a annoncé une série d’engagements qu’un gouvernement libéral mettra de l’avant pour aider les aînés, qu’ils soient actifs ou qu’ils aient besoin de soins et de services.
+
+Pour aider les aînés actifs qui désirent rester à la maison ou qui souhaitent continuer à travailler, le Parti libéral propose:
+
+De mettre en place une « Allocation aînés » de 2000$ variable en fonction du revenu afin de soutenir chaque personne de plus de 70 ans qui souhaite rester à domicile;
+D’offrir un congé de cotisation au Régime des rentes du Québec pour les 62 ans et plus;
+Doubler l’exemption d’impôts pour les personnes de 65 ans et plus pour la faire passer à 30 000$;
+D’instaurer la gratuité du transport en commun pour les Québécois de 65 ans et plus.
+Pour les aînés qui ont besoin de soins ou de services, le Parti libéral propose :
+
+De prioriser les aînés dans l’accès à un médecin de famille;
+De déployer des unités de soins intensifs à domicile dans toutes les régions du Québec;
+De former deux fois plus de gériatres;
+De mettre des ratios personnel-patient sécuritaires dans tous les CHSLD;
+De déployer des pharmaciens d’établissement dans tous les CHSLD;
+D’assurer un meilleur financement des organismes communautaires qui œuvrent auprès des aînés à domicile;
+De déclencher une commission d’enquête publique sur la gestion de la pandémie afin que plus jamais le Québec ne traverse une telle autre tragédie.
+« Le plan libéral pour les aînés propose de vraies solutions aux vrais enjeux que vivent les aînés. Pour celles et ceux qui sont actifs, il faut leur donner les moyens nécessaires pour s’accomplir, que ce soit avec un soutien financier pour rester le plus longtemps possible à la maison ou encore en leur offrant des incitatifs pour rester sur le marché du travail. Pour celles et ceux qui ont des besoins plus particuliers, notamment pour des enjeux de santé, nous devons être présents et leur offrir l’aide nécessaire.»', '9/19/2022 20:00:00 PM','https://plq.org/fr/communiques/le-plan-liberal-pour-les-aines/?')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'L’inflation et la pénurie de main-d’œuvre, les priorités économiques du PLQ', 'Lors de son passage à la CCMM ce matin, la cheffe du Parti libéral du Québec, Mme Dominique Anglade, a présenté la vision qu’elle mettrait de l’avant pour favoriser la croissance économique du Québec. Le Québec étant confronté à plusieurs enjeux économiques comme l’inflation, la pénurie de main-d’œuvre et la lutte aux changements climatiques, nous avons le devoir de trouver de vraies solutions pour y remédier.
+
+La pénurie de main-d’œuvre, un frein à notre croissance:
+
+La pénurie de main-d’œuvre est l’un des plus grands défis économiques et sociaux auxquels nous sommes confrontés. Aujourd’hui, ce sont près de 40% des PME qui refusent des contrats et/ou qui délocalisent leur production à l’extérieur du Québec. La pénurie représente aussi des pertes de milliards de dollars pour les entreprises d’ici.
+
+La pénurie de main-d’œuvre affecte aussi l’ensemble de nos services publics. Il manque de monde partout et si le Québec ne met pas en place de vraies solutions, nous aurons en plus des enjeux d’attractivité pour de nouveaux talents.
+
+C’est pourquoi le Parti libéral du Québec propose de vraies solutions afin de lutter contre la pénurie de main-d’œuvre :
+
+Retenir ou ramener des travailleurs expérimentés;
+Congé de cotisations à la RRQ pour les personnes de 62 ans et plus.
+Doubler l’exemption fiscale pour les personnes de 65 ans et plus. Elles ne paieront plus d’impôt sur les 30,000 premiers dollars gagnés.
+Renforcer les efforts de numérisation, d’automatisation et de transition verte des entreprises;
+Continuer les efforts de requalification de la main-d’œuvre vers les secteurs où la demande est la plus forte;
+Favoriser le retour des jeunes parents sur le marché du travail en complétant le réseau des services de garde à 8,70$;
+Soutenir une immigration qui contribue à pourvoir les postes vacants dans les régions et les secteurs les plus touchés;
+Accélérer la reconnaissance des diplômes des travailleurs qui proviennent d’une autre province ou d’un autre pays.
+Aide directe à nos entreprises : 
+
+Nos entreprises ont besoin d’oxygène. En plus de faire face à la pénurie de main-d’œuvre, nos entreprises doivent encore faire face aux contrecoups de la pandémie, un fardeau administratif élevé et la hausse du coût des intrants. Nous voulons donc mettre en place des solutions qui permettront aux entreprises de croître. En ce sens, le Parti libéral propose de :
+
+Réviser la fiscalité des PME en revoyant les paramètres de la déduction pour petites entreprises;
+Diminuer la pression des taxes sur la masse salariale des PME en réduisant les taux de cotisation au Fonds des services de santé;
+Revoir les crédits d’impôt pour la recherche et le développement afin de les rendre plus efficaces;
+Voter une loi sur l’allègement réglementaire afin de diminuer le poids réglementaire sur nos entreprises;
+Mettre en place une stratégie pour favoriser le repreneuriat des entreprises;
+Prévoir plus de flexibilité pour le remboursement des prêts accordés dans le cadre des programmes d’aides.
+ÉCO – Transformer l’enjeu climatique en opportunité économique :
+
+La lutte aux changements climatiques représente le plus grand défi du 21e siècle et ce, partout dans le monde. Afin d’atteindre les objectifs de réduction de GES que nous nous sommes donnés, le Québec devra utiliser l’ensemble de son territoire et trouver des solutions innovantes. Au Parti libéral, nous proposons de transformer l’enjeu climatique en opportunité économique.
+
+Notre projet ÉCO vise à allier écologie et économie en :
+
+Électrifiant au maximum nos transports et industries;
+Lançant un grand projet de production énergétique;
+Réalisant des économies d’énergie;
+Développant une nouvelle filière économique, l’hydrogène vert, afin de propulser les secteurs qui ne peuvent être électrifiés.
+Les prochaines années seront déterminantes pour l’économie du Québec. Les défis auxquels sont confrontés les entreprises québécoises sont immenses et avec la CAQ, l’enjeu de la pénurie de main-d’œuvre persistera. La vision que nous proposons aujourd’hui permettra aux entreprises d’attirer de nouveaux talents et de continuer à croître. Au Parti libéral, on voit grand pour nos entreprises, on voit grand pour le Québec.', '9/20/2022 20:00:00 PM','https://plq.org/fr/communiques/linflation-et-la-penurie-de-main-doeuvre-les-priorites-economiques-du-plq/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Personnes handicapées ou sous le spectre de l’autisme, le PLQ veut un ministre responsable', 'La cheffe du Parti libéral du Québec, Dominique Anglade, annonce une série d’engagements pour les personnes vivant avec un handicap ou les personnes sous le spectre de l’autisme.
+
+Un gouvernement libéral créera un Secrétariat aux personnes vivant avec un handicap ou le spectre de l’autisme avec un ministre responsable. Cette proposition donnera une voix à plus d’un million de Québécoises et de Québécois qui vivent avec une incapacité.
+
+« La voix des personnes qui vivent avec un handicap est trop souvent oubliée. Il est temps de changer les choses et de nous assurer que lorsqu’il est question de transport, on pense à eux. Que lorsque nous parlons d’éducation, on pense à eux. Que lorsque qu’il est question d’emploi, on pense aussi à eux! Avec un ministre en titre assis au Conseil des ministres, les choses vont changer! », a affirmé Dominique Anglade.
+
+Un gouvernement libéral s’engage également, dans les 100 premiers jours suivant l’élection, à mettre en place une commission d’experts et de parlementaires sur la transition vers l’âge adulte, jusqu’à l’âge d’or des personnes vivant avec un handicap ou sous le spectre de l’autisme. Cette commission aura un mandat de consultations et de recommandations.
+
+« Si pour certains, avoir 18 ans c’est une fête, pour les personnes vivant avec un handicap, c’est beaucoup plus difficile : trouver un médecin de famille, terminées les allocations familles, etc. Nous avons demandé à la CAQ d’étudier cette question. Chaque fois, elle a refusé, tournant ainsi le dos à des milliers de familles. Un gouvernement libéral va régler cette situation. », a affirmé la cheffe libérale.
+
+Nous allons également :
+
+Mettre en place un programme de stages accompagnés de subventions salariales afin de permettre à plus d’entreprises d’intégrer des personnes vivant avec un handicap ou le spectre de l’autisme.
+Créer une carte d’identité avec photo officielle pour les personnes ne détenant pas de permis de conduire;
+Élaborer, en collaboration avec les partenaires du milieu, un plan d’action sur l’offre de répit pour les familles des personnes vivant avec un handicap afin de répondre à leurs besoins.
+« Les familles qui vivent avec une personne ayant un handicap ont besoin de répit. La CAQ a attendu la campagne électorale pour finalement agir en annonçant 500 places de répit partout au Québec. Ce n’est même pas 30 places par région! Les besoins sont plus grands et variés. Il faut avoir un plan d’action qui répond à un véritable besoin et ça, on va le faire avec les partenaires sur le terrain. », a déclaré Mathieu Gratton, candidat libéral de Laporte.', '9/21/2022 20:00:00 PM','https://plq.org/fr/communiques/personnes-handicapees-ou-sous-le-spectre-de-lautisme-le-plq-veut-un-ministre-responsable/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'4G$ supplémentaires dans les infrastructures scolaires avec le PLQ', '
+Dans le but d’offrir un milieu de vie sain et sécuritaire tant pour les élèves que le personnel, un gouvernement libéral investira une somme de 4 milliards de dollars supplémentaires dans les infrastructures scolaires et dans l’amélioration de la qualité de l’air dans ses écoles publiques, confirme sa cheffe Dominique Anglade.
+
+En plus d’injecter 3,5G$ supplémentaires en rénovation, réaménagement et construction de nouvelles écoles, un gouvernement libéral s’assurera que la qualité de l’air que nos enfants respirent soit adéquate grâce à un investissement de 500M$. Cette somme servira notamment à améliorer la ventilation dans les écoles, une nécessité qui a été négligée par la CAQ.
+
+La cheffe libérale estime qu’avec ces investissements, il sera possible de construire de 45 à 50 nouvelles écoles et ainsi éviter que nos enfants ne soient entassés dans des roulottes comme c’est trop souvent le cas. Selon elle, il est clair que l’environnement d’apprentissage a un impact direct sur la réussite scolaire et qu’on ne doit absolument pas lésiner sur les moyens pour y arriver.
+
+« Au Parti libéral du Québec, nous faisons le choix de l’éducation et de nos enfants. En priorisant les projets d’écoles dans le PQI pour les rénover afin qu’elles soient à la hauteur des besoins du 21e siècle et en construire de nouvelles pour faire face au manque d’espace que le réseau vit présentement. »', '9/26/2022 20:00:00 PM','https://plq.org/fr/communiques/4g-supplementaires-dans-les-infrastructures-scolaires-avec-le-plq/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Le lundi 3 octobre, deux visions s’affrontent', 'Avec la campagne électorale qui tire à sa fin, le choix pour les Québécois est clair. François Legault et la division, ou Dominique Anglade et l’équipe libérale et notre volonté d’unir. Nous avons fait une campagne énergique et rassembleuse durant laquelle Dominique a parcouru plus de 8 000 km et est allée directement à la rencontre des citoyens par de nombreux bains de foule et a répondu aux nombreuses questions des citoyens et journalistes.
+
+Le leadership proposé par Dominique Anglade en est un d’ouverture et d’inclusion qui propose aux Québécois de tous se rassembler. Les dernières années ont marqué un recul pour les femmes à travers le Québec et c’est sous l’impulsion de notre cheffe que ce débat a été abordé lors de la campagne électorale.
+
+Nous pouvons aussi constater que la vision que propose la cheffe du Parti libéral permettra au Québec d’être une force économique du 21e siècle. Avec son grand projet de développement économique, ÉCO, le Parti libéral propose de faire de la lutte aux changements climatiques la plus grande opportunité économique de notre génération, alors que François Legault fait des propositions dignes du 20e siècle.
+
+Finalement, les Québécois auront le choix entre deux visions qui s’affrontent, celle d’un Québec moderne et d’un leadership au féminin incarné par Dominique Anglade et le Parti libéral, ou encore celle de la CAQ qui veut maintenir le statu quo. Le lundi 3 octobre, Dominique Anglade et le Parti libéral du Québec invitent tous les Québécois et toutes les Québécoises à voter vrai, à voter libéral.
+
+Il y a plus de 60% des Québécois qui ne veulent pas de François Legault comme premier ministre. Je vous propose de tous nous unir derrière notre projet pour le Québec. Un Québec ouvert et inclusif qui fera de la lutte aux changements climatiques la plus grande opportunité économique pour une génération. Le 3 octobre je vous invite à voter pour la seule alternative forte à la CAQ, je vous invite à voter libéral.', '10/1/2022 20:00:00 PM','https://plq.org/fr/communiques/le-lundi-3-octobre-deux-visions-saffrontent/?')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'CADRE FINANCIER DU PARTI QUÉBÉCOIS', '« Assurer la pérennité des services publics est notre priorité absolue » – Paul St-Pierre Plamondon
+
+Montréal, le 13 septembre 2022 – Le chef du Parti Québécois, Paul St-Pierre Plamondon (Camille-Laurin), en compagnie du candidat Alexis Gagné-Lebrun (Saint-Hyacinthe), a présenté cet après-midi le cadre financier le plus responsable de la présente campagne électorale.
+
+EN BREF
+
+Le cadre financier du Parti Québécois prévoit des dépenses totales de 29,7 G$, et des nouveaux revenus de l’ordre de 12,3 G$; à la fin du mandat, le ratio dette/PIB sera de 39,4 %.
+
+La pérennité des services publics est le principal enjeu qui a guidé nos choix.
+D’importants investissements sont aussi prévus dans les transports collectifs.
+Le maintien du pouvoir d’achat des Québécois commande également des mesures fortes.
+Nous avons porté une attention particulière à la justice fiscale.
+Enfin, seul le Parti Québécois a reçu l’approbation d’un économiste indépendant pour son cadre financier.
+
+—
+
+Face à une inflation galopante, à l’incertitude généralisée, et aux besoins pressants qui se font sentir et se multiplient dans toutes les sphères de notre société, le Parti Québécois a clairement fait son nid : préserver les services publics. « Non, nous ne baisserons pas les taxes ni les impôts. Ce serait un choix complètement irresponsable, alors que les Québécoises et les Québécoises n’ont jamais eu autant besoin de services publics de qualité. Nous avons choisi de ne pas faire de fausses promesses et nous n’inventons aucun revenu, comme le font les autres partis; nous misons plutôt sur l’intelligence des électeurs, qui savent que le Québec a besoin de meilleurs soins et services de santé, de plus de logement social, de nouvelles places en garderie et d’écoles en bon état. Agir autrement, remettre à plus tard, cela équivaudrait à un aller simple vers l’austérité », a insisté Paul St-Pierre Plamondon.
+
+Outre ce choix responsable pour aujourd’hui et pour demain, le Parti Québécois entend investir massivement dans les transports collectifs. « Nous convions les Québécoises et les Québécois à un véritable changement de société. Miser sur les transports en commun nous aidera à atteindre nos objectifs de réduction des GES, en plus d’améliorer l’occupation de notre immense territoire. Notre objectif est d’offrir à la population de véritables solutions sur le plan de la mobilité, modernes et adaptées, afin que la voiture solo devienne la dernière option envisagée. Pour y arriver, nous allons plus que doubler les montants alloués aux transports collectifs dans le PQI, pour atteindre 30 G$ d’investissements sur la période de 10 ans », a illustré le chef et candidat dans Camille-Laurin. 
+
+Le Parti Québécois fait par ailleurs le choix d’aider les citoyennes et les citoyens qui en ont le plus besoin. « Avec nous, les personnes et les familles à faibles et à moyens revenus bénéficieront d’un coup de pouce qui leur permettra d’absorber la hausse de leurs dépenses causée par l’inflation. C’est important qu’elles cessent de s’appauvrir, qu’elles maintiennent leur pouvoir d’achat! Dans les circonstances, on ne laissera tomber personne », a pour sa part assuré Alexis Gagné-Lebrun.
+
+La justice fiscale est aussi au cœur des préoccupations du Parti Québécois. « Les Québécois acceptent d’investir en taxes et en impôts, du moment que leurs services sont à la hauteur, et tant que chacun paie sa juste part. Or, nous devons veiller à maintenir cet équilibre, et cela commande des mesures courageuses, comme le fait de taxer les GAFAM et de lutter contre les paradis fiscaux. En outre, il faut cesser de mettre des bâtons dans les roues aux entrepreneurs et aux travailleurs expérimentés qui voudraient demeurer ou redevenir actifs. C’est le genre de contrat, équitable et équilibré, que je veux sceller avec la population du Québec », a proposé le chef du Parti Québécois.
+
+Parmi tous les cadres financiers présentés jusqu’à maintenant, seul celui du Parti Québécois a reçu l’approbation d’un économiste indépendant. « Nous avons choisi la rigueur et la transparence. Nous avons choisi de dire la vérité aux Québécois, et de leur faire confiance », a insisté Paul St-Pierre Plamondon.
+
+Pour voir le cadre financier, vous pouvez en fichier PDF, vous pouvez cliquer ici.
+
+Pour l’avoir en ficher Excel, vous pouvez cliquez ici.', '9/13/2022 20:00:00 PM','https://pq.org/2022/09/13/cadre-financier-du-parti-quebecois/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS PREND LE TRANSPORT COLLECTIF AU SÉRIEUX. POUR VRAI.', 'C’est devant les membres de l’Union des municipalités du Québec (UMQ) que le chef du Parti Québécois et candidat dans Camille-Laurin, Paul St-Pierre Plamondon, a fait part de son annonce du jour  : un gouvernement du Parti Québécois donnera aux 30 villes les plus importantes du Québec les moyens de développer leur propre projet structurant de transport collectif.
+
+EN BREF
+
+Le Parti Québécois rendra disponibles, pour les 30 villes les plus importantes du Québec – soit celles comptant, grosso modo, plus de 40  000 habitants  –, des budgets leur permettant d’améliorer significativement leur offre de transport en commun.
+Autobus, tramway, train léger… les villes décideront elles-mêmes des projets à mettre en avant et pourront les présenter au gouvernement; elles bénéficieront d’un accompagnement sans ingérence.
+Cela représente des investissements pouvant aller de 300  M$ à 1  G$ par ville, selon la taille, en excluant les projets déjà prévus à Montréal et à Québec.
+Pour atteindre nos objectifs de réduction des GES, on doit commencer par améliorer la mobilité dans les villes et entre elles.
+Tradition de campagne électorale désormais bien implantée, l’UMQ a accueilli, ce midi, les chefs et porte‑parole des cinq principaux partis, afin de connaître leurs priorités en matière d’affaires municipales. Sans surprise, pour le Parti Québécois, ce sont les transports en commun qui constituent la pierre angulaire des engagements en cette matière. Ce qui était moins connu, cependant, c’est l’ampleur de la vision péquiste. «  Lorsqu’on aborde l’enjeu des transports collectifs, on pense spontanément à Montréal et à Québec. Or, nous, au Parti Québécois, sommes plus ambitieux  : sous notre gouvernement, toutes les villes québécoises d’importance pourront aller de l’avant avec le meilleur projet de transport structurant pour elles, soit celui qu’elles auront elles-mêmes identifié. Nous croyons en la capacité des villes, leur faisons confiance, les épaulerons dans leurs démarches et les accompagnerons tout au long de la réalisation des projets, mais sans intervenir directement  », a déclaré le chef du Parti Québécois.
+
+Ainsi, des villes comme Rimouski, Rouyn-Noranda, Joliette, Sherbrooke, Repentigny et Saguenay, pour ne nommer que celles-ci, pourront aller chercher des sommes afin de développer leur offre de transport collectif. «  Actuellement, le Québec est en retard. Très en retard. C’est pourquoi nous nous sommes engagés à doubler l’offre de transport collectif, partout au Québec. Pour y arriver, sur la période 2023-2033, nous doublerons les investissements en transport collectif au PQI pour atteindre 30  G$. À long terme, nous voulons tendre vers un ratio de deux tiers des investissements totaux en transport terrestre  », a rappelé le chef du Parti Québécois, se référant au plan qu’il a déposé le 30 août dernier, –  45  % de GES d’ici 2030. En effet, tout cela est en lien et en totale cohérence avec la lutte contre les changements climatiques, un dossier prioritaire pour le Parti Québécois. «  Pour réduire nos émissions de GES, nous devons d’abord nous attaquer au secteur des transports, car c’est là que le potentiel de réduction est le plus important. Nous faisons le pari que plus l’offre en transports collectifs sera attrayante, plus les Québécoises et les Québécois se procureront la PasseClimat annuelle et universelle. Par conséquent, plus l’environnement y gagnera. En tant qu’élus, en tant que citoyens, c’est notre responsabilité de prendre ce nécessaire virage vers les transports collectifs, et ce, tant en ville qu’en région  », a insisté Paul St-Pierre Plamondon.', '9/16/2022 20:00:00 PM','https://pq.org/2022/09/16/le-parti-quebecois-prend-le-transport-collectif-au-serieux-pour-vrai/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'POUR FREINER LE DÉCLIN DU FRANÇAIS, LE PARTI QUÉBÉCOIS PROPOSE DE MISER SUR LA CULTURE', 'En compagnie de deux des plus ardents défenseurs de la culture d’ici, Pierre Nantel (Marie-Victorin) et Pierre-Luc Brillant (Rosemont), Paul St-Pierre Plamondon (Camille-Laurin), a partagé son désir de voir se développer, notamment au sein de la jeunesse, une culture de la culture, c’est-à-dire un puissant sentiment d’appartenance et de fierté envers celle-ci, dans le but de renforcer le lien qui unit les Québécois à leur langue. « À nos yeux, le combat pour le français et la lutte pour le rayonnement de la culture québécoise ont un destin incontestablement lié. Au-delà de la réglementation, la culture est source d’adhésion et de rassemblement positif pour tous les Québécois. Notre combat ne se fait pas à armes égales, mais une partie de sa réussite réside dans notre capacité à la faire rayonner encore davantage. D’abord chez nous, mais aussi partout sur la planète », a déclaré le chef du Parti Québécois.
+
+EN BREF
+
+Le Parti Québécois fait le pari qu’en encourageant la consommation de produits culturels d’ici, entre autres par les jeunes, on favorisera l’émergence d’un sentiment d’appartenance fort envers la langue française, ce qui aidera à freiner son déclin. C’est pourquoi il entend :
+
+Créer un bureau de promotion du contenu culturel québécois pour représenter le Québec auprès des plateformes mondiales;
+Remettre un passeport culturel de 100 $ par année aux étudiants du secondaire et du collégial, ainsi qu’à tous les nouveaux arrivants;
+Doubler les budgets de Télé-Québec et mettre au monde le « CRTQ »;
+Créer un musée national de l’histoire du Québec et rétablir un financement adéquat des musées existants, en priorité;
+Donner aux travailleurs culturels un véritable statut d’emploi.
+Au total, près de 800 M$ supplémentaires sur 4 ans seront investis pour promouvoir notre culture et notre langue.
+
+Le déclin du français en inquiète plusieurs et commande indiscutablement des mesures fortes; or, ces actions doivent être menées en parallèle d’une promotion musclée des produits culturels québécois. L’enjeu actuel en matière de culture au Québec n’est pas l’offre, mais bien la demande. Nos créateurs font des choses incroyables, mais la pression de la culture anglo-américaine, omniprésente, est très forte.
+
+« Selon un sondage récent, 58 % des jeunes Québécois de 18 à 34 ans consomment très peu, voire pas du tout de contenu audiovisuel québécois sur les plateformes en ligne. En fait, 31 % d’entre eux admettent ne jamais écouter ni regarder de contenu issu du Québec, et 75 % disent que leur consommation de contenu québécois ne dépasse pas 4 heures par semaine, soit une infime partie de leur temps total d’écoute ou de visionnement. Mais ils ne sont pas à blâmer; les Netflix, Amazon Prime et autres Spotify ne mettent pas suffisamment en valeur nos productions. Il s’agit, donc, de favoriser leur accessibilité ainsi que leur découvrabilité. Ce sera la mission du bureau de promotion que nous proposons : représenter les créateurs et les créations de chez nous, viser à augmenter l’offre de contenu culturel québécois sur les plateformes de diffusion, le rendre visible, et en faire des succès internationaux! », a déclaré, enthousiaste, Pierre Nantel.
+
+En amenant les Québécois à la rencontre de ce qui se fait ici, on peut légitimement s’attendre à voir se renforcer leur sentiment d’appartenance et leur fierté envers la langue française. « L’anglicisation du Québec passe par ce que les gens consomment en ligne, mais aussi en dehors; c’est dans cette optique que nous proposons de donner un certificat de 100 $ à tous les nouveaux arrivants ainsi qu’aux étudiants du secondaire et du cégep pour leur permettre d’assister à une pièce de théâtre ou à un spectacle québécois, par exemple. Par ailleurs, Télé-Québec sera mise à contribution et verra ses budgets annuels être doublés, pour atteindre 140 M$; ainsi, la chaîne pourra stimuler la production de contenu québécois et devenir une véritable vitrine nationale où seront présentés nos productions culturelles, des documentaires sur notre histoire et sur notre territoire, des émissions d’information, des bulletins régionaux, de grandes émissions de débat », a pour sa part illustré Pierre-Luc Brillant.
+
+En outre, puisqu’il est manifestement vain de compter sur le fédéral pour protéger nos intérêts, culturels surtout, le Parti Québécois s’engage à créer un conseil de la radiodiffusion et des télécommunications québécoises – l’équivalent du CRTC, mais efficace et bien de chez nous. « Personne n’est mieux placé que nous-mêmes pour promouvoir notre culture et mettre en place les conditions qui permettront de renverser le déclin de notre langue. Si l’on veut garantir la disponibilité du contenu québécois en ligne, on ne peut absolument plus laisser le Canada décider de l’espace qui lui sera réservé sur les plateformes. Le CRTQ que nous mettrons en place assurera le financement et la bonne représentation du contenu québécois en ligne », a ajouté le chef du Parti Québécois.
+
+Créer un musée national de l’histoire du Québec
+
+« Nous sommes une nation francophone en Amérique du Nord, et notre histoire est unique. Je m’explique mal pourquoi, après toutes ces années, nous n’avons toujours pas un musée national pour la célébrer, s’adressant tant à nous qu’à celles et à ceux qui viennent nous visiter. Lorsqu’on visite un nouveau pays, c’est pratiquement un automatisme d’aller voir son musée d’histoire nationale. L’Écosse, par exemple, un pays qui nous ressemble beaucoup, possède un musée de ce type, accessible à tous », a poursuivi Paul St‑Pierre Plamondon.
+
+Cet ajout ne se fera pas au détriment des musées existants. Le Parti Québécois va d’ailleurs rétablir le financement de ces derniers à la hauteur de leurs besoins. « Ça passera avant les Espaces bleus. Car, comme dans le cas des maisons des aînés, la CAQ a créé un nouveau modèle en abandonnant ce qui fonctionnait déjà. Or, à nos yeux, cette façon de faire, partisane et électoraliste, n’est pas acceptable. Nous prendrons les 259 M$ destinés par la CAQ aux Espaces bleus et les remettrons à nos musées. »
+
+Appuyer les travailleurs culturels
+
+Paul St-Pierre Plamondon a par ailleurs rappelé son intention d’aller chercher chez les GAFAM des montants considérables qui nous échappent actuellement. « C’est dans un souci de justice fiscale. Ces entreprises font des profits mirobolants sur le dos, entre autres, des petits producteurs de contenu. Nous proposons de les taxer à hauteur de 3 % de leur chiffre d’affaires québécois, ce qui représente quelque 300 M$ annuellement, et de remettre une partie de cet argent à nos créateurs, pour les soutenir et leur donner de la visibilité. Ça leur revient de plein droit », estime-t-il.
+
+Avec l’ajout de ces sommes, le Parti Québécois propose notamment la création d’un véritable statut d’emploi pour nos travailleurs culturels, inspiré du programme de l’intermittence du spectacle en France, pour qu’ils ne soient plus considérés comme des travailleurs autonomes. « De cette manière, les artistes auront accès à un système d’assurance-emploi; un tel statut leur procurera donc une stabilité de revenu, ce qui les protégera durant leurs périodes moins occupées ou en cas d’imprévu », a fait valoir Paul St-Pierre Plamondon.', '9/17/2022 20:00:00 PM','https://pq.org/2022/09/17/pour-freiner-le-declin-du-francais-le-parti-quebecois-propose-de-miser-sur-la-culture/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS ASSURERA LA DIGNITÉ DES AÎNÉS ET LE RESPECT DE LEURS DROITS', 'Aux côtés de la candidate Caroline Dubé (Jonquière), le chef du Parti Québécois, Paul St-Pierre Plamondon (Camille-Laurin), a présenté un engagement qui lui tient véritablement à cœur et pour lequel il est déterminé à aller jusqu’au bout : la création d’un poste de protecteur des aînés.
+
+EN BREF
+
+Le mandat du protecteur des aînés consistera à :
+
+Veiller à la dignité des aînés et au respect de leurs droits;
+Contrer la négligence et la maltraitance;
+Promouvoir, auprès des aînés eux-mêmes, les ressources disponibles et les droits de la personne.
+D’autres mesures seront également mises en place afin d’assurer la dignité des personnes aînées dans tous les aspects de leur vie, par exemple :
+
+La hausse significative du financement des organismes communautaires qui interviennent auprès d’elles (460 M$ par année, à la mission);
+L’appui aux programmes de mentorat;
+L’adaptation du mobilier urbain, pour aider à la mobilité;
+L’amélioration des services de transport adapté, et leur élargissement aux proches aidants.
+En 2020, les aînés représentaient 20 % de la population du Québec. Cette proportion ira croissant jusqu’à atteindre, estime-t-on, 25,6 % en 2040. En 2019, selon l’ISQ, quelque 79 000 personnes âgées vivant à domicile ont rapporté avoir été victimes d’une forme ou d’une autre de maltraitance – physique, psychologique, financière, sexuelle, etc. Le plus inquiétant, c’est que ces statistiques sont nécessairement incomplètes; les aînés, souvent vulnérables, sont peu portés à dénoncer leurs agresseurs. En hébergement, malheureusement, la situation, exacerbée par les années de pandémie et la pénurie de personnel, est parfois même carrément dramatique, indigne d’une société comme la nôtre. À n’en pas douter, les aînés, c’est l’angle mort des quatre années caquistes.
+
+Dans ce contexte alarmant, Paul St-Pierre Plamondon lance un message clair : avec un protecteur 100 % consacré aux aînés, ceux-ci auront droit à une protection accrue et complètement indépendante du réseau de la santé et du gouvernement. « Il est temps de prendre l’enjeu au sérieux et de donner aux personnes aînées une instance qui pourra concrètement empêcher les abus et leur assurer des conditions de vie dignes. Le protecteur des aînés aura toute la latitude voulue et les moyens nécessaires pour agir; un gouvernement du Parti Québécois lui accordera un budget de 12 M$ par année, et modifiera la Charte des droits et libertés pour y consacrer cette importante fonction », a-t-il souligné.
+
+La dignité passe aussi par le sentiment d’être utile et la lutte contre l’isolement
+
+La candidate Caroline Dubé, elle-même très engagée au sein de sa communauté, précise par ailleurs les autres mesures que le Parti Québécois compte mettre en avant pour encourager la participation citoyenne des aînés. « Nous bonifierons significativement le financement des organismes communautaires qui interviennent auprès des aînés, entre autres pour briser leur isolement. Nous créerons un programme de mentorat, par le biais duquel les générations se rencontreront. De plus, nous porterons une attention particulière à l’aménagement urbain, qui devra davantage tenir compte des besoins des personnes âgées sur le plan de la mobilité. Les services de transport adapté seront aussi bonifiés, dans toutes les régions, et l’accès sera élargi aux personnes proches aidantes. Bref, nous tenterons de couvrir tous les aspects de la vie des aînés, de sorte qu’ils soient véritablement parties prenantes de leur communauté. Après tout, l’inclusion sociale et la participation citoyenne des personnes aînées contribuent grandement à la santé, à la dignité et au mieux-vieillir », a-t-elle résumé.
+
+Des engagements précis et un plan complet pour les aînés
+
+Le Parti Québécois est le seul parti à avoir présenté un plan complet pour améliorer les conditions et la qualité de vie des aînés, Vivre et vieillir avec dignité. Ce plan tient compte de l’offre de soins et de services de santé, bien sûr, mais sa vision élargie aborde toutes les autres facettes de la vie des personnes du troisième âge : logement, mobilité et transports adaptés, justice, finances, participation citoyenne, etc. Surtout, il affirme la ferme volonté du Parti Québécois de prendre le virage des soins à domicile, en investissant dans le domaine 3 G$ d’ici 4 ans en vue de tripler le nombre d’heures offertes.
+
+Parmi les autres mesures déjà annoncées par le Parti Québécois pouvant bénéficier aux aînés et leur assurer une meilleure sécurité financière, mentionnons l’arrêt des cotisations au RRQ pour les personnes de 65 ans et plus souhaitant continuer à travailler, un rabais d’imposition de 15 % sur les derniers 35 000 $ gagnés, et une « allocation pouvoir d’achat » allant jusqu’à 1200 $, pour freiner l’appauvrissement.', '9/18/2022 20:00:00 PM','https://pq.org/2022/09/18/le-parti-quebecois-assurera-la-dignite-des-aines-et-le-respect-de-leurs-droits/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS APPUIE LA CONSTRUCTION D’UN PONT RELIANT TADOUSSAC ET BAIE-SAINTE-CATHERINE', ' Amorçant sa virée sur la Côte-Nord, le chef du Parti Québécois, Paul St‑Pierre Plamondon (Camille-Laurin), accueilli par le député de René-Lévesque, Martin Ouellet, et le candidat du Parti Québécois dans cette même circonscription, Jeff Dufour Tremblay, a de nouveau pris position en faveur de la construction d’un pont enjambant la rivière Saguenay pour relier Tadoussac et Baie-Sainte-Catherine.
+
+EN BREF
+
+Le Parti Québécois réitère sa position favorable à la construction d’un pont sur le Saguenay pour relier Tadoussac et Baie-Sainte-Catherine.
+Les avantages d’un tel projet sont manifestes, et ce, tant sur le plan économique qu’environnemental.
+De nombreuses études ont été menées; il est plus que temps de passer à l’action pour désenclaver la Côte-Nord!
+Il existe deux différences majeures entre le projet de 3e lien Québec-Lévis de la CAQ et celui d’un pont entre Tadoussac et Baie‑Sainte-Catherine : dans le cas de ce dernier, 1) depuis 1973, pas moins de 14 études ont été effectuées, et 2) on le remet sans cesse à plus tard, sans raison valable. « L’enjeu n’est certainement pas nouveau, mais le dossier n’avance toujours pas. Bien sûr, plusieurs considérations sont obligatoirement à prendre en compte, dont l’opportunité, qui est démontrée, l’impact sur le milieu marin, la faune et la flore, l’analyse de risques, l’échéancier, l’estimation des coûts – la plus récente parle d’environ 500 M$. Pour nous, il n’y a plus de si. C’est oui », a affirmé le chef du Parti Québécois.
+
+Après une rencontre avec des représentants de la Coalition Union 138, MM. St-Pierre Plamondon, Dufour Tremblay et Ouellet ne pourraient être plus convaincus. « J’ai toujours été en faveur d’un pont à cet endroit, et je l’ai souvent dit. Mais jamais le projet ne m’a paru aussi nécessaire que maintenant : le manque de personnel et les ennuis mécaniques contraignent la Société des traversiers à modifier sans cesse et inopinément son offre de service, les files d’attente sont de plus en plus longues, et l’économie de ma région en souffre. En effet, quand il faut attendre une heure au traversier pour aller voir les baleines, on y pense à deux fois », a illustré le candidat dans René-Lévesque.
+
+De plus, il ne faut pas négliger l’aspect environnemental. « Un traversier, c’est polluant. Et celui entre Tadoussac et Baie-Sainte-Catherine, qui effectue en moyenne 40 000 traversées chaque année, passe à un endroit stratégique pour les bélugas. Enfin, plusieurs personnes, ne faisant pas confiance au traversier, font le tour par le pont Dubuc, à Chicoutimi. En matière d’émissions de GES, on pourrait difficilement faire pire », a ajouté Jeff Dufour Tremblay.
+
+Un pont entre Tadoussac et Baie-Sainte-Catherine aura de multiples avantages. « La Côte-Nord sera désenclavée, et l’économie locale, stimulée. Sans compter que la vie des populations sera nettement plus facile! La grande majorité des citoyens sont d’ailleurs en faveur du projet, et le réclament depuis des lustres. Avec nous, ce pont verra le jour », a promis Paul St-Pierre Plamondon.
+
+Le Parti Québécois a déjà annoncé la bonification d’un PQI régionalisé; les régions auront donc davantage de pouvoirs et pourront réaliser leurs propres projets, à commencer par ce pont, nécessaire et attendu.', '9/18/2022 20:00:00 PM','https://pq.org/2022/09/18/le-parti-quebecois-appuie-la-construction-dun-pont-reliant-tadoussac-et-baie-sainte-catherine/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS S’ATTAQUERA AUX PÉTROLIÈRES, QUI PROFITENT DE LA CRISE POUR S’ENRICHIR ENCORE PLUS', 'LE PARTI QUÉBÉCOIS S’ATTAQUERA AUX PÉTROLIÈRES, QUI PROFITENT DE LA CRISE POUR S’ENRICHIR ENCORE PLUS', '9/19/2022 20:00:00 PM','https://pq.org/2022/09/19/le-parti-quebecois-sattaquera-aux-petrolieres-qui-profitent-de-la-crise-pour-senrichir-encore-plus/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'ALPHABÉTISATION ET QUALITÉ DU FRANÇAIS', 'Le Parti Québécois lancera un grand chantier pour une meilleure maîtrise du français
+
+Tadoussac, le 20 septembre 2022 – Paul St‑Pierre Plamondon (Camille-Laurin) et le candidat dans René-Lévesque, Jeff Dufour Tremblay, ont annoncé que le Parti Québécois lancera un vaste chantier pour améliorer la maîtrise du français. Cette intention mènera à l’élaboration d’une stratégie nationale de lutte contre l’analphabétisme et sera accompagnée de l’implantation de mesures et d’incitatifs pour améliorer la qualité du français des Québécois, jeunes et adultes. « Il faut mieux écrire et mieux lire le français, mieux communiquer en français, à tous les niveaux », a exprimé le chef du Parti Québécois.
+
+EN BREF
+
+Le Parti Québécois lancera un grand chantier pour améliorer les aptitudes des Québécois en français écrit, en lecture et en communication; au cours du mandat, 100 M$ seront consacrés à rapprocher les ressources des citoyens qui en ont besoin, entre autres dans les écoles primaires et secondaires, et dans les centres de formation des adultes.
+La première étape sera l’élaboration d’une stratégie nationale de lutte contre l’analphabétisme, par laquelle :
+Nous offrirons une compensation financière aux personnes qui s’engagent dans un processus d’alphabétisation, afin qu’elles ne soient pas pénalisées par leur décision.
+Nous augmenterons les ressources professionnelles dans les écoles primaires et secondaires, et dans les centres de formation pour adultes.
+Nous lancerons une vaste campagne de sensibilisation sur l’enjeu de l’analphabétisme, ses causes et ses conséquences.
+Nous augmenterons de 460 M$ par année le financement à la mission des organismes, dont ceux qui œuvrent en alphabétisation des adultes.
+L’objectif est de réduire le taux d’analphabétisme de 50 % d’ici 2030.
+Le chantier sera également accompagné de mesures pour valoriser la qualité de la langue à tous les niveaux :
+Nous accorderons une importance accrue à la qualité de la langue dans tous les travaux scolaires, en réservant une part obligatoire de la note finale à l’orthographe et à la qualité de la langue écrite.
+Nous créerons un crédit d’impôt pour des cours de perfectionnement de l’usage de la langue française, tant à l’écrit qu’en lecture ou pour améliorer les aptitudes de communication.
+Selon de récentes statistiques, 19 % des Québécois de 16 à 65 ans sont analphabètes et 34,3 % éprouvent de grandes difficultés de lecture. En outre, la pandémie a fait chuter de 70 % en un an le nombre d’inscriptions en alphabétisation, ce qui conduit malheureusement à une baisse du financement des ressources en ce domaine. Résultat, même si plusieurs personnes sont volontaires pour aider, elles n’ont pas les moyens d’ouvrir des groupes, de prendre contact avec les gens, de les appuyer et de les accompagner dans leur parcours. La situation demeure donc dans l’impasse.
+
+« On estime que les travailleurs qui ont de bonnes compétences en littératie et en numératie peuvent gagner deux fois plus que ceux ayant des lacunes en ces matières; or, il est très difficile, pour cette dernière catégorie, de trouver le temps, les outils et les moyens financiers de retourner à l’école pour se requalifier, par exemple. Et c’est sans compter l’embarras, la gêne et la peur du jugement. C’est donc à nous de prendre les devants et d’offrir un soutien adapté à ces personnes. Cela passe notamment par une compensation financière pour celles qui choisissent de s’engager dans ce processus, afin qu’elles n’aient pas à essuyer de grandes pertes de revenus », a déclaré le chef du Parti Québécois.
+
+Paul St‑Pierre Plamondon estime les coûts de ce vaste chantier, qui se déploiera dans les écoles primaires et secondaires ainsi que dans les centres de formation des adultes, à 100 M$ au cours du mandat. « Nous ferons preuve de leadership. En partenariat avec différents acteurs sociaux, dont les syndicats, les entreprises et les organismes qui interviennent sur le terrain, nous atteindrons notre objectif d’outiller adéquatement chaque Québécois en lecture et en écriture », a-t-il précisé.
+
+Le candidat Jeff Dufour Tremblay renchérit : « Investir en alphabétisation, c’est rentable tant pour la société que pour les citoyens eux‑mêmes. L’enjeu nous concerne tous, mais le gouvernement a une grande part de responsabilité pour s’assurer que chaque Québécois est en mesure de bien fonctionner en français dans la société et de contribuer à sa juste part; c’est son rôle, et c’est ce que nous ferons une fois élus. »
+
+Par ailleurs, toujours dans l’objectif de valoriser notre langue et d’encourager sa maîtrise, le Parti Québécois entend faire en sorte qu’une part minimale de la note finale soit accordée à la qualité du français dans tous les travaux notés, et créera un crédit d’impôt pour des cours de perfectionnement de l’usage de la langue française. « Je l’ai dit, nous devons faire un effort collectif pour valoriser davantage la maîtrise de notre langue, et ce, dès le plus jeune âge : au secondaire, voire au primaire. Trop souvent, parce que l’orthographe et la grammaire ne sont pas notées hors des cours de langue, les élèves leur accordent moins d’attention. Il faut changer les mentalités, insister sur l’importance du français dans toutes les matières, et donner un incitatif aux élèves à bien écrire. Également, il faut encourager les travailleurs qui le souhaitent à suivre des cours de perfectionnement de l’usage de la langue. Dans un contexte professionnel, la qualité du français peut réellement changer la donne! », a fait valoir le chef du Parti Québécois.
+
+« L’idée n’est pas de blâmer qui que ce soit; l’idée, c’est de donner à tous les Québécois qui le souhaitent les ressources qui leur permettront de rehausser leurs compétences en littératie, dans l’objectif de leur ouvrir davantage de portes et, ultimement, de relever leur qualité et leur niveau de vie », a résumé Paul St-Pierre Plamondon.', '9/20/2022 20:00:00 PM','https://pq.org/2022/09/20/alphabetisation-et-qualite-du-francais/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS PRÉSENTE SON PLAN POUR RELANCER L’EST DE MONTRÉAL', 'En compagnie de l’équipe de candidats de l’Est de Montréal – formée de Yastene Adda (Anjou–Louis-Riel), Stéphan Fogaing (Hochelaga-Maisonneuve), Maxime Larochelle (Laurier-Dorion), Chantal Jorg (Maurice-Richard), Sabrina Mercier-Ullhorn (Mercier), Jocelyn Desjardins (Pointe-aux-Trembles), Pierre-Luc Brillant (Rosemont) et Phoeby Laplante (Sainte-Marie–Saint-Jacques) –, dont il fait lui aussi partie, Paul St‑Pierre Plamondon (Camille-Laurin), le chef du Parti Québécois, a présenté les principaux engagements de sa formation politique afin de relancer ce secteur de la métropole, délaissé depuis trop longtemps.
+
+EN BREF
+
+Le Parti Québécois prend 12 engagements concrets et nécessaires pour relancer l’Est de Montréal :
+
+Accélérer les travaux de reconstruction de l’Hôpital Maisonneuve-Rosemont pour qu’ils soient réalisés dans les plus brefs délais, et augmenter le nombre de professionnels de la santé per capita.
+Soutenir le développement d’un pôle stratégique des énergies vertes pour diversifier la vocation industrielle et polluante de l’Est de Montréal en faveur de la nouvelle économie.
+Déposer une nouvelle loi 101 afin que cesse le déclin de la langue française.
+Lutter contre la crise du logement en augmentant l’offre de logements sociaux, en abolissant la clause F du bail et en taxant davantage les « flips » et les investisseurs étrangers.
+Implanter un réseau de transport collectif structurant dans les plus brefs délais, après avoir consulté les citoyens; de plus, un gouvernement du Parti Québécois enfouira toute infrastructure de transport dans les secteurs résidentiels.
+Accélérer la décontamination des terres dans l’Est, et assurer une requalification de ces terrains par un aménagement et un développement cohérents, notamment en vue du pôle des technologies vertes.
+Mettre en place un BAPE concernant l’entreprise Ray-Mont Logistiques.
+Mettre sur pied un programme de dédommagement pour les « sinistrés de Tétreaultville ».
+Implanter, conjointement avec la Direction régionale de santé publique de Montréal et la Communauté métropolitaine de Montréal, un comité sur le resserrement des normes d’émission de particules et de métaux dans l’air.
+Doubler les budgets actuels afin d’embaucher une centaine de nouveaux policiers et d’experts pour lancer une vaste opération de saisie d’armes.
+Afin de faire face au vieillissement de la population, une réalité présente dans l’Est, prendre un véritable virage vers les soins à domicile en triplant le nombre d’heures offertes.
+Devancer et accélérer la réfection des nombreuses écoles vétustes de l’Est de Montréal, en augmentant les investissements au PQI et en rendant les écoles prioritaires dans l’ordre des travaux de rénovation.
+Au fil des années, le Parti Québécois a constaté que l’Est de Montréal a été délaissé par les différents gouvernements. « Le Parti Québécois a une longue tradition de défense de l’Est de Montréal, un secteur qui est malheureusement sous‑financé et laissé pour compte depuis trop longtemps. Ce n’est pas normal qu’on ne donne pas les mêmes outils pour réussir aux citoyens de l’Est qu’à ceux d’ailleurs à Montréal. Quand je vois l’état de certaines infrastructures essentielles, comme l’Hôpital Maisonneuve-Rosemont, quand j’apprends que la qualité de l’air réduit l’espérance de vie, quand je constate l’absence de transport collectif adéquat, je trouve cela inacceptable. Il faut sortir de l’immobilisme, et c’est d’abord une question de volonté politique », a souligné Paul St‑Pierre Plamondon.
+
+Le chef péquiste rappelle l’importance de son engagement personnel et celui de toute l’équipe du Parti Québécois pour défendre les enjeux de la métropole. « Ce qui est le plus important, je crois, c’est ce que je vous ai dit en début de campagne : moi, j’ai choisi de ne pas abandonner notre métropole, j’ai choisi de m’y présenter pour porter ses enjeux et faire en sorte que le lien qui unit Montréal au reste du Québec ne se brise pas. Montréal fait partie du Québec et de notre destin national; c’est ainsi, et ça doit demeurer ainsi », a-t-il poursuivi.
+
+Aux yeux de Paul St‑Pierre Plamondon, ce dont l’Est a le plus besoin, actuellement, c’est d’une voix forte, de députés qui vont s’approprier les dossiers et faire des suivis rigoureux, d’élus qui vont faire bouger les choses. « Avec le talent de notre équipe, avec ses compétences et son bagage diversifiés, je suis persuadé que nous arriverons à briser ce cycle de marginalisation. Avec la CAQ, malheureusement, les citoyens n’obtiennent que des députés sans droit de parole, sans pouvoir pour faire avancer les dossiers. On l’a vu : quand ça va contre les intérêts de la CAQ, c’est silence radio. Il faut changer cette dynamique-là. Moi, je demande aux citoyens de Mercier-Est de m’élire, comme je demande à ceux de tout l’Est de Montréal de choisir notre équipe, pour cette raison : pour avoir des représentants de leurs intérêts à l’Assemblée nationale, au lieu d’avoir un représentant de la CAQ dans leur circonscription », a conclu le chef du Parti Québécois.', '9/28/2022 20:00:00 PM','https://pq.org/2022/09/28/le-parti-quebecois-presente-son-plan-pour-relancer-lest-de-montreal/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS VEUT DOUBLER LE NOMBRE DE DÉLÉGATIONS DU QUÉBEC À L’ÉTRANGER', 'Soucieux de voir le Québec s’affirmer davantage sur la scène internationale et y jouer pleinement un rôle diplomatique d’influence, d’ici à ce qu’il devienne un pays normal, le chef du Parti Québécois, Paul St‑Pierre Plamondon (Camille-Laurin), a annoncé que sous son gouvernement, le nombre de délégations et de bureaux du Québec à l’étranger serait doublé.
+
+EN BREF
+
+Le Parti Québécois veut voir le Québec rayonner davantage dans le monde; pour ce faire, il compte multiplier par deux le nombre de délégations et de bureaux québécois à l’étranger.
+Nous promettons également de donner plus de ressources à l’Institut de la diplomatie du Québec et de mettre un certain accent sur la diplomatie d’influence, notamment en matière de lutte contre les changements climatiques et de culture.
+Ce n’est certainement pas le gouvernement à Ottawa qui nous épaulera dans cet exercice, lui qui tente de nous museler même chez nous.
+Nous voyons tout le potentiel de notre culture, de nos innovations et de notre influence diplomatique – contrairement à la CAQ, qui se limite à l’aspect commercial.
+D’une part, quiconque attend une action du Canada pour accompagner le Québec dans ses ambitions internationales est condamné à la disette; nos visions sont au mieux diamétralement opposées, au pire celles du Canada nous nuisent, carrément. « On se souvient tous de Bob Rae, ambassadeur du Canada à l’ONU, déclarant que la Loi sur la laïcité de l’État était discriminatoire et qu’elle contrevenait à la Déclaration des droits de l’homme. C’était en décembre 2021, et il est toujours en poste. Et que dire de l’enjeu climatique : un gouvernement qui défend le développement et l’exploitation des industries fossiles ne relaie certainement pas le message du Québec sur les tribunes internationales. Enfin, un gouvernement qui discrimine ses employés francophones et les empêche d’accéder aux plus hauts échelons de la diplomatie – comme le fait Ottawa, nous l’avons appris il y a quelques mois – est disqualifié pour représenter la nation québécoise sur la scène internationale et au sein de la Francophonie. De toute évidence, le Québec ne peut et ne doit compter que sur lui-même pour être bien représenté dans le monde, et pour que ses intérêts soient adéquatement défendus face aux autres nations de la planète », a insisté Paul St-Pierre Plamondon.
+
+D’autre part, se fier sur la CAQ, c’est se contenter de bien peu. « Le gouvernement de la CAQ a une vision particulièrement affairiste – et limitée – des relations internationales que nous pouvons entretenir. Il a même détourné la mission première de notre réseau, qui était à l’origine consacré à la diplomatie. En effet, les trois quarts des budgets et les deux tiers des postes de nos délégations sont désormais entièrement consacrés à l’économie, aux exportations, au commerce. Évidemment, nous pensons que le Québec doit augmenter ses exportations et solidifier ses liens économiques avec les autres nations. Mais les relations internationales, ça ne se limite pas aux échanges commerciaux! Le Québec, c’est aussi une culture unique qui gagne à être connue, ainsi qu’un modèle sur le plan de la démocratie et de la solidarité qui peut avoir une réelle influence dans le monde », a ajouté le chef du Parti Québécois. C’est d’ailleurs parce qu’il croit à ces principes que le Parti Québécois entend augmenter les ressources de l’Institut de la diplomatie du Québec, en mettant l’accent sur la diplomatie d’influence dans les domaines environnementaux et culturels, notamment.
+
+« On peut voir tellement plus grand, avoir tellement plus d’ambition; il ne faut pas hésiter à prendre la place qui nous revient, dans tous les domaines. Puis, le jour où le Québec sera un pays, nous serons tout à fait libres et en mesure de rayonner sur la scène internationale et de nous assumer pleinement! », a conclu Paul St-Pierre Plamondon.
+
+Actuellement, le Québec compte 14 délégations à l’étranger, en plus de 13 bureaux et de 5 antennes à travers de monde. Sous un gouvernement du Parti Québécois, ce nombre serait doublé, pour un coût avoisinant les 55 M$ par année.', '9/29/2022 20:00:00 PM','https://pq.org/2022/09/29/le-parti-quebecois-veut-doubler-le-nombre-de-delegations-du-quebec-a-letranger/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'STEVEN ROY CULLEN ET MARJOLAINE TROTTIER S’ENGAGENT À SOUTENIR LA CRÉATION DE RESSOURCES POUR PERSONNES ÂGÉES FONDÉES SUR L’APPROCHE DE CARPE DIEM', 'Steven Roy Cullen et Marjolaine Trottier s’engagent à soutenir la création de
+ressources pour personnes âgées fondées sur l’approche de Carpe Diem
+Trois-Rivières, 13 septembre 2022 – Le candidat de Québec solidaire dans Trois-Rivières, Steven Roy Cullen, et la candidate de Québec solidaire dans Champlain, Marjolaine Trottier, s’engagent à soutenir la création de RPA fondées sur l’approche Carpe Diem et soulignent l’engagement de Québec solidaire visant à opérer un virage 180⁰ en faveur des soins à domicile.
+
+Québec solidaire entend doubler l’offre de services en soins à domicile avec un investissement historique de 750 M$ par année. Cela fera passer les soins à domicile à 40% du total des soins de longue durée offerts aux personnes aînées du Québec.
+
+« Alors que 23% des dépenses en soins de longue durée pour les personnes aînées vont aux soins à domicile au Québec, en Finlande c’est 51 % et près de 75% au Danemark. Un virage à 180 degrés est nécessaire » affirme Marjolaine Trottier.
+
+« À Québec solidaire, on a compris que les soins à domicile, c’est bon pour la santé des gens, leur qualité de vie, mais également pour l’économie du Québec. Ça coûte moins cher d’investir dans les soins à domicile que dans les CHSLD et les gens sont plus heureux chez eux! », poursuit la candidate.
+
+Malgré l’augmentation prévue des soins à domicile, il vient un temps où il faut envisager
+l’hébergement dans une résidence privée pour aînés (RPA). « Aujourd’hui, 50 % des logements offerts en RPA appartiennent à 5 grands joueurs dont Chartwell. Les entreprises propriétaires des RPA sont très majoritairement des groupes d’investisseurs ou des fonds de placements immobiliers, fait remarquer Steven Roy Cullen. Cette réalité implique nécessairement qu’on essaie de tirer le maximum de marge de profits des services rendus aux résidents et résidentes ».
+
+Un gouvernement solidaire accorderait 70 % des nouvelles certifications à des RPA coopératives ou à but non lucratif. « Les entreprises d’économie sociale priorisent la mission sociale et utilisent les profits pour rendre un meilleur service. C’est un modèle idéal pour l’hébergement des personnes aînées », souligne le candidat trifluvien.
+
+Dans leur volonté de soutenir la création de RPA coopératives et à but non lucratif, les candidats solidaires indiquent se soucier des soins adaptés aux personnes en perte d’autonomie cognitives. «D’ici 2035, le nombre de personnes avec dégénérescence cognitive va doubler. Il faut prévoir le coup », explique M. Roy Cullen.
+
+Les candidats solidaires se sont ainsi engagés à soutenir la création de RPA fondées sur l’approche Carpe Diem dans la région et ailleurs au Québec. « L’approche Carpe Diem fait école en Europe où le modèle est reproduit. Il est temps que cette approche fasse également école au Québec », conclut-il.', '9/13/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/steven-roy-cullen-et-marjolaine-trottier-sengagent-a-soutenir-la-creation-de-ressources-pour-personnes-agees-fondees-sur-lapproche-de-carpe-diem')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'LA POPULATION QUÉBÉCOISE A LE DROIT À UN ACCÈS GRATUIT À SES PARCS, SELON ANDRÉE-ANNE BRILLANT', 'Rivière-Éternité, 2022-09-13. La population de Rivière-Éternité et des environs n’a pas accès aux beautés du Fjord, à moins de payer une entrée quotidienne de 9,25$ à la SÉPAQ. « Ce n’est pas normal, on paye déjà pour les parcs avec nos taxes et nos impôts » d’affirmer la candidate de QS dans Dubuc, qui a fait une tournée dans le Bas-Saguenay et qui a recueilli les doléances des citoyens et des élus sur la question.
+ 
+
+C’est pourquoi Québec solidaire propose d’instaurer au Québec un « droit à la nature » comme dans les pays scandinaves, pour considérer l’accès à la nature comme un droit fondamental des citoyennes et des citoyens. Sous cette optique, les parcs nationaux doivent être considérés comme un service public essentiel. Ce droit à la nature inclurait la gratuité d’accès aux parcs nationaux, réserves fauniques (incluant la gratuité du camping sans service et l’accès aux plans d’eau avec embarcation non motorisée).
+
+ 
+
+« On a bien vu durant la pandémie, la SÉPAQ a réduit de moitié le coût des cartes annuelles et il y a eu affluence. Imaginez l’impact sur la santé physique et mentale de la population s’il pouvait bénéficier d’un accès gratuit! ».
+
+ 
+
+En effet, de plus en plus les recherches documentent les bienfaits pour la santé mentale de passer du temps en nature.  « C’est une excellente prévention », de renchérir madame Brillant qui occupe d’ailleurs un emploi dans le domaine de la recherche psychosociale.
+
+ 
+
+Ce plan vise aussi à combattre le « déficit nature » des gens en milieu urbain, particulièrement dans les milieux moins aisés en proposant (1) la mise sur pied de nouveaux circuits en transport collectif devant desservir les parcs nationaux régionaux et (2) la mise en place d’un Programme gratuit de prêt d’équipements de plein air à travers le réseau de bibliothèques publiques du Québec.', '9/13/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/la-population-quebecoise-a-le-droit-a-un-acces-gratuit-a-ses-parcs-selon-andree-anne-brillant')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE RENDRA LA CONTRACEPTION ET LES PRODUITS D’HYGIÈNE MENSTRUELLE GRATUITS', 'La porte-parole de Québec solidaire, Manon Massé a présenté une mesure visant à assurer la gratuité des produits de contraception et d’hygiène menstruelle. Pour l’occasion, elle était accompagnée de la docteure Isabelle Leblanc, candidate solidaire dans la circonscription de Mont-Royal–Outremont.
+
+
+Faits saillants
+
+Instauration d’un programme d’accès gratuit à des produits contraceptifs de tous les types;
+Gratuité des produits d’hygiène menstruelle dans les institutions publiques;
+Coût de la mesure : 30 millions $ par année.
+ 
+
+Citations
+
+ 
+
+« La contraception, c’est un moyen pour les personnes d’avoir un contrôle sur leur corps. On veut leur permettre de prendre en main leur santé, et leur grossesse, si c’est le choix qu’elles font. Pour Québec solidaire, la notion de choix est au cœur de cet enjeu. Les femmes qui nous écoutent savent très bien de quoi je parle. C’est pour ça qu’on va retirer les barrières économiques et d’accès à la contraception », a déclaré Manon Massé.
+
+ 
+
+« Québec solidaire va aussi assurer la gratuité des produits d’hygiène menstruelle dans les institutions publiques comme les écoles. On va s’inspirer du programme écossais qui vient tout juste d’être mis en place et rendre accessibles et gratuits les produits comme les tampons, les serviettes hygiéniques ainsi que les produits d’hygiène menstruelle réutilisables », a-t-elle poursuivi.
+
+ 
+
+«  La contraception est un véritable enjeu de santé publique, mais c’est également un outil pour que les gens puissent véritablement avoir de l’autonomie sur leur corps. Les récents reculs de l’accès à l’avortement aux États-Unis nous ont tous et toutes secoués et c’est pour ça que nous devons nous assurer de continuer à avancer, ici au Québec. Parce qu’on est pas en Alabama, mais il nous reste tout de même du chemin à faire et nos acquis sont fragiles », a affirmé pour sa part Isabelle Leblanc.', '9/14/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-rendra-la-contraception-et-les-produits-dhygiene-menstruelle-gratuits')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'CRISE DU LOGEMENT À LÉVIS : UNE URGENCE SELON QS ', 'LA CRISE DU LOGEMENT: UNE URGENCE SELON QS 
+Lévis, le 14 septembre 2022 – La crise du logement perdure et la Ville de Lévis n’est pas épargnée: la ville enregistre un taux d’inoccupation à 1.1%, alors que 2500 ménages sont considérés ayant des besoins urgents en logement. Québec solidaire s’engage à résoudre cette crise en accélérant la construction de nouveaux logements sociaux et en faisant l’acquisition d’immeubles existants pour les convertir en logements communautaires.
+
+S’il est élu, le parti construira au moins 900 logements sociaux dans la municipalité de Lévis. Aussi, pour soutenir la lutte à l’itinérance, une réalité de plus en plus présente dans la région, Québec solidaire réitère son appui à aux organismes communautaires, en répondant à leur demande de rendre accessible des lits de crise, et par la création de maisons de chambres communautaires sur le territoire.
+
+« C’est la pire crise du logement des vingt dernières années, et le gouvernement en place ne veut pas la reconnaître. Nous voyons de grandes tours se construire, mais les logements n’y sont pas abordables. Seul Québec solidaire prend cette crise au sérieux. », a déclaré la candidate solidaire, Valérie Cayouette-Guilloteau. 
+
+« François Legault avait promis 15 000 logements, il en a livré la moitié. C’est gênant. Si j’avais embauché la CAQ pour me construire une maison, je les renverrais pour bris de contrat. On a besoin d’une nouvelle équipe pour régler la crise du logement. a déclaré Gabriel Nadeau-Dubois.', '9/14/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/la-crise-du-logement-une-urgence-selon-qs')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'CONTRACEPTION ET PRODUITS D''HYGIÈNE MENSTRUELLE GRATUITS: UNE AVANCÉE IMPORTANTE POUR LES FEMMES', 'Saguenay, Jeudi, 15 septembre 2022
+Les deux candidates de Québec solidaire au Saguenay, Karla Cynthia Garcia Martinez (Jonquière) et Andrée-Anne Brillant (Dubuc), se réjouissent de l’annonce concernant la gratuité de la contraception et des produits d’hygiène menstruelle. Cette annonce fait état de deux propositions concrètes: Québec solidaire instaurera un programme d’accès gratuit à toutes les méthodes contraceptives, sans exception, et assurera la gratuité des produits d’hygiène menstruelle dans les institutions publiques comme les écoles.
+
+ 
+
+Pour Andrée-Anne, « il est indispensable que toutes les femmes aient accès à un contrôle sur leurs corps et que certaines ne soient pas désavantagées pour des raisons économiques. Pour une grande majorité d’entre nous, à tous les mois, nous devons sortir un bon montant de nos poches. En 2022, il était temps d’agir sur la ‘taxe rose’ ».
+
+ 
+
+Pour sa part, Karla Cynthia Garcia Martinez, qui travaille dans le milieu scolaire public, cela sera bénéfique pour les étudiantes : « elles vivent de la précarité menstruelle. Avec cette mesure, elles ne seront plus obligées de resserrer le budget ni de restreindre leur participation à des activités scolaires pour manque de ces produits. Et c’est d’autant plus nécessaire d’éliminer les barrières économiques et d’accès à la contraception, au stérilet, au condom, à la pilule ! »
+
+ 
+
+Elles se disent également préoccupées pour garantir le respect des droits des femmes, l’autonomie sur leurs corps et la protection de leurs acquis.
+
+Selon les deux candidates, les coûts de cette prévention seront largement compensés par les économies réalisées par la réduction des ITSS et des grossesses indésirées.', '9/15/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/contraception-et-produits-dhygiene-menstruelle-gratuits-une-avancee-importante-pour-les-femmes')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GABRIEL NADEAU-DUBOIS À L’UMQ : « VOUS MÉRITEZ UN GOUVERNEMENT QUI PARTAGE VOTRE VISION »', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a pris la parole au sommet de l’Union des municipalités du Québec (UMQ) pour présenter les engagements de son parti envers les municipalités. Ceux-ci s’articulent autour de trois axes : la lutte aux changements climatiques, le logement et l’autonomie des villes.
+
+
+« Dans les villes et les villages du Québec, il y a du sang neuf, des maires et de mairesses qui mènent la charge pour le climat, pour le logement, pour la qualité de vie. On a besoin de sang neuf à l’Assemblée nationale du Québec. On a besoin d’une nouvelle équipe avec des nouvelles idées. Vous méritez un gouvernement qui partage votre vision. Imaginez tout ce qu’on peut faire ensemble. » a déclaré Gabriel Nadeau-Dubois pendant son allocution à l’Union des municipalités du Québec.
+
+ 
+
+Voici les engagements de Québec solidaire pris lors de cette rencontre :
+
+ 
+
+Lancer le plus grand chantier de transport en commun de l’histoire du Québec en partenariat avec les agences de transport, les villes et les citoyens et citoyennes (29 G$)
+Mise sur pied d’un Fonds d’urgence climatique de 500 M$ par année dès 2024 pour répondre à des événements climatiques de plus en plus extrêmes
+Investissement dans les mesures d’adaptation aux changements climatiques 
+Définir un nouveau pacte fiscal municipal, en consultant les villes, afin de les libérer de la dépendance à l’impôt foncier
+Livrer 50 000 nouveaux logements sociaux, dont 25 000 dans un premier mandat, en plus de terminer les milliers de projets AccèsLogis encore en attente. 
+Rendre abordables 10 000 maisons et condos partout au Québec avec un Fonds anti-spéculation qui utilisera le modèle des fiducies foncières communautaires
+Encadrer AirBnB de manière plus serrée
+Augmenter les transferts aux municipalités de 300 M$ par année
+Mise en place d’une taxe sur les logements vacants 
+Augmenter les redevances sur les ressources naturelles, afin de financer la transition écologique à l’échelle des villes et des régions
+Réduction de 50% des tarifs de transport en commun et compensation des sommes par de l’argent public
+Ajout de 200 M$ au Programme d’aide au développement du transport collectif, pour financer les nouvelles dessertes dans les municipalités
+Investissement de 1% du PQI, soit 600 M$ sur quatre ans, en infrastructures de verdissement.', '9/16/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/gabriel-nadeau-dubois-a-lumq-vous-meritez-un-gouvernement-qui-partage-votre-vision')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GABRIEL NADEAU-DUBOIS PRÉSENTE QUÉBEC-RAIL ET QUÉBEC-BUS POUR RÉVOLUTIONNER LE TRANSPORT INTERURBAIN', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a présenté le volet interurbain de son plan Révolution transport. En compagnie de la candidate dans Verdun Alejandra Zaga Mendez et du candidat dans Taschereau Etienne Grandmont, il a dévoilé le projet de créer Québec-Rail et Québec-Bus, deux organismes publics qui auront pour mission d’offrir du transport interurbain de qualité, fiable et accessible partout au Québec.
+
+
+Faits saillants
+
+ 
+
+Québec-Rail : 5 lignes qui relient les principales villes du Québec
+Lignes : Matane-Québec, Québec-Montréal, Québec-Sherbrooke, Sherbrooke-Montréal, Montréal Gatineau
+1140 km de rails au total
+Trains électriques pouvant atteindre une vitesse de 160 km/h
+Québec-Bus : 11 lignes qui complètent le réseau là où il n’y a pas de service sur rail
+Services fréquents et efficaces
+Toile de plus de 4000 km de routes couvertes par le service
+Coût de la mesure : 12,7 milliards $ en investissements d’ici 2030
+10,7 milliards $ pour Québec-Rail
+2 milliards $ pour Québec-Bus
+ 
+
+Citations
+
+ 
+
+« Un gouvernement de Québec solidaire va repenser entièrement le système de transport interurbain pour qu’on puisse enfin se déplacer partout au Québec sans auto-solo. On ne fait pas une lutte sérieuse aux changements climatiques sans parler de transport collectif entre les villes du Québec. Or, le transport collectif interurbain est une catastrophe: l’offre diminue au lieu d’augmenter. Ce qu’on vous présente aujourd’hui c’est une vision, nous allons travailler avec les villes et les experts pour la mettre en place », a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+«Si on veut que les gens adoptent d’autres habitudes pour se déplacer, il faut un plan ambitieux adapté à la réalité de notre territoire. L’autre composante essentielle de notre plan est la construction de gares intermodales où on peut passer du réseau Québec Rail et Québec Bus aux différents réseaux municipaux, qui peuvent être un bus, un métro ou un tramway, ou encore, dans les plus petites municipalités, des services d’autopartage comme Communauto ou du vélopartage », a affirmé Etienne Grandmont, expert en transport et candidat dans Taschereau.
+
+ 
+
+« Pour Québec solidaire, le transport collectif, ce n’est pas qu’une affaire d’urbains ou de Montréalais, c’est pour tout le Québec. Bien sûr, qu’on veut plus de transport dans Verdun, bien sûr qu’on veut des nouvelles lignes d’autobus et de tramway à Montréal, Québec, Gatineau et Sherbrooke. Mais si on est sérieux dans notre volonté de changer le Québec, il faut qu’on puisse parcourir le Québec facilement sans voiture. C’est parce que c’est possible que les gens vont le faire », a souligné Alejandra Zaga Mendez, candidate dans Verdun.', '9/16/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/gabriel-nadeau-dubois-presente-quebec-rail-et-quebec-bus-pour-revolutionner-le-transport-interurbain')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE AMÈNE LA RÉVOLUTION TRANSPORT À SHERBROOKE', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a présenté le volet de la Révolution transport pour la ville de Sherbrooke. En compagnie des candidates Mélissa Généreux (Saint-François) et Christine Labrie (Sherbrooke), ainsi que du candidat Philippe Pagé (Richmond), il a présenté les détails de ce plan d’expansion massif du transport en commun dans la région métropolitaine de Sherbrooke.
+
+
+Faits saillants
+
+Construction de deux lignes de tramway
+Aménagement de neuf lignes d’autobus à haute fréquence
+Connexion avec le réseau de transport interurbain de Québec-Rail et Québec-Bus
+Coût de la mesure : 4,2 milliards $ d’ici 2030, inclus dans le plan Vision 2030
+ 
+
+Citations
+
+« Ce n’est pas une dépense: c’est un investissement pour lequel nos enfants et nos petits-enfants vont nous remercier. C’est ce qui nous permet de lutter contre les changements climatiques, en améliorant la mobilité dans la grande région de Sherbrooke. Tout ça s’ajoute à la ligne de train entre Sherbrooke et Montréal que j’ai eu le plaisir d’annoncer hier dans le cadre de la création de Québec-Rail. C’est ce que veut la population. Un sondage publié hier matin démontre que 71% des gens de Sherbrooke veulent un train plutôt qu’un aéroport; cet appui augmente à 83% chez les jeunes. » a déclaré Gabriel Nadeau-Dubois
+
+ 
+
+« À Québec solidaire, on a compris que les citoyens ont besoin qu’on leur fournisse les moyens de changer leurs habitudes de vie. Les gens que je croise tous les jours me disent souvent être très sensibles à leur impact sur l’environnement, ils veulent plus d’options pour se déplacer, et je suis obligée de reconnaître que jusqu’à maintenant il n’y a pas d’alternative sérieuse à la voiture à Sherbrooke. » a affirmé Christine Labrie, députée sortante et candidate dans Sherbrooke
+
+ 
+
+« La proposition de Québec solidaire est particulièrement intéressante pour l’est de Sherbrooke et la circonscription de Saint-François parce qu’elle couvre des secteurs qui ont été historiquement moins bien desservis par le transport en commun, comme le CHU Fleurimont, Lennoxville et Brompton. Ce sont des secteurs qui jouent un rôle important dans le tissu de la ville de Sherbrooke, et il est plus que temps qu’on les relie avec un service fiable et rapide. » a indiqué Mélissa Généreux, candidate dans Saint-François
+
+ 
+
+« En tant que maire d’une petite municipalité en Estrie, je sais à quel point la question du transport en commun est cruciale: chez nous il n’y a tout simplement pas d’autres options que l’auto-solo. Si la tâche semble si grande aujourd’hui, c’est parce que les petites municipalités ont été abandonnées par les gouvernements en matière de transport collectif. Si le service était là, et qu’il était efficace, les gens le prendraient. Le transport en commun, ça ne devrait pas être juste pour les gens qui vivent dans les centres-villes. » a observé Philippe Pagé, candidat dans Richmond
+
+ 
+
+Québec solidaire a présenté sa vision du transport en commun à Sherbrooke. Le parti s’engage à travailler de concert avec les autorités locales et régionales afin de mettre en place la meilleure solution pour la capitale de l’Estrie.', '9/17/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-amene-la-revolution-transport-a-sherbrooke')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'MONTMORENCY : BÉLANGER DÉPLORE L''ABSENCE DE SIMARD DE LA CAQ', 'Québec, le 17 septembre 2022 – Annie-Pierre Bélanger, de Québec solidaire, déplore l’absence de Jean-François Simard de la CAQ hier soir à l’activité organisée par l’organisme « Croque ton quartier » pour discuter des enjeux électoraux concernant ses membres : « De plus, ça se passait autour d’un bon feu de camp, dans une ambiance respectueuse et conviviale. Je ne suis pas surprise cependant; partout au Québec, les candidat-e-s de la CAQ refusent de participer aux débats initiés par la société civile. », explique la candidate solidaire.
+Des représentant-e-s du PLQ et du PQ étaient sur place et les discussions ont été intéressantes, aux dires de Mme Bélanger : « Nous avons eu des échanges enrichissants pour les citoyennes et les citoyens sur place. Est-ce que M. Simard est gêné de venir parler de son sombre bilan et de la pauvreté de ses engagements pour Montmorency? ».
+
+Annie-Pierre en a profité pour rappeler que depuis le début de la campagne, elle a présenté les propositions solidaires en environnement et pour faire face à la hausse du coût de la vie. De plus, au cours de la dernière semaine, elle a présenté les engagements de son parti en matière de services publics et leurs impacts concrets pour la circonscription de Montmorency :
+
+Une nouvelle vision en santé : plus de CSLC à Beauport et un vrai CLSC à Sainte-Brigitte-de-Laval
+Un enfant, une place en garderies : défendre Montmorency comme étant prioritaire dans l’allocation des places que Québec solidaire va créer s’il forme le prochain gouvernement.
+Vieillir à la maison : doubler l’offre de soins à domicile et un nouveau programme d’allocation pour les proches aidantes. Confier la gestion du CHSLD St-Augustin aux familles et à la communauté.
+Organismes communautaires : s’assurer que les groupes de Montmorency obtiennent leur juste part de la hausse de plus d’un milliard $ sur 4 ans que consentira un gouvernement solidaire pour leur financement à la mission.
+De meilleures conditions de travail pour les travailleuses du secteur public, comme en santé et en éducation, et un programme d’embauche pour s’assurer de la qualité et de l’accessibilité des services publics.
+« Que pense M. Simard de ces propositions? Je me doute qu’il ne soit pas entièrement d’accord, mais en discuter et faire valoir de façon transparente à la population ce qui nous distingue, contribuerait assurément au débat démocratique actuel. N’est-ce pas le propre d’une campagne électorale que d’être un moment privilégié dans la vie démocratique d’un peuple? », conclut la candidate solidaire.', '9/17/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/montmorency-belanger-deplore-labsence-de-simard-de-la-caq')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE INVESTIT POUR QUE LA SANTÉ MENTALE NE SOIT PLUS UN LUXE', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois, accompagné de la candidate solidaire dans Saint-François, la docteure Mélissa Généreux, a annoncé que son parti investira 280 millions de dollars pour que les soins en santé mentale ne soient plus un luxe.  
+
+
+Faits saillants
+
+Majoration des salaires des psychologues du secteur public
+Embauche de 900 nouveaux psychologues  
+Embauche de 1000 professionnels pouvant fournir des services de psychothérapie (travailleurs sociaux, psychoéducatrices, sexologues, etc.) 
+Coût de la mesure : 280 M$
+ 
+
+« La santé mentale, c’est une urgence nationale. Aujourd’hui, je vous présente notre plan pour y répondre: Québec solidaire va investir 280 millions de dollars par année pour que la santé mentale ne soit plus un luxe. On va s’assurer que tout le monde puisse avoir accès à des soins de santé mentale publics et gratuits, dans un délai raisonnable. On va non seulement contribuer à régler la crise en santé mentale, mais on va aussi contribuer à désengorger le système de santé. En effet, jusqu’à 40% des visites médicales chez les médecins de famille sont liées à la santé mentale. », a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+Ramener les soignantes et miser sur l’interdisciplinarité
+
+ 
+
+Québec solidaire va embaucher 900 psychologues supplémentaires dans le réseau public, tout en bonifiant immédiatement leurs salaires et en rehaussant leur autonomie professionnelle pour s’assurer que les conditions de travail soient plus attractives dans le secteur public.
+
+ 
+
+Un gouvernement solidaire va également embaucher 1000 autres professionnels de la santé mentale pouvant offrir des soins en santé mentale – des travailleuses sociales, des psychoéducateurs, des sexologues – pour les déployer dans le réseau de la santé et des services sociaux, mais aussi dans le réseau scolaire. 
+
+ 
+
+« Pour agir en santé mentale, on doit évidemment améliorer l’accès aux soins, notamment à la psychothérapie. Ça veut aussi dire de mieux financer les organismes communautaires, dont plusieurs offrent de l’aide aux personnes en détresse, par exemple les centres de prévention du suicide, les organismes en santé mentale et les maisons des jeunes. Couvrir les frais de santé mentale, c’est une chose, mais ramener les professionnels dans le réseau public ou communautaire, c’est la clé pour assurer que notre système fonctionne bien et que les gens sont soutenus au moment où ça compte », a ajouté pour sa part Mélissa Généreux.', '9/18/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-investit-pour-que-la-sante-mentale-ne-soit-plus-un-luxe')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE PROPOSE UNE RÉVOLUTION TRANSPORT POUR GATINEAU', 'La porte-parole de Québec solidaire, Manon Massé a dévoilé cet après-midi le dernier volet du plan Révolution transport du parti, accompagnée du candidat dans Hull, l’économiste Mathieu Perron-Dufour. Après les volets urbains pour Québec, Montréal, Sherbrooke et le transport interurbain Québec-Rail et Québec-Bus, c’est la vision pour Gatineau qui a été présentée.
+
+
+Il s’agit d’une véritable révolution qui viendra augmenter substantiellement l’offre de transport dans la municipalité, d’abord en poursuivant le projet en cours du tramway Gatineau-Ottawa, puis en développant une nouvelle ligne de tramway dans l’est de la ville et finalement en ajoutant deux tracés complémentaires d’autobus haute fréquence. La proposition de Québec solidaire représente 2 milliards de dollars en investissements.
+
+ 
+
+« Notre Révolution transport, elle est pour l’ensemble du Québec. Et Gatineau aura sa juste part. Ça fait trop longtemps que le transport collectif est négligé ici, et pourtant, on est dans la troisième région métropolitaine d’importance au Québec. Avec un gouvernement solidaire, les citoyens et citoyennes de Gatineau auront davantage d’options pour se déplacer, des options écologiques, efficaces, fiables et confortables », a déclaré Manon Massé.
+
+ 
+
+Poursuite du projet de tramway Gatineau-Ottawa
+
+ 
+
+Le réseau de tramway à Gatineau est actuellement en développement avec la réalisation prévue de deux lignes dans l’ouest de la ville (secteur Aylmer) en direction des centres-villes de Gatineau (secteur Hull) et d’Ottawa (colline du Parlement), totalisant 22,9 km de distance. Québec solidaire s’engage à poursuivre les démarches afin que le projet soit réalisé.
+
+ 
+
+« Il y a un projet sur la table qui est en cours de réalisation. Il faut aller de l’avant. Ce sera la colonne vertébrale de notre réseau, et à partir de là, on va développer un réseau digne de ce nom pour la population gatinoise », a affirmé Mathieu Perron-Dufour, candidat dans Hull.
+
+ 
+
+Raccorder les différents secteurs au centre-ville
+
+ 
+
+Au-delà du projet existant, Québec solidaire propose une nouvelle ligne de tramway pour desservir la population de l’est de la municipalité. Ce second axe de 14 km reprendrait le tracé actuel du Rapibus entre le centre-ville de Gatineau et l’est de la ville, jusqu’au boulevard Labrosse. De plus, différentes lignes d’autobus haute fréquence viendront s’ajouter pour desservir efficacement le cégep de l’Outaouais, le cégep Heritage et l’École secondaire Mont-Bleu d’une part, et d’autre part le boulevard de l’Aéroport.
+
+ 
+
+« Avec la Révolution transport, les différents secteurs de Gatineau seront connectés au centre-ville de manière efficace, et on pourra enfin traverser d’ouest en est de manière fiable et confortable. Ça va complètement changer la donne! » a conclu Manon Massé.', '9/18/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-propose-une-revolution-transport-pour-gatineau')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'L’ESTRIE DE SHOW, UNE DÉMONSTRATION DE FORCE QUI ANNONCE DES GAINS SOLIDAIRES EN ESTRIE', 'Salle comble au théâtre Granada ce soir pour L’Estrie de show de Québec solidaire. Dans une ambiance survoltée, les porte-paroles de Québec solidaire, Gabriel Nadeau-Dubois et Manon Massé, ont envoyé un message fort à la foule aux côtés des candidates solidaires dans Sherbrooke et Saint-François, Christine Labrie et Mélissa Généreux : le 3 octobre, l’Estrie sera solidaire.
+
+La soirée s’est déroulée sous le signe de la fête. Les discours des porte-paroles et des candidates de Sherbrooke et Saint-François ont été entrecoupés par des performances musicales des artistes LaF et Fanny Bloom, tout ça animé par le candidat solidaire dans Richmond, Philippe Pagé. Cela a été l’occasion de revenir sur les quatre dernières années du travail des députés solidaires à l’Assemblée nationale, de faire le bilan des premières semaines de campagne, mais surtout, de regarder vers l’avant.
+Le moment fort de la soirée était sans aucun doute le discours de Gabriel Nadeau-Dubois, les applaudissements ont fait vibrer la salle entière. « Les amis, le temps est venu de reprendre le flambeau des grands projets. Le temps est venu de faire équipe avec la génération qui a bâti le Québec. Le temps est venu de construire, vote par vote, brique par brique, un Québec qu‘on va être fiers, demain, de léguer à nos enfants, à nos petits-enfants. Je le répète tous les jours depuis le début de la campagne: n’ayons pas peur de l’avenir » a-t-il conclu.
+« Changer d’ère, ce n’est pas juste un slogan de campagne. C’est une promesse qu’on se fait de s’écouter les uns les autres, de se faire confiance, d’amener le Québec ailleurs et de faire ça ensemble. C’est la promesse d’un retour à nos valeurs fondamentales: prendre soin du monde, prendre soin de nos services publics, prendre soin de notre environnement. Prendre soin. C’est aussi simple que ça. Cette fois-ci, mes amis, la porte est ouverte, faut juste rentrer dedans. Christine a ouvert la porte de l’Estrie il y a quatre ans. Cette année on ouvre la porte à la Dre Généreux dans Saint-François » a scandé Manon Massé, porte-parole de Québec solidaire, en concluant son discours.
+Revenant sur son parcours depuis 2018, la députée sortante et candidate dans Sherbrooke Christine Labrie a déclaré à la foule : « On a surpris tous les analystes en gagnant ici, mais c’était juste le début. On a continué de les surprendre jour après jour, semaine après semaine, parce que j’ai fait mes preuves comme députée. On a montré que non seulement Québec solidaire pouvait gagner en région, mais que les régions pouvaient gagner à être représentées par Québec solidaire. »
+Pour sa part, la docteure Mélissa Généreux, candidate dans Saint-François, a rappelé l’approche différente de Québec solidaire pour régler les problèmes du système de santé. « Je pense que personne ici va tomber en bas de sa chaise si je vous dis que j’ai choisi de faire de la politique avec Québec solidaire parce que je pense qu’on peut, mais surtout qu’on doit changer de vision en santé au Québec. »', '9/18/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/lestrie-de-show-une-demonstration-de-force-qui-annonce-des-gains-solidaires-en-estrie')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE S’ENGAGE À RÉDUIRE LE GASPILLAGE ALIMENTAIRE', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois était accompagné de Olivier Bolduc (Jean-Talon) et de Christine Gilbert (Lotbinière-Frontenac) pour annoncer que son parti s’engage à déposer une loi pour lutter contre le gaspillage alimentaire à la source.
+
+
+Faits saillants
+
+Loi pour empêcher les grandes organisations du domaine alimentaire de jeter les invendus comestibles
+Celles-ci devront plutôt transférer leurs invendus à des organismes qui en feront la redistribution ou à des entreprises de revalorisation dans le cadre d’ententes entre les parties
+Un programme de soutien aux organismes partenaires doté d’une enveloppe annuelle de 12,5 millions $ par année, à chaque année du mandat
+Organisation touchées: les grandes entreprises du secteur alimentaire (supermarchés, chaînes de restauration, chaînes d’hôtellerie, grands transformateurs, grands distributeurs, etc) dont le chiffre d’affaires atteint 100 millions de dollars, ainsi que les institutions publiques
+Une loi québécoise qui serait inspirée de celle adoptée en France en 2016
+ 
+
+« Aujourd’hui, Québec solidaire s’engage à déposer une loi contre le gaspillage alimentaire. L’objectif: réduire le gaspillage de 50% d’ici 2030. On va se baser sur ce qui existe ailleurs dans le monde et qui fonctionne: une loi qui va interdire aux grandes entreprises de l’alimentation et de la restauration ainsi que les institutions publiques de jeter les invendus comestibles. Elles vont plutôt devoir conclure des ententes pour transférer leurs invendus alimentaires à des organismes qui en feront la redistribution ou à des entreprises de revalorisation », a annoncé Gabriel Nadeau-Dubois.
+
+ 
+
+« Nous allons adopter une attitude responsable et pragmatique: on va leur donner deux ans pour se conformer. Je vais être très clair: le petit resto du coin, l’épicerie indépendante ou le casse-croûte du village ne seront pas touchés par notre mesure », a-t-il poursuivi. 
+
+ 
+
+« Actuellement, on se fie à la bonne volonté des entreprises pour récupérer les aliments invendus. Il faut que ça change. Il est temps de faire en sorte que les grandes entreprises de transformation, de distribution et de détail soient tenues de prendre des engagements clairs pour en finir avec le gaspillage alimentaire de masse », a mentionné Olivier Bolduc.
+
+ 
+
+« À première vue, on gaspille seulement la nourriture qu’on jette aux poubelles. En fait, on gaspille aussi toutes les ressources, l’énergie et le travail qui y a été investi. Quand on jette des aliments non consommés, on jette aussi une grande quantité d’eau, des bouts de terres agricoles et le travail de plein de gens. Ça ne s’arrête pas là, une fois enfouis ou incinérés, les déchets émettent des GES qui participent au réchauffement climatique. Ce que propose aujourd’hui Québec solidaire est une preuve qu’on peut en faire plus », a pour sa part indiqué Christine Gilbert.
+
+ 
+
+Exemples d’ententes qui pourraient être conclue dans l’objectif de réduire le gaspillage:
+
+entente entre un supermarché et entreprise de transformation alimentaire (ex: qui ferait des jus avec des fruits et légumes abîmés)
+entente entre un grand distributeur et une entreprise qui offre des rabais sur les produits dont la date de péremption approche comme Food Hero ou Flashfood
+entente entre une grande chaîne de restaurants et une banque alimentaire', '9/19/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-sengage-a-reduire-le-gaspillage-alimentaire')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'UNE PREMIÈRE : QUÉBEC SOLIDAIRE TRADUIT SES ENGAGEMENTS EN SEPT LANGUES AUTOCHTONES', 'Québec solidaire a rendu disponibles ses engagements électoraux en sept langues autochtones. Il s’agit d’une première pour un parti politique au Québec.
+ 
+
+« À Québec solidaire, ça fait longtemps qu’on s’est engagé pour la préservation des langues et cultures autochtones. Avec la traduction de nos engagements, c’est un pas supplémentaire dans cette direction que nous faisons aujourd’hui. C’est aussi une façon pour nous de démontrer clairement notre engagement à impliquer les personnes autochtones dans la vie démocratique québécoise et qu’avec Québec solidaire, les choses vont changer dans nos relations avec les Premiers peuples », a déclaré Manon Massé, porte-parole de Québec solidaire.
+
+ 
+
+Les engagements du parti sont donc disponibles dans les langues suivantes, en plus du français et de l’anglais :
+
+Aln8ba8dwaw8gan — Abénakis
+Anicinape
+Atikamekw nehiromowin — Atikamekw
+Iiyiyuu ayimuun — Cri 
+Innu-aimun 
+Inuktitut
+Kanien’kéha – Mohawk
+ 
+
+Il s’agit d’une première dans l’histoire des partis politiques au Québec : jamais un parti n’a rendu ses engagements disponibles en un aussi grand nombre de langues autochtones.
+
+ 
+
+« Comme candidat de Québec solidaire issu des Premières Nations, je suis doublement fier. Je suis fier de porter le message d’un parti qui prend au sérieux les enjeux des Premiers peuples et je suis fier de pouvoir distribuer ce message dans la langue de mes ancêtres, Anicinape », a affirmé pour sa part Benjamin Gingras, candidat dans la circonscription d’Abitibi-Est et membre de la Commission nationale autochtone de Québec solidaire.', '9/19/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/une-premiere-quebec-solidaire-traduit-ses-engagements-en-sept-langues-autochtones')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'LES 5 CANDIDAT.E.S DE QS PRENNENT DES ENGAGEMENTS POUR LE SAGUENAY--LAC-SAINT-JEAN', 'C’est avec fierté que les 5 candidat.e.s de Québec solidaire au Saguenay-Lac-Saint-Jean annonçaient leurs engagements régionaux, ce matin, à l’Érudit Café de Jonquière, lors d’une conférence de presse.
+Faits saillants:
+
+Augmentation du budget de fonctionnement de la STS de 50%, soit 15M$/an ou un total de 60 millions pour un premier mandat
+Soutien à la création de 828 places en garderie
+Création de 900 logements sociaux
+Soutien à la création d’aires protégées dans la région
+Soutien aux municipalités dans la diversification de leurs sources de revenus, notamment par une réforme fiscale municipale
+Accroissement du soutien aux centres culturels régionaux et municipaux
+Outiller davantage les acteurs et actrices de l’entrepreneuriat régional
+Travailler avec les organismes locaux de développement économique vers une économie verte, durable, circulaire et inclusive
+Travailler activement avec l’ensemble des acteurs et actrices du développement du réseau Québec Bus pour développer le transport intermunicipal dans la région
+Ouverture 24h/24, 7 jours sur 7 des CLSC dans toutes les communautés de notre région
+Soutien au développement de l’UQAC et des 4 cégeps du Saguenay—Lac-Saint-Jean
+« Je suis très heureux des engagements de Québec solidaire pour la région, notamment l’augmentation de plus de 50% du budget de la STS. Je suis convaincu qu’avec cet argent, nous allons pouvoir développer un service de transport en commun adapté aux besoins de la population ainsi qu’aux réalités de notre milieu de vie, tout en réduisant les GES et les dépenses en transport pour les Saguenéens et les Saguenéennes, alors que celui-ci constitue le plus gros poste de dépenses des famille », souligne le candidat dans Chicoutimi Adrien Guibert-Barthez.
+
+Selon Karla Cynthia Garcia Martinez, « les solutions soulevées par la plateforme régionale en culture et en éducation marquent des engagements clairs de Québec solidaire pour permettre aux artistes de vivre dignement en plus de valoriser la profession d’enseignement et ainsi mieux contrer le décrochage scolaire ».
+
+« Avec la lignée des récentes annonces de Québec solidaire qui promet d’améliorer l’accès aux soins de santé mentale, notre plateforme régionale permettra de manière plus large d’avoir un meilleur accès aux soins de santé de toutes sortes grâce aux réseaux locaux de services », ajoute Andrée-Anne Brillant, candidate dans Dubuc.
+
+« Avec le financement prévu dans Québec Bus, on transformera le transport public et il prendra un rôle central dans nos déplacements. On va pouvoir mettre en place des programmes de valorisation et d’incitation à utiliser les bus entre les villes, et ça aura un impact réel sur les gens du ma région », ajoute Elsa Moulin, candidate dans Lac-Saint-Jean.
+
+Michaël Ottereyes, candidat dans Roberval, ajoute quant à lui qu’il « se réjouit de voir son parti témoigner d’un réel désir de travailler en collaboration avec différentes instances régionales allochtones et autochtones ».', '9/19/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/les-5-candidat-e-s-de-qs-prennent-des-engagements-pour-la-region')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'DÉVELOPPEMENT RÉGIONAL AU SAGUENAY--LAC-SAINT-JEAN : RÉPONDRE AUX DÉFIS ÉCONOMIQUES D’AUJOURD’HUI ET DE DEMAIN PAR UN DÉVELOPPEMENT RÉGIONAL AMBITIEUX', 'Il est impératif de réfléchir à une économie ayant des impacts positifs, concrets et directs pour l’ensemble de la population de notre région en tenant compte de l’environnement qui nous entoure.
+Conditionnellement à la réception de résultats d’études concluants, appuyer la Coalition en faveur du Pont de Tadoussac afin de favoriser le désenclavement des régions éloignées;
+Soutenir et outiller davantage les acteurs et actrices de l’entrepreneuriat régional afin que les entreprises d’ici puissent recevoir l’accompagnement adéquat pour se développer, créer de la richesse pour la région et contribuer au rayonnement régional;
+Travailler avec les organismes locaux de développement économique vers une économie verte, durable, circulaire et inclusive;
+Promouvoir une véritable politique de régionalisation de l’immigration incluant la francisation, l’aide en emploi et l’intégration sociale des personnes immigrantes;
+Augmenter le nombre de personnes immigrantes qui s’installent dans la région en s’assurant que le Saguenay—Lac-Saint-Jean accueille sa juste part en fonction du chiffre québécois;
+Exiger de Rio Tinto Alcan le respect de l’entente entre l’entreprise et le gouvernement du Québec d’investir les profits tirés des barrages sur la rivière Péribonka dans l’économie régionale, en construisant notamment une troisième usine de production d’aluminium;
+Environnement: Protéger nos milieux naturels pour les prochaines générations
+
+Il faut protéger notre forêt, nos ressources naturelles et notre eau afin de vivre dans un environnement sain et respectueux des générations futures.
+
+Créer des aires protégées au Saguenay–Lac-Saint-Jean en se basant sur le consensus régional ressortant de la table d’analyse de carence en aires protégées, notamment l’aire protégée au sud du lac Kénogami, table fondée par la Conférence régionale des Élus en 2013-2014;
+Appuyer la demande des maires et mairesses du Lac Saint-Jean d’exiger de Rio Tinto une gestion collective du niveau du Lac-Saint-Jean.
+Transport: Faire du transport public le centre de la transformation des déplacements en agissant à la hauteur de l’urgence climatique
+
+Le transport est un facteur important dans l’émancipation sociale. Nous voulons repenser collectivement nos systèmes de transport pour avoir des options de déplacement pour une meilleure qualité de vie et pour réduire nos gaz à effet de serre.
+
+Travailler activement avec l’ensemble des acteurs et actrices du développement du réseau Québec Bus, un réseau de transport collectif interrégional, intermunicipal et urbain, accessible, efficient et répondant aux besoins de la population;
+Augmenter le budget de fonctionnement la Société de Transport de Saguenay de 50%, soit 15M$/an;
+Encourager les initiatives locales afin de favoriser le transport alternatif, actifs et le transport adapté.
+Démocratie: Assurer un milieu régional collaboratif, clé de notre succès
+
+Il est nécessaire de donner les moyens aux différentes instances régionales d’être parties prenantes de notre développement, en collaboration avec différents paliers de gouvernements.
+
+Soutenir les municipalités dans la diversification de leurs sources de revenus, notamment par une réforme fiscale municipale qui les rendra moins dépendantes des taxes foncières et qui considère les réalités des régions plus éloignées;
+Promouvoir les instances régionales et locales de concertation et de décision impliquant les élu.e.s, la société civile et les Premières Nations et Inuits en défendant notamment l’établissement d’un traité juste et équitable avec le conseil tribal Mamuitun et en créant un conseil régional de transition pour organiser la transition sur le plan régional, en respectant les besoins et réalités des communautés;
+Réformer le mode de scrutin permettant une meilleure représentativité de la diversité de l’univers politique québécois en respect des spécificités de toutes les régions du Québec;
+Education: Garantir le droit à l’éducation sur tout le territoire
+
+Investir en éducation est indispensable pour le développement régional. La reconnaissance des acteur.trice.s du milieu éducatif est au centre de nos préoccupations.
+
+Encourager le développement de l’UQAC et des 4 cégeps du Saguenay—Lac-Saint-Jean pour augmenter la rétention des jeunes en région et attirer la venue de plus d’étudiant.e.s d’autres régions du Québec et de l’international;
+Défendre, renforcer et développer les différents programmes exclusifs dans les milieux d’enseignement supérieurs de la région;
+Services sociaux: Lutter contre les inégalités, un engagement réel de notre part
+
+Les services sociaux sont les maillons essentiels de notre société. Leur donner les moyens à la hauteur de leurs responsabilités est primordial pour un développement régional ambitieux.
+
+ Renforcer le développement des CPE dans la région, en comblant le manque de places (évalué à 828 places manquantes) et en améliorant les conditions de travail des travailleur.euse.s;
+Maintenir les services en santé de proximité notamment dans un contexte de vieillissement de la population en rendant ouvert 24h/24, 7 jours sur 7 les CLSC dans toutes les communautés de notre région;
+Augmenter le financement pour la construction de logements sociaux afin d’atteindre les objectifs au Saguenay–Lac-Saint-Jean, évalués à un peu plus de 900 logements;
+ 
+
+Culture : Soutenir notre communauté artistique et préserver notre patrimoine, un devoir
+
+Notre richesse culturelle est unique, il est de notre devoir collectif de la défendre.
+
+Mettre en valeur la richesse multiculturelle et sa diversité dans la région en soutenant les organismes concernés;
+Instaurer des navettes de transport vers les parcs nationaux de la région à partir des centres urbains (Chicoutimi, La Baie, Jonquière, Alma, Roberval) et protéger l’héritage architectural de la région en créant SÉPAQ-Patrimoine ;
+Permettre aux artistes d’exercer leur art sur l’ensemble du territoire, notamment par un accroissement des budgets des centres culturels régionaux et municipaux afin d’assurer le rayonnement des artistes dans la région;
+Encourager la consommation de culture régionale en augmentant le nombre de sorties culturelles obligatoires au primaire et au secondaire à quatre sorties par années et en offrant des “Billets culture” de 200$ aux personnes immigrantes pour que celles-ci puissent accéder facilement à la culture québécoise et encourager la francisation;', '9/19/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/developpement-regional-au-saguenay-lac-saint-jean-repondre-aux-defis-economiques-daujourdhui-et-de-demain-par-un-developpement-regional-ambitieux')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'LES 5 CANDIDAT.E.S DE QS PRENNENT DES ENGAGEMENTS POUR LA RÉGION', 'Les 5 candidat.e.s de QS prennent des engagements pour la région
+Saguenay, le 19 septembre 2022 — C’est avec fierté que les 5 candidat.e.s de Québec solidaire au Saguenay-Lac-Saint-Jean annonçaient leurs engagements régionaux, ce matin, à l’Érudit Café de Jonquière, lors d’une conférence de presse.
+
+Faits saillants:
+
+Augmentation du budget de fonctionnement de la STS de 50%, soit 15M$/an ou un total de 60 millions pour un premier mandat
+Soutien à la création de 828 places en garderie
+Création de 900 logements sociaux
+Soutien à la création d’aires protégées dans la région
+Soutien aux municipalités dans la diversification de leurs sources de revenus, notamment par une réforme fiscale municipale
+Accroissement du soutien aux centres culturels régionaux et municipaux
+Outiller davantage les acteurs et actrices de l’entrepreneuriat régional
+Travailler avec les organismes locaux de développement économique vers une économie verte, durable, circulaire et inclusive
+Travailler activement avec l’ensemble des acteurs et actrices du développement du réseau Québec Bus pour développer le transport intermunicipal dans la région
+Ouverture 24h/24, 7 jours sur 7 des CLSC dans toutes les communautés de notre région
+Soutien au développement de l’UQAC et des 4 cégeps du Saguenay—Lac-Saint-Jean
+« Je suis très heureux des engagements de Québec solidaire pour la région, notamment l’augmentation de plus de 50% du budget de la STS. Je suis convaincu qu’avec cet argent, nous allons pouvoir développer un service de transport en commun adapté aux besoins de la population ainsi qu’aux réalités de notre milieu de vie, tout en réduisant les GES et les dépenses en transport pour les Saguenéens et les Saguenéennes, alors que celui-ci constitue le plus gros poste de dépenses des famille », souligne le candidat dans Chicoutimi Adrien Guibert-Barthez.
+
+Selon Karla Cynthia Garcia Martinez, « les solutions soulevées par la plateforme régionale en culture et en éducation marquent des engagements clairs de Québec solidaire pour permettre aux artistes de vivre dignement en plus de valoriser la profession d’enseignement et ainsi mieux contrer le décrochage scolaire ».
+
+« Avec la lignée des récentes annonces de Québec solidaire qui promet d’améliorer l’accès aux soins de santé mentale, notre plateforme régionale permettra de manière plus large d’avoir un meilleur accès aux soins de santé de toutes sortes grâce aux réseaux locaux de services », ajoute Andrée-Anne Brillant, candidate dans Dubuc.
+
+« Avec le financement prévu dans Québec Bus, on transformera le transport public et il prendra un rôle central dans nos déplacements. On va pouvoir mettre en place des programmes de valorisation et d’incitation à utiliser les bus entre les villes, et ça aura un impact réel sur les gens du ma région », ajoute Elsa Moulin, candidate dans Lac-Saint-Jean.
+
+Michaël Ottereyes, candidat dans Roberval, ajoute quant à lui qu’il « se réjouit de voir son parti témoigner d’un réel désir de travailler en collaboration avec différentes instances régionales allochtones et autochtones ».', '9/19/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/les-5-candidat-e-s-de-qs-prennent-des-engagements-pour-la-region-2')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE VA RÉDUIRE LA FACTURE DU TRANSPORT COLLECTIF DE 50 %', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois, a présenté un engagement consistant à réduire de 50% les prix des titres de transport collectif pour l’ensemble du Québec.
+
+
+« Ça va encourager les gens à changer leurs habitudes, mais ça représente aussi, pour les familles les plus touchées par la crise de l’inflation, des économies importantes! En pleine crise du coût de la vie, ce sont des économies qui vont donner de l’air aux individus et qui vont leur permettre de dépenser ailleurs dans leur budget. », a déclaré M. Nadeau-Dubois. 
+
+ 
+
+Faits saillants :
+
+Réduction de 50% des tarifs de transport en commun partout au Québec pour tout le monde
+Cette mesure sera appliquée graduellement pour aider les sociétés de transport à absorber la hausse de l’achalandage : 
+Pour une personne qui habite à Longueuil et qui travaille à Montréal, cela représente des économies parlent de 900$
+Les sociétés de transport seront compensées à 100 % pour la perte de revenus
+Coût et déploiement de la mesure sur le mandat :
+ 
+
+2023-2024	2024-2025	2025-2026	2026-2027
+190 millions $	290 millions $	390 millions $	500 millions $
+Réduction de 20%	Réduction de 30%	Réduction de 40%	Réduction de 50%
+ 
+
+« Bien sûr, il ne faut pas que ça se fasse aux dépens des sociétés de transport, Québec solidaire s’engage donc à leur verser 500 millions $ par année, en 2026-2027, pour compenser les pertes de revenus provoquées par ces baisses de tarifs. Cette mesure sera appliquée graduellement pour aider les sociétés de transports à absorber la hausse de l’achalandage. » a poursuivi Gabriel Nadeau-Dubois
+
+ 
+
+« Le comté de Viau connaîtra d’importants changements en transport en commun grâce à Québec solidaire. Non seulement, il y aura des stations de la ligne bleue dans la circonscription, mais en plus un Service rapide de bus suivra le boulevard Saint-Michel. C’est une nouvelle ère de transport en commun qui s’ouvre pour Viau, une ère de meilleure connexion avec le reste de Montréal. Réduire les coûts de transport en commun en offrant un meilleur service, c’est exactement ce qu’il faut pour réduire l’usage de la voiture ici, dans Viau », a déclaré Renée-Chantal Belinga, candidate dans Viau.
+
+ 
+
+« On devrait diminuer les prix pour faire entrer plus de gens dans le transport en commun et c’est exactement ce que propose Québec solidaire. Les économies pour les familles seront encore plus substantielles qu’à Montréal. Une personne qui vit à Marie-Victorin et qui travaille à Montréal économisera 900$ par année sur son laissez-passer grâce à Québec solidaire. Dans le budget d’une famille, ça peut changer la donne. » a déclaré Shophika Vaithyanathasarma, candidate dans Marie-Victorin', '9/20/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-va-reduire-la-facture-du-transport-collectif-de-50')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'COMMUNIQUÉ - FLAVIE TRUDEL PRÉSENTE LES ENGAGEMENTS DE QUÉBEC SOLIDAIRE POUR JOLIETTE LORS DU DÉBAT AU CÉGEP RÉGIONAL DE LANAUDIÈRE.', 'Chaque campagne électorale, le CÉGEP régional de Lanaudière à Joliette organise un débat gratuit où tous les candidat-es sont invité-es. C’est avec enthousiasme que la
+candidate Flavie Trudel a accepté l’invitation, afin d’y présenter les principaux engagements de Québec solidaire et leur importance pour la circonscription de Joliette. Le débat s’est déroulé à la salle Calimarose devant un auditoire de quelques centaines de personnes, principalement des étudiant-es.
+
+
+
+Pendant le débat, Flavie Trudel a démontré son enracinement dans sa communauté et sa connaissance approfondie du milieu communautaire de Joliette. À travers les thèmes de l’éducation, l’environnement, l’immigration et la justice sociale, elle a répété l’importance de soutenir les organismes locaux qui travaillent à l’alphabétisation, à l’accueil des nouveaux arrivants, à l’accès au logement et à l’appui aux personnes en situation d’itinérance. « Il faut s’assurer que les organismes aient accès aux ressources nécessaires, qu’elles aient des subventions pour faire leur travail », s’est-elle engagée.
+
+Flavie a également réitéré l’engagement de Québec solidaire d’adopter le Principe de Joyce lorsque le débat a porté sur les relations avec les nations autochtones. La candidate n’a pas eu peur des mots en affirmant : « Nous reconnaissons l’existence du racisme systémique. Pour lutter contre un problème, il faut reconnaître qu’il existe ».
+
+
+
+La candidate solidaire a souligné les avancements qui ont été rendus possibles grâce aux 10 députés élus de Québec solidaire et de tous les sympathisants, notamment en matière d’égalité entre les genres, de justice sociale et de lutte aux changements climatiques. Elle a mentionné : « Québec solidaire favorise le débat sur la société que nous voulons. Je suis contente de voir l’effet d’entraînement que nous avons auprès des autres formations politiques. »
+
+Flavie a conclu le débat en rappelant que Joliette est une circonscription pivot où tout est possible, tout en invitant les citoyen-nes, notamment les jeunes, à lui accorder leur confiance et à aller voter en grand nombre s’ils veulent changer d’ère.', '9/20/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/communique-flavie-trudel-presente-les-engagements-de-quebec-solidaire-pour-joliette-lors-du-debat-au-cegep-regional-de-lanaudiere')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE SOUHAITE REDONNER SA DIGNITÉ AU SYSTÈME DE SANTÉ DE LAVAL', 'Québec solidaire souhaite redonner sa dignité
+
+au système de santé de Laval
+
+ 
+
+Laval, le 15 septembre 2022 – Québec solidaire veut changer la façon d’offrir des soins de santé à Laval en soutenant les infrastructures existantes dans un premier mandat. De plus, les propositions solidaires permettront de mieux servir la population dans des quartiers plus éloignés et à désengorger l’urgence du seul hôpital de Laval. 
+
+« Le système de santé lavallois souffre d’un manque important d’humanité alors que nous devons désengorger la première ligne. Déjà que nous n’avons pas assez de cliniques, pas assez de CLSC, et un seul hôpital pour un bassin de population de près de 500 000 personnes puisque la Cité-de-la-Santé dessert aussi la Rive-Nord, nous devons alléger nos urgences en sortant du tout au médecin », a dit Josée Bélanger, candidate de Québec solidaire dans Vimont. 
+
+Josée est infirmière depuis 18 ans. Elle a une expertise en soins de santé puisqu’elle a travaillé dans plusieurs provinces canadiennes en plus de travailler en soins à domicile au Québec. Elle était sur la ligne de front durant la COVID au Québec en participant à la formation des préposées bénéficiaires, des infirmières et a participé à la vaccination. Pour elle, le virage en santé de proximité est une nécessité. 
+
+Les propositions de Québec solidaire pour améliorer la première ligne de santé sont principalement d’augmenter l’accès aux soins de santé de proximité par les CLSC en offrant des heures d’ouvertures élargies, de bonifier et de moderniser la ligne Info-Santé;  8-1-1, et de décloisonner les soins de santé en misant sur le travail d’équipe multidisciplinaire et donc de permettre aux travailleurs de la santé et des services sociaux de travailler au meilleur de leurs compétences et de leurs formations.  
+
+« Un système de santé public plus humain, ça passe par un système flexible, plus autonome et qui respecte davantage toutes les professions qui y évoluent. En donnant plus d’options aux gens que les urgences, nous rapprochons les soins des milieux de vie. De plus, en soutenant les organismes de soutien aux proches aidants, nous donnons la possibilité aux aînés de vieillir et de mourir chez eux », a déclaré Zachary Robert, candidat de Québec solidaire dans Chomedey, qui travaille aussi dans une résidence de soins de longue durée.
+
+« Dans certains quartiers, notamment dans le vieux Sainte-Rose, la population est vieillissante. Nous devons nous assurer que les services de soutien soient adéquats afin que les personnes aînées qui désirent rester chez elles puissent le faire. En ce moment, seulement 8,6% de celles-ci reçoivent des services de soutien à domicile, alors que les besoins se situent plutôt autour de 18%. Nous devons investir massivement dans les soins à domicile pour permettre aux personnes aînées de faire ce choix-là », continue Karine Cliche, candidate de Québec solidaire dans Sainte-Rose.
+
+En plus de l’accès à la première ligne, Québec solidaire souhaite bonifier les besoins en soins à domicile pour combler le manque existant à Laval et accorder de meilleures conditions de travail pour les infirmières tels qu’une loi mur-à-mur sur les ratios, l’abolissement du temps supplémentaire obligatoire (TSO), une fin progressive du recours aux agences privés de placement et instaurer l’autogestion des horaires.
+
+FAITS SAILLANTS :
+
+Laval qui est la troisième ville en importance au Québec avec une population de 450 000 personnes, mais est aussi la ville qui offre le moins de services de santé à sa population per capita.
+Laval possède 7 CLSC, 16 GMF et une seule maison de soins palliatifs de 12 lits
+À titre de comparaison, Montréal (1,7 millions d’habitants) possède 30 hôpitaux, 33 CLSC et 28 GMF et Québec (550 habitants) possède 9 hôpitaux, 18 CLSC et 16 GMF
+La Cité de la santé est l’urgence la plus fréquentée au Canada.
+18,7% de la population de Laval a plus de 65 ans
+40% de la population de Laval a eu besoin de consulter un médecin cette année.', '9/21/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-souhaite-redonner-sa-dignite-au-systeme-de-sante-de-laval')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GUY GARAND SOUTIENT QUÉBEC SOLIDAIRE AFIN D’OFFRIR UNE NOUVELLE VISION POUR L’ENVIRONNEMENT À LAVAL', 'Guy Garand soutient Québec solidaire afin 
+
+d’offrir une nouvelle vision pour l’environnement à Laval
+
+ 
+
+Laval, le 21 septembre 2022 – Reconnu sur la scène environnementale du Québec, M. Guy Garand, ex-directeur général du Conseil régional de l’environnement (CRE) de Laval et résident de Sainte-Rose, appuie publiquement la candidate Karine Cliche dans Sainte-Rose ainsi que l’ensemble des candidates et des candidats de Québec solidaire à Laval. 
+
+« Karine Cliche est la meilleure candidate pour représenter la circonscription. Elle a à cœur l’environnement, l’aménagement du territoire, la conservation des milieux naturels pour assurer le maintien de la biodiversité, la lutte aux îlots de chaleur ainsi que la lutte contre les changements climatiques pour améliorer la qualité de vie des citoyennes et citoyens. Karine est une militante visionnaire qui a réussi à sensibiliser et rassembler plus d’un millier de personnes contre le projet de l’île Gagnon, et qui agit maintenant pour les générations futures », précise Guy Garand.
+
+Karine Cliche a cofondé Vigile Mille-Îles pour faire un contrepoids aux projets de développement immobilier sur l’île Gagnon et de Place Sainte-Rose qui menaçaient la qualité de vie et les milieux naturels de Sainte-Rose. Elle a aussi cofondé la Coalition Mobilisation Citoyenne Environnementale de Laval afin de réseauter les groupes citoyens qui défendent les milieux naturels et agricoles menacés par l’étalement urbain. 
+
+« Avec ce geste de confiance, M. Garand endosse notre programme et réitère que nos propositions vont permettre d’atteindre les objectifs pour lutter contre la crise climatique. Sainte-Rose a sur son territoire des boisés, des berges et des terres agricoles d’une grande valeur écologique qu’il faut préserver. Les enjeux d’autonomie alimentaire, de gestion des ressources naturelles, d’occupation et d’aménagement du territoire sont à prendre très au sérieux et doivent être encadrés avec des politiques adéquates. C’est notre qualité de vie et celle de nos enfants qui est en jeu », affirme Karine Cliche.
+
+Québec solidaire propose de loin le plan environnemental le plus ambitieux en mettant la lutte aux changements climatiques et la préservation de l’environnement au centre de leurs solutions. Le Plan climat comprend, entre autres, les engagements suivants pour Laval :
+
+Refuser l’augmentation de la capacité autoroutière.
+Réduire de 50% le prix des titres de transport collectif.
+Augmenter l’offre de transport collectif partout à Laval.
+Offrir un soutien technique et financier à l’agriculture biologique.
+Adopter une loi contre le gaspillage alimentaire.
+Éviter la conversion des prairies et des forêts urbaines.
+Donner plus de ressources aux villes pour l’acquisition de milieux naturels et humides à des fins de conservation.
+Revoir le financement des villes pour y intégrer des formes d’écofiscalité et diminuer la pression à se financer uniquement avec des taxes foncières.
+« Laval détient encore un nombre important de terres agricoles que nous devons préserver pour notre autonomie alimentaire et contribuer à la séquestration du carbone. Ces terres agricoles, qui se trouvent surtout dans Vimont et dans Mille-Îles, sont menacées par la spéculation et par des projets industriels et résidentiels qui ne sont pas durables et qui nous ramènent des décennies en arrière. Nous devons contribuer à la prospérité des agriculteurs et agricultrices en les protégeant contre l’augmentation indécente des coûts de location par leurs propriétaires fonciers », affirme Guillaume Lajoie, candidat de Québec solidaire dans Mille-Îles, représentant de Laval au débat régional sur l’environnement du 21 septembre.', '9/21/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/guy-garand-soutient-quebec-solidaire-afin-doffrir-une-nouvelle-vision-pour-lenvironnement-a-laval')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'LA SANTÉ MENTALE: UN ENJEU SOLIDAIRE', 'LA SANTÉ MENTALE: UN ENJEU COLLECTIF
+Lévis, le jeudi 22 septembre 2022 – Québec solidaire et sa candidate dans Lévis, Valérie Cayouette-Guilloteau, réitèrent leur engagement fort à l’égard de la santé mentale.  Le parti promet l’accès facilité à des spécialistes en santé mentale, et ce, gratuitement. Selon les solidaires, cet engagement permettrait de désengorger le système de santé et surtout, d’améliorer le mieux-vivre de tous et toutes.
+
+Québec solidaire croit qu’il s’agit là d’un problème social à portée collective. Le contexte social  génère la recrudescence de l’anxiété, du stress, des burn out, de la détresse psychologique, etc. Le parti met de l’avant des propositions structurantes pour améliorer la conciliation famille-travail, comme des vacances, des jours de congés maladie, des congés fériés, le droit à la déconnexion, et plus encore, et pour réduire la détresse économique, comme le salaire minimum, l’aide sociale. 
+
+Il propose également de développer l’offre publique pour des soins en psychothérapie par l’embauche de 900 psychologues et 1000 autres professionnels en santé mentale comme des travailleurs sociaux, des psychoéducateurs, des sexologues, et autres. Le parti soutient, de ce fait même, la nécessité  d’améliorer les conditions de travail et d’augmenter les salaires pour les professionnels en santé mentale. 
+
+«Celles et ceux qui ont des assurances privées peuvent se payer des soins un peu plus rapidement, mais même là, il y a des listes d’attente. Le résultat de l’arrivée du réseau parallèle privé, c’est un système injuste à deux vitesses qui en plus a fait bien le contraire que de soulager le réseau public.», déclare la candidate solidaire dans Lévis, Valérie-Cayouette-Guilloteau.
+
+La santé mentale en chiffres:
+
+Jusqu’à 40% des visites médicales chez les médecins de famille sont liées à la santé mentale;
+Seulement 31% des psychologues opèrent dans le réseau public;
+Plus de 20 000 personnes sont coincées sur des listes d’attentes.
+Québec solidaire est le parti qui prend des engagements majeurs et essentiels sur la santé mentale des Québécois et Québécoises, en investissant afin de renforcer le réseau public gratuit, et en le rendant apte à prendre en charge la santé globale d’une personne. ', '9/21/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/la-sante-mentale-un-enjeu-solidaire')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GABRIEL NADEAU-DUBOIS À LA FQM : « LA VOIX DES RÉGIONS RÉSONNE PLUS FORT QUE JAMAIS, LE PROCHAIN GOUVERNEMENT NE PEUT PLUS LA CONTOURNER »', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a pris la parole au sommet de la Fédération québécoise des municipalités (FQM). Il a illustré la façon dont les engagements de Québec solidaire dans le domaine des ressources naturelles, de l’immigration et du logement auraient un impact positif pour les municipalités.
+
+
+Adaptation aux changements climatiques
+
+ 
+
+Aucun parti n’a prévu autant d’argent pour aider les municipalités face à l’immense défi que représentent les changements climatiques que Québec solidaire. 
+
+ 
+
+« Des régions fortes, vives et prospères, c’est des régions qui sont aux commandes. Le monde a changé. Vous êtes aux premières loges des changements climatiques, vous êtes déjà en train d’en vivre les conséquences, on l’a vu avec les pluies diluviennes à Montréal la semaine passée et avec l’ouragan Fiona qui se dirige vers les Îles-de-la-Madeleine. Face au changement, face à l’avenir, nous avons besoin d’un nouveau partenariat : un partenariat qui respecte votre autonomie, un partenariat qui vous donne les moyens d’agir face aux changements climatiques » a affirmé Gabriel Nadeau-Dubois.
+
+ 
+
+Un nouveau contrat social minier
+
+ 
+
+Le leader solidaire a proposé d’établir un nouveau contrat social minier qui viendrait mettre fin à la préséance de la Loi sur les mines sur l’aménagement municipal. Comme il l’a fait hier durant le débat des chefs, le porte-parole solidaire s’est engagé à mettre en place un moratoire sur les nouveaux claims miniers dans les zones de villégiature et dans les zones habitées.
+
+ 
+
+« Dans notre régime minier, c’est la compagnie minière qui est maître du territoire, peu importe ce qu’en disent les citoyens ou leurs élus. Dans notre régime minier, la Loi sur les mines est au-dessus de la loi divine – elle a préséance sur tout le reste, y compris la Loi sur l’aménagement et l’urbanisme. C’est une vision d’un autre siècle, d’une autre ère. » a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+Engagements solidaires envers le monde municipal
+
+Création d’un fonds d’urgence climatique financé à hauteur de 500 millions $ par année pour faire face aux situations d’urgence
+Réserver 1% du Plan québécois des infrastructures (PQI) pour des projets de verdissement, soit 600 millions de dollars
+45 millions par année pour des projets d’adaptation par les municipalités
+Mettre fin à la préséance de la Loi sur les mines sur l’aménagement municipal
+Un BAPE pour tous les projets miniers
+Augmenter les redevances minières et mieux les distribuer aux collectivités locales
+Moratoire sur les nouveaux claims miniers dans les zones de villégiature et dans les zones habitées
+Mise sur pied des Carrefours d’accueil en immigration partout sur le territoire
+Création d’une voie rapide vers un établissement permanent dans les régions pour les nouveaux arrivants qui travaillent déjà en région
+Soutien aux municipalités pour l’encadrement des plateformes de location d’hébergement comme AirBnb
+Mise sur pied de programmes de construction de logements sociaux adaptés aux besoins locaux', '9/23/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/gabriel-nadeau-dubois-a-la-fqm-la-voix-des-regions-resonne-plus-fort-que-jamais-le-prochain-gouvernement-ne-peut-plus-la-contourner')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GABRIEL NADEAU-DUBOIS MET EN GARDE CONTRE « LE PLAN D’ACCÉLÉRATION DES CHANGEMENTS CLIMATIQUES » DE FRANÇOIS LEGAULT', 'Gabriel Nadeau-Dubois a mis en garde contre ce qu’il décrit comme « le plan d’accélération des changements climatiques » de François Legault qui comprend 7,4 milliards $ d’investissement dans le troisième lien et des autoroutes. Le porte-parole solidaire a fait cette déclaration, de passage à Rimouski pour soutenir la candidate solidaire Carol-Ann Kack qui est sur le point de prendre la circonscription. 
+ 
+
+« François Legault détruit d’une main ce qu’il construit de l’autre. Il présente un plan pour une économie verte, il investit 7,4G$ dans des projets d’accélération des changements climatiques. Avec la CAQ, on tourne en rond, on recule. Donc le moins qu’on puisse dire, c’est que François Legault est sincère quand il dit « Continuons ». Continuons avec les changements climatiques. Continuons à faire comme avant. Continuons à foncer dans le mur », a déploré Gabriel Nadeau-Dubois.
+
+ 
+
+Le porte-parole solidaire a critiqué l’insuffisance du plan climat de la CAQ. D’une part, la cible de réduction des gaz à effet de serre établie par François Legault est en retard sur le consensus scientifique. D’autre part, les mesures annoncées par le gouvernement sortant ne permettent même pas d’atteindre la moitié de cette cible. De plus, la CAQ multiplie les investissements dans des projets qui contribueront à hausser les émissions de GES au Québec, comme le 3e lien et les différents prolongements d’autoroutes qui contribueront à l’étalement urbain – ces différents projets représentant des dépenses de plus de 7,4 milliards $.
+
+ 
+
+Dire aux jeunes quoi penser
+
+ 
+
+Dans un article du Journal de Montréal paru ce matin, François Legault déplore que la priorité des jeunes soit l’environnement, ce qui les éloignerait de son parti. Le chef caquiste a affirmé que les jeunes devraient également s’intéresser à l’éducation.
+
+ 
+
+« Ce n’est pas à François Legault de décider quelle est la priorité des jeunes. Il trouve ça malheureux que ce soit juste l’environnement, mais savez-vous ce qui est malheureux? C’est que le Québec ait été gouverné pendant 4 ans par un politicien qui n’écoute pas les jeunes et qui leur dit quoi penser », a lancé Gabriel Nadeau-Dubois', '9/25/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/gabriel-nadeau-dubois-met-en-garde-contre-le-plan-dacceleration-des-changements-climatiques-de-francois-legault')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GABRIEL NADEAU-DUBOIS APPELLE AU VOTE DANS RIMOUSKI : « CETTE FOIS, C’EST LA BONNE »', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a profité de son passage à Rimouski pour lancer un appel au rassemblement derrière Carol-Ann Kack en cette première journée de vote par anticipation. 
+ 
+
+« J’ai un message pour les gens de Rimouski : si vous voulez barrer la route à François Legault il faut voter Kack, il faut voter pour Carol-Ann Kack. On sent un momentum sans précédent dans Rimouski pour du changement. En 2018, c’est à Rimouski que la vague caquiste s’est brisée. En 2022, le parti du changement, le parti de l’avenir, c’est Québec solidaire. Cette année, les progressistes, les indépendantistes, on se rassemble derrière Carol-Ann », a lancé M. Nadeau-Dubois en point de presse dimanche matin.
+
+ 
+
+Non seulement Québec solidaire a reçu plus en dons que tous les autres partis dans Rimouski, mais en plus Carol-Ann Kack a rassemblé près de 300 bénévoles dans sa campagne. C’est trois fois plus qu’à la même date en 2018. 
+
+ 
+
+« Gabriel a raison, cette fois c’est la bonne. Ça fait quatre ans que je m’implique dans Rimouski et le Haut-Pays, ce que les gens me disent c’est qu’ils veulent une députée qui va parler d’eux. Ils veulent une alternative à la vision du passé de la CAQ. Une alternative écologique, progressiste et cette alternative c’est Québec solidaire », a ajouté pour sa part Carol-Ann Kack, candidate solidaire dans Rimouski.
+
+ 
+
+Le vote par anticipation commence aujourd’hui dans Rimouski, mais aussi partout au Québec: « J’invite tout le monde qui veut démontrer son appui à Québec solidaire à le faire dès maintenant. On a besoin de nouveaux monde et de nouvelles idées à Québec », a ajouté M. Nadeau-Dubois.', '9/25/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/gabriel-nadeau-dubois-appelle-au-vote-dans-rimouski-cette-fois-cest-la-bonne')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'« 2022, C’EST L’ÉLECTION DE LA GÉNÉRATION CLIMAT » - GABRIEL NADEAU-DUBOIS ET MANON MASSÉ', 'Les porte-paroles de Québec solidaire Gabriel Nadeau-Dubois et Manon Massé ont profité de la deuxième journée de vote par anticipation pour lancer un appel au vote massif des jeunes. La génération climat peut faire la différence dans le résultat de l’élection. 
+
+
+« 2022, c’est l’élection de la génération climat. Cette année, c’est à notre tour. Je le dis tous les jours: c’est l’élection de la dernière chance pour agir contre les changements climatiques. Ce n’est pas une raison de se décourager, c’est une raison de se mobiliser. C’est possible de changer d’ère au Québec si on rend ça possible, si on vote plus nombreux, plus nombreuses que jamais cette année. Allons voter. Allez voter le 3 octobre, allez voter sur les campus dès demain », a déclaré Gabriel Nadeau-Dubois
+
+ 
+
+« Ça fait des semaines que je fais la tournée des campus, l’environnement, c’est l’enjeu numéro un dont j’entends parler. Pour que les jeunes aillent voter, je l’ai toujours dit, il faut leur donner de bonnes raisons de voter », a affirmé Manon Massé, qui a visité de nombreux campus universitaires et collégiaux dans les dernières semaines.
+
+ 
+
+Manon Massé a rappelé les propositions du parti autres que celles au sujet de l’environnement qui résonnent avec les préoccupations de la jeune génération:
+
+Gratuité des contraceptifs et des produits d’hygiène menstruelle dans les établissements éducatifs et institutionnels
+Contrôle des loyers qui limite les hausses à l’indice du Tribunal administratif du logement et moratoire sur les rénovictions
+Politique nationale de rémunération des stages
+ 
+
+Gabriel Nadeau-Dubois a rappelé que les jeunes représentent environ le tiers de l’électorat, mais que cette tranche de la population a tendance à moins voter que les autres. Or, en raison des bureaux de vote sur les campus, il est possible d’inverser la tendance et que les jeunes se saisissent du pouvoir qu’ils détiennent.', '9/26/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/2022-cest-lelection-de-la-generation-climat-gabriel-nadeau-dubois-et-manon-masse')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE INVESTIRA DANS L’AUTOPARTAGE À LA GRANDEUR DU QUÉBEC', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois, était de passage dans Jean-Talon pour annoncer qu’un gouvernement solidaire créera un fonds d’investissement de 50 millions $ pour développer des services d’autopartage dans toutes les régions du Québec.
+
+
+« On vous annonce aujourd’hui un autre volet de notre Révolution transport: Québec solidaire va créer un programme de financement de 50M$ dédié aux municipalités, afin qu’elles créent ou financent des services d’autopartage sur leur territoire. Chaque municipalité pourra développer son service d’autopartage selon ses particularités et ses besoins. Grâce à cet investissement, nous allons stimuler l’apparition de services d’autopartage partout au Québec », a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+De 1988 à 2021, le nombre de véhicules circulant au Québec a plus que doublé, alors que le nombre de personnes en âge de conduire, lui, n’a augmenté que de 33% : « Ça ne peut plus durer: pour ralentir la croissance du parc automobile, une des solutions c’est l’autopartage. On va permettre aux gens de se déplacer du point A au point B en laissant la voiture à la maison. L’autopartage, c’est pratique, c’est abordable, c’est écologique. C’est un choix qu’il faut donner dans toutes nos régions », a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+Faits saillants de l’annonce
+
+Développement de services d’autopartage dans toutes les régions. 
+Là où des compagnies d’autopartage existent déjà, le gouvernement soutiendra la bonification de l’offre de service existante.
+À court terme, des services d’autopartage seront déployés hors des grands centres, où ce type de service n’est pas encore offert. 
+À moyen terme, une application unique permettra d’effectuer des réservations à la grandeur du Québec.
+Un fonds d’investissement de 50 M$ pour le mandat 
+ 
+
+Québec solidaire donnera également le mandat à un organisme sans but lucratif de déployer une application unique pour effectuer des réservations à la grandeur du Québec, peu importe la ville ou vous vous trouvez. Ce type de service existe notamment à Québec grâce à une entente entre le RTC et Communauto.', '9/27/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-investira-dans-lautopartage-a-la-grandeur-du-quebec')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GABRIEL NADEAU-DUBOIS VEUT FAIRE UN PAS DE PLUS VERS UN QUÉBEC SANS PAUVRETÉ', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a présenté les engagements du parti en matière de lutte contre la pauvreté. Un gouvernement solidaire augmenterait les prestations d’aide sociale, hausserait le salaire minimum et investirait de manière importante dans les organismes communautaires. 
+
+
+Une meilleure redistribution de la richesse, par le biais de ces mesures, permettrait de sortir des milliers de personnes de la pauvreté et leur permettrait de vivre dans la dignité. De plus, réduire la pauvreté est une voie structurante pour agir sur les déterminants socioéconomiques de la santé et permet ainsi de prévenir de nombreux problèmes de santé en amont.
+
+ 
+
+Faits saillants
+
+ 
+
+Salaire minimum à 18$/h.  
+Pour amortir l’impact de cette hausse, un programme de soutien de 625 millions $ sur quatre ans pour les petites entreprises et groupes communautaires (333 millions $ la première année, réduit graduellement pour atteindre 40 millions $ la dernière année).
+Hausse de 45% des prestations d’aide sociale et de solidarité sociale. À titre d’exemple, la prestation de base passerait de 726 $ à 1056 $ par mois. Un investissement de 1,49 milliard $ par année 
+Soutien au milieu communautaire : 290 millions $ par année
+ 
+
+ 
+
+« François Legault n’a aucun plan concret pour lutter contre la pauvreté. Aucun plan pour augmenter le salaire minimum. M. Legault est obsédé par l’écart de richesse avec l’Ontario; il n’a rien à dire sur l’écart de richesse entre les Québécoises et les Québécois. Je pense que ça en dit long. Il y a 20 ans, l’Assemblée nationale du Québec a adopté à l’unanimité une loi visant à mettre fin à la pauvreté. À Québec solidaire, ce n’est pas un vœu pieu : on est capables, au Québec, de faire un vrai pas vers un Québec sans pauvreté », a déclaré Gabriel Nadeau-Dubois
+
+ 
+
+« Yvon Deschamps le résumait simplement : mieux vaut être riche et en santé que pauvre et malade. Quand on réduit les inégalités sociales, on réduit un ensemble de problèmes de santé physique et mentale : de l’obésité à l’espérance de vie en passant par le tabagisme et l’anxiété. Ce qui est le plus formidable dans tout ça, c’est que la réduction des inégalités ne touche pas que les personnes en situation de pauvreté, ça fait des sociétés où il fait bon vivre pour tout le monde », a déclaré pour sa part la docteure Mélissa Généreux, ancienne directrice régionale de la santé publique en Estrie et candidate solidaire dans Saint-François', '9/28/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/gabriel-nadeau-dubois-veut-faire-un-pas-de-plus-vers-un-quebec-sans-pauvrete')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'LES CANDIDAT.E.S DE QUÉBEC SOLIDAIRE À SAGUENAY DÉNONCENT LES COUPURES DANS LES SERVICES PUBLICS EN RÉGION', 'Les candidat.e.s de Québec solidaire à Saguenay dénoncent les coupures dans les services publics en région
+Saguenay, le 27 septembre 2022 — Les candidat.e.s de Québec solidaire à Saguenay se disent inquiet.e.s de l’annonce de la fermeture définitive de 20 des 28 bureaux de la Commission des normes de l’équité, de la santé et de la sécurité du travail (CNESST). Les 20 bureaux étaient situés en région.
+
+« L’heure n’est pas à la centralisation des services publics, au contraire! Ce qu’il faut, c’est entamer un dialogue avec les municipalités pour ramener la gestion des services publics à l’échelle régionale. Je suis très inquiète pour les gens de Dubuc et des régions du Québec », ajoute Andrée-Anne Brillant, candidate de Québec solidaire dans Dubuc.
+
+« Les personnes de Saguenay et des autres régions doivent avoir accès à des services de bonne qualité. Un gouvernement solidaire mettrait d’ailleurs en place un Pacte pour l’équité territoriale avec les collectivités afin de réduire les inégalités de prestation de services et le déficit en infrastructures publiques qui existent entre les territoires », souligne Karla Cynthia Garcia Martinez, candidate de Québec soleil dans Jonquière.
+
+« Les coupures dans les services publics en région nous ont fait mal. La réforme Barrette, incluant des compressions de 1,7 G$, a éloigné le système de santé de la population en centralisant tout vers Montréal et Québec. La dernière annonce de la CNESST sur la fermeture des bureaux en région s’inscrit dans cette logique de moins desservir les régions. C’est inacceptable. » ajoute Adrien Guibert-Barthez, candidat de Québec solidaire dans Chicoutimi.', '9/27/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/les-candidat-e-s-de-quebec-solidaire-a-saguenay-denoncent-les-coupures-dans-les-services-publics-en-region')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'L''ALTERNATIVE ÉCOLOGISTE À LÉVIS, C''EST QUÉBEC SOLIDAIRE', 'En cette dernière semaine de campagne, les candidat·es solidaires du grand Lévis lancent un appel au ralliement pour défendre les valeurs écologistes à Lévis. Les trois candidats, Valérie Cayouette-Guilloteau (Lévis), Caroline Thibault, (Chutes-de-la-Chaudière) et Jérôme D’Auteuil Sirois (Bellechasse) se sont unis pour souligner l’urgence de faire plus et mieux en environnement à Lévis.
+Pour ces derniers, cela passe avant tout par une véritable révolution en transport afin de répondre avec efficience à la demande de mobilité entre Lévis et Québec, tout en assumant ses responsabilités environnementales. L’amélioration de la desserte du transport en commun, la multiplication des services d’autopartage comme Communauto et des lignes d’autobus interurbains pour desservir les secteurs plus éloignés est une priorité selon eux. 
+
+De plus, les trois candidats réitèrent que la protection de la biodiversité et des terres agricoles est aussi un enjeu important. L’étalement urbain,  les projets industriels et la construction de nouvelles infrastructures autoroutières sont une menace directe à nos écosystèmes. « Il faut rapidement augmenter le nombre d’aires protégées dans le grand Lévis.  Avec un gouvernement solidaire, les terrains urbains laissés vacants seront soumis à un droit d’expropriation lié à la création d’espaces verts et nous protégerons adéquatement les boisés existants ainsi que les milieux humides et les animaux qui les habitent, en tenant compte des initiatives citoyennes.», insiste Mme Cayouette-Guilloteau. Entre autres, nous demandons que les terres anciennement visées par le projet Rabaska soient immédiatement protégées contre un développement industrialo-portuaire.  
+
+Dès le début de la campagne, Québec solidaire a présenté son plan de lutte aux changements climatiques: Vision 2030. Les candidats solidaires soulignent qu’il s’agit du plus ambitieux jamais présenté à la population québécoise par un parti politique, mais aussi le plus rigoureux, car il a été validé par un panel de 8 experts indépendants et qu’il est attaché au cadre financier. ', '9/29/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/lalternative-ecologiste-a-levis-cest-quebec-solidaire')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'« LES ÉLÈVES ET LE PERSONNEL MÉRITENT DES ÉCOLES SAINES » - GABRIEL NADEAU-DUBOIS', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a présenté l’engagement d’un gouvernement solidaire d’accélérer la construction et la rénovation des écoles du Québec. Il en a fait l’annonce devant l’école Sophie-Barat en compagnie du candidat solidaire dans la circonscription de Maurice-Richard, Haroun Bouazzi.
+
+
+« Trente ans de coupes budgétaires et d’austérité ont laissé nos écoles dans un état pitoyable. Pour redonner fière allure à nos établissements, on parle d’ajouter 1,6 milliard de dollars supplémentaires en immobilisations dans le prochain mandat pour accélérer la construction, la réparation, l’agrandissement et le verdissement de nos écoles. 59 % des écoles sont en en mauvais ou en très mauvais état. À Québec solidaire, nous voulons des écoles saines qui répondent aux besoins des élèves et du personnel. Les libéraux ont échoué, la CAQ aussi, on est dû pour essayer une nouvelle équipe pour tout mettre en œuvre pour redonner leur fierté à nos écoles publiques », a déclaré Gabriel Nadeau-Dubois
+
+ 
+
+Faits saillants
+
+Ajout de 1,6 milliard $ en immobilisations dans le prochain mandat pour accélérer la construction, la réparation, l’agrandissement et le verdissement de nos écoles
+Engagement à soutenir la création d’un comité de suivi des rénovations de Sophie-Barat 
+ 
+
+Un engagement pour Sophie-Barat
+
+ 
+
+Haroun Bouazzi s’engage à soutenir la création d’un comité de suivi des rénovations de Sophie-Barat où siègeraient la santé publique, la CSSDM, le ministère, les parents et les syndicats pour faire circuler l’information et consulter tous les acteurs impliqués en toute transparence.
+
+ 
+
+« L’information rentre au compte-goutte, souvent par les médias. Ni les parents ni le corps enseignant ne savent ce qui s’en vient. Il y a un manque de transparence. On ne sait pas à qui se référer pour avoir des réponses. Tout le monde se renvoie la balle. Les parents d’Ahuntsic et les enseignants doivent avoir une voix dans la rénovation urgente de notre école secondaire de quartier », a affirmé pour sa part Haroun Bouazzi, candidat solidaire dans Maurice-Richard.', '9/29/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/les-eleves-et-le-personnel-meritent-des-ecoles-saines-gabriel-nadeau-dubois')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE GOUVERNERA MAIN DANS LA MAIN AVEC LES AUTOCHTONES', 'Les porte-paroles de Québec solidaire, Gabriel Nadeau-Dubois et Manon Massé, et la candidate dans Ungava, Maïtée Labrecque-Saganash, annoncent aujourd’hui qu’un gouvernement solidaire tiendra dans les 100 premiers jours de son mandat un sommet réunissant les représentants des communautés autochtones et les élus à l’Assemblée nationale pour jeter les bases d’une vraie relation de Nation à Nations.
+ 
+
+« On est en 2022. Un gouvernement québécois avec une vision moderne doit travailler d’égal à égal avec les nations autochtones. La CAQ a fait beaucoup de belles promesses depuis quatre ans, mais les gestes n’ont pas suivi. Ce n’est pas normal qu’encore aujourd’hui, des communautés dans le nord soient privées d’eau potable. Ce n’est pas normal que certaines personnes aient peur de se rendre à l’hôpital pour recevoir des soins. Le statu quo n’est plus acceptable. C’est le temps de s’engager dans la voie de la réconciliation et de jeter les bases d’un vrai dialogue de Nation à Nations », déclare Gabriel Nadeau-Dubois. 
+
+ 
+
+Protéger les langues autochtones
+
+ 
+
+Québec solidaire s’engage également à être un partenaire actif des Premières Nations et des Inuit dans la protection et la valorisation de leurs langues.
+
+ 
+
+« On ne peut pas réparer des siècles d’assimilation culturelle sans poser des gestes concrets pour soutenir la protection des onze langues autochtones qui sont parlées sur le territoire. Après le réveil collectif des dernières années, on ne peut plus accepter qu’il y ait des langues en voie de disparition et des locuteurs laissés à eux-mêmes dans nos services publics. Comme Québécois, on est bien placé pour comprendre l’importance de protéger notre langue. La CAQ n’a pas voulu saisir les nombreuses occasions qu’elle a eues pour agir depuis quatre ans, mais à Québec solidaire, on ne manquera pas ce rendez-vous important », déclare Manon Massé.
+
+ 
+
+Adopter le principe de Joyce
+
+ 
+
+Un gouvernement de Québec solidaire s’engage enfin à adopter le principe de Joyce dans un premier mandat, tel que le réclament les onze Nations autochtones du Québec. 
+
+ 
+
+« Depuis quatre ans, j’ai observé tout le travail fait par Manon et Gabriel pour développer de vraies relations de Nation à Nations. Sur les dossiers autochtones, Québec solidaire fait preuve d’introspection et d’écoute. Si je suis élue le 3 octobre prochain, je m’engage à mettre en œuvre le principe de Joyce et à m’assurer qu’il soit réellement appliqué partout au Québec. J’en ferai une priorité. Les droits autochtones sont d’abord et avant tout des droits humains et l’application du principe de Joyce, c’est juste le minimum dans une société où les droits humains devraient être garantis », conclut Maïtée Labrecque-Saganash.', '9/29/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-gouvernera-main-dans-la-main-avec-les-autochtones')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'CHAMBRE DE COMMERCE DU MONTRÉAL MÉTROPOLITAIN : GABRIEL NADEAU-DUBOIS PREND DEUX ENGAGEMENTS MAJEURS POUR L’ÉCONOMIE VERTE', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a pris la parole devant la Chambre de commerce du Montréal métropolitain pour présenter la vision de Québec solidaire en matière de développement économique. Un gouvernement solidaire va réaliser des investissements stratégiques dans deux secteurs clés de la transition écologique: la biomasse forestière résiduelle et la filière batterie. Ceux-ci s’inscrivent dans la Vision 2030 présentée plus tôt durant la campagne électorale.
+
+
+Faits saillants
+
+ 
+
+Investissement de 1 milliard $ dans le secteur de la biomasse forestière résiduelle dans un premier mandat
+Investissement de 1,5 milliard $ dans la filière des batteries dans un premier mandat
+ 
+
+Citations
+
+ 
+
+« Le potentiel énergétique de la biomasse forestière résiduelle est énorme, mais en ce moment, on est encore loin d’avoir une filière établie aux quatre coins du Québec. La biomasse est une alliée essentielle pour réduire les émissions de gaz à effet de serre du secteur industriel. Aujourd’hui, je vous annonce qu’on va investir un milliard de dollars dans le prochain mandat pour que la filière de la biomasse forestière résiduelle prenne son envol », a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+Dans le contexte de l’électrification des transports, la production de batteries est au cœur de la solution. 
+
+ 
+
+« Les minerais stratégiques doivent servir aux besoins d’électrification qu’on a ici, on a besoin d’une filière complète de production de batteries, y compris la réutilisation et le recyclage. Le Québec est en train de se positionner comme un acteur incontournable. Nous allons poursuivre sur cette lancée tout en concluant un nouveau contrat social minier qui respecte l’acceptabilité sociale, les peuples autochtones et l’environnement. Ça prend du capital et du leadership de la part du prochain gouvernement du Québec », a affirmé Gabriel Nadeau-Dubois.', '9/29/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/chambre-de-commerce-du-montreal-metropolitain-gabriel-nadeau-dubois-prend-deux-engagements-majeurs-pour-leconomie-verte')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'« LE REMPART CONTRE LA CAQ À MONTRÉAL, C’EST QUÉBEC SOLIDAIRE » - GABRIEL NADEAU-DUBOIS', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois, a affirmé que Québec solidaire est le parti le mieux placé pour être le rempart contre la CAQ à Montréal.
+
+
+« À Montréal, la question à se poser, c’est: dans les dernières années, quel parti a talonné François Legault sur le logement? Quel parti a talonné François Legault sur le climat? C’est Québec solidaire. On est prêts à passer à la prochaine étape. Pour la première fois, on n’a plus besoin de choisir le moins pire : on a un vrai choix. Le rempart contre la CAQ à Montréal, c’est Québec solidaire », a affirmé Gabriel Nadeau-Dubois dans un point de presse dans Verdun où se présente Alejandra Zaga Mendez, docteure en développement durable et conservation et architecte du plan climat de Québec solidaire
+
+ 
+
+Un bilan solide pour Québec solidaire
+
+ 
+
+Depuis 2018, Québec solidaire compte six députés à Montréal et ceux-ci se sont démarqués par leur présence et la qualité de leur travail dans les dossiers qui préoccupent la population montréalaise, comme l’environnement et la crise du logement. 
+
+ 
+
+« Je veux m’adresser aux Montréalaises et aux Montréalais. L’environnement vous tient à cœur, l’inflation et la crise du logement vous inquiètent, vous êtes tannés du pointage de doigt de François Legault. On a besoin de sang neuf, on a besoin de plus de solidaires: il faut qu’on se rassemble pour du changement », a déclaré M. Nadeau-Dubois.
+
+ 
+
+Des engagements clairs pour la métropole
+
+
+Nadeau-Dubois étaient accompagnés de quelques candidats parmi tous ceux bien positionnés pour se faire élire le 3 octobre prochain :
+ 
+
+Guillaume Cliche-Rivard (Sainte-Henri–Sainte-Anne), avocat spécialisé en immigration
+Haroun Bouazzi (Maurice-Richard), vice-président adjoint à la Banque de développement du Canada et ingénieur informatique
+Renée-Chantal Belinga (Viau), ancienne commissaire scolaire et conseillère d’arrondissement
+ 
+
+Le porte-parole solidaire a rappelé les différents engagements qu’il a pris pour la métropole :
+
+ 
+
+47 milliards $ d’investissements en mobilité pour révolutionner le transport à Montréal
+18 000 nouveaux logements sociaux sur deux mandats 
+Un meilleur encadrement d’Airbnb, qui ravage les quartiers à Montréal 
+Un Fonds d’urgence climatique pour répondre aux situations urgentes
+La rénovation accélérée de l’hôpital Maisonneuve-Rosemont ', '9/30/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/le-rempart-contre-la-caq-a-montreal-cest-quebec-solidaire-gabriel-nadeau-dubois')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'GABRIEL NADEAU-DUBOIS S’ADRESSE AUX INDÉCIS', 'Le porte-parole de Québec solidaire Gabriel Nadeau-Dubois a appelé les électeurs indécis à lancer une discussion entre les générations sur ce qui est en jeu lors des élections du 3 octobre prochain: faire un rempart contre la CAQ.
+
+
+« Le vote approche et beaucoup de gens n’ont pas encore pris de décision. Je veux faire un appel aux indécis, j’ai un message pour eux et elles. Dans les deux prochains jours, parlez-vous de politique en famille, parlez-vous de l’avenir, parlez-vous de ce qui est en jeu le 3 octobre. J’appelle à une grande jase entre les générations », a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+« Au Québec présentement, il y a deux générations inquiètes pour l’avenir. Il y a la génération climat inquiète de ce qui s’en vient et la génération qui a construit le Québec qui a peur de finir dans les CHSLD. Il faut se parler de comment on peut travailler ensemble et faire une alliance entre les générations pour qu’on construise un Québec où personne n’a peur de vieillir et où tout le monde a confiance en l’avenir. C’est ça notre projet à Québec solidaire », a poursuivi Gabriel Nadeau-Dubois.
+
+ 
+
+« Vous n’avez pas besoin d’être d’accord avec tout ce que dit Québec solidaire, mais lundi, posez-vous la question : qui est la meilleure équipe pour freiner François Legault ? Qui est la meilleure équipe pour talonner François Legault sur les enjeux qui sont ses plus grandes faiblesses, le logement et l’environnement ? Je pense que cette équipe-là, les Québécois le reconnaissent, c’est Québec solidaire », a affirmé Gabriel Nadeau-Dubois.
+
+ 
+
+Affluence dans Hull
+
+ 
+
+Vendredi soir, un rassemblement convoqué à 48h d’avis dans la circonscription de Hull, où se présente l’économiste et professeur d’université Mathieu Perron-Dufour, a attiré plus de 250 personnes. La foule a accueilli Gabriel Nadeau-Dubois de manière triomphale, bien que de nombreuses personnes n’aient pas pu entrer dans l’établissement où se tenait l’événement, en raison du manque d’espace.
+
+ 
+
+« Le momentum, les chiffres qu’on a dans les derniers jours le confirment : on est capables, ici, lundi prochain, de causer toute une surprise avec un premier député solidaire dans la région de l’Outaouais. Imaginez comment ce serait rafraîchissant d’avoir, après des années de domination libérale, un député solidaire ici dans Hull », a affirmé Gabriel Nadeau-Dubois.', '10/1/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/gabriel-nadeau-dubois-sadresse-aux-indecis')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'PROPOS SUR L’IMMIGRATION: « FRANÇOIS LEGAULT A FAIT MAL AU QUÉBEC » - GABRIEL NADEAU-DUBOIS', 'Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois a réagi aux nombreux témoignages de personnes immigrantes venues lui témoigner de leur colère et de leur douleur causées par les déclarations de François Legault et de Jean Boulet au sujet de l’immigration.
+
+
+« François Legault a fait mal au Québec en parlant comme ça des immigrants et des immigrantes. Ce matin j’ai un message pour tous les Québécois et toutes les Québécoises qui ont été blessés par François Legault : moi je vais me battre pour vous. Peu importe le résultat de demain, je ne vous lâcherai pas. Vous méritez d’être respectés. Vous n’avez pas été respectés pendant cette campagne et moi je n’accepte pas ça. » a déclaré Gabriel Nadeau-Dubois
+
+ 
+
+Il a évoqué les différents témoignages qui lui ont été faits lors de son passage hier dans le quartier Saint-Michel.
+
+ 
+
+« Ali, que j’ai rencontré hier soir dans Saint-Michel, m’a dit “Gabriel, si le Québec n’est pas à tout le monde, il est à personne.” Moi, c’est ce que je vais retenir de cette campagne-là. Au lieu de mener une campagne où on a uni les Québécois et les Québécoises, François Legault a mené une campagne de vision. C’est triste, mais moi je ne me laisse pas abattre par ça. » a affirmé Gabriel Nadeau-Dubois
+
+ 
+
+Il a donc invité les personnes en désaccord avec François Legault à accorder leur appui à Québec solidaire pour faire rempart contre la vision caquiste du Québec et de son avenir :
+
+ 
+
+« Dans les prochaines heures, je vous invite à vous poser une question : qui a été là pour talonner François Legault dans les 4 dernières années? Qui a proposé une vision différente du Québec? On n’a pas besoin d’être d’accord sur tout, vous et moi, mais je pense que Québec solidaire a la meilleure équipe pour talonner François Legault. »', '10/2/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/propos-sur-limmigration-francois-legault-a-fait-mal-au-quebec-gabriel-nadeau-dubois')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'« DEMAIN, LE MEILLEUR GESTE À POSER POUR L’ENVIRONNEMENT, C’EST VOTER SOLIDAIRE » - GABRIEL NADEAU-DUBOIS', 'Les porte-paroles de Québec solidaire, Gabriel Nadeau-Dubois et Manon Massé, ont dressé le bilan des 35 jours de campagne électorale et de la tournée solidaire, qui a sillonné le Québec ces dernières semaines.
+
+
+Gabriel Nadeau-Dubois a rappelé que l’enjeu crucial de cette élection est la trajectoire que prendra le Québec dans la lutte contre les changements climatiques.
+
+ 
+
+« En général, la veille de l’élection, c’est l’heure des bilans, donc on parle du passé. Mais aujourd’hui, j’ai envie de vous parler d’avenir. Depuis le début de la campagne, on vous dit que tout est joué d’avance, que tout est décidé. C’est faux. Demain, votre vote peut faire la différence. On dit souvent que pour relever le défi de l’environnement, il faut poser les bons gestes. Demain, le meilleur geste à poser pour l’environnement, c’est voter solidaire », a déclaré Gabriel Nadeau-Dubois.
+
+ 
+
+Il a poursuivi en prenant un engagement auprès de la population québécoise pour le prochain mandat : « Les 125 personnes que le Québec va élire demain auront à prendre des décisions lourdes de conséquence. Combien prendront les bonnes décisions? Combien se battront pour changer les choses? Dans les quatre prochaines années, combien de députés vont nous faire avancer, combien vont nous faire reculer? En votant pour Québec solidaire, vous pouvez être sûrs d’une chose : chaque député solidaire de plus, c’est un député qui va se battre pour l’environnement ». 
+
+ 
+
+Un message pour les jeunes
+
+ 
+
+La porte-parole Manon Massé a visité de nombreux campus étudiants dans les dernières semaines et a rencontré de nombreux jeunes. À la suite des discussions qu’elle a eues avec eux, elle a tenu à leur livrer un message d’espoir :
+
+ 
+
+« On a mille raisons d’être inquiets face à l’avenir. Je comprends que certains d’entre vous soient même découragés, mais pas moi. Parce que je vous vois vous battre et ça me remplit d’espoir. Plus que jamais, le Québec a besoin de vous. Plus que jamais, vous pouvez faire la différence. Les jeunes, vous formez le tiers de l’électorat. Vous avez donc un poids considérable pour influencer le résultat de cette élection. Vous pouvez faire en sorte que vos préoccupations soient enfin prises en compte par le gouvernement. Québec solidaire va être là pour vous défendre », a affirmé Manon Massé.', '10/2/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/demain-le-meilleur-geste-a-poser-pour-lenvironnement-cest-voter-solidaire-gabriel-nadeau-dubois')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Baisse d''impôt, amélioration des services et protection du pouvoir d''achat : le Parti conservateur du Québec présente son cadre financier', '« Un gouvernement du Parti conservateur du Québec diminuera le fardeau fiscal des Québécois de 38,4 G$ sur cinq ans et, malgré cette baisse de revenus, les budgets seront équilibrés, les services publics seront améliorés, nous ne pigerons pas dans le Fonds des générations et nous allons alléger le fardeau de l’endettement public des prochaines générations en réduisant de 18,5 % le poids de la dette brute du Québec par rapport à la taille de l’économie. », a assuré Monsieur Duhaime.
+
+Les baisses de taxes et d’impôts et la dérèglementation proposées par le PCQ auront un effet d’entraînement sur l’économie. Si les surplus sont plus élevés que prévus, il y aura un « dividende de prospérité » représentant une réduction additionnelle du fardeau fiscal des contribuables.
+
+« Il est facile de dépenser l’argent des autres. On n’a qu’à voir la pluie de milliards de dollars de promesses qui s’est abattue au Québec depuis deux semaines. Au Parti conservateur du Québec, nous proposons une autre approche : moins d’impôts et de taxes, une hausse de dépenses plus modérée en ligne avec l’inflation et la croissance de la population, la fin des déficits, de meilleurs services publics grâce au privé et à la concurrence, tout en continuant d’investir dans nos infrastructures, nos bâtiments, nos routes, nos hôpitaux et nos écoles pour rattraper le retard que nous a légué des années de laisser-aller et d’imprudence », a rappelé le chef conservateur.
+
+ DES ENGAGEMENTS CONCRETS POUR SOULAGER LE PORTEFEUILLE DES QUÉBÉCOIS
+
+Les principaux engagements du parti qui ont un impact financier sur les finances publiques mais également sur les finances personnelles des Québécois sont les suivants :
+
+Baisse de l’impôt des particuliers (hausse de l’exemption personnelle de base d’impôt des particuliers à 20 000 $ plutôt que 15 728 $ et réduction des taux d’imposition pour les paliers suivants :»
+
+Premier 46 295 $ : de 15 % à 13 %
+De 46 295 $ à 92 580 $ : de 20 % à 18 %
+
+Suspension de la taxe sur les carburants de 19,2 cents / litre
+
+Hausse de crédits d’impôt :
+
+Travailleurs d’expérience de plus de 60 ans pour les encourager à prolonger leur carrière
+Proches aidants
+Nouveau crédit d’impôt pour abonnements sportifs
+
+Nouveau crédit d’impôt pour familles de plus de deux enfants
+
+Élimination de la TVQ sur les biens usagés et sur les équipements et les activités physiques
+
+Hausse des prêts et bourses
+
+Recours accru au secteur privé en santé pour faciliter l’accès aux soins
+
+Baisse des aides aux entreprises et des subventions aux véhicules électriques
+
+Adoption d’une Loi sur le plafonnement des dépenses
+
+EFFETS SUR LES FINANCES PUBLIQUES
+
+Voici les effets des mesures du PCQ sur les finances publiques (pour une durée de cinq ans, sauf indication contraire) :
+
+
+La baisse de l’impôt des particuliers totalise 30,1G$
+
+La baisse de la TVQ totalise 2,7 G$
+
+Retour à l’équilibre budgétaire dès 2023-2024
+
+Surplus (avant contribution au Fonds des générations) de 21 G$
+
+Le PCQ ne pigera pas dans le Fonds des générations, lequel augmentera de 22 G$
+
+Solde budgétaire de 6 G$ en 2026-2027 après contribution au Fonds des générations et solde budgétaire cumulatif de 0 $ pour les cinq ans
+
+Le poids de la dette brute passe de 42,1 % à 34,3 %, en baisse de 18,5 %
+
+Le PCQ ne pigera pas dans la provision pour risques économiques et autres mesures de soutien et de relance de 10 G$, laquelle demeure disponible si nécessaire
+
+Le PCQ bâtit un « coussin » (la réserve de stabilisation) qui atteint 10 G$ en 2027
+
+Maintien intégral du Plan québécois des infrastructures
+
+Dividende de prospérité potentiel réduisant encore plus les impôts
+« Je suis très fier du travail accompli, non seulement parce que nous sommes les seuls à présenter un cadre détaillé par souci de transparence, mais aussi parce que nous sommes le seul des cinq partis qui présentons un budget équilibré sur 4 ans », a déclaré Monsieur Duhaime.', '9/14/2022 20:00:00 PM','https://www.conservateur.quebec/baisse_d_impot_amelioration_des_services_et_protection_du_pouvoir_d_achat_le_parti_conservateur_du_quebec_presente_son_cadre_financier')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Le Parti conservateur augmentera la limite de vitesse à 120 km/h sur les autoroutes dont les conditions le permettent', 'Il a d’abord tenu à revenir sur le succès de la soirée de la veille au Centre Vidéotron, où plus de 3 000 conservateurs s’étaient rassemblés dans le hall et à l’extérieur, dans ce qui s’est avéré être le plus imposant rassemblement politique depuis le début de la campagne, tous partis confondus :
+
+« Je tiens à remercier du fond du cœur tous les gens présents à notre Méga rassemblement d’hier soir. Des gens sont venus des quatre coins du Québec, une centaine de nos candidats étaient présents! L’énergie était incroyable! On est le parti qui a connu la plus forte croissance au cours des derniers mois et ça ne fait que continuer. Hier, nous avons dépassé l’autobus de la CAQ sur la 20, mais ça fait depuis le début de la campagne qu’on les perd dans la brume un peu plus à chacun de nos rassemblements », a souligné le chef conservateur.
+
+L’annonce d’aujourd’hui d’augmenter la vitesse à 120 km / h sur les autoroutes s’appuie, d’une part, sur la technologie et la sécurité des automobiles qui ont beaucoup évolué au courant des dernières années. Par conséquent, la limite de vitesse sur les autoroutes du Québec devrait refléter ces changements. D’autre part, plusieurs rapports et études démontrent que cette augmentation de la limite de vitesse n’augmente pas les accidents sur les autoroutes. Par exemple, en 2014, la vitesse maximale a été augmentée à 120 km / h sur plusieurs portions de l’autoroute Coquihalla en Colombie-Britannique. La tendance des accidents de la route dans la province demeure à la baisse, passant de 335 000 accidents de la route en 2017 à 285 000 accidents de la route en 2021, soit une diminution de près de 15 %.
+
+Une étude démontre également qu’un pays comme l’Allemagne, qui n’a aucune limite de vitesse sur plusieurs de ses autoroutes, a moins d’accidents de la route que d’autres pays qui imposent des limites strictes. Enfin, au Québec, on remarque une baisse de 18 % dans le nombre de personnes accidentées par année sur les routes du Québec de 2016 à 2021.
+
+« Il est grand temps de faire confiance aux automobilistes québécois et d’augmenter la limite de vitesse sur les autoroutes dont les conditions le permettent, bien sûr, à 120 km / h. Cela s’inscrit dans notre philosophie, dans un mouvement d’idées plus large au Parti conservateur, qui cherche à faire confiance aux Québécois et à leur redonner leur liberté de choix », a dit le chef conservateur.', '9/17/2022 20:00:00 PM','https://www.conservateur.quebec/le_parti_conservateur_augmentera_la_vitesse_120_km_h_sur_les_autoroutes_dont_les_conditions_le_permettent')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Le Parti conservateur du Québec présente neuf propositions pour une plus grande autonomie de nos aînés', 'Le mauvais traitement des aînés pendant la crise sanitaire montre la nécessité de réformes à notre système de services sociaux et de santé publique. Cette situation met en relief l’importance de proposer des réformes viables et satisfaisantes pour répondre aux véritables besoins des aînés.
+
+Déjà, la plateforme du PCQ répond directement aux besoins des aînés en proposant d’additionner les forces du secteur privé au système public de soins, ainsi que des mesures qui les aideront en diminuant les impôts, en facilitant le retour au travail pour les aînés qui le désirent et en rendant les logements abordables plus accessibles.
+
+Toutefois, il demeure certaines problématiques telles la maltraitance, le soutien à domicile, les soins adaptés, la pénurie de main-d’œuvre au sein du réseau de la santé, l’augmentation du coût de la vie l’isolement social, la qualité des soins de longue durée que le Programme des conservateurs pour une meilleure qualité de vie des aînés cible plus particulièrement.
+
+NEUF PROPOSITIONS DU PCQ POUR UNE MEILLEURE QUALITÉ DE VIE DE NOS AÎNÉS
+
+#1 Renforcer le soutien à domicile
+
+Favoriser le soutien à domicile afin que les aînés bénéficient le plus longtemps possible des avantages de vivre à la maison. Il faut essayer de retarder le plus possible l’institutionnalisation des aînés, car cela coûte beaucoup plus cher aux contribuables que de garder des gens à domicile.
+
+Il faut également bonifier le programme d’exonération financière pour les services d’aide à domicile (PEFSAD) pour améliorer l’accès des aînés à faibles revenus à ces services. Durant notre premier mandat, nous allons évaluer les coûts additionnels pour mettre en place cette mesure et, selon les marges de manœuvre budgétaires dégagées, le gouvernement établira le financement additionnel nécessaire.
+
+#2 Proposer un financement différent
+
+Subventionner les associations qui s’occupent des aînés à domicile en se basant sur une comptabilité des services rendus les années précédentes. Nous reconnaissons que ces personnes font souvent preuve d’un dévouement exceptionnel.
+
+#3 Crédit d’impôt pour la prolongation de la carrière
+
+Reconnaître la contribution économique pour notre société des travailleurs désireux de prolonger leur carrière en leur accordant un crédit d’impôt jusqu’à 23 000 $ pour les 60 ans et plus, et jusqu’à 25 000 $ pour les 65 ans et plus, en incluant l’exemption personnelle de base qui passera à 20 000 $.
+
+#4 Une assurance autonomie
+
+Offrir aux Québécois le même niveau de couverture d’assurance en ce qui a trait aux soins à domicile et aux soins de longue durée que les pays les plus performants, en donnant la possibilité de souscrire à une assurance complémentaire.
+
+#5 Décentraliser les services
+
+Des OBNL à taille humaine se préoccupent de gens qu’ils connaissent, et non de statistiques. Il est donc primordial de favoriser des services locaux plutôt que des services régionaux ou nationaux.
+
+#6 Réduire les risques d’isolement
+
+Encourager la création de liens entre les aînés avec le reste de la société, qu’ils soient à la maison ou en institution. Il serait bénéfique pour de nombreux aînés de briser leur isolement social en participant à la vie de quartier et à celle des écoles.
+
+#7 Appuyer les proches aidants
+
+Financer le travail des proches aidants à la hauteur du coût de cette prise en charge par l’État. Le Parti conservateur reconnaît que les proches aidants jouent un rôle important et encore sous-estimé, en prenant soin de nos aînés et de leurs proches handicapés.
+
+#8 Maisons bigénérationelles
+
+Assouplir la réglementation pour la construction de maisons bigénérationnelles, afin de garder les aînés dans leurs familles, car ils sont des sources de savoir et de transmission des valeurs qui ont construit le Québec.
+
+#9 Commission d’enquête
+
+Mettre sur pied une Commission d’enquête sur les morts de la Covid-19 dans les CHSLD.
+
+« Le sort des aînés est au cœur de nos préoccupations au Parti conservateur du Québec. On juge une société à la manière dont elle traite ses aînés. Ceux-ci nous ont légué un héritage, ils méritent le respect et de poursuivre leur vie dans la dignité avec des soins appropriés, à domicile ou en institution, » a souligné Éric Duhaime.', '9/18/2022 20:00:00 PM','https://www.conservateur.quebec/le_parti_conservateur_du_quebec_presente_neuf_propositions_pour_une_plus_grande_autonomie_de_nos_aines')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Redonner confiance aux victimes : Le PCQ présente ses propositions en matière de justice', 'Celle-ci comporte treize engagements regroupés sous cinq grands thèmes particulièrement problématiques ciblés par le PCQ : soutien insuffisant du gouvernement du Québec et de ses institutions aux victimes, protection accrue des femmes en matière de violence familiale, amélioration de la sécurité dans les rues en s’attaquant aux gangs de rue et aux armes illégales, la santé mentale et l’exploitation des mineur(e)s.
+
+La mesure-phare des conservateurs est l’adoption d’une Charte québécoise des droits des victimes. Cette Charte permettrait à la victime de recevoir l’information critique tout au long du processus, de demander des mesures de protection, notamment celles de protéger des informations personnelles et de pouvoir témoigner en toute sécurité.
+
+Treize engagements du PCQ envers les victimes d’actes criminel
+
+Adopter une Charte québécoise des droits des victimes, lesquels droits seraient inscrits dans une loi;
+
+Adopter un registre public des prédateurs sexuels dès la première année de son mandat;
+
+Adopter une loi similaire à la Claire’s Law, adoptée en Alberta en 2021, qui permet aux personnes qui se sentent à risque de subir de la violence domestique d''accéder au casier judiciaire de leur partenaire pour savoir si celui-ci a un passé abusif ou violent. Les femmes du Québec pourraient donc s’adresser à un corps policier de la province afin de vérifier si un nouveau conjoint a des antécédents criminels. Cette loi a déjà été adoptée dans plusieurs provinces canadiennes et elle a permis à beaucoup de femmes de mieux se protéger;
+
+Investir dans les services pour hommes violents en créant un réseau de centres de thérapie pour ces derniers;
+
+Continuer de demander au gouvernement fédéral d''adopter rapidement une loi pour imposer le port du bracelet électronique pour les accusés de violence conjugale en attente de procès et pour ceux qui sont libérés d’un pénitencier fédéral et qui représentent un niveau inacceptable de dangerosité pour leur victime;
+
+Investir de manière continue dans les ressources policières afin que les villes concernées puissent endiguer la montée de la violence dans leurs rues et cesser d’être continuellement en réaction à l’actualité alors que trop d’innocentes victimes perdent la vie. Pour ce faire, l’embauche de 400 policiers additionnels pour la ville de Montréal a déjà été proposé;
+
+Interpeller le gouvernement fédéral plus vigoureusement afin que le Code criminel soit mieux adapté à ce type de violence par armes à feu et que des contrôles des armes illégales soient faits dans des territoires propices à leur transit;
+
+Mettre en place un réseau d’hébergement communautaire pour les personnes atteintes de troubles mentaux à titre d’alternative à l’incarcération;
+
+Réallouer des ressources budgétaires pour mettre en place un financement suffisant dans le milieu communautaire afin d’assurer un suivi efficace des personnes remises en liberté et souffrant de troubles mentaux;
+
+Centrer la mission de la Commission de santé mentale du Québec sur la protection de la population et non la remise en liberté de personnes dangereuses reconnues non criminellement responsables de crimes graves;
+
+Réallouer des ressources budgétaires pour appuyer les corps policiers qui se sont donnés un plan d’action pour contrer l’exploitation sexuelle de mineures en ciblant notamment les clients qui abusent de mineures;
+
+Offrir des mesures de soutien aux victimes qui dénoncent leurs exploiteurs pour leur cheminement psychologique, social et professionnel;
+
+Offrir aux victimes des mesures de reconstruction afin que leur réinsertion sociale soit une réussite.
+« Grâce à ses propositions, le Parti conservateur entend améliorer le système de justice pour les victimes d’actes criminels, les protéger efficacement, leur rendre justice et leur redonner confiance. Elles ne sont que le début d’une réforme pour leur assurer un support tout au long du processus. Elles ont droit à une protection adéquate et que l’on s’assure de leur sécurité physique », a rappelé Monsieur Duhaime.', '9/20/2022 20:00:00 PM','https://www.conservateur.quebec/redonner_confiance_aux_victimes_le_pcq_presente_ses_propositions_en_matiere_de_justice')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Manque de places dans les CPE : Le Parti conservateur du Québec voit dans les garderies privées des alliées pour régler la crise', 'Rappelons que la situation actuelle dure depuis plus de 25 ans. Des centaines de milliers d’enfants n’ont jamais bénéficié de la pleine couverture, bien que leurs parents paient l’impôt qui finance ce service qualifié de faussement d’universel.
+
+« Le Parti conservateur du Québec voit dans les services de garde non subventionnés des alliés précieux pour résoudre le manque criant de places dans les CPE. On doit travailler de concert dans l’intérêt des parents, mais surtout des enfants. La proposition conservatrice qui consiste à financer directement les parents en offrant 200 $ par semaine, par enfant, ajouterait un incitatif directement dans le réseau pour combler à brève échéance les 24 000 places restantes. En maintenant l’approche actuelle, on pénaliserait des milliers de parents et d’enfants. Au PCQ, on trouve que la crise a assez duré. Chaque famille doit avoir accès à une place en garderie si elle en a besoin et nous avons le plan le plus crédible pour enrayer la liste d''attente en garderie », a déclaré Éric Duhaime.', '9/22/2022 20:00:00 PM','https://www.conservateur.quebec/manque_de_places_dans_les_cpe_le_parti_conservateur_du_quebec_voit_dans_les_garderies_privees_des_alliees_pour_regler_la_crise')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Surréglementation au Québec : le PCQ tiendrait une commission parlementaire sur la réglementation sur les VTT, les motos et les véhicules électriques', 'a commission parlementaire analyserait le rapport coût/bénéfice de la réglementation afin d’éliminer celles qui nuisent sans apporter de bénéfices tangibles. Au Québec, on compte plus de 400 000 utilisateurs de véhicules hors route immatriculés et 410 000 adeptes de la motoneige avec 150 000 motoneiges immatriculées.
+
+Plus spécifiquement, Monsieur Duhaime propose que la commission parlementaire dépose un rapport dans le cadre du Chantier sur la simplification de la réglementation déjà annoncé par le Parti conservateur. Cela se ferait en consultant les régions et les clubs / fédérations de VTT et de motoneiges ainsi qu’avec les associations de véhicules électriques.
+
+Une réglementation tatillonne à revoir avec quelques exemples probants :
+
+Traverser des routes à numéro
+
+Un VTT ne peut traverser une route à numéro que sur des sentiers balisés. Pour le chef conservateur, cela ne fait aucun sens :
+
+« Pour aller chez ton voisin d’en face, il faudrait que tu mettes ton VTT dans une remorque. On sait qu’en pratique, cette partie de la loi n’est pas appliquée et il faut, avec des experts et les clubs de VTT et de motoneiges, trouver une solution plus pratique qui serait en même temps sécuritaire, » a souligné Monsieur Duhaime.
+
+Limite de vitesse
+
+Une limite de 50 km/h est imposée partout sur tous les types de pistes pour les VTT (70 km/h pour les motoneiges). Dans certains cas, la limite peut être augmentée respectivement à 70 km/h et 90 km/h.
+
+« Encore une fois, la réglementation ne suit pas la pratique et les avancées technologiques des VTT. Il faut moduler la vitesse en fonction des conditions des pistes, tout en s’assurant une sécurité adéquate », a dit Éric Duhaime.', '9/25/2022 20:00:00 PM','https://www.conservateur.quebec/surreglementation_au_quebec_le_parti_conservateur_du_quebec_tiendrait_une_commission_parlementaire_sur_la_reglementation_sur_les_vtt_les_motos_et_les_vehicules_electriques')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Les promesses bleu poudre : le Parti conservateur du Québec rappelle aux Québécois dix promesses brisées de la CAQ', '« En 2018, Monsieur Legault avait promis mer et monde aux Québécois. Il utilisait à l’époque un vocabulaire qui laissait entendre qu’il serait en fait un conservateur Mais la réalité, c’est que ce n’est que de la mascarade. Après quatre années au pouvoir, on ne peut que constater qu’il n’a pas respecté sa parole. Il n’a pas rempli ses principales promesses », a dit Éric Duhaime.
+
+Le chef conservateur a donc tenu à rappeler les promesses que François Legault a faites aux Québécois pour se faire élire en 2018, et qu’il n’a pas respectées une fois au pouvoir :
+
+« François Legault a clignoté à droite et dès qu’il a été élu, il a tourné à gauche. Il a trahi les électeurs de Québec et de Chaudière-Appalaches en ne respectant pas les promesses qui étaient les plus chères à leurs yeux. C’est ça, les promesses bleu poudre de la CAQ : s’engager envers les Québécois en leur disant ce qu’ils veulent entendre, et leur tourner le dos dès qu’il est au pouvoir. C’est ce qui nous attend tous pour les quatre prochaines années si la CAQ est reportée au pouvoir : des promesses bleu poudre », a dit le chef conservateur.
+
+Bleu poudre – La couleur des 10 promesses brisées de la CAQ
+
+En 2018, François Legault avait fait campagne en promettant aux Québécois de nombreux engagements, qu’il n’a pas respecté :
+
+Additionner le privé en santé
+
+Construire un 3elien à l’Est
+
+Diminuer des listes d’attente en santé
+
+Exploiter nos hydrocarbures
+
+Maternelle 4 ans pour tous les enfants
+
+Permettre le projet de GNL Québec
+
+Éliminer les listes d’attente en garderies
+
+Réformer le mode de scrutin
+
+Implanter un Registre des pédophiles
+
+Réduire la taille de l’État
+
+« La liste des promesses bleu poudre pourrait être encore plus longue. Monsieur Legault n’a réalisé complètement que 55 % de ses promesses selon le site www.polimetre.org qui suit les engagements des gouvernements. Ce n’est même pas la note de passage. Monsieur Legault a échoué sa 4e année à titre de premier ministre et doit retourner sur les bancs de l’opposition pour faire de la récupération », a ironisé Monsieur Duhaime.
+
+
+Le Parti conservateur du Québec s’engage à réaliser toutes ses promesses
+
+Débuter les travaux pour 3e lien à l’Est sous la forme d’un pont dès le 1ermandat;
+
+Faire diminuer drastiquement l’attente en santé en additionnant la contribution du privé au système public, tout en nous assurant que la RAMQ en couvre les frais;
+
+Exploiter nos hydrocarbures pour financer la transition énergétique au Québec et créer de bons emplois pour les gens des régions;
+Travailler avec GNL Québec pour relancer le projet;
+
+Éliminer les listes d’attente en garderies en instaurant un bon de garde de 200 $ par enfant, par semaine, qui sera donné directement aux familles;
+
+Mettre en place un registre des pédophiles;
+
+Réduire la taille de l’État de 5000 fonctionnaires par attrition dès le premier mandat.
+« Aujourd’hui, je m’engage formellement envers les citoyens de Chauveau et envers tous les Québécois : si nous sommes portés au pouvoir le 3 octobre, le Parti conservateur réalisera 100 % de ses promesses. Nous avons pris moins d’engagements que d’autres partis, car nous allons réellement réaliser tout ce que nous promettons. Notre plateforme est un contrat moral avec les électeurs et nous allons le respecter à 100 %. C’est la moindre des choses et tout politicien qui ne met pas en œuvre toute sa plateforme n’est pas digne de la confiance que le peuple lui a conférée », a déclaré Éric Duhaime.', '9/26/2022 20:00:00 PM','https://www.conservateur.quebec/les_promesses_bleu_poudre_le_parti_conservateur_du_quebec_rappelle_dix_promesses_brisees_de_la_caq')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Réduction de la taille de l''État : Éric Duhaime s''engage à limiter le Conseil des ministres à 20 élus', 'Monsieur Duhaime a rappelé que les temps ont été durs au cours des deux dernières années, notamment à cause des mesures sanitaires mises en place durant la pandémie et leurs impacts négatifs sur l’économie à long terme. Les actions combinées des gouvernements provincial et fédéral ont eu des effets délétères dans tous les secteurs de l’économie, affectant en fin de compte tous les contribuables et les entreprises, notamment les PME, qui peinent maintenant à joindre les deux bouts ou dont la survie est directement menacée :
+
+« Plusieurs PME ont été affectées négativement par les mesures sanitaires du gouvernement Legault, qui forçait la fermeture de certains commerces alors que la Santé publique ne l’avait pas recommandée. Les familles québécoises sont également durement touchées par la crise inflationniste. Les actions des deux paliers de gouvernement font que tout coûte plus cher au Québec, alors que les salaires ne suivent pas », a dit Monsieur Duhaime
+
+Des actions gouvernementales aux effets délétères pour tous les contribuables
+
+L’inflation a atteint 7 % en août au Canada, le taux directeur a augmenté à 3,25 en septembre et les taux hypothécaires ont augmenté à plus de 5 %. Cela privera les ménages québécois de milliers de dollars par année et les met dans une position de vulnérabilité, peinant à subvenir à leurs besoins fondamentaux tels se nourrir, se loger et se vêtir.
+
+« Les Québécois devront payer plus cher pour tout et surtout pour leur logement et leur hypothèque. La dette du Québec s’élève maintenant à 304 milliards, soit près de 46 000 $ par contribuables. La solution ne peut donc pas être d’endetter encore plus les Québécois. Les contribuables se sont assez serré la ceinture, il est temps que le gouvernement du Québec serre la sienne et cela commence en donnant l’exemple avec son conseil des ministres, » a déclaré le chef conservateur.
+
+Le gros conseil de ministre de la CAQ : un mauvais signal aux contribuables et aux hauts fonctionnaires
+
+Le conseil des ministres actuel de la CAQ est composé de 27 ministres. Monsieur Duhaime affirme que plusieurs fonctions de ces ministres pourraient être regroupées pour sauver des coûts. Des postes de ministres délégués pourraient être abolis et certains ministres pourraient cumuler plus d’une fonction en tenant compte des compétences de chacun. Par exemple :
+
+Ministre délégué à la Santé et aux Services sociaux
+Ministre déléguée aux Transports
+Ministre déléguée à l’Éducation
+Ministre déléguée à l’Économie
+« Lorsqu’un conseil des ministres est aussi gros, ça envoie aussi un signal à la fonction publique et spécifiquement aux hauts fonctionnaires. Cela envoie le message que le robinet est grand ouvert, que c’est OK de dépenser, que c’est OK de gaspiller et que chercher à faire des économies n’est pas une priorité », a déclaré Monsieur Duhaime.
+
+Selon le chef conservateur, avoir un conseil des ministres réduit au strict nécessaire envoie un message fort. Cela aide à rebâtir la confiance avec les contribuables et indique aux hauts fonctionnaires que le gouvernement est sérieux dans son désir de limiter les dépenses et de lutter activement contre le gaspillage de fonds publics. Ce n’est pas non plus aux contribuables de payer pour les promesses faites par François Legault à certains de ses candidats vedettes :
+
+« On sait que Monsieur Legault a promis plusieurs ministères à plusieurs de ses candidats vedettes, notamment probablement à Caroline Saint-Hilaire, Bernard Drainville et Martine Biron. Monsieur Legault doit aussi composer avec plusieurs ministres existants qui veulent rester en place comme Monsieur Caire et Madame Guilbault. On ne veut pas que les contribuables québécois aient à payer pour les promesses de François Legault et que l’on se retrouve avec un énorme et coûteux Conseil des ministres. Alors que les Québécois se demandent comment payer les factures, ce n’est pas à eux, en plus, à faire les frais de ces promesse, » a souligné Éric Duhaime.
+
+Un conseil limité à 20 ministres – Le PCQ demande aux autres partis de prendre cet engagement
+
+Pour toutes ces raisons, le chef conservateur invite tous les partis à se joindre au PCQ et à promettre aux Québécois qu’ils feront preuve de rigueur budgétaire et limiteront le nombre de limousines allouées à leurs députés au strict nécessaire pour accomplir les fonctions régaliennes de l’État québécois :
+
+« C’est le temps pour le gouvernement de montrer l’exemple en se serrant la ceinture, au lieu de demander encore aux familles québécoises de le faire. Je lance donc aujourd’hui un appel à tous les chefs de partis : faites comme le Parti conservateur du Québec et engagez-vous à ce que votre futur conseil des ministres se limite à 20, afin de respecter la capacité de payer des contribuables. Peu importe que votre cadre financier soit dépensier ou plus conservateur comme le nôtre, du gaspillage, c’est du gaspillage. On n’a pas besoin de 27 députés en limousines pour gérer le Québec », a conclu le chef conservateur.', '9/28/2022 20:00:00 PM','https://www.conservateur.quebec/reduction_de_la_taille_de_l_etat_eric_duhaime_s_engage_a_limiter_le_conseil_des_ministres_a_20_elus')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Plus de liberté d''action pour nos entrepreneurs : le PCQ présente ses engagements envers les PME', 'Nos PME ont été malmenées par des mesures sanitaires trop restrictives du gouvernement Legault. Près de deux ans de confinement économique ont fragilisé les PME à tel point que seulement 54 % d’entre elles ont retrouvé leurs revenus normaux, peinant à éponger les pertes dues aux mesures sanitaires ou aux coûts affectés par l’inflation, que l’on parle de taxes et impôts, de salaires ou des frais de la bureaucratie.
+
+Avant même la pandémie, le Québec était et est toujours, et de loin, la province du Canada où la fiscalité est la plus lourde pour la petite entreprise. Les PME doivent assumer des taxes sur la masse salariale 30 % plus élevées que la moyenne de toutes les provinces. De plus, elles ont un taux d’impôt réduit pour les PME plus élevé que dans huit autres provinces canadiennes. Et la cerise sur le sundae : le Québec est la seule province qui bloque l’accès au taux d’impôt réduit pour les plus petites entreprises des secteurs des services et de la construction. Ce sont près de 38 000 très petites entreprises (moins de trois employés) qui doivent payer un taux d’imposition deux fois et demie plus élevé que pour une multinationale.
+
+La pénurie de main-d’œuvre est une autre réalité qui pèse lourd sur nos PME. La Fédération canadienne des entreprises indépendantes a calculé que le montant total des pertes causées aux PME québécoises pour la dernière année est de plus de 10,7 milliards de dollars.
+
+ Il ne faut pas oublier tout le secteur des entreprises sociales et à caractère communautaire ainsi que les OBNL. Le PCQ favorise ces organismes, car ils sont près du terrain et sont souvent mieux placés que la lourde bureaucratie centralisée pour être des prestataires de services à l’écoute de leur clientèle. On leur confie une partie importante de nos impôts grâce auxquels elles offrent des services essentiels au quotidien.
+
+« Le Parti conservateur du Québec croit qu’un fardeau fiscal trop lourd gêne l’effort et l’entrepreneuriat, et ralentit la croissance économique. Nous favorisons les mesures qui éliminent les obstacles au mouvement des biens et du capital avec les économies voisines tout comme les réglementations qui imposent des fardeaux écrasants aux entreprises et au marché du travail. Nous préférons assurer un environnement qui favorise la concurrence, source d’innovation bénéfique pour répondre aux besoins des consommateurs plutôt que le dirigisme économique », a déclaré Éric Duhaime.
+
+LES ENGAGEMENTS DU PCQ ENVERS LES PME
+
+Le Parti conservateur du Québec comprend les défis de nos PME et a donc adopté dans son programme plusieurs mesures destinées à alléger leur fardeau fiscal et réglementaire ainsi que celui de leurs propriétaires et à leur ouvrir de nouveaux marchés et de nouvelles occasions de croissance.
+
+Par l’ensemble des propositions suivantes, le PCQ favorisera de façon macro-économique les PME, notamment par des baisses d’impôts substantielles et ouvrira des possibilités aux PME et aux entrepreneurs du Québec dans des secteurs particuliers comme les garderies, la santé, les technologies de l’environnement et le logement.
+
+Fiscalité et économie
+
+D’emblée, le Parti conservateur propose deux mesures qui seront appliquées rétroactivement pour l’année fiscale 2022.
+
+Le PCQ s’engage à :
+
+Augmenter l’exemption personnelle de base de l’impôt des particuliers à 20 000 $ plutôt que 15 728 $ ;
+
+Réduire les taux d’imposition pour les paliers suivants :
+
+Premier 46 295 $ : de 15 % à 13 %
+De 46 295 $ à 92 580 $ : de 20 % à 18 %
+Suspendre la taxe de 19,2 cents/litre sur les carburants, allégeant ainsi le coût du transport pour nos PME et le coût des intrants de nos PME québécoises qui utilisent des véhicules dans le cadre de l’exploitation de leur entreprise ;
+
+Diminuer progressivement les taxes sur la masse salariale pour les ramener à l’intérieur de la moyenne canadienne, en commençant par l’abolition de la taxe de 1 % pour la formation ;
+
+Cesser de taxer la revente de tous biens de consommation usagés, incluant les automobiles, revigorant le secteur des biens déjà utilisés ;
+
+Offrir des crédits d’impôt pour les abonnements sportifs et détaxer les activités sportives, ce qui favorisera l’industrie du conditionnement physique et des sports ainsi que la santé des travailleurs et des entrepreneurs ;
+Le PCQ veut aussi contribuer à résoudre la pénurie de main-d’œuvre. Il s’engage donc à :
+
+Augmenter le crédit d’impôt au prolongement de carrière des travailleurs d’expérience :
+De 1500 $ à 3000 $ pour les 60 à 64 ans ;
+De 1650 $ à 5000 $ pour les 65 ans et plus.
+Mettre en place une stratégie pour accroitre le taux de diplomation, notamment dans les filières professionnelles et techniques, afin de répondre aux attentes des employeurs ;
+Modifier le programme de prêts et bourses pour que les étudiants travaillant pendant leurs études ne soient plus pénalisés ;
+Offrir des bonifications des bourses et remboursements de prêts pour les étudiants travaillant dans certains secteurs essentiels : agriculture, soins aux aînés, santé, etc. ;
+Abolir la liste d’attente de 52 000 enfants pour des garderies en fournissant un bon de 200 $/semaine/enfants aux parents, ce qui stimulera la création de nouvelles garderies et permettra à de nombreux parents de retourner sur le marché du travail ;
+Déréglementation
+
+L’État québécois croule sous une masse de réglementation bureaucratique étouffante qui nuit énormément à l’économie. Un gouvernement du Parti conservateur du Québec lancerait un vaste chantier de révision de la réglementation :
+
+« Il n’est pas question de mettre la sécurité du public en jeu. L’intention est de juguler la bureaucratie tatillonne et de permettre l’éclosion de plus d’innovation et de concurrence au bénéfice des consommateurs. Cette déréglementation profitera également à tout le secteur communautaire qui, lui aussi, peine sous le poids et la lenteur de notre bureaucratie, » a fait valoir le chef conservateur.
+
+Aide aux entreprises
+
+Le Québec est le champion toutes catégories de l’aide aux entreprises. Nous dépensons beaucoup plus par personne pour « aider » nos entreprises que l’Ontario. Il y a plusieurs problèmes avec ces subventions et aides fiscales. Notamment, elles créent un avantage compétitif injuste entre les entreprises qui reçoivent de l’aide et celles qui ne n’en reçoivent pas :
+
+« Les subventions créent des distorsions dans le fonctionnement normal du marché. Les gouvernements décident de favoriser artificiellement une entreprise, une production ou un secteur de l’économie aux dépens d’autres projets plus rentables. La confiance dans nos institutions démocratiques risque d’être minée par le fait que le public perçoit la générosité de l’État comme le résultat de lobbying douteux que seules les grandes entreprises peuvent se payer ou de copinage avec les fonctionnaires ou les ministres.
+
+Le PCQ s’engage donc à diminuer graduellement l’aide aux entreprises sans évincer les crédits d’impôt à la recherche ou aux fonds de travailleurs ni le capital d’investissement disponible à Investissement Québec.
+
+Logement
+
+Le Québec compte près de 277 000 entreprises propriétaires de 1,4 million d’unités d’habitation locative. Ce marché est surréglementé, ce qui réduit le rendement sur le capital investi et l’incitatif à placer des capitaux dans cette industrie, causant ainsi une pénurie de logements. Si les barèmes de fixation de loyer étaient moins restrictifs, l’augmentation de l’investissement dans le marché locatif s’établirait à 66 % (de 3 G$ à 5 G$), selon une étude de KPMG. Les logements seraient en meilleur état, plus sécuritaires, et bénéficieraient d’une efficacité énergétique accrue. Il y aurait surtout davantage de logements à prix modérés.
+
+Le PCQ s’engage à :
+
+Demander une révision du Règlement sur les critères de fixation de loyer et confiera cette responsabilité à une autorité à vocation économique pour évaluer la conjoncture annuellement à l’abri de l’arbitraire des politiciens;
+
+Abolir le recours pour révision du loyer en vertu de la section G du bail si le vrai montant du loyer précédent y figure. Ce n’est qu’au Québec qu’on trouve ce genre de clause, pas ailleurs au Canada ou dans le monde;
+
+Soustraire les logements complètement rénovés du contrôle des loyers pour une période de cinq ans ;
+
+Exempter les loyers élevés du contrôle des loyers;
+
+Bonifier l''allocation-logement pour les locataires les plus démunis;
+
+S’opposer à la tenue de Registres des baux;
+
+Autoriser le dépôt de garantie d’un ou deux mois de loyer dans une fiducie comme cela existe partout au Canada, en Amérique du Nord et en Europe;
+
+Réduire les coûts de construction de nouvelles unités de logements locatifs, HLM inclus, en assouplissant la réglementation de l’industrie de la construction et en révisant certaines dispositions du Code de construction qui restreignent inutilement la polyvalence des travailleurs sur les chantiers;
+Intervenir au niveau des municipalités afin de rendre moins contraignantes les règles visant la construction, l’aménagement ou la transformation pour fin de revente des maisons bigénérationnelles.
+Santé
+
+La gestion du monopole hospitalier par l’État s’avère une catastrophe, tant en termes de coût que de qualité de soins. Il affecte de plus la vie des travailleurs des PME en prolongeant leurs incapacités qui les tiennent à l’écart de leur travail. Le PCQ souhaite faire une place accrue aux entrepreneurs et au secteur privé en santé, tout en maintenant intégralement la couverture d’assurance-maladie universelle fournie par la RAMQ, et ce pour tous les Québécois. Par son approche en matière de santé, le PCQ L’approche du PCQ favorisera ainsi le démarrage d’une multitude d’entreprises de service en santé.
+
+Le PCQ s’engage à :
+
+Décentraliser les décisions, ce qui favorisera plus d’approvisionnement local par le réseau public ;
+
+Lancer des projets pilotes afin de confier la gestion administrative de certains hôpitaux à des institutions privées chevronnées (favorisant l’approvisionnement de services accessoires comme buanderie, ménage, cafétéria, etc. auprès des PME locales) ;
+Inciter des investisseurs locaux et étrangers à construire de nouvelles infrastructures de santé (générant une demande accrue pour des services offerts par nos PME) ;
+
+Permettre à l’assureur public (RAMQ) de rembourser des soins médicaux dispensés dans le secteur privé et encourager une assurance privée complémentaire, favorisant l’émergence de nouveaux prestataires privés de soins ;
+
+Encourager l’émergence d’une assurance universelle de soins de longue durée pour toute personne de plus de 65 ans. Cette assurance couvrirait entre autres l''accès à des soins à domicile, ouvrant plus largement ce secteur à des prestataires du secteur privé ;
+
+Bonifier le Programme d’exonération financière pour les services d’aide domestique réduisant le tarif horaire pour des services à domicile offerts par les entreprises d’économie sociale (incluant notamment l’entretien ménager, la lessive, la préparation des repas et l’accompagnement lors de vos achats ;
+
+Décentraliser les décisions vers des OBNL à taille humaine.
+Environnement
+
+Pour qu’il y ait du développement durable, il faut d’abord qu’il y ait du développement. Le PCQ favorise la croissance économique et une prise en compte rationnelle des avantages respectifs de chaque moyen de transport.
+
+Le PCQ s’engage à :
+
+Tenir compte des besoins des entrepreneurs qui ont davantage besoin de leurs véhicules de livraison pour leurs entreprises ;
+
+Fonder la transition énergétique sur des mécanismes de marché, plutôt que le dirigisme d’État ou le protectionnisme, puisqu’ils sont supérieurs pour choisir les entrepreneurs qui mettent au point les meilleures technologies et les procédés les plus rentables en environnement ;
+
+Alléger les restrictions réglementaires pour approuver les projets de développement ;
+
+Soutenir l’entrepreneuriat en environnement et jouer un rôle de facilitateur pour encadrer et motiver les entreprises privées à développer les ressources naturelles de façon responsable et des projets innovants pour les technologies en environnement et la réduction des GES ;
+
+Réviser le système de redevances afin de permettre aux collectivités concernées de recevoir leur part de ces revenus et développer l’économie et les PME locales ;
+
+Relancer le projet GNL Québec. Ce projet devrait générer des partenariats d’affaires pour les entreprises de la région (services, main-d’œuvre et matériaux). Il générera pendant la période de construction, qui s’échelonnera sur quatre ans, 6000 emplois directs et indirects, dont 4000 emplois directs en période de pointe sur le site, de même que 1100 emplois directs et indirects en période d’opération, dont quelque 300 emplois de qualité et bien rémunérés répartis entre le site et les bureaux administratifs à Saguenay ;
+
+Permettre l’exploration et l’exploitation de nos ressources naturelles, tel le gaz naturel dans le schiste argileux d’Utica ;
+« Les nombreuses mesures que je vous annonce aujourd’hui pourront profiter à nos PME, tant sur le plan macro-économique que pour des secteurs particuliers. Rappelons-nous quel est l’ADN du PCQ : favoriser la croissance économique et des retombées positives pour l’ensemble de la population, incluant les PME », a conclu Éric Duhaime', '9/29/2022 20:00:00 PM','https://www.conservateur.quebec/plus_de_libert_d_action_pour_nos_entrepreneurs_le_pcq_pr_sente_ses_engagements_envers_les_entrepreneurs')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Qui a réellement géré la pandémie au Québec? : Éric Duhaime réclame une enquête publique et indépendante sur la firme McKinsey', '« C’est incroyable ce qu’on apprend ce matin! Le gouvernement de François Legault a laissé entre les mains d’une firme américaine, payée par tous les contribuables québécois, le soin d’orchestrer dans l’ombre bien des aspects de la gestion de la pandémie. »
+
+Monsieur Duhaime a ajouté : « Est-ce qu’on doit comprendre que le gouvernement Legault a laissé un cabinet-conseil gérer le Québec en 2020, avec toutes les conséquences néfastes que cela a entraîné sur la vie de millions de Québécois? Qui a réellement géré la pandémie au Québec? Est-ce que Monsieur Legault et Monsieur Dubé étaient des marionnettes de McKinsey? »
+
+Nous apprenons aussi que le gouvernement a signé un avenant au contrat permettant à McKinsey de ne pas divulguer au gouvernement qui sont ses autres clients. Monsieur Duhaime se questionne : « Une firme avec des clients dont les intérêts entrent potentiellement en conflits, une firme dont un des clients est la compagnie Pfizer elle-même! Il a y certainement apparence de conflit d’intérêts et il est essentiel de faire la lumière complète sur la question. »
+
+En effet, la sous-traitance de McKinsey a fait l’objet d’une enquête du Sénat en France il y a quelques mois, et les résultats ont fait grand bruit : Monsieur Gerbet rappelle qu’on y a appris notamment que « des pans entiers de la gestion de la crise avaient été sous-traités à des cabinets de conseil et qu’en France, McKinsey a été la clé de voûte de la campagne vaccinale. »
+
+À la veille des élections, le chef conservateur réclame du gouvernement Legault de dévoiler tous les documents relatifs à ses liens avec McKinsey et de révéler à tous les Québécois dans quelle mesure McKinsey a géré le Québec dans l’ombre :
+
+« Dans trois jours, les Québécois iront voter, dans ce qui sera une élection historique au Québec. Nous sommes en droit de savoir qui sont réellement ceux qui demandent aux électeurs de leur faire confiance pour gérer le Québec pour un autre quatre ans. Nous sommes en droit de savoir qui est réellement le gouvernement Legault. Ce n’est pas vrai que les Québécois vont redonner le pouvoir à la CAQ, ce n’est pas vrai que François Legault peut demander aux gens de lui accorder leur confiance sans mettre cartes sur table et en cachant des choses aussi importantes à la population. Il faut que les électeurs le réalisent avant qu’il ne soit trop tard. C’est très grave, ce que nous apprenons dans le texte de Monsieur Gerbet », a déclaré le chef conservateur.', '9/30/2022 20:00:00 PM','https://www.conservateur.quebec/gestion_de_la_pand_mie_au_qu_bec_ric_duhaime_r_clame_une_enqu_te_publique_et_ind_pendante')
+
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (7,1,'DÉBAT DES CHEFS', 'la parole est au peuple bonjour ça va bien le parti qui a le meilleur plan c’est la caq continuons 
+bonsoir 
+je me considère chanceux dans la vie je viens d''un milieu populaire puis petit gars de Sainte-Anne de Bellevue est rendu Premier ministre et moi mon objectif ce serait que tous les jeunes aient tous les outils pour aller au bout de leur potentiel je pense qu’il y a du travail à faire en éducation je pense qu''on peut faire mieux en économie on a un grand défi de réduire nos ges c''est un gros défi de gestion en santé et c''est important pour moi de protéger notre français d''arrêter le déclin qu''on voit donc c''est pour toutes ces raisons que je m''implique en politique 
+FL :d''abord ce qui est important c''est d''agir dans les 5 endroits où il y a des ges le transport on a beaucoup de projets de transport collectifs deuxièmement les industries il faut que les industries passent à l''électricité donc acier vert aluminium vert hydrogène vert je pense qu''on a la meilleure équipe économique pour faire une économie verte ensuite l''agriculture faut vendre plus et acheter plus localement il y a aussi toute la question du recyclage donc recyclage des contenants finalement les bâtiments l''énergie propre c''est important l''efficacité énergétique 
+je pense qu''on a un sujet qui est important d''abord moi je trouve ça noble ce que propose monsieur Nadeau Dubois d''aller plus vite que le 37 et demi pour cent mais faut quand même regarder les impacts sur les citoyens quand vous dites monsieur nadeau Dubois vous voulez mettre une taxe orange de 7500 dollars sur une fourgonnette familiale que vous voulez aussi fermer des entreprises que vous voulez augmenter la dette de 40% en investissant 74 milliards mais moi j''ai l''impression que c''est un peu comme de la magie c''est un peu comme si vous étiez au pays des merveilles monsieur nadeau Dubois
+oui je veux revenir à Monsieur nadeau dubois d’abord je ne l''ai pas entendu nous féliciter pour le contrat qu''on a signé avec New York ça va retirer l''équivalent d''un million d’autos des routes maintenant je pense monsieur Nadeau Dubois vous devez une réponse au québécois vous avez dit la taxe orange de 7500$ ne va pas s''appliquer pour des familles de 3 enfants au Québec 85 % des familles ont un ou deux enfants ensuite vous avez dit la taxe orange s''appliquera pas dans certaines régions je pense les Québécois ont droit de savoir quelle région 
+d''abord actuellement entre Québec et levis il y a deux ponts qui sont congestionnés il y a une étude qui est en cours parce qu’on a annoncé il y a un an qu''on va faire un tunnel de centre-ville à centre-ville c''est la meilleure façon de faire la promotion du transport collectif 
+les gens de levis ont besoin d’avoir un lien nous on ne pense pas qu''un pont qui détruirait l''île d''Orléans en faisant une autoroute c''est la bonne idée on a besoin d''un lien et nous on propose un tunnel 
+il y a une étude qui est fait actuellement ce moment
+je ne sais pas combien
+l’étude va être fait sur un tunnel centre-ville à centre-ville avec 4 voies pas un pont
+bien non on évolue tout le monde évolue un pont sur l’ile d’orléans 
+les gens de l’ile d’orléans ne veulent rien savoir de votre pont
+ne faites pas peur au monde le pont est sécuritaire 
+écoutez détruire le paysage d''une des plus belles villes au monde avec des pilons détruire l''île d''Orléans avec une autoroute ce n’est pas une bonne idée
+l’étude était négative pour votre pont 
+d’abord les études sur le troisième lien c''était un lien à l''est avec 6 voies
+nous ce qu''on propose c''est un tunnel avec quatre voies dont deux voix aux heures de pointe qui sont pour le transport collectif plutôt que de prendre 30 minutes ça va prendre 10 minutes pour ce qui est du tramway ben écoutez d''une grande ville comme Québec là on a besoin d’un tramway
+absolument écoutez c''est mathématique si on regarde les plans des trois qui sont ici c''est impossible avec l''efficacité énergétique et l''éolien parce que l''éolien c''est intermittent ça prend des barrages ou du nucléaire nous on dit des barrages maintenant quand madame anglade parle d''hydrogène vert ça prend beaucoup d''électricité mais elle n’est pas capable de nous dire où elle va prendre l''électricité pour l''hydrogène vert ça ne marche pas son affaire 
+mais d''abord je vais être très clair il y a effectivement des milieux où il y a de l''acceptabilité sociale puis il y a des milieux où il n’y a pas d''acceptabilité sociale quand il n’y a pas d''acceptabilité sociale il n’y aura pas d''exploitation donc c''est clair on va exploiter là où le milieu est d''accord pour qu''on travaille dans certaines mines 
+ ça prend plus d''infirmières ça prend trois ans former des infirmières qu''est-ce qu''on a fait on a mis des incitatifs pour en ramener de la retraite on a mis des incitatifs pour les étudiants qui étudient en sciences infirmières mais un moment donné il n’y a personne ici qui peut faire de la magie mais 
+c’est le sujet qu’on entend le plus parler il y a des familles qui arrivent pas il y a des retraités qui ont des petites pensions qui sont mal pris et contrairement à ce que dit Monsieur saint-pierre-plamondon c''est la CAQ en 2022 le maintenant qui offre le plus d''argent dans le portefeuille on veut donner 4 à 600 dollars au mois de décembre à tous ceux qui gagnent moins de 100000 puis on veut donner 2000 dollars de plus à partir de 2022 au 70 ans et plus puis après on va baisser les impôts 
+bon d''abord nous ce qui est le plus important ce sont les montants ponctuels qu''on donne en 2022 4 à 600 dollars en décembre puis 2000 dollars pour les personnes de 70 ans et plus les baisses d''impôts commencent l''année prochaine sont moins élevés que le Parti libéral est parti conservateur parce qu''on pense qu''il faut agir à court terme maintenant économiquement on a besoin de soulager les contribuables de donner un incitatif au travail on est dans le plafond au Canada en Amérique du Nord pour les impôts 
+le défi au québec c’est de créer de la richesse quand on est arrivé au pouvoir il y a 4 ans on avait un écart de richesse de 16% c''était comme ça depuis 10 ans avec l''Ontario on a réduit ça à 13% donc faut attirer plus d''investissement des entreprises mais moi j''ai une question pour Monsieur Nadeau Dubois qui a dit je le cite il y a des secteurs de notre économie qui certainement doivent décroître donc je pense les Québécois ont le droit de savoir quelles entreprises dans quelle région vous voulez les fermer dans quelle région vous voulez fermer des entreprises c''est ce que vous avez dit
+bien je vous ai cité
+arrêtez de jouer pays des merveilles arrêtez de dire qu’il faut faire de la magie
+monsieur duhaime vous vous voulez exploiter du gaz puis du pétrole nous on veut développer l''électricité incluant des barrages contrairement aux trois parties qui sont ici 
+madame anglade les salaires n’ont jamais augmenté aussi vite qu''actuellement les travailleurs sont contents maintenant la solution là augmenter la productivité des entreprises requalifier ceux qui étaient par exemple dans le secteur du détail c''est pas vrai que la seule solution c''est l''immigration ça vous intéresse pas de protéger le français ça vous intéresse pas
+bien non si on taxe les pétrolières ils vont répercuter ça au consommateur comment ça se fait qu’il ne comprend pas ça 
+on aime mieux donner un montant de 4 à 600 dollars et laisser la liberté aux gens ça vous dit quelque chose ça la liberté 
+c’est faux
+est-ce que vous admettez qu’il y a eu moins de décès au québec combien vous étiez prêts à sacrifier d’ainés de plus deux fois plus d’ainés trois fois plus d’ainés vous avez été irresponsable avec nos ainés
+la qualité des emplois 
+mais la seule façon d''y arriver c''est de créer de la richesse comme on a fait contrairement à ce que dit Madame anglade on a réduit notre écart avec l''Ontario il faut créer des emplois mieux payés aujourd''hui le défi c''est créer des emplois c''est de créer des emplois bien payés mieux payés c''est comme ça qu''on va réduire notre écart de richesse on va donner le moyen aux Québécois de s''acheter une maison de s''acheter un condo c''est ça la façon 
+écoutez d''abord en 2018 on a hérité d''un système de santé qui était malade ensuite on a eu la pandémie depuis 2 ans et demi et malgré ça on a réussi en quelques mois à former 10000 préposés aux bénéficiaires on a réussi à ce qui est 300 000 Québécois de plus qu''a accès à un groupe de médecine de famille puis Christian Dubé a déposé un plan complet évidemment ça prend trois ans former des infirmières donc il y a personne ici qui peut faire de magie mais il faut y aller graduellement puis il faut décentraliser c’est ça qui est le plus important
+on va laisser votre choix pour vous autres maintenant le privé
+on va continuer avec les autres provinces à demander de l’argent
+puis on a pas mal plus de chance d''y arriver que de faire référendum sur la souveraineté dans les prochains mois mais je veux revenir à votre question monsieur roy le privé en santé nous on propose plus de privé mais du privé gratuit ça va permettre d''innover et moi j''aimerais ça poser une question monsieur nadeau Dubois là les dizaines de milliers de personnes qui sont faites opérer pendant pandémie au privé gratuitement qu''est-ce que vous leur dites que tu as pas une bonne idée parce que c''est pas votre idéologie qu''est-ce que vous leur dites à ces personnes-là qui ont été satisfaites qui ont rien payé 
+on va faire les deux
+vous proposez quoi 
+en 2018 on avait promis d''ajouter 800 millions en soins et services à domicile on a ajouté deux milliards OK et on a le même problème qu''on vient de discuter ça prend des infirmières ça prend le temps des former les infirmières maintenant quand j''entends certains mettre ça en opposition avec des maisons des ainés mais voyons donc on a besoin des deux quand une personne 
+bien oui on a besoin des deux il y a des personnes qui ne sont plus autonomes ils ont besoin d''aller dans une maison des ainés et on doit ça à nos aînés 
+il y a aussi la question de trouver travailleurs de la construction rapidement c''est pour ça quand monsieur nadeau dubois dit il va mettre 74 milliards dans le transport collectif mais est-ce qu’il va arrêter de bâtir des hôpitaux des écoles on ne sait pas 
+dans notre programme on veut augmenter le salaire des psychologues qui sont au public pour être compétitif avec le privé mais je veux quand même répliquer à ce que Monsieur duhaime me dit tantôt à propos des deux dernières années parce que Monsieur duhaime durant deux ans il a joué le rôle d''un agitateur qui a profité de la souffrance des gens au Québec il pense que ce n’est pas vrai qu''il y a eu moins de décès au Québec franchement là c''est irresponsable la façon dont a agi monsieur duhaime et je veux que tout le monde sache
+l''éducation ça a toujours été ma priorité ça sera toujours ma priorité tout ce que j''ai dans la vie c''est à cause de l''éducation dans quatre dernières années on a augmenté le budget de l''éducation de 26% on a augmenté salaire des enseignants de 15%. il y avait pas beaucoup d''appui chez mes amis le quand je disais je veux des négociations différenciées avec les syndicats donc il faut valoriser la profession d''enseignants ça prend quatre ans avant de former un enseignant on a mis des bonis pour ceux qui vont étudier en éducation donc faut continuer
+non non c’est faux
+elle a raison parce que et je regarde depuis quatre ans depuis qu''on est là on a ajouté 2000 orthophonistes orthopédagogues et professionnels pour les enfants qui ont des difficultés d’apprentissage parce que d’abord de ces enfants il y en a 25% c’est eux autre qui vont décrocher éventuellement donc il faut continuer ça prend 4 ans pour former des orthophonistes des orthopédagogues on est en train de le faire mais encore une fois on ne peut pas faire de magie les 2000 qu’on pouvait embaucher on les a embaucher et quand on va être capable d’en faire plus on va en faire plus
+ce qu’il faut c’est d’améliorer nos écoles publiques et on avait promis en 2018 d''ajouter une heure par jour ça c''est 5 heures par semaine dans toutes les écoles secondaires pour faire trois choses plus de sport plus d''activités artistiques plus d''aide aux devoirs savez-vous quoi on l’a fait donc ça fait que les autobus jaunes partent maintenant une heure plus tard les jeunes qui sont dans nos écoles publiques ont plus de sport plus d’art plus d’aide aux devoirs faut continuer dans cette direction 
+d''abord moi je suis content de dire qu’on a triplé depuis 4 ans le nombre de classes de maternelles 4 ans il y a des parties ici qui sont contre parce qu''ils défendent les CPE ils voient ça comme en opposition nous on offre le choix aux parents c''est quoi l''avantage entre autres des maternelles 4 ans c''est que c''est des dans des écoles primaires où il y a plus d''orthophonistes pour les autres années donc on veut continuer ça marche dans beaucoup de pays mais là il y a des parties ici là qui sont contre les maternel 4 ans je comprends pas ça
+mais pourquoi vous êtes contre ça fonctionne bien dans les pays scandinaves vous les connaissez les pays scandinaves pourquoi vous êtes contre les maternelles 4 ans 
+ils ont le choix entre les garderies ou la maternelle
+on a augmenté de 15% 
+ce qu''on doit réaliser oui parce que je sais qu''elle aime ça sortir cette phrase là mais on a augmenté les salaires mais que les femmes on ne les a pas traité équitablement c''est contraire on a augmenté le salaire des enseignantes des éducatrices des préposés de 15% puis les garderies quand vous avez quitté le pouvoir en 2018 il y en avait autant qu''aujourd''hui de place manquantes vous aviez créé une histoire de maison de fous il y avait 12 étapes à cause de Tony Tomassi il y avait 12 étapes avant d''ouvrir une place en garderie 
+c’était pareil avec vous 
+vous oubliez une chose monsieur st-pierre-plamondon c''est que quand le Parti québécois était au pouvoir sur les immigrants choisis par le gouvernement du Québec le gouvernement du PQ acceptait qu''il y en ait seulement 50% qui parle français
+nous on est rendu à 80% 
+à cause de la pandémie mais on va continuer dans cette direction là en utilisant plus la régionalisation les étudiants mais il y a une différence là de dire je suis un peu d''accord avec vous qu’il ne faut pas aller comme Gabriel nadeau Dubois et Madame Anglade à 70000 80000 moi je pense que 50 000 en régionalisant en exigeant qui en un plus grand pourcentage qui parle français je pense qu''on peut y arriver 
+vous vouler seulement 35000 immigrants vous dites ce n’est pas possible 50 000 donc sûrement pas possible le 70000 des libéraux puis 80000 de Québec solidaire moi ce que je vous dis là c''est que si on exige qui est nouveau qui est un plus grand pourcentage qui parle français avant d''arriver on va y arriver c''est ça le pari qu''on fait je et les immigrants temporaires mais ils sont temporaires
+d''abord c''est important de se rappeler que le gouvernement du Québec en 1977 a rapatrié 60% de la sélection des immigrants donc on a déjà eu des gains on a fait des gains sur d''autres sujets avec le gouvernement fédéral mais c''est certain si tous les partis se mettent ensemble les Québécois appuient le rapatriement de plus de pouvoir mais on va voir plus de chances d''avoir un succès que de faire un référendum sur la souveraineté
+d''abord le 60% là autant les libéraux que le PQ quand ils étaient là ils acceptaient qu''il y en ait seulement 50 % qui parle français donc il faut augmenter ce pourcentage on l''augmenter à 80% donc commençons par ceux qu''on contrôle 
+ce n’est pas ça la clé puis d''ailleurs même monsieur Saint-Pierre plamondon en 2020 dans sa première course à la chefferie il était contre le fait d''étendre la loi sage au 101 au cégep la clé c''est l''intégration au Français des nouveaux arrivants pas interdire comme veut le faire monsieur Saint-Pierre Plamondon à des francophones d''aller perfectionner leur anglais dans un cégep anglophone ce n’est pas la bonne mesure
+je pense ça apaisé le peuple québécois on a eu toutes sortes de propositions on est allé avec une proposition équilibrée qui va beaucoup moins loin qu''en France où on dit les personnes qui sont en autorité ne pourront pas porter de signes religieux quand ils sont en fonction ça veut dire que la personne chez elle sur la rue peut porter tous les signes religieux mais en fonction ces personnes par respect pour leurs clients pour leurs élèves doivent être neutre et ne pas avoir de signes religieux je pense que il faut pas rouvrir le débat comme certains veulent le faire ici 
+tous ceux qui vivent au Québec 
+je suis assez d''accord avec ce qui vient d’être dit le vrai débat ce n’est pas sur l''immigration c''est sur notre capacité à intégrer les nouveaux arrivants aux Français et on a adopté le projet de loi 96 on a augmenté le pourcentage d’immigrants qui parle français on a doublé les cours de français pour les nouveaux arrivants mais le premier devoir du premier ministre du Québec c''est d''assurer l''avenir du français puis pour ça ben on a besoin effectivement de limiter le nombre de nouveaux arrivants qui ne parlent pas français 
+monsieur nadeau dubois vous avez cédé aux radicaux de votre partie parce que vous disiez exactement le contraire la dernière fois
+il y aura toujours des gens qui sont souverainistes et puis je pense que c''est un projet qui est légitime mais ce que je sens actuellement c''est que la majorité des Québécois pour eux autres ce n’est pas une priorité actuellement à court terme c''est l''inflation à moyen terme c''est de relever le défi des changements climatiques ils ont d''autres priorités que faire un référendum sur la souveraineté 
+écoutez on n’en veut pas de référendum on pense que ça diviserait les Québécois 
+non ce n’est pas ce que j’ai dit
+idéalement on changerait ça mais ce n’est pas une priorité on a d''autres choses de pas mal plus urgent
+quand je suis arrivé en 2018 le budget de la culture au Québec c''était 1,2 milliards par année cette année c''est 1,7 milliards par année on a augmenté le budget 49% on a ajouté des sorties culturelles j''essaie d''encourager la lecture sur mes médias sociaux puis on a annoncé que ça a été élus 65 millions de plus vous n’aimerez peut-être pas ça pour Télé-Québec pour plus d''émissions québécoises 
+l''économie verte là ça presse de réduire nos GES puis créer de la richesse 
+avec la pandémie là je sens que ce n’est vraiment pas une priorité des Québécois 
+', '9/23/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (7,2,'DÉBAT DES CHEFS', 'ensemble votons vrai nous on voit grand pour le Québec 
+bonsoir
+merci de la question je suis né de parents qui ont décidé de choisir le Québec comme terre d''accueil il y a plus de 50 ans les haïtiens qui sont venus ici et ils m''ont inculqué des valeurs d''engagement et ces valeurs je les inculque quotidiennement à mes enfants puis la raison pour laquelle fondamentalement je fais de la politique c''est parce que je souhaite que chaque personne au Québec peu importe ses origines peu importe où il habite sur notre territoire qu’il soit capable de vivre dignement puis d''aller au bout de ses rêves et c''est ces valeurs là que je souhaite avoir et qui vont m''habiter comme première ministre du Québec c''est pour ça fondamentalement que je fais de la politique
+il y a quelqu''un dans le vox pop qui a dit tout est relié à l''environnement puis c''est vrai la lutte au changement pratique je vais en faire ma responsabilité parce que ça touche la santé l''éducation l''économie les ressources naturelles puis ça c''est ça qui est fondamental et essentiel et dans tout ce qu''on va proposer évidemment qu''on va parler de l''agriculture évidemment qu''on va parler de la lutte au changement climatique mais ce qu''on veut d''abord et avant tout c''est ne pas avoir à opposer environnement économie c''est de faire un projet qui soit capable de créer de la richesse et en même temps de faire en sorte qu''on soit carbo neutre en 2050 c''est ça l''objectif et c''est ça qu''on planifie 
+on voit deux exemples ici d''un côté l''environnement ce n’est pas fondamental avec la CAQ de l''autre côté on a des gens qui veulent taxer des personnes des citoyens alors qu''on manque d''oxygène la proposition qu''on fait est-ce qu''on est capable d''avoir un véritable projet de société puis de se dire qu''on est capable de lutter contre les changements climatiques parce que c’est l’enjeu du 21e siècle c’est quand la dernière fois que tous les québécois on s’est réunis les syndicats le patronat les organismes communautaires la société civile pour se dire on va se donner un élan on va se donner un véritable projet de société et c’est ça qu’on propose avec le projet eco ou est capable de combiner l’écologie et l’économie on est pas obligé de taxer les gens pour le faire et ce qu’on a besoin de faire c’est de se dire on va investir dans l’éolien on va investir dans le solaire on va investir dans l’hydrogène vert et on parvenir à atteindre nos objectifs de carbo neutralité c’est ça qu’on a besoin de faire et c’est ça qu’on propose
+de manière très concrète on veut que les transports en commun soient gratuits pour les étudiants et pour les personnes aînées ça va véritablement encourager les gens à se déplacer puis quand j''entends d’un coté je dois vous dire ça ressemble à la différence que on veut également un projet de société un projet de société où on est capable de se donner les moyens d''arrivée à atteindre la carbone neutralité et ça François Legault vous ne le proposez pas parce que fondamentalement au fond de vous là la lutte au changement climatique ça ne vous habite pas alors que c''est ça l''enjeu du 21e siècle l''enjeu du 21e siècle c''est de faire en sorte que on soit capable de combiner l''écologie et l''économie 
+mais c''est ça le problème monsieur Legault c''est que peu importe ce que la science vous dit vous avez décidé que vous allez dans une direction ça fait quatre ans qu’ils sont au gouvernement et il y a aucune étude qui a été rendue publique il y en a des études qui ont été faites mais on ne les voit pas on nous les cache puis c''est ça l''enjeu par rapport au troisième lien c''est que personne ne sait on s''en va moi je vais vous dire une affaire moi je suis ingénieur de formation des plans et des devis j''en ai vu dans ma vie il y a aucun plan aucun devis qui a été présenté au bout de quatre ans nous ce qu''on veut c''est faire des études rapidement pour qu''on trouve des solutions à la  mobilité à Québec 
+elle donne quoi l’étude pour le troisième lien 
+on a besoin de plus d''électricité puis ça passe par l’éolien ça passe par le solaire ça passe par l''économie d''énergie qu''on fait ici au Québec puis ça passe par l''hydrogène vert partout sur la planète on se transforme sauf au Québec monsieur Legault il va nous parler de barrage mais ça c''était il y a déjà plusieurs années dans le siècle dernier aujourd''hui au 21e siècle lorsqu''on propose comme projet avec l''éolien c''est vraiment un projet d''une génération c''est ça qu''on propose 
+si on avait écouté monsieur Legault quand c''était le temps d''investir dans l''éolien on l''aurait pas fait parce qu''il nous disait que c''était trop cher si on avait écouté monsieur Legault quand c''était le temps d''investir dans la bourse du carbone on l''aurait pas fait parce que il nous disait qu''il croyait pas vraiment là-dedans il faut anticiper il faut voir ce qui se passe aujourd''hui l''hydrogène vert c''est partout sur la planète en Europe au Danemark en Angleterre en Allemagne ils investissent de manière massive et se transforme et c''est là qu''on doit embarquer on doit embarquer maintenant 
+acceptabilité sociale il faut collaborer il faut collaborer avec les il ne faut pas s’opposer avec les villes et d’imposer des choix 
+à tous ceux qui nous écoutent vous l''avez entendu dans le vox-pop il y en a qui doivent choisir entre payer l''épicerie ou payer le logement puis ça crée énormément d''incertitudes et d’angoisse nous ce qu''on veut c''est retourner l''argent dans les poches des familles 5000 dollars par famille concrètement ce n’est pas un chèque qui va être envoyé une fois c''est quelque chose qui va être récurrent année après année l''autre volet qui hyper important c''est que la seule chose qui n’augmente pas là c''est le revenu de nos aînés c''est pour ça qu''on a besoin d''avoir une allocation pour aînée de 2000 dollars par année année après année pas un chèque ça revient à chaque année dans les poches de nos ainés
+non ça ne l’est pas parce que on a besoin d''avoir des gens qui puissent vraiment faire face au coût de la vie mais l''autre manière dont on a approché le problème c''est vraiment de se dire que les gens de la classe moyenne qu''on diminue leurs impôts mais que les gens qui sont capables de contribuer davantage les gens qui gagnent plus de 300000 dollars l''argent qui dort dans les paradis fiscaux l''argent que les grandes banques ou les grandes sociétés d''assurance peuvent donner qui soient capables de contribuer on est le parti qui fait en sorte que on descend les impôts pour la classe moyenne mais on demande aussi à ceux qui sont capables d''en payer davantage de faire leur part puis c''est comme ça qu''on a une société qui soit juste et qui est équitable
+premièrement monsieur legault va devoir répondre du fait qu’il veut faire des révisions de programme dans son cadre financier va nous dire où est-ce qu''il veut aller chercher les montants d''argent par rapport aux révisions de programme mais je suis d''accord avec Monsieur Paul Saint-Pierre plamondon quand il dit on est on doit aussi faire en sorte que les gens qui soient plus riches contribuent c''est pour ça que dans notre programme on a justement ça on va demander aux gens qui sont capables de contribuer davantage de plus de 300000 dollars de le faire ça c''est ce qu''on appelle une véritable équité oui on est capable de baisser les impôts pour la classe moyenne et demander aux gens qui sont capables de contribuer d''en faire plus c''est ça la justice sociale également
+vous écoutez tous ces messieurs discuter et à la fin de la journée là aujourd''hui il y a un éléphant dans la pièce de point de vue économique puis l’éléphant dans la pièce s''appelle la pénurie de main d''oeuvre il s''appelle le fait que on n''a pas suffisamment de personnes puis au début c''était un enjeu qui était économique mais il est devenu social parce qu''on n''a pas de monde dans nos écoles parce qu''on n''a pas de monde dans le service de la santé puis monsieur legault vous disiez en 2018 on va en prendre moins c''était votre slogan on va en prendre moins puis on va prendre soin puis la réalité c''est que dans les quatre dernières années on a pris moins de pharmaciens moins d''infirmières moins de préposés au bénéficiaires et le résultat c''est que on a moins de soins et moins de service et la population le ressent partout l''enjeu de la pénurie de main d''oeuvre frappe de plein fouet on parle d''économie là ça fait 12 minutes qu''on débat présentement de l''enjeu de la pénurie de main d''oeuvre il y a rien qui a été fait de manière concrète pour régler le problème
+l’enjeu fondamental honnêtement on est en train de passer à coté monsieur roy l’enjeux économique essentiel aujourd’hui monsieur legault aime beaucoup se comparer à l’ontario mais on a créé 3 fois moins d’emploi que l’ontario 
+c’est vrai monsieur legault en plus du secteur de l’énergie 
+il est obsédé par l’ontario mais la réalité c’est que la pénurie de main d’œuvre c’est le frein essentiel qu’on a aujourd’hui partout les entrepreneurs vont vous le dire d''un point de vue économique ça ne tient pas la route 
+la question était très spécifique accès à la propriété il y a plein de personnes qui nous écoutent aujourd''hui qui ont des faits des demandes pour acheter des maisons 14 fois 15 fois 16 fois et n’ont pas réussi à acheter une maison nous on propose très concrètement d''abolir la taxe de bienvenue de compenser 100% les villes par rapport à ça puis de faire en sorte que s''ils veulent utiliser leurs reer et qu’ils veulent râper qu''on l''augmente jusqu''à 50000 dollars ça très concrètement ça va aider les gens qui veulent acheter des propriétés c''est ça la réponse à votre question 
+moi je vais m’adresser aux 1 million de Québécois qui n’ont pas de médecin de famille on n''a pas le droit de baisser les bras on a la responsabilité de trouver des moyens pour vous permettre d''avoir un médecin de famille surtout les personnes qui ont deux maladies chroniques qui vivent avec des enjeux de santé et aussi des enjeux de santé mentale qui sont importants qui sont répandues partout dans notre système mais il faut également qu''on prenne soin de notre monde puis prendre soin de notre monde ça veut dire que il faut arrêter le temps supplémentaire obligatoire il faut l''éliminer puis faire en sorte qu''on est des conditions de travail acceptable pour toutes nos professionnelles de la santé 
+je comprends les sceptiques mais on n''a pas le droit de laisser tomber plus d''un million de Québécois on va se rendre à combien un point 5 millions 2 millions de Québécois qui n’ont pas accès à un médecin de famille pourquoi est-ce que ailleurs dans le monde sont capables de le faire puis nous au Québec on serait pas capable de le faire il s''agit d''aller recruter davantage de médecins d''aller recruter davantage d''infirmières d''aller recruter davantage de PAB mais aussi de revoir l''organisation du travail ce soir j''aimerais vraiment m''adresser à tous les professionnels de la santé qui font du temps supplémentaire obligatoire il faut changer les conditions de travail puis faire en sorte qu''on élimine ce temps supplémentaire obligatoire je pense à toutes ces femmes toutes ces mères de famille qui ne sont pas capables d''aller chercher leurs enfants l''après-midi parce qu''elle se disent finalement peut-être que je vais être obligé de rester puis elle rentre à la maison puis elles ont manqué un événement important avec leur enfant cet équilibre famille travaille ne jamais être à la bonne place ne jamais être une bonne mère ou ne jamais se sentir que tu es une bonne mère que t''est peut-être  pas une bonne employée ça doit arrêter c''est pour ça qu''on doit mettre entre autres fin au temps supplémentaire obligatoire mais c''est aussi pour ça qu''on doit faire en sorte que on a des ratios de patients par rapport au nombre de professionnels qu''on a qui ça on l’a proposer depuis deux ans 
+la meilleure maison pour les aînés puis je m''adresse à tous les aînés du Québec c''est la vôtre s''il y a un message qui a été entendu partout que j''ai entendu partout dans toutes mes tournées c''est ce message là c''est pour ça merci à vous de le reconnaître puis c''est pour ça qu''on a besoin d''avoir une allocation aînée de 2000 dollars par ainés non imposable qui arrive année après année qui fait en sorte que ce n’est pas un crédit d''impôt là c''est pas quelque chose de de non réel c''est de l''argent dans vos poches qui arrive année après année de la même manière qu''au Québec collectivement on s''est dit on a besoin d''avoir une allocation famille qu''on ait alors une allocation pour ainés
+on finit ce qu''on a à finir mais on doit investir de manière importante dans les soins à domicile et donner les moyens aux aînés de pouvoir dans certaines maisons qui ont commencé on veut les terminer mais en poursuit pas ça parce qu''il faut s''investir dans les soins à domicile 
+vous allez d''abord me permettre de dire que c''est un sujet qui me touche personnellement beaucoup parce que je sais c''est quoi être une petite fille de 10 ans puis de se lever le matin puis de te dire que si tu fais pas ton lunch et le lunch de ta petite sœur il y en aura pas de lunch parce que ta mère est pas capable de passer à travers ces enjeux de santé mentale puis ça c''est mon histoire personnelle mais c''est l''histoire de milliers de québécois pas il y a 10 ans pas il y a 20 ans maintenant aujourd''hui on ne peut plus considérer la santé mentale comme étant un sujet parmi tant d''autres on doit avoir un accès universel pour des soins de psychothérapie c''est ce qu''on propose que vous alliez dans le privé que vous alliez dans le public vous pouvez utiliser votre carte de la RAMQ pour obtenir des soins c''est ça dont on a besoin aujourd''hui au Québec en 2022
+j''entends le message de Noémie puis j''ai rencontré Sarah il y a deux jours puis Sarah me disait qu''après 4 ans elle avait décidé de quitter la profession d''enseignement parce qu''elle était plus capable parce qu''elle vivait un burn out personnel était plus capable de faire face à la musique parce qu’ils n''ont pas suffisamment de ressources il y a des classes qui sont bondées ici tu as 8 personnes qui souffrent par exemple d''un TDAH ou qui ont besoin d''aide ils n''ont pas les ressources nécessaires ce qu''il faut c''est aller recruter pour trouver des ressources pour soutenir nos enseignants dans un premier temps puis faire en sorte qu''on valorise véritablement la profession j''ai été élevé par deux profs d''éducation pour moi c''est fondamental 
+la première chose que j''aimerais faire c''est m''adresser à tous les ados qui nous écoutent ce soir puis tous les parents des ados moi je sais là que j''en ai un à la maison qui a 15 ans puis c''est difficile de le réveiller à 6h du matin à moins que ce soit pour aller faire une pratique de football la réalité là c''est qu’aujourd’hui pour accrocher nos jeunes il faut qu''elle ait aussi des programmes de science études d''art études de sport études puis nous ce qu''on propose c''est que ces programme dans notre école publique soit gratuit et que ça ne dépende pas du portefeuille de tes parents pour que tu puisses participer à ça il y en a déjà des centaines de milliers qui participent 200 000 élèves qui participent à ça mais ça c''est un moyen de raccrocher nos jeunes puis de faire en sorte qu''ils en profitent et ça contribue à faire en sorte que l''école publique soit réellement publique 
+il faut également peut-être ajouter quelque chose quand même parce que moi ça va m''avait beaucoup marqué quand mes enfants sont rentrés à l''école les effets scolaires qui soient gratuits puis quand on va sur le service de garde sur l''heure du lunch c''est pas normal que les parents aient à payer 800 dollars par année juste pour avoir son enfant qui ait un lunch à chaque jour à l''école publique ce n''est pas normal ça devrait être assumé par l''État et ça c''est ce qu''on propose également c''est comme ça qu''on va rendre l''école publique réellement publique
+monsieur legault sous votre gouverne il y a eu un recul pour les femmes un recul important non mais ce n’est pas une blague là vous dites oh ce n’est pas une blague 
+un recul pour les femmes pourquoi parce qu''on a des femmes mais non mais c''est sérieux cet enjeu il y a des femmes aujourd''hui qui ne peuvent pas retourner sur le marché du travail parce qu''elles n''ont pas de service de garde elles n''ont pas accès elles veulent le faire mais elles ne sont pas capables de le faire parce que la liste d’attente a augmenté ce qu''on doit faire au Québec il y a eu une révolution quand on a fait une petite révolution importante au Québec quand on a fait les CPE c''était sous avec Pauline Marois mais il faut il faut le souligner aujourd''hui on doit aller ailleurs il faut que les services de garde soient rendus un droit ça veut dire que quand on a un enfant et que on souhaite travailler l''État a l''obligation de fournir un service de garde de la même manière qu''on a droit à l''éducation ça nous viendrait pas à l''idée d''avoir un enfant qui a 7 ans qui rentre à l''école puis on lui dit oh non vous allez attendre deux ans parce qu''on a pas de place c''est la même logique qui devrait s''appliquer pour les services de garde et faire en sorte que ce soit un droit ça c''est la proposition du parti libérale avec 8 et 70 pour tout le monde à travers tout le territoire peu importe le service c’est ce que vous allez payer
+monsieur legault ce n’est pas crédible on voit les femmes qui sont sortis qui ont manifesté qui ont dit moi j''ai rencontré des femmes qui ont dit
+non monsieur Legault ça s''est détérioré puis cet enjeu là il est important parce que vous savez quoi en termes d''emploi on veut avoir des personnes qui soient épanouies puis qui retournent sur le marché de l''emploi et ça fait partie des solutions pour le Québec
+écoutez d''abord moi je suis fille d''immigrants qui sont venus s''installer en 69 ici au Québec et ma mère est devenue prof de français mon père était prof également et on est capable d''intégrer les immigrants en régionalisant davantage en donnant des cours pour la langue française en les encourageant en promouvant en faisant la promotion de la langue française on est capable de le faire mais on doit arrêter aussi de pointer du doigt on doit arrêter de diviser on doit arrêter de dire que l''immigration c''est un problème ou c''est une menace collectivement au Québec on a de grandes choses à accomplir on est capable de faire avec tout le monde
+au Québec aujourd''hui en 2022 là on a accueilli 70 000 nouveaux arrivants aujourd''hui donc on est capable de le faire quand monsieur Legault nous parle de la capacité d''accueil je ne sais pas sur quoi il la calcule mais elle est on est capable de le faire aujourd''hui et on sait très bien qu''on doit franciser davantage qu''on doit régionaliser cette immigration et on peut le faire sans diviser les Québécois monsieur Legault parle de son projet de loi 96 parle de son projet de loi 21 mais la réalité c''est qu''il a divisé les Québécois sur ces deux enjeux-là on est capable de s''unir là-dessus on est le seul parti ici à avoir voté contre le projet de loi 96 et contre le projet de loi 21 pour des questions de valeur parce qu''il faut arrêter de penser que on va protéger le français en enlevant des droits on va le faire en faisant la promotion et en encourageant les gens à l''apprendre 
+il faut agir pour le français puis faire en sorte que dans le centre-ville de Montréal on est des mesures claires d''accompagnement de nos entreprises puis de nos commerces ça il faut le faire puis soutenir en fait les enfants dans notre système d''éducation également dont on parlait tout à l''heure mais ce qu''il ne faut pas faire c''est enlever des droits à la communauté anglophone il ne faut pas faire c’est enlever des droits comme ils l''ont fait pour lui pour les immigrants également qui doivent apprendre le français on n''a pas besoin au Québec de se diviser on est capable de se rassembler on est 8.6 millions 
+on est 8.6 millions de Québécois on est capable de se rassembler puis de faire en sorte que on protège la langue française là où ça compte tout à l''heure monsieur Saint-Pierre à Mondon parlait d''alphabétisation ça fait partie du travail qui doit être fait et je rappelle qu''on est le seul parti monsieur duhaime le seul à avoir voté contre à la fois le projet de loi 96 et le projet de loi 21 ce n''est pas votre cas
+monsieur duhaime on a voté contre le projet de loi 96 on a voté contre le projet loi 21 et vous ce que vous ne dites pas en anglais c''est que vous voulez aller encore plus loin sur le projet de voie 21 sur lequel vous avez voté en faveur
+j''entends le Premier ministre nous dire ah ben oui ça a apaisé le peuple québécois c''est qui le peuple québécois c''est quoi être québécois aujourd''hui 
+il y a bien des gens qui vivent au Québec qui ne pensent pas que ça apaisé les choses au contraire ça a créé des clivages on sait qu’aujourd’hui au Québec on prend des décisions à l''Assemblée nationale qui n''ont rien à voir avec la religion rien à voir on est un peuple laïque on le sait mais pourquoi est-ce qu''on est obligé encore une fois de diviser les Québécois pourquoi est-ce qu''on n''est pas capable de permettre à des enseignants d''aller enseignants on vient de parler en fait tout un débat sur l''éducation d''enseigner peu importe ce qu''ils portent ça ne nous enlève rien et ça permet à tout le monde d’aller enseigner
+ce que je conclue c''est demain matin il y avait un référendum pour répondre à votre question à ma gauche ce serait oui ce serait oui avec Québec solidaire ce serait maybe avec le Parti conservateur puis peut-être avec monsieur Legault avec nous ce serait non le choix est clair on est un parti fédéraliste et j''aimerais juste préciser quand on dit quand on dit parti fédéralisme ça ne veut pas dire s''écraser par rapport à Ottawa ça veut dire être un partenaire et pas un adversaire nous on veut travailler avec Ottawa et Monsieur Legault vous me regardez en disant oui le partenariat les meilleurs partenariats c''est quand deux personnes se respectent et c''est comme ça qu''on voit le fédéralisme
+je pense que c''est quelque chose qu''on peut revisiter mais la réalité aujourd''hui c''est que ça nécessiterait de grandes discussions au niveau constitutionnel etc donc ce n’est pas une priorité pour les québécois 
+je le vis quotidiennement avec mes trois enfants à la maison mais trois ados consommation de contenu qui est en anglais sur les plateformes numériques il faut absolument investir davantage ces plateformes avec du contenu francophone puis ça va nous permettre non seulement de développer l''aspect culturel et francophones ici au Québec encore plus mais de rayonner à l''international puis de penser que on est dans le monde des centaines de millions de personnes à parler français et ça permettrait au Québec de se positionner encore plus fort 
+avoir une vision pour la lutte au changement climatique et régler la pénurie de main d''oeuvre 
+non ce n’est pas dans notre programme puis le jour ce sera dans le programme on va le faire on peut juste l''écrire 
+
+', '9/23/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (7,3,'DÉBAT DES CHEFS', 'nous on a un projet de société on a décidé de s’assumer
+bonsoir 
+moi je pense qu''il faut faire de la politique pour aider des gens je pense la politique peut servir à ça c''est être utile au fond il y a plein de manières d''être utile dans une société mais je pense que la politique est l''une d''entre elles c''est particulier faire de la politique au Québec parce que c''est une histoire riche belle et improbable on parle toujours français depuis les patriotes il y a toujours eu des gens pour servir notre destin national pour qu''un jour on soit une société normale qui rayonne partout dans le monde on soit une société qui est démocratique libre de ses propres choix et ce destin il est pas encore il n''est pas encore atteint mais moi c''est une fierté c''est un privilège de servir des causes fondamentales comme notre démocratie la langue française l''environnement la dignité des aînés je pense que ça peut être utile en société
+dès le jour 2 de notre campagne on a déposé un plan complet et rigoureux vis-à-vis les changements climatiques et ce plan a été applaudi par les experts c''est important de mentionner qu''ici il y a juste deux parties sur cinq qui ont déposé un plan complet qui prévoit de baisser les GS et de les mesurer et donc notre plan il permet une transition vers la nouvelle économie verte et juste et on parle en termes très positif donc pas question de pénaliser ou de parler de dernière chance mais vraiment de dire tous ensemble on est capable de relever ce défi gagnant-gagnant une place pour tous
+non je ne suis pas contre mais à court terme je dis on a l''obligation de donner aux gens des options si on taxe l''achat de véhicule à essence l''an prochain mais que les gens n’ont pas plus de transport collectif et qu’ils n''ont pas plus de voitures électriques en vente bien on appauvrit les gens puis c''est pas très productif sur le plan de l''envie de voter en fonction de l''environnement on propose de doubler les transports collectifs contraindre les fabricants et les concessionnaires a vendre des véhicules électriques avec des cibles similaires à ce qui se fait en Europe en Californie et on veut une passe climat 365 dollars par année transport illimité à travers le Québec de manière à encourager le transport collectif mais également une mesure économique qui met de l''argent dans la poche des gens 
+c''est tentant pour des sujets importants de se pointer du doigt moi je veux juste mentionner deux éléments premièrement il y a deux parties sur cinq qui ont déposé un plan complet chiffré sur le plan des ges ce n''est pas le gouvernement qui pourtant avait 28 millions de dollars pour des études qu’on n’a jamais vu sur le troisième lien deuxième éléphant dans la pièce chaque année les Québécois et Québécoises voient leurs impôts partir vers Ottawa et ce sont plus de 2 milliards de dollars versés aux pétrolières de l''Alberta en cadeau puis en subvention donc si on est sérieux à propos de l''environnement oui on va faire un plan et on va faire notre part mais on va également faire l''indépendance du Québec pour que cesse ces contributions à des multinationales sans scrupule 
+je veux juste préciser monsieur Legault vous avez dit que c''était un projet qui est politique et qu’étude pas étude pour des raisons politiques vous alliez le faire c''est ce que vous avez déclaré donc un moment donné études pas études il procède pour des raisons électoralistes et à tous les gens traversent le Québec ça vous dit à quel point les décisions de la CAQ sont peu-fondées sur l''intérêt public et pendant ce temps-là il y a des projets de transport structurant dans l''est de Montréal qui ont pas avancé pendant quatre ans il y a un pont à Tadoussac pour lequel on a déjà 14 études et laquelle 14 études depuis 1973 puis vous en voulez une autre pour celui-là mais le troisième lien par exemple ça pas de problème 8 10 12 milliards c''est parti pas d’études 14 études monsieur legault
+on n’est pas obligé de parler que d’économie et de ne se donner aucune cible crédible en environnement ou de parler d’environnement avec des pénalités qui vont à court terme créer plus de problème probablement que de solution on peut joindre les deux dans un programme qui est rigoureux et qui vise juste et nous c’est ce qu’on offre c’est ce qu’on veut faire au parti québécois 
+les barrages ça peut être nécessaire mais ce n’est pas démontré pour l''instant mais ça ne doit pas être un substitut à un plan en matière de changement climatique et c''est ça que monsieur Legault essaie de faire passer les barrages comme si c''était un plan vis-à-vis les changements climatiques ce n’est pas le cas
+je veux l''acceptabilité sociale environnement c''est exactement ça 
+PSP :tous les partis ici promettent soit une baisse d''impôts soit une baisse de taxes il y a que le Parti québécois pour dire on ne donnera pas de cadeau plus riche on hypothèquera pas notre avenir mais on donne le soutien le plus généreux de tous les parties ici pour ceux qui gagnent en 0 et 50 000 une remise de 1200$ d''ici la fin de l''année entre 50 mille et 80 mille 750 dollars essentiellement on prend les surplus de l''État en raison de l''inflation on le redonne à ceux qui ont de la misère à rejoindre des deux bouts mais sans s''attaquer au service public et sans faire de cadeaux aux plus riche ce qui est malheureusement le défaut des autres propositions taxes et impôts
+juste pour des fins de rigueur les parties qui promettent des baisses d''impôts c''est réduire les revenus de l''État et mettez-vous dans une situation par exemple de récession hypothétique ça veut dire un autre cycle d''austérité pour les travailleurs du public de la santé c''est un aller simple vers l’austérité et c''est un cadeau aux plus riche pour ce qui est de la baisse de taxes que Québec solidaire propose c''est peut-être que une contribution 300 400 dollars pour quelqu''un qui gagne 30 000 mais pour quelqu''un qui gagne 300000 par exemple c''est un bon 2222 dollars si vous voulez aller dans un restaurant de luxe vous achetez des choses de luxe la remise aux plus riche est beaucoup plus grande que celle à ceux qui en ont besoin donc nous au Parti québécois on dit concentrons-nous sur les gens et les familles qui ont de la misère à rejoindre les deux bouts pas de cadeaux aux plus riche et surtout pas à s''attaquer hypothéquer nos services publics
+c’est pas le sujet si je peux me permettre le sujet c''est le coût de la vie j''aimerais qu''on y revienne parlons d''éléphants dans la pièce il y en a un que je veux nommer les pétrolières ont fait 29 milliards de profits dans les 6 derniers mois qu''on a pu mesurer ça veut dire que l''argent des Québécoises et les Québécois là elle est siphonnée à la pompe par des gens qui volent qui nous volent c''est un cartel qui agit en violation de toutes les règles de concurrence et à ma connaissance le Parti québécois est le seul parti à vouloir s''attaquer à ces pétrolières en disant on va imposer vos surprofits puis on va exercer un contrôle sur la concurrence parce que c''est du vol et on peut pas imprimer des fonds publics pour que sa transite quelques secondes dans le portefeuille des Québécois pour ensuite s''en aller dans les paradis fiscaux dans des compagnies multinationales 
+je veux juste préciser que le prix nobel vient de se prononcer sur c’est ça qu’il faut faire avant de dire que c’est impossible voyons ce qui se fait de mieux à l’étranger et ce que les experts en disent
+les économistes de référence disent que d''augmenter les seuils ça ne compte pas la pénurie de main d''oeuvre par exemple en Ontario ils ont accueilli un million de personnes en 10 ans et ils  sont toujours en pénurie de main d''oeuvre ce qu''on peut faire par contre c''est augmenter la participation au travail notamment en permettant aux parents d''avoir une place garantie en CPE c''est ce qu''on propose augmenter la participation du travail des aînés on offre une baisse du taux d''imposition pour les aînés les derniers éléments parce que on passe toujours à côté de ce sujet il y a des régions au Québec où on investit moins en infrastructure où on investit moins en termes d''économie c''est vrai pour l''Est du Québec la côte nord l’abitibi l’est de Montréal on est le seul parti avoir mesuré ce déficit d''investissement et on va le dire on va rendre justice pour que ce soit  équitable 
+nous si je peux me permettre on veut créer un crédit d''impôt pour les premiers acheteurs en fait l''augmenter mais c''est l''offre et la demande donc ici il y a des parties qui veulent 50 000 70 80 000 augmenter les seuils l’an prochain si c''est ça le seuil on n''aura pas de nouveau logement là donc c''est l''offre et la demande aussi qu''il faut considérer
+l''enjeu c''est qu''on n''écoute pas les travailleurs dans le domaine de la santé on ne les respecte pas faut les écouter et nous disent de meilleures conditions de travail mettre fin autant supplémentaire obligatoire et à des conditions de travail peu flexibles mettre fin également aux agences privées et on est passé de 200 millions à 1 milliard par année qu''on claque là-dedans sans aucun résultat nous on croit une première ligne forte pas juste à travers l''acte du médecin mais à travers la contribution de tous les professionnels de la santé pour avoir une santé qui est accessible à tous à travers nos CLSC 
+bon il manque 6 milliards de dollars par année en santé au Québec François Legault avec son fédéralisme de gain dans le Canada nous avait promis d''aller les chercher il a demandé par quatre fois puis maintenant Justin Trudeau ne se déplace même pas il prend même plus la peine il répond en 24 heures non donc s''il manque 6 milliards ce sont des sommes importantes et notre relation avec le fédéral elle doit être nommée si on décidait nous-mêmes de nos budgets qu''on prenait nos propres décisions comme québécoise et québécois on ne serait pas pris à quémander comme toutes les provinces canadiennes des sommes aussi majeurs que 6 milliards de dollars la seule solution à ça c''est l''indépendance du Québec
+quel est le vôtre monsieur legault quel est votre choix
+encore un autre cinq ou six fois
+ce n’est pas possible ça 
+ce n’est pas vrai c''est qu''on a mis l''argent dans des agences privées qui ont pris les infirmières du public qui les ont mis au privé ça coûte une fortune un milliard au lieu de 200 millions c''est ça le plan de la CAQ et les conditions de travail au public pendant ce temps-là ce sont détériorés donc faut fermer les agences mettre fin à l''usage des agences privé et rehausser substantiellement les conditions de travail en même temps ce que la CAQ n''a pas le courage de faire 
+soyons clair là-dessus les aînés sont une richesse pour notre société il va falloir commencer à le dire puis agir en conséquence et donc les écouter ils veulent des soins à domicile ils veulent vieillir à la maison et ça adonne que c''est un modèle pas mal moins coûteux que les maisons des aînés à un million de dollars par chambre ce modèle-là qui est dépassé il n''est pas viable financièrement et il isole des gens qui voudraient rester plus longtemps possible à la maison c''est pour ça que nous on a on s''est engagé financièrement à tripler l''offre de soins à domicile et que on va se préoccuper également des CHSLD parce que c''est facile couper un ruban puis prendre des photos devant une maison des années mais pendant ce temps-là la qualité de la nourriture la climatisation la qualité du bâtiment dans les CHSLD ça on n''a pas fait grand-chose donc à un moment donné il faut être transparent et cohérent dans la dignité des ainés ça ne devrait pas être négociable dans notre société 
+je suis assez d''accord avec ce que Monsieur Nadeau Dubois vient de dire et j''ajouterais que non seulement faut rapatrier dans le système public des psychologues disponible mais quand je vous parle d''un CLSC renforcé c''est toutes sortes de professionnels qui sont là pour offrir en prévention un soin ou une intervention avant que d''autres choses de plus graves se produisent donc il faut penser aussi à la prévention parce que c''est moins coûteux c''est plus intelligent mais surtout c''est plus humain d''avoir des ressources en prévention que de guérir lorsqu’il est trop tard
+mais moi je suis très heureux d''entendre que tout le monde veut revaloriser le rôle du professeur donc j''invite tout le monde à être cohérent et travaillons avec les professeurs à trouver les solutions lorsqu''on écoute ils nous disent nous on est là pour la mission de l''enseignement donnez-nous les ressources d''accompagnement psychologue orthopédagogue pour qu''on puisse avoir le nombre de personnes pour atteindre notre mission ils sont là pour de bonnes raisons des horaires plus flexibles on a fait une sortie également sur les écoles vétustes j''ai dit au premier débat monsieur legault que sous sa gouverne c''est passé de 50% à 59% d’écoles vétustes il a dit faux mais après vérification c''est vrai
+et je termine en disant que en écoutant les professeurs ont revalorise et on trouve des solutions vraisemblablement ce qui n’a pas été fait dans les quatre dernières années
+il y en a et ça a des impacts à tous les niveaux l''estime de soi l''économie mais surtout c''est notre langue française 
+je spécifique que le parti québécois s''est également engagé à réinvestir dans le réseau public d''éducation à tous les niveaux je veux toucher un mot sur l''alphabétisation également et la langue française le niveau qu''on a de langue française on a proposé un vaste chantier ou que ce soit à l''âge adulte ou plus jeune lorsque des difficultés d''apprentissage de la langue française se donner le défi de réduire l''analphabétisme et on a proposé des mesures en fonction de cet objectif-là c''est un sujet trop souvent tabou et je pense que si on aime notre langue française il faut se donner cet objectif-là et les moyens qui vont avec
+c''est à dire qu''il faut rééquilibrer le financement parce que là on accélère la part du privé et c''est vraiment trop à vitesse c''est la troisième vitesse créer des environnements d''apprentissage où les écoles sont vétustes monsieur Legault c''est un fait 59% des environnements ou il y a trop de cas nécessitant un soutien spécifique dans la classe les ratios sont trop grands donc il y a une question d''équité pour le public là-dedans ou est-ce qu''il faut rééquilibrer à la faveur du réseau public pour une chance égal pour tous les enfants
+ressemble étrangement à la maison des ainés et qu''on ouvre quelques maternelles 4 ans puis pendant ce temps-là les garderies ferment puis les parents puis les enfants par dizaines de milliers on était rendus à 50 000 enfants sans place en garderie et là Monsieur legault lui donne des chiffres sur ces maternelles 4 ans 
+je peux répondre s’il vous plait ce n’est pas une question de maternelle quatre ans c''est la question de garantir à chaque parent et à chaque enfant une place en garderie et vous vous insistez sur vos maternelles 4 ans et pendant ce temps-là tout le reste est à l''abandon
+il n’y a pas de livre blanc donc il y encore des dizaines de milliers d''enfants qui n’ont pas de place nous on propose une place garantie en CPE comme à l''école primaire c''est aussi simple que ça 
+est-ce qu''on se pose la question est-ce que mon enfant va avoir le droit d''aller à l''école primaire l''an prochain non on finance une place pour chaque enfant qui a besoin d''aller à l''école primaire nous c''est ce qu''on propose pour les CPE tout est budgéter c''est aussi simple que ça
+je pense qu''on doit discuter du modèle d''immigration et juste pour que ce soit clair lorsqu''on parle d''un modèle d''immigration propre au Québec en fonction de la spécificité linguistique c''est pas du tout la même discussion que les personnes parce que les personnes on doit chercher à les accueillir les intégrer leur donner toutes les ressources pour que ce soit réussi gagnant-gagnant pour tout le monde sur la question du modèle faut pas non plus tomber dans un tabou ou parler des seuils deviendrais interdit parce que c''est lié au déclin de la langue française parce que le transfert linguistique vers l''anglais des allophones est trop importante donc discutons-en de manière responsable pour trouver le juste équilibre au niveau des seuils du modèle
+monsieur Legault a dit par deux fois dans la dernière semaine à 50 000 immigrants par année le français décline quelle est sa réponse sa proposition aux québécoises aux Québécois pour la suite des choses continuons 50000 et c''est là l''erreur 50000 c''est le chiffre qui a été fixé par Jean Charest au nom de la pénurie de main d''oeuvre à l''époque évidemment qui n''a jamais été réglé et ce que monsieur Legault veut faire à type de partie chef d''un parti fédéraliste c''est de maintenir ces seuils alors qu''il l''avoue très ouvertement que à ce niveau il y a un déclin du français il y a un transfert linguistique vers l''anglais nous on demande que l''immigration économique soit 100% francophone parce que ça favorise l''intégration marché du travail ça favorise la langue française et on ramène à 35000 qui est le seuil des années où le français progressait à Montréal on veut également comme mes collègues régionalisés on s''engage à régionalisé l’immigration
+vous avez fait au début de votre mandat et toutes les premières années de votre mandat
+à cause de la pandémie 
+moi je vous réponds monsieur Legault ce n’est pas juste 50 000 c''est les 177000 immigrants temporaires c''est le chemin Roxham et votre planification mène au déclin le plus marqué de l''histoire du Québec en français et vous savez que votre loi 96 ne renverse pas ce déclin-là vous l''avez dit deux fois que 50 000 c’est lié au déclin du français et vous continuez dans les mêmes politiques que Jean Charest et Philippe Couillard et ça ce n’est pas responsable pour la survie du fait français en Amérique monsieur legault
+80% à montréal
+c’est un fait Monsieur Nadeau Dubois dit je me suis promener en région j''ai écouté poser la question sur la pénurie de logement dans la plupart des régions du Québec si on accueille 80 mille personnes l''an prochain est-ce que les logements vont par magie être là donc on a une responsabilité également d''équilibrer ça et 50000 si vous êtes d''accord mais malheureusement ce n''est pas un équilibre monsieur Legault et vous le savez et vous avez nié la crise du logement pendant 4 ans et ça aussi ça des impacts sur notre capacité d''accueil 
+mais vous c’est un seuil sur une base annuelle ce n’est pas temporaire 
+ne faites pas de moralisme
+il n’en a pas
+les démographes et les experts nous disent que c''est une langue de socialisation au cégep qui influence la langue du travail donc si on veut un plan complet et on prend acte du déclin rapide du français on va ramener les seuils en proportion de notre capacité d''accueil on va faire une vraie loi 96 avec des mesures structurantes comme la loi 101 cégep une immigration 100% économique mais également des mesures pour que la loi 101 s''applique dans les entreprises à charte fédérale on va donc investir aussi en culture mais la loi 96 c''est comme un remède placebo essentiellement tous les experts sont venus dire ça ne renversera pas le déclin du français mais monsieur Legault nous dit ben c''est quand même quelque chose moi je pense qu''on est le seul parti à dire on peut pas se contenter de quelque chose sur le français mettons en place une vraie loi 101 réformée qui de manière structurelle nous garantit de donner un avenir au fait français en Amérique une durabilité à notre langue commune
+savez-vous pourquoi j''ai changé d''idées parce qu''il y a des dizaines d''experts que vous avez entendu comme moi à l''Assemblée nationale qui sont venus dire que votre projet de loi ne renverserait pas le français et ils nous ont soumis des mesures comme celle-là et moi je ne suis pas un climato-sceptique de la langue puis je ne veux pas qu''on se contente de demi-mesures décoratives alors qu''on sait le déclin va s''accélérer jamais on n’a vu en 4 ans un déclin aussi important de la langue française que sous votre gouverne monsieur Legault et vous en avez la responsabilité
+si les autres parties peuvent donner leur position s''il vous plaît au partie québécois on constate que pendant plus de 10 ans on a débattu de cette question il y a pas un argument qu''on n''a pas entendu on a fait une loi un choix démocratique une loi certes est imparfaite aux yeux de presque tout le monde au Québec mais c''est notre loi et en ce moment le fédéral et des municipalités canadiennes attaque finance l''invalidation de nos choix démocratiques et c''est fort probable que les tribunaux canadiens vont invalider autant la loi sur la laïcité que la loi 101 et je sais pas ce que le fédéralisme de François Legault va faire à ce moment mais il y a une notion on a le droit de décider par nous-mêmes et décider par soi-même c''est avoir un pays c''est être indépendant 
+une question fondamentale est-ce qu''on peut juste monsieur legault la semaine dernière vous avez dit au débat a dit au parti libéral qui leur ravit le titre du parti le plus contre l''indépendance du québec
+vous avez dit ça et vous vous targuez d''être non seulement fédéraliste mais vous vous mentez d''être le plus fédéraliste votre projet s''est d’éteindre l''indépendance du Québec le mien c''est de le relancer et il y a des électeurs qui vous ont fait confiance en 2018 parce qu''ils voulaient remplacer les libéraux mais qui sont indépendantistes moi je fais un appel à ces gens-là puis je dis vous pouvez maintenant voter suivant vos convictions et ce que François Legault essaie de faire c''est d''éteindre un mouvement qui est parfaitement légitime et surtout déterminant pour l’avenir du québec
+en fait on s’est engagé à le faire quand on a fait une motion il l''a refusé et moi je vous le dis je ne prêterai pas sincèrement au nouveau roi si monsieur Legault veut être le sujet du roi d''Angleterre c''est sa décision mais moi je crois au Québec libre et démocratique
+c''est une excellente proposition on a un passeport culturel qui ressemble mais la culture c''est l''essentiel de l''avenir du français et ça prend un bureau de promotion du contenu culturel québécois on veut également doubler les budgets de Télé-Québec avec un mandat de faire des émissions québécoises soutenir tous les budgets de création et en faire la promotion ça prend également un crtq c''est à dire que le Québec doit pouvoir réglementer ce qui est sur nos ondes parce qu''en ce moment c''est un raz-de-marée chez les jeunes de consommation de culture anglaise
+les deux enjeux le plus structurant c''est le français l''environnement et pour ça prend transparence et de la confiance vis-à-vis des gouvernements 
+on va le faire notre engagement on va respecter notre parole il n’y a pas de raison que monsieur Legault ne respecte pas sa parole
+
+', '9/23/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (7,4,'DÉBAT DES CHEFS', 'c’est le temps de changer d’air on n’a pas peur de s''engager pour l''avenir
+bonsoir 
+bonsoir Monsieur roy bonsoir à mes collègues bonne question de départ monsieur Roy moi je suis en politique parce que je m''inquiète pour l''avenir parce que l''élection qui est la nôtre en ce moment au Québec c''est celle de la dernière chance pour la lutte au changement climatique je suis devenu papa récemment je rencontre des jeunes parents presque tous les jours dans la rue depuis le début de la campagne électorale puis il y en a beaucoup du monde inquiet pour l''avenir au Québec la bonne nouvelle c''est qu''on est capable d''y arriver on a de l''énergie propre a en revendre on a toutes les cartes en main pour devenir un des pays les plus verts au monde moi ce que j''aimerais qu''on fasse le 3 octobre c''est pas juste qu''on pense à nous qu''on va aller voter mais c''est qu''on pense à nos enfants et à nos petits-enfants parce qu''on a du pain sur la planche mais je pense qu''on est capable d''y arriver
+mais moi je pense qu''en 2022 on peut plus traiter de la question de l''environnement des changements climatiques comme d''une question comme une autre ça doit être la colonne vertébrale de notre projet de société au Québec faire du Québec je le dis souvent le pays le plus vert au monde on est capable de le faire puis monsieur carrier avait bien raison de dire faut arrêter de parler de 2050 faut que ça commence maintenant parce que ça fait des décennies au Québec qu''on pelte le problème par en avant puis quand on fait ça qu''est-ce qu''on fait ben on est en train de monter toute une facture pour nos enfants nos petits-enfants moi j''accepte pas ça je veux qu''on agisse maintenant et avec Québec solidaire ça va commencer le 4 octobre
+vous parlez de Dodge Caravan savez-vous que le Toyota RAV4 on en vend 24 fois plus au Québec que des dodge caravan et pourtant ce véhicule la ne sera pas touché par notre plan moi je trouve que les quatre parties dans les dernières semaines ont beaucoup parlé juste d''une moitié de notre plan mais l''autre moitié est importante aussi qu''est-ce qu''on va faire avec ce programme de bonus-malus c''est qu''on va réduire les prix des véhicules électriques il va y en avoir plus dans les concessionnaires les gens vont attendre moins longtemps avant d''en avoir un et oui les véhicules très polluants sont en augmentation épouvantable au Québec 300% de plus depuis les années 90 ils vont coûter un petit peu plus cher ça monsieur roy il faut le rappeler c''est pour la prochaine voiture que les Québécois québécoises vont acheter nous on pense que les prochains neufs il faut encourager les gens à faire les bons choix pour la planète c''est l''avenir de nos enfants qui est en jeu
+ vous devriez ranger les décoration d’halloween un petit peu arrêtez de faire peur aux gens vous devriez inspirer les Québécois québécoises proposer des solutions dans les dernières semaines ce que vous avez fait sur tout là c''est désinformer les  québécois sur la plante Québec solidaire votre Ministre jolin barrette ce matin à la radio disait Québec solidaire va taxer les véhicules usagés c''est pas vrai faut arrêter de faire peur au monde on a besoin de politiciens rassembleur qui mobilisent les gens qui les encouragent à faire des choix écologiques pas de gens qui les découragent vous n’arrêtez pas de décourager le monde monsieur Legault 
+j''ai répondu ce sont les régions elles-mêmes qui vont moduler ce programme là parce qu’on ne peut pas faire du mur à mur mais vous savez quoi monsieur Legault au dernier débat la semaine passée vous avez accusé monsieur duhaime d''avoir tiré dans la chaloupe durant la pandémie en l''environnement c''est exactement ça que vous faites au lieu d''encourager les Québécois québécoises avec un projet positif vous voyez là tout le temps que vous prenez ce soir pour attaquer Québec solidaire au lieu de proposer un projet positif nous on va lancer le plus grand chantier depuis la Révolution tranquille du transport en commun pour tout le monde entre les régions pour qu''au Québec ce soit aussi facile de se déplacer qu’en Europe moi je pense qu’on est rendu la
+c''est à dire que monsieur Legault promet des barrages mais on ne sait pas ils sont sur quelles rivières ça il nous le dit jamais on sait pas ils vont être construits quand nous on a un plan puis là-dessus je suis d''accord avec Monsieur plamondon nos plans nous ils ont été modélisés par une ferme spécialisée mon plan il est approuvé par huit experts indépendants ça c''est 8 experts de plus que vous monsieur legault ce que ce plan dit c''est qu''on a pas besoin de nouveaux barrages pour atteindre nos objectifs de 2030 rappel donc monsieur le goût les gens ont le choix soit ils croient monsieur troisième lien soit ils croient les experts je pense qu''ils vont choisir de croire les experts
+il y a en ce moment monsieur roy un boom minier au Québec puis c''est pas seulement une mauvaise nouvelle parce qu''il y a de ce minerai là qu''on a besoin pour la transition écologique mais ça peut pas se faire n''importe comment nous on va répondre présent à la demande des élus municipaux des gouvernements de proximité qui disent là ça peut pas se faire n''importe comment il faut un moratoire temporaire sur les nouveaux clins dans les secteurs villégiature dans les secteurs habités le temps qu''on se donne au Québec un nouveau pack social minier pour que ça se fasse comme du monde 
+c''est une question en effet qui nous est souvent posée quand on se promène et qu''on rencontre des gens sur le terrain puis il y a beaucoup de choses à faire pour aider les gens à se sortir de cette crise du coût de la vie je dois vous nommer nos deux priorités d''abord il faut donner un congé de tvq sur les biens essentiels ça veut dire pas de tvq à l''épicerie à la pharmacie au restaurant sur les vêtements ou pour faire des réparations par exemple de sa voiture ça c''est plus de 1000 dollars d''économies pour une famille au Québec et la deuxième affaire à faire c''est réglé la crise du logement c''est le premier poste de dépenses des familles on réglera pas la crise du coût de la vie si on règle pas la crise du logement 
+moi je pense que le 5 % le plus riche au Québec a les moyens de contribuer un peu plus et ça va être bon pour 100% des Québécois québécoises ça va nous donner des meilleures écoles des meilleurs hôpitaux des meilleurs CHSLD on va pouvoir investir pour vrai dans l''environnement et ça va nous permettre de baisser les factures de tout le monde au Québec on va faire baisser la facture du dentiste parce qu''on va mettre en place une assurance dentaire publique et universelle ça coûte un bras allez chez le dentiste on va faire baisser la facture de la rentrée scolaire on va baisser les tarifs de transport en commun de 50 % pour faire ça prend des investissements ça prend de l''argent et oui moi je ne suis pas gêné de dire on va aller chercher cet argent chez le 5% le plus riche au Québec les quatre autres parties ont pas ce courage-là moi je pense qu''on est rendu la
+ce n’est pas ce que j''ai dit monsieur Legault 
+j’ai dit que l’économie mondiale change le secteur du pétrole le secteur du gaz les raffineries on est en 2022 ces secteurs ils vont se transformer mais oui ils vont être plus fragiles la demande en pétrole et en gaz va plafonner au Québec et va plafonner dans le monde c''est une tendance mondiale on est plus en 1994 la nouvelle économie c''est l''économie verte puis nous notre vision de développement économique c''est d’encourager les secteurs d''avenir et accompagner dans cette vision les compagnies arrêtez de sortir les décorations d’halloween arrêtez de faire peur au monde
+l''immigration ce n’est pas la solution magique à la pénurie de main d''oeuvre mais c''est une partie de la solution nos régions ont besoin de renfort moi quand je me promène depuis le début de la campagne c''est les entreprises mais c''est aussi les travailleurs travailleuses tout le monde le dit c''est aussi le secteur public on a besoin de bras on a besoin de renfort quand on accueille plus d''immigrants d''immigrantes on gonfle notre population active ça fait en sorte que plus de monde à l''ouvrage ça va nous donner des meilleurs services publics au Québec moi quand je me promène dans les régions c''est ça que j''entends emmenez nous du monde en renfort puis nous on va le faire 
+voyez-vous vous avez posé une question très claire sur l''accès à la propriété sur le logement et monsieur Legault ne répond pas à la question parce qu''il y a nié ce problème là pendant l''essentiel de son mandat la crise du logement et la crise de l''accès à la propriété là c''est les deux faces d''une même médaille faut agir sur les deux plans construire plus de logements sociaux et abordables limiter les hausses de loyer abusives et lutter contre la spéculation la surenchère qui est en train de priver toute une génération de l''accès à la propriété accès à la propriété c’est important pour la classe moyenne au québec
+en santé je pense que les Québécois québécoises ont été désillusionnés par des promesses clinquantes qui ont été faits par le passé par bien des partis politiques nous on veut revenir à la base et la base c''est quoi partir de ce qui fonctionne dans notre système de santé et puis l''améliorer les CLSC ça fonctionne faut les refinancer faut en faire une vraie porte d''entrée le 811 ça fonctionne faut le brancher sur le système il faut mettre le cap vers la prise en charge vers la maison et pour faire tout ça il y a un passage obligé ramener le monde dans notre système de santé ça passe par des conditions de travail enfin pour les soignants du Québec moi je pense qu''ils le méritent 
+la présence du privé dans le système de santé augmente d''année en année au Québec une augmentation de 52% en 40 ans donc si le privé en santé ça marchait on le saurait ce qu''on voit les agences privées de placement ça ne marche pas les CHSLD privé ça ne marche pas donc ce que monsieur duhaime et monsieur Legault propose c''est de continuer à privatiser plus nous ce qu''on veut c''est régler enfin les problèmes de notre système public puis on a dans notre équipe Melissa généreux le docteur Yves Bonnier vigé la docteur Isabelle Leblanc 3 personnes qui demain matin pourraient être ministre de la santé parce qu''ils connaissent la réalité du terrain c''est pas des gestionnaires c''est du monde du terrain qui veulent appliquer les solutions qui viennent du terrain je pense que c''est par là qu''il faut commencer en santé au Québec 
+il n’y a pas de monopole, il n’y a jamais eu autant de privé en santé il n’y a pas de monopole ici
+monsieur legault le savez que dans un contexte d''urgence dans un contexte de crise sanitaire sans précédent on était d''accord d''avoir un recours temporaire et limité au privé monsieur legault il y avait des gens qui mourraient plein les hôpitaux mais est-ce que l''avenir de notre système c’est de se rapprocher d''un modèle privé ou est-ce que l''avenir de notre système c''est de reconstruire notre système public c''est là qu''on va des différences de vision 
+monsieur roy le problème bien sûr c''est qu''il faut ramener nos infirmières puis toutes nos soignants dans le système public mais sous la gouverne de monsieur Legault ce n’est pas juste qu’on n’en a pas ramené c''est qu''ils ont continué à s''en aller aux chu de Québec l''an passé c''est 478 d''émissions dans toute l''année cette année entre janvier et juin c''est 526 démissions le monde continue à s''en aller du système pourquoi parce qu''on les traite pas bien et c''est ça qu''il faut régler il faut de bonnes conditions de travail
+moi je n’''accepte pas que la génération qui a construit le Québec en ce moment elle a peur de vieillir parce qu''elle a peur à cause de ce qu''elle a vu dans les CHSLD et la solution la plupart des gens sur le plateau ici ce soir s''entendre c''est un grand virage national vers les soins à domicile il faut finir les chantiers qui ont été commencés mais la priorité ensuite c''est quoi les soins à domicile permettent aux aînés du Québec de vieillir à la maison et aussi rénover les CHSLD existant parce que c''est là qu''il faut commencer les hommes et les femmes qui vivent dans ces institutions ne vivent pas bien ils ne vivent pas dans dignité puis moi j''accepte pas ça faut investir dans nos CHSLD tout en prenant le virage vers les soins à domicile
+la santé mentale ça ne devrait pas être un tabou premièrement ça ne devrait pas non plus être luxe puis notre système de santé publique devrait traiter la santé mentale sur un pied d''égalité avec la santé physique ça veut dire investir massivement pour rapatrier les psychologues qui ont quitté le système public dans le système public 
+exact en bonifiant leur salaire en bonifiant là on améliorant leur autonomie professionnelle il faut que ce soit aussi simple se faire traiter pour la santé mentale que se faire traiter pour un bras cassé dans notre système de santé publique 
+
+ça fait 10 ans que je me bats pour l''éducation c''est une des valeurs qui est extrêmement importante pour moi puis on ne réglera pas les problèmes de notre système d''éducation si on n''arrête pas c''est exode dont vous venez de parler des profs et de l''ensemble des professionnels qui quittent ce que les enseignants enseignantes nous disent qu''on les rencontre je rencontre pas mal c''est qu''ils ont besoin de renforts ils ont besoin de professionnels qui viennent les aider parce qu''il y a quelques années il y avait trois quatre élèves en difficulté dans une classe maintenant il y en a 10 il y en a 15 les enseignantes sont plus capables d''enseigner faut leur ramener du renfort c''est la priorité en éducation 
+monsieur roy c’est incroyable quand même parce que je viens de parler de donner du renfort c’est exactement ce que noémie dumas dit on a besoin de renfort dans nos classes et l’argent ça n’achète pas tout dans la vie ces femmes là, ce sont en majorité des femmes veulent de meilleurs conditions de travail il n’y a qu’un seul parti politique ici sur cette scène qui a prévu dans son cadre financier des sommes réservé pour une bonification générale des conditions de travail dans l’ensemble des services publiques y compris en éducation ce parti c’est québec solidaire
+monsieur roy j''ai envie de rappeler à tout le monde qui nous écoute ce soir c''est que ce problème de l''inégalité des chances entre les enfants du Québec c''est un vrai problème qu''il faut le régler savez-vous qu’il y a 60% des jeunes qui passent par une école privée vont à l''université 60% les jeunes dans les classes publiques régulières c''est 15% ça veut dire que si vous ne naissez pas dans le bon quartier ou dans la bonne famille vous avez moins de chance de réussir votre vie puis moi je n''accepte pas ça faut que nos écoles publiques au Québec donnent les mêmes chances à tout le monde c''est une question d''égalité entre tous les petits gars toutes les petites filles du Québec
+j’aimerais rajouter quelque chose la dessus monsieur roy parce que ça c''est vrai que c''est un vrai problème là même nos écoles publiques primaires et secondaires sont même plus gratuites il y a de plus en plus de frais et monsieur Legault n’a pas réglé ce problème là les frais continuent de se multiplier dans nos écoles publiques qui devrait être gratuit nous on va réduire cette facture la facture de la gratuité scolaire puis on parle économie qui peuvent aller jusqu''à 600 dollars par année par famille ça c''est une urgence nationale au Québec que nos écoles publiques redeviennent gratuite 
+on n’est pas contre les maternelles 4 ans monsieur legault il s’agit juste que quand on gouverne il faut prioriser et vous vous vous avez mis la pédale au plancher pour les maternelles 4 ans ça et les commissions scolaires c''était vos grandes priorités pour les familles et pendant ce temps-là la liste d''attente dans les CPE augmentaient elle a augmenté sous votre gouverne elle a augmenté et chaque place qui manque mais potentiellement c''est une femme qui ne va pas travailler c’est un gros recul pour le québec 
+monsieur roy le problème avec le plan de Monsieur duhaime c''est qu''il veut donner 200 dollars par enfant mais une place en CPE ça coûte à peu près 250 donc ce n’est même pas raccord sauf que ça veut dire 
+qu’il veut définancé le modèle des CPE ce serait un recul épouvantable pour les familles pour les femmes du québec
+ce qu’il faut c’est réinvestir dans ce modèle le reconstruire c''est un vecteur d''égalité entre les hommes et les femmes faut croire dans ce modèle pas le définancer 
+je suis tout à fait d’accord avec cette jeune femme ce qu’il faut ce n’est pas seulement faire un débat de chiffres sur l’immigration c’est de construire un nouveau modèle d’immigration qui fait les deux ouvre les bras ou on accueille plus de gens au québec et où l’on mise sur la régionalisation sur la francisation dans le milieu de travail et où l’on donne la piqure de la culture québécoise aux nouveaux arrivants aux nouvelles arrivantes c’est ça la meilleure manière d’inclure d’intégrer de donner le goût du français c’est de faire découvrir notre belle culture nationale c’est ce qu’on propose à québec solidaire un nouveau modèle qui va marcher pour le québec et pour les gens
+ce discours sur la baisse des seuils d''immigration il est déconnecté de ce qui se passe dans les régions du Québec moi j''ai fait le tour des régions derrière la semaine tout le monde nous dit on a besoin de renfort on a besoin de monde si on francise bien si on régionalise bien si on donne la piqûre de la culture québécoise l''immigration au Québec ça peut fonctionner nous ce qu''on dit là et c''est messieurs et Madame ont des débats sur la capacité d''accueil du Québec mais savez-vous que cette capacité d''accueil on l’a jamais défini au Québec il y a des démographes qui nous disent c''est 60 000 il y a des économistes qui nous disent 80 000 nous on dit arrêtons ces chicanes de chiffres donnons le mandat à un comité d''experts de réfléchir à cette question et de tracer la ligne entre 60 et 80 000 ça c''est une manière de sortir du débat de chef parler du modèle d''immigration au Québec moi je pense ça peut marcher ça peut être une richesse pour le Québec si on a un bon système d''immigration
+oui il y a des dizaines et des dizaines de milliers d''immigrants et d''immigrantes temporaires sur le territoire du Québec et la première chose à faire c''est de créer une voie rapide pour ces gens puis ces gens monsieur plamondon je vous rassure ils sont déjà dans un appartement ils ont déjà un logement on n''a pas à choisir entre régler la pénurie de main d’œuvre et régler la crise du logement 
+voyons dont ce n’est pas la faute des immigrants 
+c''est à dire que le débat vous dites qu''il est clos monsieur Lego dit qu''il est clos moi ce que je vois c''est que c''est des il continue à exister au Québec la loi elle est contestée devant les tribunaux donc malheureusement pour monsieur Legault le débat il continue et c''est normal parce que c''est une loi qui ne fait pas l''unanimité au Québec il y a des gens qui ont été blessés par cette loi puis nous ce qu''on va faire c''est très simple on va garder ce que bon dans la loi 21 parce que la laïcité c''est important de l''affirmer la séparation entre l''Église et l''État c''est une valeur démocratique importante mais on va s''assurer que si une femme veut travailler dans une école qu’elle puisse le faire même si elle porte un foulard moi je pense que ce qu''il faut c''est appliquer une vraie laïcité aux institutions et permettre aux individus de vivre leur vie ça c''est une vision solidaire de c''est quoi une vraie laïcité qui marche pour tout le monde et qui rassemble les québécois les québécoises
+monsieur Roy la question que les gens doivent se poser à la maison ce soir c''est ce que notre système politique au Québec fonctionne bien est-ce que notre démocratie est en santé est-ce qu''on est en train de réussir notre lutte contre les changements climatiques puis la réponse à ces questions c''est non les gens participent de moins en moins à nos élections les gens n’ont pas de pouvoir entre les élections le Premier ministre a beaucoup trop de pouvoir au Québec peu importe qui est assis dans ce siège ce qu’il nous faut c''est un nouveau système politique au Québec et pour nous c''est ça le projet d''un nouveau Québec d''un Québec pays c''est un Québec où on repense notre système politique pour répondre à une voix qu''on se rassemblent pour avoir un meilleur avenir
+en 2022 au Québec là est-ce que quand on élit nos députés on pense que ces gens devraient s''agenouiller et prêter très serment au roi d''Angleterre c’est l’affaire d''une autre époque on est rendu en 2022 me semble qu''on pourrait passer à autre chose 
+il faut donner la piqûre de la culture québécoise à nos jeunes le plus tôt possible dans leur vie nous on a proposé de mettre en place quatre sorties culturelles obligatoires dans toutes les écoles du Québec parce que qu''on soit né à Parc Extension à Rouyn-Noranda ou à Sherbrooke on devrait tous et toutes quand on est jeune avoir le même accès à la culture québécoise ici on leur donne la piqûre assez tôt bien ces jeunes vont devenir des citoyens citoyennes qui consomment plein de cultures québécoises ça je pense que c''est un pas en avant ça va aider le secteur culturel ça va aider nos jeunes 
+il faut lutter contre les changements climatiques faut aider les familles à sortir la tête de la crise de l''inflation c''est les deux priorités pour les quatre prochaines années 
+la démocratie Monsieur roy c''est les moyens qu''on se donne de régler tous les autres problèmes au Québec moi je veux qu''on ait une démocratie plus en santé ça prend un meilleur mode de scrutin
+
+', '9/23/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (7,5,'DÉBAT DES CHEFS', 'on est en train d''assister un moment historique pour exprimer ce que le peuple veut
+bonsoir 
+mais très honnêtement monsieur roy moi je n''avais pas planifié de revenir en politique mais pour moi la démocratie est fondamentale j''ai déjà mis ma vie en jeu pour aller à l''étranger pour faire la promotion de valeurs d’idéals démocratiques et j''en étais rendu au Québec où je voyais quatre parties puis il y en avait aucun qui me représentait j''aurais même pas pu voter en fait et je me suis dit ça a pas de sens il faut faire quelque chose moi si je suis revenu en politique c''est parce que je veux promouvoir les droits civiques les libertés individuelles et la démocratie j''ai l''impression qu''elle a été mise à mal et qui avait très peu de différence entre les quatre parties qui restaient je croyais que c''était important d''offrir une alternative aux québécois et je pense qu''à ce moment-là j''étais la bonne personne au bon endroit au bon moment et c''est pour ça que je suis ici ce soir je pense qu’on a besoin d''une alternative actuellement au Québec 
+au parti conservateur du Québec on a une approche très différente des quatre autres parties nous on croit qu''il faut faire comme par exemple la Norvège et il faut justement se servir de nos hydrocarbures sur notre territoire pour financer la transition énergétique l''électrification de nos transports parce qu''il y a un coût à ça et il faut trouver de l''argent quelque part nous on pense justement que si on exploite nos hydro carbures chez nous on va pouvoir avoir justement moins de gaz à effet de serre à l''échelle planétaire et on va pouvoir également financer l''électrification de nos transports dans l''ensemble des régions du Québec on peut pas demander des sacrifices aux gens sans leur dire exactement qu''est-ce qui va se passer comme les quatre autres parties on pense qu''il faut donner l’heure juste aux québécois
+bien écoutez c’est pas ça l’idée c''est de dire on étouffera pas une famille de Québécois à 5000 dollars pour acheter un vus parce qu''ils ont besoin de transporter leur enfant puis leur chien on trouve que ça a pas de bon sens on vaut mieux que ça nous on veut détaxer les produits usagers c''est-à-dire que les voitures ont déjà été taxées quand elles sont vendues on veut même les détaxer quand elles sont revendues parce que c’est des gens qui ont normalement un peu moins de revenus et qu''on trouve que au niveau équitable ça serait beaucoup mieux que ces gens-là ne paient pas de taxes sur une voiture usagée pour ce qui est de si on veut réduire la pollution par les transports nous ce qu''on veut faire on propose on a un projet pilote à Québec on voudrait qu''il y ait le transport en commun gratuit pour mesurer véritablement l''appétit pour la population 
+on est contre le tramway mais pour le transport en commun gratuit à Québec comme projet pilote pour voir combien de personnes vont abandonner leur deuxième voiture ou même leur première voiture au profit du transport en commun s''il y a véritablement un appétit pour ça 
+monsieur legault qui fait l’étude et combien elle coûte votre étude
+oui vous avez évolué il n’y a rien qui se passe vous avez abandonné les gens de la région de québec monsieur legault
+monsieur legault c’est qui qui fait l''étude puis combien elle coûte cette étude-là dont vous parlez répondez à ma question
+qui fait l’étude combien elle coûte
+ok vous ne savez pas c’est comme il y a 4 ans quand vous avez promis un pont aujourd’hui vous ne vous en souvenez plus non plus
+comment on peut vous croire monsieur legault il y a 4 ans vous promettiez le même pont que je promets aujourd’hui 
+aujourd’hui ce que je veux dire c’est qu’à la une du journal de québec c’est que le pont de québec pourrait être démoli je sais pas si vous avez vu ça après ça la semaine passée j''ai parlé à monsieur Legault je lui ai demandé s''il y avait une effectivement une proposition que deux voix sur le Pont Pierre Laporte pourrait être fermé il m''a dit non l’enquête de Radio-Canada a prouvé que oui il y a eu une édition il y a eu des échanges de courriels et aujourd''hui nous dit qu''il y a eu des discussions il y a même eu des échanges de courriels et aujourd’hui il nous dit que
+je ne fais pas peur au monde pourquoi ils ont enlevé tous les équipements sur le pont monsieur Legault
+monsieur legault vous avez dit que les études que vous avez que vous cachez au Québécois vous voulez pas les montrer parce qu''ils sont périmés parce que c''était avant la crise sanitaire vous avez dit ça on a entendu ça les études qui ont été faites pour le tramway elles sont aussi périmées parce qu''il y a 30% moins d''usagers des autobus à Québec présentement est-ce que vous allez remettre le projet de tramway sur la glace en attendant le renouvellement de nouvelles études ou si ça c''est pas pareil parce que le tramway vous êtes pour alors que le troisième lien vous voulez faire languir la population 
+oui c’est ce qu’on propose
+moi je crois qu''il faut diversifier nos sources d''énergie on le sait qu''on va avoir besoin de plus d''énergie c''est pour ça que le parti conservateur on est les seuls qui sont favorables à l''exploitation de notre gaz mais on est aussi favorable à développer plus de filières hydroélectriques évidemment 
+le Parti conservateur du Québec on est le parti qui offre les plus importantes baisses d''impôts de tous les partis politiques à l''heure actuelle et on propose également de suspendre la taxe sur l''essence justement pour donner du répit aux familles du Québec pour que ça soit le gouvernement qui se sert la ceinture dans ses dépenses plutôt que les familles du Québec qui souffrent présentement nos bases d''impôts sont tellement généreuses pour une famille par exemple avec deux enfants qui gagnent 80000 dollars c''est plus de 3000 dollars de baisse d''impôts annuellement récurrent je pense que c''est le genre de politique que les gens ont besoin pour pouvoir arriver parce que sinon on y arrivera pas et c''est de loin le sujet dont on parle le plus mais depuis le début de la campagne électorale
+mais moi ce que je veux dire c''est que oui on est on offre des bases d''impôts mais contrairement aux parties libérales et à la CAQ on veut pas aller piger ça dans les poches la prochaine génération j''ai été très surpris pour pas dire déçu quand j''ai vu monsieur le coup manquer d''équité envers les générations en allant piger l''argent dans le fond des générations je trouve ça particulièrement irresponsable on a déjà un problème d''équité intergénérationnels on est déjà en train d''appauvrir la prochaine génération puis vous en ajoutez une couche en allant essayez d''acheter la prochaine élection en hypothéquant l''avenir de la prochaine génération j''ai pas trouvé ça que c''était la plus brillante des idées madame Anglade c''est beau de baisser les impôts mais quand après ça vous dites que vous voulez augmenter le déficit de façon considérable vous aussi c''est une façon indirecte de pelleter le problème sur le dos de la prochaine génération on est les seuls qui proposons des baisses d''impôts qui sont responsables c''est-à-dire que on va le piger dans l''argent qu''on a actuellement plutôt que d''hypothéquer la prochaine génération
+on propose essentiellement ce que monsieur Legault proposait il y a 4 ans qui n''a pas rempli comme promesse on voudrait réduire de 5000 le nombre d''employés de l''État cela étant dit on ne veut pas congédier personnes parce que vous savez que notre fonction publique au Québec elle est vieillissante on voudrait fonctionner par attrition mais on veut réduire la taille de l''État contrairement à Monsieur legault on ne va pas dire une chose pour faire le contraire si on est élu
+monsieur legault aujourd’hui la firme de sondage street research a sorti un sondage justement sur l''exploitation du gaz naturel au Québec ils ont demandé au Québécois si c’était une bonne idée d''exporter notre gaz naturel vers l''Europe pour remplacer le gaz russe il y a 60% des Québécois qui disent oui vous êtes quatre parties à dire non vous êtes en train de dire non à une industrie vous avez déjà été en faveur monsieur legault vous promettiez cela vous avez créé un chapitre entier dans votre livre cap sur un Québec gagnant puis aujourd''hui vous voulez plus rien savoir vous êtes en train de vous faire poursuivre vous mettez le Québec à risque de devoir des milliards de dollars à des entreprises à qui vous aviez donné des droits et vous êtes en train de les retirer unilatéralement monsieur Legault à quoi vous jouez 
+il y a un prix Nobel 
+l’ontario vient de baisser les taxes et ça a fonctionné monsieur legault le prix à la pompe est moins cher pourquoi vous ne faites pas ça pourquoi vous ne donnez pas un break aux automobilistes 
+nous on pense qu''il faut d''abord ramener les aînés qui veulent travailler on veut que les gens de 60 ans et plus puissent avoir des crédits d''impôts supplémentaires pour venir même c''est juste un jour deux jours trois jours ça va être du mentorat ça va être de l''expertise qu''on a besoin ça va être également une socialisation pour ces personnes nous on pense qu''il faut vraiment investir sur nos aînés 
+nous aussi on pense qu''il faut qu''effectivement avec la taxe de bienvenue particulièrement pour les jeunes familles soit abolie et qu''on compense les villes évidemment mais avec la hausse des taux d''intérêt puis la baisse du prix des maisons les jeunes n''auront pas plus accès à la propriété les deux vases font en sorte qu’il n’y a pas de solution magique parce que si les taux d''intérêt se mettent à monter même si le prix des maisons diminue ils n’auront pas plus la possibilité d''accéder à la propriété 
+mais pour nous s''il faut additionner la contribution du secteur privé on croit que c''est important de garder l''assurance universelle publique c''est-à-dire que notre carte d''assurance maladie va continuer à payer pour nos soins de santé mais si le gouvernement si l''État n''est pas capable de fournir des soins dans des délais raisonnables la personne doit faire comme dans un paquet de pays européen avoir la possibilité d''aller dans un hôpital ou une clinique privée et c''est sa carte d''assurance maladie qui va payer pour ses soins et même mieux que ça si le privé est capable de le faire moins cher que le public elle peut y aller même avant les délais il peut y aller directement donc c''est vraiment d''additionner la contribution du privé pour nous
+si le socialisme fonctionnait en matière de santé monsieur nadeau dubois on le saurait ça fait 40 ans qu''on a des ministres de la Santé qui se promène avec des structures qui changent toutes les structures et pourtant jamais on a eu des problèmes jamais on a eu un système aussi inefficace que celui qu''on a à l''heure actuelle moi je pense monsieur Nadeau Dubois on peut bien jouer encore dans les structures une autre fois ou deux autres fois mais la réalité c''est que ça prend de la concurrence vous le savez comme moi un monopole peu importe même si le public ou privé un monopole ça ne fonctionne pas puis au Québec malheureusement c''est les patients du Québec qui payent présentement pour ce monopole inefficace il faut un moment donné prendre le taureau par les cornes 
+vous jouez avec les mots monsieur nadeau dubois vous savez que pour les choses essentielles je vous donne un exemple bien concret un médecin présentement Québec là il ne peut pas pratiquer et au public et au privé c''est illégal c''est 100 % un ou 100 % 0 au Québec on a un système à deux vitesses présentement nous on veut un système à une vitesse parce que présentement les ultras riches peuvent y aller mais nous on veut que tout le monde puisse avoir accès au système de santé privé 
+sur le temps supplémentaire obligatoire c''est évidemment il n’y a personne qui souhaiterait ça il n’y a personne qui voudrait vivre ces conditions-là c''est vrai que les infirmières s''en vont mais la solution c''est pas d''abolir les agences privées par la suite ça va être encore pire il va encore plus de pénurie les filles ne veulent plus travailler avec pour un aussi mauvais employeur que le gouvernement du Québec d''où l''importance d''avoir une concurrence des employeurs qui va pouvoir offrir des conditions de travail décentes à ces filles 
+évidemment que des chambres à un million de dollars on n''aura pas les moyens d''en payer à tout le monde monsieur legault le sait très bien je comprends que c''est effectivement ça paraît bien politiquement pour les chanceux de la loterie des maisons des ainés mais malheureusement c''est pas viable pour l''ensemble de la population je pense qu''on a une espèce de consensus ici puis c''est vrai on le vit avec nos grands-parents les aînés là les garder le plus longtemps possible à la maison je pense que c''est la meilleure chose la chose la plus souhaitable autant pour les ainés que pour les familles qui voulons les visiter c''est pour ça qu''on veut oui on va investir évidemment dans les soins à domicile mais il y a aussi la question des aidants naturels ou également où il va falloir investir davantage parce que eux aussi ont un rôle primordial a joué son on veut maintenir nos ainés le plus longtemps possible à la maison 
+en matière de santé mentale puis là-dessus là je pense que c''est important on commence à mesurer l''impact ce qui s''est passé ces dernières années on a vu que ça la santé mentale des Québécois étaient durement affectés particulièrement les plus jeunes on voit même une étude maintenant de l''Université de Sherbrooke qui nous apprend que la détresse psychologique la dépression est rendu à 50% chez les jeunes on propose un sommet dans les 100 premiers jours puis d''ailleurs je tends la mets aux autres parties j''aimerais que ça se fasse de façon non partisane parce que le sujet est trop important pour commencer à faire de la politique avec ça faire un sommet parce qu''on n’y arrivera pas avec les effectifs 
+vous retombez là-dedans vous êtes pas capable d''admettre qu''il y a un problème de santé mentale vous n''êtes pas capable d''admettre que c''est les enfants du Québec qui souffrent à cause de vos décisions
+je n’irai pas aussi bas que vous je ne dirai pas combien d’enfant vous avez sacrifié vous vous avez été irresponsable avec les enfants du québec monsieur legault n’oubliez jamais ça 
+mais c''est évidemment que la première chose c''est de valoriser les enseignants développer le sentiment d''identité à l''école on a parlé tout à l''heure de la santé c''est un peu malheureusement le même problème qu''on retrouve en éducation souvent ces gens-là ont l''impression d''être des espèces de pions dans un système ultra centralisé ultra bureaucratisé avec plein de monde au-dessus de leur tête ils ont pas l''impression d''être un humain qui a une marge de manœuvre que le lien avec les parents il faut décentraliser tout ça a un impact direct sur le travail de l''enseignant au quotidien ça lui permet d''avoir une marge de manœuvre d''avoir ses propres projets avec ses enfants et c''est ça qu''il faut valoriser dans le Québec de demain 
+c''est très émouvant quand on entend des enseignants comme ça parce que c''est une richesse on en a besoin des filles comme elles en centaine vous savez que la rentrée scolaire il manque encore des profs le gouvernement est obligé de faire ça même les chauffeurs d''autobus ça a été une rentrée scolaire très difficile pour plusieurs parents du Québec moi je pense qu''il faut oui il faut mettre des ressources oui ça prend de l''aide oui il y a des il y a des enfants qui ont besoin aussi d''un cheminement particulier donc il faut diversifier l''offre il faut impliquer le parent également au cœur parce que souvent on oublie le parent pareil comme si c''était juste la bureaucratie qui devait décider pour nous c''est très important au parti conservateur que le parent soit au cœur des décisions
+ce n’est pas dans notre programme mais effectivement mais c''est dire qu''il faut valoriser la profession d''enseignement puis on est capable de récupérer des gens il n’y a rien de dévalorisant pour quelqu''un de descendre d''une tour et de descendre dans une classe puis d''enseigner on a besoin d''enseignants il y a une pénurie déjà de la pénurie va s''accentuer dans les années à venir on le sait déjà monsieur Roy 
+il ne faut pas jeter le bébé avec l''eau du bain le les écoles privées ont un bénéfice extraordinaire sur la société québécoise d''abord et ça coûte moins cher à l''ensemble des contribuables faut le rappeler que les écoles publiques pour chaque élève puis l''autre à faire c''est que ça a permis une concurrence on ne veut pas reproduire avec l''éducation ce qu''on a en santé qu''un monopole inefficace centralisé bureaucratisé 
+monsieur roy en fait les deux ont raison c''est que c''est à dire que autant les libéraux que la CAQ sous leur leadership ils nous ont toujours promis qu''effectivement il y aurait plus d''attente pour les parents pour leurs enfants CPE puis les deux ont donné un bilan qui était totalement opposé ce qu''ils avaient promis en campagne électorale puis aujourd''hui l''ensemble des partis politiques des autres partis politiques proposent encore la même affaire en disant on va régler le problème des listes d''attentes mais il y en a pas un qui leur règle pour nous la solution c''est de donner un bon de garde de 200$ par enfant par semaine aux parents qui malheureusement n''ont pas gagné à la loterie des CPE et qui sont 50 quelques milles à végéter sur des listes d''attentes depuis beaucoup trop longtemps et comme ça on va pouvoir éliminer l’iniquité
+mais c''est à dire que les gens qui vont qui sont en CPE qui sont satisfaits les parents vont continuer à aller en CPE on ne veut pas couper les CPE on ne veut pas enlever les CPE on veut que les parents qui n’ont pas accès au CPE puissent ou eux aussi avoir leurs morceaux du gâteau aussi c''est des contribuables eux aussi ils payent eux aussi ont droit d''avoir une aide de l''État 
+il y a une contribution du parent de 8 et 70 par semaine par jour 
+c’est faux monsieur nadeau dubois il y a une contribution de 8 et 70 par parent ce qui revient exactement à ce montant
+une immigration réussie c’est essentiellement deux choses pour le nouvel arrivant c’est d’abord trouver un emploi de qualité et c’est aussi s''intégrer à la majorité francophone pour nous ce sont toutes les guerres de chiffres sur les seuils le chiffre à la limite ce n’est pas le chiffre qui est le plus indicateur le meilleur indicateur c''est est-ce qu''on peut oui ou non intégrer ces gens-là sur le marché de l''emploi et les intégrer à la majorité francophone le rôle du gouvernement c''est de s''assurer qu''ils peuvent apprendre le français et qu’ils peuvent intégrer le marché de l''emploi c''est aussi simple que ça les guerres de chiffres ça ne mène absolument nulle part ça ne fait que diviser les Québécois
+les récentes statistiques de Statistiques Canada je pense qu''elles ont inquiété tout le monde peut-être un peu moins les libéraux mais à peu près tout le monde au Québec je pense que c''est très inquiétant effectivement de voir un recul du français cela étant dit il faut regarder pourquoi ce n''est pas les francophones qui sont en train d''être assimilé à l’anglais je pense que tout le monde a compris ça c''est pas la faute des anglophones qui ont quand même des droits historiques qui sont là qui ont toujours été là tout le monde le dit c''est véritablement la capacité de franciser les immigrants de dire on va doubler les immigrants c''est pas grave on va on va les francisé au fur et à mesure c''est sûr que faut faire attention le problème il est véritablement là les ressources puis l''attention doit être mise la régionalisation c''est beau aussi en théorie ça fait des années qu''on entend ce discours mais malheureusement puis on peut pas reprocher ça aux immigrants il y a une attirance naturelle pour Montréal
+on ne peut pas nier cette réalité 
+vous étiez d’accord avec le projet au départ c’est ça le problème
+madame anglade parlons en vous étiez favorable au projet de loi 96 votre partie a même adopté des amendements qui étaient encore pire que ce que proposait monsieur Legault après ça vous avez voulu enlever les amendements parce que les anglophones se sont mis à dire qu''est-ce que vous faites là vous êtes en train de nous trahir vous parlez des deux côtés de la bouche dans ce dossier madame anglade malheureusement puis il va falloir que ce soit clair pour l''ensemble des Québécois est-ce que oui non vous avez été favorable au projet de loi puis vous avez proposé des amendements qui ont été adoptés puis vous étiez contre on a voté contre après oui ou non
+je l’ai toujours dit dans les deux langues madame anglade tout le monde le sait que je suis favorable au projet de loi 21 
+au Parti conservateur du Québec on croit en la liberté religieuse évidemment cela étant dit la liberté des uns arrête là où la liberté des autres commencent et je pense que tout citoyen au Québec a droit d''avoir des services publics de façon neutre ce n’est pas compliqué le principe ce n’est pas il y a rien c''est pas contre une religion c''est pas contre un symbole c''est strictement le fait qu''en tant que citoyen on a droit quand on fait affaire avec l''État d''avoir accès à des services totalement neutres 
+le débat allait super bien le but là c''était justement d''arrêter cette chicane moi ce que je suis fier c''est que cette élection ci va possiblement potentiellement tourner la page sur 50 60 ans de chicanes au Québec on va unir les Québécois on va parler d''une seule voix on va être unis sur un paquet de revendications par rapport à votre avenir et on va arrêter de vouloir recommencer à ouvrir les chicanes constitutionnelles laissons ça derrière nous s''il vous plaît 
+les gens ont un système de santé inefficace on a l''inflation qui est en train d''étrangler les familles puis eux ils veulent partir un débat sur la légende
+non mais ça l’air d’être votre priorité
+c’est une industrie qui l’a eu très difficile ces deux dernières années vous comprenez c’est peut-être l’industrie la plus poquée d''une certaine façon j’ai justement eu la chance hier de dîner avec plusieurs artistes et je sais que ces gens ce qu''ils veulent d''abord et avant tout c''est une reconnaissance de ce qui viennent de vivre puis ils ont un urgent besoin qu''on les encourage individuellement tous et toutes
+le pouvoir d''achat des familles québécoises d''inflation c''est ça qu''il faut c''est ça le problème des familles québécois 
+moi je ne veux le promettre parce que j''ai vu Justin Trudeau le promettre et il ne l’a pas fait j''ai vu François Legault le promettre puis il ne l’a pas fait ça porte malheur
+
+', '9/23/2022 20:00:00 PM','')
+
+
+
+
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (3,1,'Test', 'Ceci est un test pour reconnaitre la similitude entre deux textes. Ceci est le premier texte mais le deuxième texte sera exactement pareil. En fait on fait un copy paste.', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (3,2,'Test', 'Ceci est un test pour reconnaitre la similitude entre deux textes. Ceci est le premier texte mais le deuxième texte sera exactement pareil. En fait on fait un copy paste.', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (3,3,'Test', 'Ici on va tester pour tenter de trouver la similitude des textes', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (3,4,'Test', 'La similitude entre les parti devrait être très différente.', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (3,5,'Test', 'Ronald McDonald serait un candidat idéal à la tête du parti conservateur du Québec.', '9/15/2022 20:00:00 PM','')
+
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (4,1,'Test', 'As a college student, much of your time will be spent interacting with texts of all types, shapes, sizes, and delivery methods. Sound interesting? Oh, it is. In the following sections, we’ll explore the nature of texts, what they will mean to you, and how to explore and use them effectively.
+In academic terms, a text is anything that conveys a set of meanings to the person who examines it. You might have thought that texts were limited to written materials, such as books, magazines, newspapers, and ‘zines (an informal term for magazine that refers especially to fanzines and webzines). Those items are indeed texts—but so are movies, paintings, television shows, songs, political cartoons, online materials, advertisements, maps, works of art, and even rooms full of people. If we can look at something, explore it, find layers of meaning in it, and draw information and conclusions from it, we’re looking at a text.
+check mark iconCheck Your Understanding: Texts
+Most of the texts you’re exposed to in college will be hard (printed) copy or online written texts like books, articles, and essays—college remains a rather traditional place, and these kinds of texts are still the most common types of learning material. But you’ll also be asked to explore other types of textual materials, and it’s good to be prepared.
+Which of these would be a kind of text?', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (4,2,'Test', 'Text Features refer to parts of a text but don’t necessarily appear directly within the main body. Text features are commonly used in nonfiction texts like social studies or science-related content and help the reader to find specific information within the text easier.
+The most common areas for nonfiction text features are the index, table of contents, captions under pictures or diagrams, glossary terms, labels or features of graphs and charts, and bolded words.
+Each text feature has its purpose but the overall goal of all text features is to quickly gain access to information in nonfictional material.
+Why Are Text Features Important?
+Text features are important because they help students to find text information of a nonfiction text or nonfiction book easier.
+Nonfiction text features make it possible for students to obtain information about a specific topic or subtopic without reading the entire text.
+When students understand where each text feature is located within a non-fiction article, they read the material more efficiently.
+There are numerous text features, so let’s discuss the six most important text features in turn.', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (4,3,'Test', 'Le texte narratif fait le récit d’événements, réels ou fictifs, qui impliquent des faits, des personnages, des lieux, un déroulement, et un narrateur.
+I- Identifier un texte narratif
+On reconnaît un texte narratif au fait qu’il rapporte, par la voix d’un narrateur, une histoire inscrite dans un contexte spatio-temporel, comprenant un état initial et un état final.
+Histoire et narration
+Un texte narratif est le produit de deux éléments : l’histoire (ce qui est raconté) et la narration (la façon dont l’histoire est racontée). On peut facile­ment comprendre cette différence si l’on pense à une expérience fréquente : entendre raconter la même histoire de plusieurs façons différentes.
+L’importance du temps et du lieu
+Les événements d’un récit sont inscrits dans le temps et se déroulent dans un ou des lieux. Cette caractéristique détermine la présence, dans un texte narratif, d’indicateurs de temps et de lieux ainsi que des variations de temps verbaux. Leur variation marque une évolution et assure le pas­sage d’un état initial (la situation du début) à un état final (le point d’aboutissement).
+La présence d’un narrateur
+Le récit passe par la voix d’un narrateur qui raconte l’histoire. Il faut le distinguer de l’auteur qui est celui qui signe le livre. La présence du narrateur est plus ou moins visible dans le texte.
+II- Analyser un texte narratif
+Lire méthodiquement une narration implique d’être attentif aux points suivants :
+La succession des faits
+On attendit encore. Les invités partirent ; seuls, les parents tes plus proches demeuraient. À minuit, on coucha la mariée toute secouée de sanglots. Maupassant. On observe ici une chronologie et des actions effectuées par chacun des personnages.
+L’ordre de présentation des faits
+- Une histoire n’est pas toujours rapportée dans son déroulement chronologique. La narration peut per­turber l’ordre de succession des faits en interca­lant des « retours en arrière ». Par exemple au début de cette nouvelle de Maupassant intitulée L’enfant :
+« Après avoir longtemps juré qu’il ne se marierait jamais, Jacques Bourdillère avait soudain changé d’avis. Cela était arrivé brusquement, un été, aux bains de mer.
+Un matin, comme il était étendu sur le sable, tout occupé à regarder les femmes sortir de l’eau [...].»', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (4,4,'Test', 'La forme narrative peut être orale ou écrite et de fiction ou non-fiction, selon ce qui correspond le mieux à l''histoire. La narration, par exemple, est le processus par lequel une histoire est racontée de manière audible et c''est ce qui donne son titre à un narrateur d''histoire - ils sont le guide à travers lequel l''histoire nous est révélée. Tout au long de l''histoire, la narration a été une forme de communication importante, tout en étant vitale pour le développement humain. Il aide les enfants à traiter ce qu''ils apprennent dans leur vie de tous les jours et à mémoriser ces informations en racontant ce qu''ils comprennent d''une situation.
+Le fils d''un fermier a accidentellement marché sur la queue d''un serpent. Le serpent a soudainement tourné et l''a frappé de sorte qu''il est mort. Le père était très en colère et a coupé une partie de la queue du serpent. Ensuite, le serpent pour se venger a piqué plusieurs bovins du fermier. Cela lui a causé une grande perte. Cependant, le fermier a décidé d''arrêter le combat avec le serpent. Il apporta de la nourriture et du miel à sa tanière et lui dit : « Oublions et pardonnons. Maintenant que nous sommes tous les deux satisfaits, pourquoi ne serions-nous pas à nouveau amis ? » "Non, non," dit le serpent. "Enlevez vos cadeaux. Vous ne pouvez jamais oublier la mort de votre fils, ni moi la perte de ma queue. Nous pouvons pardonner, mais nous n''oublierons jamais."
+Un jour, un homme stupide est allé au marché. Il a acheté six ânes. Après cela, il a monté un âne et a fait marcher les autres devant lui. En chemin, il les compta, mais il ne put voir que cinq ânes. Il les a comptés encore et encore. Il était certain d''en avoir perdu un. Il avait peur d''être grondé par sa femme.
+Sa femme l''attendait devant leur maison. Dès qu''il l''a vue, il a dit tristement qu''il avait perdu un âne. Il ne savait pas comment cela pouvait arriver. Il était très prudent.
+Ensuite, sa femme lui a demandé combien d''ânes, il avait acheté. L''homme stupide a répondu qu''il avait acheté six ânes. Cependant, il ne pouvait en voir que cinq. Sa femme le regarda et éclata de rire. Elle a dit qu''il était très stupide. Parce qu''il n''a pas compté l''âne qu''il monte.', '9/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (4,5,'Test', 'nullenull', '9/15/2022 20:00:00 PM','')
+
+--- AJOUT APRES ÉLECTION
+--CAQ
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Voici le Conseil des ministres', 'Le premier ministre du Québec, François Legault, a dévoilé aujourd’hui, avec fierté, la composition de son Conseil des ministres. Au total, 30 personnes ont été nommées, dont 14 femmes, ce qui place le Conseil en zone paritaire. Le premier ministre a notamment souligné que, pour une première fois dans l’histoire du Québec, une femme autochtone accède à un poste de ministre.
+
+La répartition des responsabilités au sein de ce Conseil des ministres est la suivante :
+
+M. François Legault
+Premier ministre
+
+Mme Geneviève Guilbault
+Vice-première ministre
+Ministre des Transports et de la Mobilité durable
+
+M. Eric Girard
+Ministre des Finances
+Ministre responsable des Relations avec les Québécois d’expression anglaise
+
+Mme Sonia LeBel
+Ministre responsable de l’Administration gouvernementale et présidente du Conseil du trésor
+
+M. Christian Dubé
+Ministre de la Santé
+
+Mme Christine Fréchette
+Ministre de l’Immigration, de la Francisation et de l’Intégration
+
+M. Pierre Fitzgibbon
+Ministre de l’Économie, de l’Innovation et de l’Énergie
+Ministre responsable du Développement économique régional
+Ministre responsable de la Métropole et de la région de Montréal
+
+Mme Pascale Déry
+Ministre de l’Enseignement supérieur
+
+M. Benoit Charette
+Ministre de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs
+Ministre responsable de la région des Laurentides
+
+Mme Andrée Laforest
+Ministre des Affaires municipales
+Ministre responsable de la région du Saguenay-Lac-Saint-Jean
+
+M. Simon Jolin-Barrette
+Ministre de la Justice
+
+Mme Martine Biron
+Ministre des Relations internationales et de la Francophonie
+Ministre responsable de la Condition féminine
+
+M. Bernard Drainville
+Ministre de l’Éducation
+Ministre responsable de la région de la Chaudière-Appalaches
+
+Mme Caroline Proulx
+Ministre du Tourisme
+Ministre responsable de la région de Lanaudière
+
+M. Mathieu Lacombe
+Ministre de la Culture et des Communications
+Ministre responsable de la Jeunesse
+Ministre responsable de la région de l’Abitibi-Témiscamingue et de la région de l’Outaouais
+
+Mme Isabelle Charest
+Ministre responsable du Sport, du Loisir et du Plein air
+
+M. Lionel Carmant
+Ministre responsable des Services sociaux
+
+Mme Sonia Bélanger
+Ministre déléguée à la Santé et aux Aînés
+
+M. Jean-François Roberge
+Ministre de la Langue française
+Ministre responsable des Relations canadiennes et de la Francophonie canadienne
+Ministre responsable des Institutions démocratiques
+Ministre responsable de l’Accès à l’information et de la Protection des renseignements personnels
+Ministre responsable de la Laïcité
+
+Mme Chantal Rouleau
+Ministre responsable de la Solidarité sociale et de l’Action communautaire
+
+M. François Bonnardel
+Ministre de la Sécurité publique
+Ministre responsable de la région de l’Estrie
+
+Mme Suzanne Roy
+Ministre de la Famille
+Ministre responsable de la région de la Montérégie
+
+M. Éric Caire
+Ministre de la Cybersécurité et du Numérique
+
+Mme Kateri Champagne Jourdain
+Ministre de l’Emploi
+Ministre responsable de la région de la Côte-Nord
+
+M. André Lamontagne
+Ministre de l’Agriculture, des Pêcheries et de l’Alimentation
+Ministre responsable de la région du Centre-du-Québec
+
+Mme France-Élaine Duranceau
+Ministre responsable de l’Habitation
+
+Mme Maïté Blanchette Vézina
+Ministre des Ressources naturelles et des Forêts
+Ministre responsable de la région du Bas-Saint-Laurent et de la région de la Gaspésie-Îles-de-la-Madeleine
+
+M. Christopher Skeete
+Ministre délégué à l’Économie
+Ministre responsable de la Lutte contre le racisme
+Ministre responsable de la région de Laval
+
+M. Jonatan Julien
+Ministre responsable des Infrastructures
+Ministre responsable de la région de la Capitale-Nationale
+
+M. Jean Boulet
+Ministre du Travail
+Ministre responsable de la région de la Mauricie et de la région du Nord-du-Québec
+
+M. Ian Lafrenière
+Ministre responsable des Relations avec les Premières Nations et les Inuit
+
+Autres responsabilités :
+
+M. Éric Lefebvre
+Whip en chef du gouvernement*
+
+M. Mario Laframboise
+Président du caucus du gouvernement*
+
+*Ces personnes ne font pas partie du Conseil des ministres.
+
+Création du Comité sur l’économie et la transition énergétique
+
+Le premier ministre a également annoncé la création du Comité sur l’économie et la transition énergétique qu’il présidera lui-même. Ce comité va être composé des ministres de l’Économie, des Finances, de l’Environnement, des Relations avec les Premières Nations et les Inuit ainsi que de la présidente-directrice générale d’Hydro-Québec, Mme Sophie Brochu.
+
+Citation :
+
+« Le 3 octobre 2022, les Québécoises et les Québécois nous ont donné un mandat clair : celui de continuer à travailler pour eux. Ce témoignage de confiance vient avec de très grandes responsabilités et je suis heureux de pouvoir compter un des conseils des ministres les plus forts de notre histoire. On va tout faire pour être au service du Québec. On va être votre gouvernement. »
+
+François Legault, premier ministre du Québec', '10/20/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/10/20/voici-le-conseil-des-ministres/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Trois premières solutions de la cellule de crise', 'Dans le cadre d’un point de presse, le ministre de la Santé, Christian Dubé, en compagnie du coordonnateur de la cellule de crise et sous-ministre adjoint à Direction générale de la coordination du  réseau, Daniel Desharnais, et de la sous-ministre adjointe à la Direction générale des affaires universitaires, médicales, infirmières et pharmaceutiques, Dre Lucie Opatrny, annonce que les premières solutions recommandées par la cellule de crise pour réduire à court terme les débordements dans les urgences ont été mises en œuvre ou sont en voie de déploiement.
+
+Cellule de crise
+
+L’achalandage observé dans les urgences, notamment en raison de la résurgence des maladies respiratoires chez les enfants et de la mobilisation du personnel médical pour assurer le rattrapage de certaines activités médicales reportées ces derniers mois, nécessitait des actions rapides, d’où la création d’une cellule de crise évolutive. M. Daniel Desharnais est le coordonnateur de cette cellule, en raison de son rôle quotidien de coordination avec les présidents-directeurs généraux (PDG) du réseau de la santé et des services sociaux. Plus de la moitié des membres de la cellule de crise sont des gens du terrain : des infirmières, des urgentologues, des PDG, des médecins et des représentants du ministère de la Santé et des Services sociaux. Des représentants d’autres régions du Québec l’intégreront également afin d’étendre les bonnes pratiques au-delà du Grand Montréal. La situation nécessitait des actions à très court terme, complémentaires à ce qui est en cours d’implantation. Les solutions apportées par celle-ci permettront de renforcer la fluidité et la coordination avant de se rendre à l’hôpital, sur place et lorsque le patient en sort.
+
+Avant les urgences : « Un appel, un service »
+
+Parmi les premières nouvelles mesures qui sont mises en œuvre dès maintenant pour donner plus de marge de manœuvre aux urgences du Québec, mentionnons l’initiative « Un appel, un service », dont le but est d’offrir un meilleur accès à la première ligne en évitant le recours aux urgences. Cette solution contribue dès aujourd’hui à bonifier l’offre de service de la ligne Info-Santé 811, particulièrement pour les jeunes de 0 à 17 ans. Dans le Grand Montréal, si un besoin de consultation est confirmé, le patient sera directement transféré vers une centrale téléphonique qui le guidera vers les bonnes ressources pour obtenir un service auprès d’un médecin, d’un pharmacien ou du personnel infirmier. Le gouvernement travaille déjà à l’élaboration de ce nouveau service à travers le Québec. Par ailleurs, les cliniques pédiatriques s’engagent à prolonger leurs heures d’ouverture dans la soirée et les fins de semaine pour faciliter la prise en charge des enfants.
+
+Lorsque des soins sont nécessaires : déploiement de cliniques IPS
+
+Afin de soutenir ces mesures et de bonifier encore davantage l’accès à la première ligne et aux urgences, des cliniques d’infirmières praticiennes spécialisées (IPS) seront mises sur pied dans les prochaines semaines, soit une sur le territoire du Centre intégré universitaire de santé et de services sociaux (CIUSSS) de l’Est-de-l’Île-de-Montréal et une autre au CIUSSS du Centre-Sud-de-l’Île-de-Montréal. Les IPS de ces cliniques seront en mesure d’offrir une prise en charge pour les problèmes de santé courants, aigus ou chroniques, tant pour la clientèle adulte que pédiatrique. Il s’agit donc d’une offre de consultation supplémentaire à la population, ainsi qu’un bel exemple pour mettre à contribution l’ensemble des professionnels de la santé pour réduire la pression sur nos urgences et les médecins.
+
+Après les urgences : pour augmenter les places en hébergement et renforcer la fluidité hospitalière
+
+Afin d’améliorer la fluidité des services offerts aux patients, un appel à projets auprès des PDG des CISSS et des CIUSSS a été lancé le 21 juillet dernier pour réduire les niveaux de soins alternatifs (NSA), soit les patients n’ayant plus besoin de rester à l’hôpital, permettant ainsi la libération de lits. Cet appel à projets permet la mise en place de mesures alternatives ou de places pour les usagers, à l’extérieur des hôpitaux. Ce sont 1730 places de soins de courte durée en milieu hospitalier qui sont ajoutées par les établissements.
+
+De plus, on passe dorénavant à l’implantation intensive de l’approche d’hébergement à domicile. Celle-ci permet aux patients de rester à la maison plutôt qu’à l’hôpital, en attendant leur place dans une installation d’hébergement. Ainsi, cette approche permet de libérer des lits, mais elle permet aussi à la personne de rester à la maison, un milieu mieux adapté que l’hôpital. Cette initiative a d’abord été amorcée à Montréal, où le volume de NSA représente environ 50 %. Jusqu’à maintenant, cette approche a permis une diminution de 17 % des usagers en attente d’hébergement en centre hospitalier.
+
+Il s’agit de premières mesures qui seront mises en place à court terme. Le travail se poursuit pour ajouter d’autres actions dans les prochaines semaines, en fonction des recommandations des experts.
+
+Citation :
+
+« La situation dans nos urgences est inacceptable à la fois pour le personnel soignant et pour les patients qui ont besoin de soins rapidement. Le problème n’est pas spécifique au Québec, et les mesures que nous avons déjà mises en place, au cours des derniers mois, nous permettent de garder la situation sous contrôle. Cependant, nous avons une augmentation du volume aux urgences et une augmentation du manque de personnel. Il nous faut donc bonifier ces mesures pour continuer de réduire la pression sur nos services d’urgence tout en augmentant leur capacité d’accueil. Je m’attends à une mise en œuvre diligente de toutes ces propositions pour des retombées positives immédiates. »
+
+Christian Dubé, ministre de la Santé
+
+Faits saillants :
+
+Il est à noter que le 1er septembre, 14 % des lits hospitaliers disponibles à Montréal étaient occupés par des usagers qui ne requéraient plus de rester à l’hôpital et qui nécessitaient une place en hébergement. Le 27 octobre, cette proportion était de 12 %. On note donc une importante diminution de 2 % en quelques semaines.
+
+Près d’une personne sur deux qui consulte à l’urgence aurait pu bénéficier d’un meilleur accès à l’extérieur de l’urgence.
+
+Rappelons que, depuis 2019, les équipes de soutien, transformation, accès et terrain (STAT) ont permis l’adoption de bonnes pratiques telles que :
+
+la mise en place de cliniques d’accès rapide aux examens et aux consultations en médecine spécialisée en temps opportun ;
+la réorientation des patients dont l’état de santé permet d’avoir des services à l’extérieur, par des cliniques médicales, plutôt qu’à l’hôpital ;
+la création de centres de commandement pour accélérer l’accès à des lits ou à des examens.
+D’autres bonnes pratiques sont actuellement en voie d’être implantées grâce aux équipes STAT, notamment le déploiement de la structure de coordination de fluidité dans chaque établissement, la planification du congé dès l’arrivée au centre hospitalier et la réorientation de certaines consultations à l’externe de l’urgence, dans les autres secteurs de l’hôpital.', '11/01/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/01/trois-premieres-solutions-de-la-cellule-de-crise/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Dévoilement de l’identité des membres de l’équipe gouvernementale', 'Le premier ministre du Québec, François Legault, a dévoilé aujourd’hui l’identité des députées et députés qui feront partie de l’équipe gouvernementale. Ces personnes comptent mettre leur expertise au profit des Québécoises et Québécois, en appuyant les membres du Conseil des ministres à titre d’adjoints parlementaires ou d’adjoints gouvernementaux. Il a également procédé à de nouvelles nominations au sein de l’équipe des officiers parlementaires qui assureront le bon fonctionnement des travaux du gouvernement à l’Assemblée nationale.
+
+Rappelons que tel que le prévoient les dispositions législatives en vigueur, 20 députées et députés peuvent recevoir le titre d’adjoint parlementaire. Ainsi, compte tenu de la taille du caucus gouvernemental et afin de mettre à profit la compétence et l’expertise de l’ensemble des élus, 22 députées et députés se sont vu confier la responsabilité d’adjoint gouvernemental.
+
+Les adjoints parlementaires et gouvernementaux ont tous la responsabilité de prêter main-forte aux ministres dans l’exercice de leur fonction et joueront un rôle important dans la poursuite des objectifs gouvernementaux
+
+Pour ce qui est des régions de l’Abitibi-Témiscamingue, de la Gaspésie−Îles-de-la-Madeleine et du Nord-du-Québec, le député d’Abitibi-Est, Pierre Dufour, le député d’Ungava, Denis Lamothe, et le député de Gaspé, Stéphane Sainte-Croix, se voient confier la responsabilité d’adjoint gouvernemental régional. À ce titre, ils représentent les intérêts de leur région auprès des ministres responsables, les conseillent et les assistent dans leurs fonctions et contribuent à l’avancement des dossiers régionaux.
+
+D’autres députées et députés proposeront également leur candidature afin d’exercer des fonctions parlementaires, notamment de présidence et de vice-présidence de commissions parlementaires.
+
+« Lorsque j’ai annoncé la composition de mon Conseil des ministres, j’ai clairement fait part de mon souhait de solliciter davantage les députées et députés dans certains dossiers. Nous avons la chance de compter sur une équipe exceptionnelle, pleine de talent, et je souhaite mettre à profit les compétences de tout le monde. On a beaucoup de travail devant nous, et le gouvernement a besoin de l’aide de tous. L’équipe gouvernementale vient compléter un Conseil des ministres dont je suis très fier et qui fera avancer le Québec. »
+
+François Legault, premier ministre du Québec
+
+L’équipe gouvernementale sera composée des personnes suivantes.
+
+Officiers parlementaires
+
+Mario Laframboise	Président du caucus	Député de Blainville
+Éric Lefebvre	Whip en chef du gouvernement	Député d’Arthabaska
+Geneviève Hébert	Whip adjointe	Députée de Saint-François
+Nancy Guillemette	Whip adjointe	Députée de Roberval
+Claude Reid	Whip adjoint	Député de Beauharnois
+Simon Jolin-Barrette	Leader parlementaire du gouvernement      	Député de Borduas
+Éric Caire	Leader parlementaire adjoint	Député de La Peltrie
+Mathieu Lévesque	Leader parlementaire adjoint	Député de Chapleau
+
+Adjoints parlementaires
+
+Youri Chassin	Adjoint parlementaire au ministre de la Santé	Député de Saint-Jérôme
+Marilyne Picard	Adjointe parlementaire à la ministre déléguée à la Santé et aux Aînés (volet soutien à domicile)	Députée de Soulanges
+Agnès Grondin	Adjointe parlementaire au ministre de l’Environnement, de la Lutte contre les changements climatiques,
+de la Faune et des Parcs (volets Protection de l’eau et Biodiversité)	Députée d’Argenteuil
+Mathieu Lemay	Adjoint parlementaire au ministre de l’Environnement, de la Lutte contre les changements climatiques,
+de la Faune et des Parcs (volet Électrification)	Député de Masson
+Marie-Louise Tardif	Adjointe parlementaire à la ministre responsable de la Solidarité sociale et de l’Action communautaire
+(volet Action communautaire)	Députée de Laviolette−Saint-Maurice
+François Tremblay	Adjoint parlementaire à la ministre du Tourisme	Député de Dubuc
+Donald Martel	Adjoint parlementaire au ministre de l’Économie, de l’Innovation et de l’Énergie (volet Zones d’innovation)	Député de Nicolet-Bécancour
+Joëlle Boutin	Adjointe parlementaire au ministre de l’Économie, de l’Innovation et de l’Énergie (volets Sciences et Innovation)	Députée de Jean-Talon
+Pierre Dufour	Adjoint parlementaire au ministre de l’Économie, de l’Innovation et de l’Énergie
+(volet Développement économique régional) Adjoint gouvernemental au ministre responsable de la région de l’Abitibi-Témiscamingue	Député d’Abitibi-Est
+Jean-Bernard Émond	Adjoint parlementaire au ministre de l’Éducation	Député de Richelieu
+Isabelle Lecours	Adjointe parlementaire au ministre de l’Éducation (volets Violence chez les jeunes et Lutte contre l’intimidation)	Députée de Lotbinière-Frontenac
+Samuel Poulin	Adjoint parlementaire au ministre de la Culture et des Communications Adjoint parlementaire au ministre responsable de la Jeunesse	Député de Beauce-Sud
+Gilles Bélanger	Adjoint parlementaire au ministre des Finances (volet Connectivité)	Député d’Orford
+Stéphanie Lachance	Adjointe parlementaire à la présidente du Conseil du trésor (volets Efficacité de l’État et Décentralisation)	Députée de Bellechasse
+Simon Allaire	Adjoint parlementaire à la présidente du Conseil du trésor (volet Ordres professionnels)	Député de Maskinongé
+Louis-Charles Thouin	Adjoint parlementaire au ministre responsable des Infrastructures	Député de Rousseau
+Denis Lamothe	Adjoint parlementaire au ministre de la Sécurité publique Adjoint gouvernemental au ministre responsable de la région du Nord-du-Québec	Député d’Ungava
+Chantale Jeannotte	Adjointe parlementaire à la ministre responsable de l’Habitation	Députée de Labelle
+Éric Girard	Adjoint parlementaire à la ministre des Affaires municipales	Député de Lac-Saint-Jean
+Louis Lemieux	Adjoint parlementaire au ministre de la Langue française Adjoint parlementaire au ministre responsable des Relations canadiennes et de la Francophonie canadienne	Député de Saint-Jean
+
+Adjoints gouvernementaux
+
+Sébastien Schneeberger	Adjoint gouvernemental à la ministre des Transports et de la Mobilité durable	Député de Drummond−Bois-Franc
+Yves Montigny	Adjoint gouvernemental à la ministre des Transports et de la Mobilité durable (volet Transport aérien régional)	Député de René-Lévesque
+Shirley Dorismond	Adjointe gouvernementale au ministre responsable des Services sociaux	Députée de Marie-Victorin
+François St-Louis	Adjoint gouvernemental au ministre responsable des Relations avec les Premières Nations et les Inuit	Député de Joliette
+Suzanne Blais	Adjointe gouvernementale à la ministre responsable de la Solidarité sociale et de l’Action communautaire
+(volet Solidarité sociale)	Députée d’Abitibi-Ouest
+Isabelle Poulet	Adjointe gouvernementale au ministre du Travail	Députée de Laporte
+Alice Abou-Khalil	Adjointe gouvernementale au ministre de la Cybersécurité et du Numérique	Députée de Fabre
+Amélie Dionne	Adjointe gouvernementale à la ministre du Tourisme	Députée de Rivière-du-Loup−Témiscouata
+Mario Asselin	Adjoint gouvernemental à la ministre de l’Enseignement supérieur	Député de Vanier−Les Rivières
+Suzanne Tremblay	Adjointe gouvernementale au ministre de l’Éducation	Députée de Hull
+Mathieu Rivest	Adjoint gouvernemental au ministre de la Culture et des Communications	Député de la Côte-du-Sud
+Valérie Schmaltz	Adjointe gouvernementale à la ministre de l’Immigration, de la Francisation et de l’Intégration (volet Francisation)	Députée de Vimont
+Carole Mallette	Adjointe gouvernementale à la ministre de l’Immigration, de la Francisation et de l’Intégration (volets Immigration
+et Intégration)	Députée de Huntingdon
+Audrey Bogemans	Adjointe gouvernementale au ministre de l’Agriculture, des Pêcheries et de l’Alimentation (volet bien-être animal))	Députée d’Iberville
+Stéphane Sainte-Croix	Adjoint gouvernemental au ministre de l’Agriculture, des Pêcheries et de l’Alimentation (volet Pêcheries) Adjoint gouvernemental à la ministre responsable de la région de la Gaspésie−Îles-de-la-Madeleine	Député de Gaspé
+Catherine Blouin	Adjointe gouvernementale à la ministre des Affaires municipales (volet Érosion des berges)	Députée de Bonaventure
+Yannick Gagnon	Adjoint gouvernemental à la ministre responsable du Sport, du Loisir et du Plein air	Député de Jonquière
+Kariane Bourassa	Adjointe gouvernementale au ministre de la Justice	Députée de Charlevoix−Côte-de-Beaupré
+Daniel Bernard	Adjoint gouvernemental à la ministre des Ressources naturelles et des Forêts (volet Forêts)	Député de Rouyn-Noranda−Témiscamingue
+Céline Haytayan	Adjointe gouvernementale à la ministre des Relations internationales et de la Francophonie (volet Relations
+internationales)	Députée de Laval-des-Rapides
+Karine Boivin Roy	Adjointe gouvernementale à la ministre de l’Emploi Adjointe gouvernementale au ministre responsable de la Métropole et de la région de Montréal	Députée d’Anjou−Louis-Riel
+Marie-Belle Gendron	Adjointe gouvernementale à la ministre de la Famille	Députée de Châteauguay
+', '11/08/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/08/devoilement-de-lidentite-des-membres-de-lequipe-gouvernementale/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Une aide pour faire face à l’inflation', 'Le gouvernement agit pour aider les Québécois à faire face à un taux d’inflation plus élevé que prévu en leur versant un nouveau montant ponctuel pouvant atteindre 600 $. L’aide sera versée d’ici la fin de l’année 2022 à près de 6,5 millions de contribuables. Cette mesure représente une aide totalisant plus de 3,5 milliards de dollars pour 2022-2023.
+
+Ce nouveau montant ponctuel non imposable sera modulé selon le revenu de l’année 2021, et Revenu Québec le versera automatiquement par dépôt direct ou par chèque à ceux qui auront transmis leur déclaration de revenus de 2021. Les contribuables admissibles n’ont donc aucune démarche à faire pour l’obtenir.
+
+Plus précisément :
+
+près de 4,6 millions de particuliers, dont le revenu individuel ne dépasse pas 50 000 $, profiteront du montant maximal, soit 600 $;
+le montant de 600 $ diminuera graduellement pour les revenus supérieurs à 50 000 $, pour s’établira à 400 $ à partir d’un revenu de 54 000 $;
+plus de 1,5 million de particuliers, dont le revenu se situe entre 54 000 $ et 100 000 $, auront droit à un montant de 400 $;
+le montant de 400 $ diminuera graduellement après 100 000 $ pour s’établir à 0 $ à un revenu de 104 000 $ ou plus.
+Les contribuables qui n’ont pas encore produit leur déclaration de revenus pour 2021 auront jusqu’au 30 juin 2023 pour le faire et ainsi profiter de cette nouvelle mesure. Ils pourraient également avoir droit au premier montant ponctuel de 500 $, annoncé en mars dernier.
+
+De plus, Revenu Québec versera l’aide avant la fin de l’année aux prestataires de l’aide financière de dernier recours qui n’ont pas produit de déclaration de revenus en 2021.
+
+Enfin, soulignons qu’aucune compensation fiscale ne sera faite, ce qui permettra aux personnes ayant une dette gouvernementale de profiter de la totalité de leur montant.
+
+« Aujourd’hui, nous posons un autre geste significatif et ciblé pour aider les Québécois à traverser la période de turbulences qui frappe toutes les économies du monde. Avec ce nouveau montant ponctuel, les Québécois pourront mieux faire face à la hausse de l’inflation selon leurs priorités et besoins. »
+
+Eric Girard, ministre des Finances et ministre responsable des Relations avec les Québécois d’expression anglaise', '11/09/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/09/une-aide-pour-faire-face-a-linflation/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Promesse tenue : limitation à 3 % l’indexation de tarifs gouvernementaux', 'Afin d’aider les Québécois à faire face à la hausse du coût de la vie, le gouvernement modifie certains règlements pour limiter à 3 % l’indexation de plusieurs tarifs prévue le 1er janvier 2023. Sans ces modifications, en vertu des mécanismes établis, l’indexation de ces tarifs aurait été de plus de 6 %, comme prévu dans le rapport préélectoral 2022 du ministère des Finances. Cette mesure représente une économie de 331 millions de dollars pour les Québécois au cours des quatre prochaines années.
+
+Les règlements suivants seront modifiés :
+
+Règlement sur l’immatriculation des véhicules routiers;
+Règlement sur les permis;
+Règlement d’application de la Loi sur l’assurance-hospitalisation;
+Règlement d’application de la Loi sur les services de santé et les services sociaux pour les autochtones cris;
+Règlement sur la contribution des usagers pris en charge par les ressources de type familial ou par les ressources intermédiaires.
+Concrètement, le gouvernement limite à 3 % l’augmentation des principaux tarifs qui sont indexés au 1er janvier 2023, soit ceux relatifs aux permis de conduire et à l’immatriculation, à la contribution payée dans les centres d’hébergement et de soins de longue durée (CHSLD) et à la contribution pour une chambre privée ou semi-privée dans un centre hospitalier de soins de courte durée.
+
+Signalons qu’un projet de loi sera déposé au cours des prochaines semaines pour élargir ce plafonnement à d’autres tarifs gouvernementaux.
+
+Cette mesure de 331 millions de dollars s’ajoute au versement prévu en décembre du nouveau montant ponctuel pouvant atteindre 600 $, dont pourront bénéficier près de 6,5 millions de contribuables afin de faire face à la hausse des prix. Cette dernière mesure représente 3,5 milliards de dollars remis dans le portefeuille des Québécois.
+
+« Nous posons aujourd’hui un autre geste significatif pour aider les Québécois à faire face à l’inflation et pour protéger leur pouvoir d’achat. La mise en œuvre de cette mesure est la première étape de l’engagement de notre gouvernement à limiter la hausse des tarifs à un maximum de 3 % pour les quatre prochaines années. Dans les prochains mois, le gouvernement agira afin de plafonner d’autres tarifs qui devront être indexés d’ici le 30 juin 2023. »', '11/16/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/16/promesse-tenue-limitation-a-3-lindexation-de-tarifs-gouvernementaux/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Un vibrant plaidoyer en faveur de la langue française', 'Le premier ministre François Legault, accompagné de la ministre des Relations internationales et de la Francophonie et ministre responsable de la Condition féminine, Martine Biron, dresse un bilan positif de sa participation au 18e Sommet de la Francophonie, tenu à Djerba en Tunisie.
+
+Au cours des trois derniers jours, le premier ministre a pu renforcer la place du Québec au sein de la Francophonie en plaidant, devant les chefs d’État et de gouvernement, la nécessité d’assurer la pérennité du français au Québec et dans le monde. Au-delà des mots, il faut poser des gestes pour protéger la langue française, a insisté M. Legault, en particulier à Montréal où le pourcentage de Québécois dont la langue parlée à la maison est le français est passé de 54 % à 48 % en 20 ans.
+
+Le premier ministre a pu s’exprimer à deux reprises devant ses pairs, chefs d’État et de gouvernement, au cours du Sommet, notamment lors d’une séance plénière sur la place des contenus numériques francophones. Il a indiqué l’importance d’investir pour plus de contenus francophones sur le numérique, notamment des produits culturels attrayants pour les jeunes pour compétitionner avec les produits en anglais. 
+
+M. Legault a également été invité à prendre la parole devant le Forum économique de la Francophonie, réunissant plus de 500 personnes représentant le milieu d’affaires francophone des 88 États et gouvernements membres de la Francophonie. Il y a exprimé sa volonté d’augmenter nos échanges économiques avec nos partenaires de la Francophonie. Il existe un potentiel économique formidable et le Québec a tout pour en profiter. 
+
+François Legault a aussi profité de sa participation au Sommet pour réaliser des entretiens bilatéraux stratégiques. Il a eu l’occasion d’effectuer notamment les entretiens suivants avec :
+
+Le président de la République française, Emmanuel Macron.
+Le premier ministre du Canada, Justin Trudeau.
+Le ministre-président de la Wallonie-Bruxelles, Pierre-Yves Jeholet.
+Le président de la Confédération suisse, Ignozio Cassis.
+Le président du Sénégal, Macky Sall.
+La Secrétaire générale de l’Organisation internationale de la Francophonie, Louise Mushikiwabo.
+Le président fondateur de l’entreprise Coficab, Hichem Elloumi.
+Les représentants du Mouvement des Entreprises de France.
+Le ministre-président de la Wallonie-Bruxelles, Pierre-Yves Jeholet.
+En marge du Sommet, la ministre des Relations internationales et de la Francophonie, Martine Biron, a pour sa part, en plus de plusieurs entretiens bilatéraux, rencontré des représentants de la Francophonie pour discuter de la situation préoccupante en Haïti. Il est nécessaire de trouver des solutions pour soutenir la population, qui vit une profonde crise sécuritaire, et subvenir à ses besoins. Le Québec continuera d’être un allié fidèle du peuple haïtien.
+
+10 M$ pour la formation technique
+
+Le premier ministre a profité de son passage au Sommet de la Francophonie pour annoncer la création du Programme Québec-Francophonie en formation technique, doté d’une enveloppe de 10 millions de dollars sur 3 ans pour former de la main-d’œuvre dans les pays de la Francophonie.
+
+Ce programme appuiera les cégeps et les collèges privés québécois subventionnés qui élaborent des projets de formations avec des partenaires dans des pays en développement francophones, dans des secteurs prioritaires pour l’économie québécoise. Cette nouvelle mesure permettra au gouvernement de faciliter l’intégration de travailleurs formés à l’étranger dans les domaines stratégiques du marché du travail québécois. Il poursuivra par le fait même sa contribution à la qualité de la formation technique dans les pays partenaires.
+
+Prochaine Rencontre des entreprises francophones (REF) au Québec
+
+M. Legault a finalement invité les gens d’affaires de toute la Francophonie à venir au Québec afin d’accroître les échanges économiques et commerciaux entre pays francophones. Il a annoncé la tenue au Québec en 2023 de la Rencontre des entreprises francophones (REF), à l’initiative de l’Alliance des patronats francophones, dont le Conseil du patronat du Québec assume la vice-présidence, ainsi qu’une mission d’envergure d’entreprises francophones, à l’initiative de l’Organisation internationale de la Francophonie.
+
+« Le Sommet de la Francophonie est une tribune internationale unique pour notre nation, parce que le Québec en est membre à part entière. Le Québec doit continuer d’être un leader de la francophonie économique et doit continuer de tout mettre en œuvre pour protéger la langue française qui est en déclin, surtout sur l’île de Montréal. Je suis fier que le Québec prenne de plus en plus sa place dans la Francophonie et dans le monde. C’est essentiel à la fois pour notre économie et pour le rayonnement de notre nation. »
+
+François Legault, premier ministre du Québec
+
+« La Francophonie nous donne accès à 88 États et gouvernements membres, et le Québec y est membre actif depuis plus de 50 ans. Cette mission nous a permis de renforcer nos liens avec un grand nombre d’entre eux, notamment avec la Tunisie, hôte du Sommet. Je suis déterminée à assurer pleinement notre leadership en Francophonie pour l’avenir. »
+
+Martine Biron, ministre des Relations internationales et de la Francophonie et ministre responsable de la Condition féminine
+
+« La création du Programme Québec-Francophonie en formation technique viendra soutenir notre opération de recrutement de main-d’œuvre francophone. Je remercie nos établissements collégiaux qui participent à cette initiative de qualifications dans les secteurs prioritaires. Leurs expertises nous permettront de rayonner dans la Francophonie internationale. Ces formations techniques seront un vecteur important pour le développement économique autant à l’étranger qu’ici. »
+
+Pascale Déry, ministre de l’Enseignement supérieur
+
+Faits saillants :
+
+La Francophonie, c’est :
+
+Le regroupement de 88 États et gouvernements membres des 5 continents.
+L’Organisation internationale de la Francophonie, cinq opérateurs (Association des parlementaires de la Francophonie, l’Association internationale des maires de la Francophonie, l’Agence universitaire de la Francophonie, TV5 et l’Université Senghor) ainsi que deux conférences ministérielles, l’une sur l’éducation et l’autre sur la jeunesse.
+Un marché potentiel de 1,4 milliard d’habitants, dont 321 millions parlant le français.
+Plus de 20 % des échanges mondiaux de marchandises.
+16 % de la richesse mondiale.
+2,18 $ de retombées économiques que génère chaque dollar investi par le gouvernement du Québec dans la Francophonie.', '11/21/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/21/le-premier-ministre-adresse-un-vibrant-plaidoyer-en-faveur-de-la-langue-francaise-au-sommet-de-la-francophonie/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Lancement du programme Ma famille, ma communauté dans la région de Laval', 'Le ministre responsable des Services sociaux, Lionel Carmant, ainsi que le ministre responsable de la région de Laval, Christopher Skeete, ont procédé aujourd’hui au lancement du programme Ma famille, ma communauté (MFMC) dans la région de Laval. Ce programme vise à éviter le placement d’un enfant ou d’un adolescent dans une ressource d’hébergement ou d’en minimiser les conséquences lorsque le placement est inévitable.
+
+Bien que le maintien dans le milieu familial soit privilégié, il arrive que le placement d’un enfant ou d’un adolescent soit envisagé. Le programme MFMC vise la concertation et la mobilisation de toutes les ressources de la communauté (jeunesse et adulte) afin de permettre aux familles vulnérables d’être accompagnées adéquatement dans leur milieu lors de ce processus.
+
+Le déploiement de ce programme dans la région de Laval constitue aussi une réponse à l’amélioration de l’accès aux services de proximité en permettant aux partenaires impliqués d’anticiper toutes les conditions de santé susceptibles de nécessiter des soins et des services aux enfants et aux adolescents.
+
+Coordonné par le Centre intégré de santé et de services sociaux (CISSS) de Laval, le programme appartient toutefois à la communauté grâce à la mobilisation des partenaires qui renforce le tissu social autour des enfants vivant une situation à risque de placement, de déplacement ou lors d’une réunification familiale.
+
+« Le programme Ma famille, ma communauté fait ses preuves partout où il est déployé. Je souhaite l’étendre dans les différentes régions du Québec. Je tiens à remercier tous les acteurs du milieu, tous les comités et toutes les équipes qui ont joint leurs efforts pour renforcer le cercle de bienveillance autour des enfants de la région de Laval. Chaque enfant mérite d’évoluer et de grandir dans un environnement sécuritaire, bienveillant et stable pour son développement. Ce programme s’inscrit dans la foulée des actions déployées par notre gouvernement afin de remettre l’enfant au cœur des décisions qui le concernent. »
+
+Lionel Carmant, ministre responsable des Services sociaux
+
+« Grâce à une approche d’intervention repensée, le programme Ma famille, ma communauté assurera une meilleure prise en charge des enfants et des jeunes plus vulnérables. Je suis très fier d’accueillir cette initiative dans notre région et je tiens à féliciter tous les partenaires qui se sont impliqués dans la réalisation du projet. »
+
+Christopher Skeete, ministre délégué à l’Économie, ministre responsable de la Lutte contre le racisme, ministre responsable de la région de Laval
+
+Faits saillants :
+
+À ce jour, 12 organismes communautaires de la région de Laval ont signé des lettres d’engagement à s’impliquer dans le programme MFMC. Par ailleurs, de nombreux partenaires, externes ou non, ont souligné leur intérêt et leur souhait d’être interpellés pour participer aux rencontres de processus décisionnel en équipe (PDÉ).
+Rappelons qu’en juillet 2020, un investissement de 90 millions $ était annoncé afin de rehausser plusieurs services destinés aux jeunes en difficulté et leur famille. Dans ce contexte, un montant de 3 millions $ sera annuellement consacré à l’implantation du programme Ma famille, ma communauté.', '11/23/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/23/lancement-du-programme-ma-famille-ma-communaute-dans-la-region-de-laval/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Première maison des aînés et alternative du Québec', 'La ministre déléguée à la Santé et aux Aînés, Sonia Bélanger, ainsi que la députée de Saint-François et whip adjointe du gouvernement, Geneviève Hébert, ont procédé aujourd’hui à Sherbrooke à l’inauguration de la toute première maison des aînés et alternative (MDA MA) du Québec. Celle-ci accueillera ses premiers résidents à compter du 30 novembre.
+
+Cette première MDA MA, située sur la rue André-Breton, ouvrira ses places de façon graduelle. À terme, elle regroupera 120 nouvelles places pour la population de la région sherbrookoise, dont 84 places pour les personnes aînées et 36 autres places pour les adultes ayant des besoins spécifiques. Regroupées en 10 unités de 12 lits chacune, les installations offriront des chambres individuelles avec toilette et douche adaptées pour chaque résident.
+
+La MDA MA de Sherbrooke, comme toutes les autres à venir, a été conçue pour rappeler davantage l’environnement d’un domicile et offrir un milieu de vie à dimension humaine aux résidents.
+
+Ce nouveau type de milieu de vie favorisera les contacts humains ainsi qu’un mode de vie plus actif, entre autres grâce à un accès à des espaces extérieurs aménagés et à des installations intérieures mieux adaptées aux besoins des résidents et de leurs proches. Les personnes proches aidantes sont également intégrées à la vie quotidienne des résidents et les milieux sont aménagés pour favoriser les contacts entre eux.
+
+Citations :
+
+« Je suis très fière et émue de voir un engagement phare de notre gouvernement se réaliser aujourd’hui, avec l’ouverture de la première maison des aînés du Québec! Nous pouvons nous réjouir de savoir que dans quelques jours, plusieurs personnes pourront bénéficier de ce modèle d’hébergement visionnaire et novateur, que nous avons voulu à échelle humaine, inclusif et agréable. »
+
+Sonia Bélanger, ministre déléguée à la Santé et aux Aînés
+
+« C’est un grand jour non seulement pour Saint-François, Sherbrooke et l’Estrie, mais aussi pour tout le Québec. Cette maison des aînés et alternative vient doter notre collectivité d’un milieu de vie bienveillant, plus accueillant et plus chaleureux, qui favorise le bien-être des personnes hébergées. Il s’agit d’une avancée majeure pour nous tous. Je tiens à remercier les équipes dévouées qui ont mené ce beau projet à terme. »
+
+Geneviève Hébert, députée de Saint-François et whip adjointe du gouvernement
+
+« C’est avec une immense fierté que je prends part à l’inauguration de cette première maison des aînés et alternative, un projet que je suis de près depuis le début et qui me touche grandement. Les personnes aînées et les adultes ayant des besoins spécifiques auront accès à des services et des soins de qualité, dans un environnement stimulant, épanouissant et sécuritaire. Merci à toutes les équipes qui ont contribué à la réalisation de ce projet tant attendu dans la région. »
+
+François Bonnardel, ministre de la Sécurité publique et ministre responsable de la région de l’Estrie
+
+Faits saillants :
+
+La MDA MA de Sherbrooke fait partie des 46 MDA MA annoncées, pour un total de 3 480 places, dont plus de 3 000 seront nouvelles. Elle s’inscrit dans le cadre d’une démarche de transformation majeure des milieux d’hébergement et de soins de longue durée.
+Trois autres MDA MA verront le jour en 2023 dans la région de l’Estrie.', '11/24/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/24/premiere-maison-des-aines-et-alternative-du-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'10 M$ pour poursuivre l’accueil des personnes ukrainiennes', 'Le gouvernement du Québec octroie jusqu’à 10 M$ supplémentaires à la Croix-Rouge canadienne afin de poursuivre l’hébergement temporaire d’urgence et l’offre de services d’accueil et d’accompagnement envers les personnes ressortissantes ukrainiennes. C’est la ministre de l’Immigration, de la Francisation et de l’Intégration, Mme Christine Fréchette, qui en a fait l’annonce.
+
+Un accueil digne et chaleureux
+
+Dès les premiers jours de la guerre en Ukraine, le gouvernement du Québec s’est engagé à soutenir les Ukrainiens fuyant le conflit. De nombreux partenaires se sont alliés pour répondre aux besoins tant pour l’accueil que pour l’intégration.
+
+Une entente a déjà été conclue avec la Croix-Rouge canadienne (CRC) pour la mise en place de la structure logistique et pour l’hébergement temporaire des ressortissants ukrainiens. L’aide offerte par le gouvernement du Québec et ses partenaires comprend également différents services d’accueil et d’accompagnement complémentaires.
+
+Compte tenu d’une hausse des arrivées et des demandes d’hébergement temporaire d’urgence des personnes ukrainiennes en septembre, du conflit qui perdure et de l’hiver qui approche, le financement supplémentaire de 10 M$ permettra d’assurer le maintien de l’offre d’hébergement temporaire d’urgence.
+
+« Saluons les efforts soutenus et déployés depuis mars 2022 par les acteurs du milieu, la Croix-Rouge, bien entendu, mais aussi notamment, le Centre social d’aide aux immigrants, le Congrès ukrainien, la Ville de Montréal, l’Union des municipalités du Québec ainsi que les nombreux partenaires en intégration du MIFI. Ils nous permettent d’offrir aux familles ukrainiennes un accueil qui favorise leur intégration à la société québécoise. Je veux également souligner l’immense courage des personnes ukrainiennes pour leurs efforts à s’intégrer, en français, à notre nation. »
+
+Christine Fréchette, ministre de l’Immigration, de la Francisation et de l’Intégration
+
+Faits saillants :
+
+Le 1er avril 2022, un kiosque a été mis en place par le MIFI à l’aéroport de Montréal afin d’accueillir les personnes ressortissantes ukrainiennes et leur fournir toutes les informations nécessaires à leur installation.
+Une convention de subvention a été conclue avec la Croix-Rouge canadienne (CRC) pour la coordination et la logistique de l’hébergement temporaire d’urgence adapté aux besoins.
+Depuis le 1er avril et en date du 24 novembre, le Québec a accueilli à l’aéroport 5581 personnes (soit 4077 adultes et 1504 enfants) réparties en 2826 ménages ukrainiens dont 46 % ont pu bénéficier de l’hébergement temporaire d’urgence.
+7447 cartes de la RAMQ avaient été émises en date du 11 novembre 2022.
+En plus de l’hébergement temporaire d’urgence, le gouvernement du Québec a prévu un ensemble de services gouvernementaux pour l’accueil des personnes ressortissantes ukrainiennes :
+Un soutien aux démarches d’installation ;
+L’aide à la recherche d’un logement permanent ;
+Une aide financière spécifique pour les personnes ukrainiennes ;
+L’éducation préscolaire et l’enseignement primaire et secondaire ;
+La couverture complète du régime d’assurance maladie du Québec ;
+Le crédit d’impôt pour frais de garde ;
+Les services d’emploi ;
+Les cours de français.', '11/30/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/11/30/10-m-pour-poursuivre-laccueil-des-personnes-ukrainiennes/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Limite à 3 % l’indexation de tarifs gouvernementaux', 'Le ministre des Finances, M. Eric Girard, a présenté aujourd’hui à l’Assemblée nationale le premier projet de loi de la 43e législature. Le projet de loi no 1 vise à limiter à 3 % l’indexation de plusieurs tarifs gouvernementaux et fait partie des actions entreprises par le gouvernement pour aider les Québécois à faire face à la hausse du coût de la vie.
+
+Rappelons que cette mesure s’inscrit dans le cadre du Bouclier anti-inflation proposé en campagne électorale. Déjà, le 16 novembre dernier, le gouvernement avait annoncé la modification de certains règlements pour limiter à 3 % l’augmentation de plusieurs tarifs qui sont indexés au 1er janvier 2023, soit ceux relatifs aux permis de conduire et à l’immatriculation, à la contribution payée dans les centres d’hébergement et de soins de longue durée (CHSLD) et à la contribution pour une chambre privée ou semi-privée dans un centre hospitalier de soins de courte durée.
+
+Le projet de loi no 1 permettra d’appliquer ce plafonnement de l’indexation jusqu’en 2026 et de l’étendre à plusieurs autres tarifs gouvernementaux touchant les citoyens, notamment :
+
+la contribution réduite aux services de garde éducatifs à l’enfance;
+les droits de scolarité universitaires;
+les droits d’accès dans les parcs nationaux;
+les permis de chasse et de pêche;
+les frais de stationnement des établissements publics de santé et de services sociaux;
+les tarifs d’utilisation du service public de recharge rapide pour véhicules électriques;
+les droits exigibles en lien avec la présentation d’une demande de sélection, pour ceux et celles qui souhaitent immigrer au Québec.
+Le gouvernement désire également plafonner l’indexation de certains tarifs qui s’appliquent aux petites entreprises et au secteur agricole, notamment les frais payables au Registraire des entreprises, à la Régie des alcools, des courses et des jeux ainsi qu’à La Financière agricole.
+
+Ce projet de loi couvre un très large éventail de tarifs concernant principalement les citoyens. Le coût global de cette mesure s’élève à 1,1 milliard de dollars d’ici 2026-2027. Elle s’ajoute à une autre mesure du Bouclier anti-inflation, soit le versement du nouveau montant ponctuel pouvant atteindre 600 $, dont pourront bénéficier près de 6,5 millions de citoyens afin de faire face à la hausse des prix. En considérant ces deux mesures du Bouclier anti-inflation, c’est plus de 4,6 milliards de dollars qui seront remis dans le portefeuille des Québécois. 
+
+Le gouvernement s’est également engagé à plafonner l’indexation des tarifs d’Hydro-Québec. Un projet de loi distinct sera déposé à cet égard.
+
+« Aujourd’hui, nous concrétisons un autre engagement de notre gouvernement afin d’aider rapidement les Québécois à faire face à la hausse du coût de la vie. De plus, cette mesure du Bouclier anti-inflation permet de réduire la hausse des prix. »
+
+Eric Girard, ministre des Finances et ministre responsable des Relations avec les Québécois d’expression anglaise', '12/01/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/01/bouclier-anti-inflation-projet-de-loi-1/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Limitation de la hausse des tarifs domestiques d’électricité', 'Le ministre de l’Économie, de l’Innovation et de l’Énergie, ministre responsable du Développement économique régional et ministre responsable de la Métropole et de la région de Montréal, M. Pierre Fitzgibbon, a déposé aujourd’hui le projet de loi no 2 visant notamment à plafonner le taux d’indexation des prix des tarifs domestiques de distribution d’Hydro-Québec et à accroître l’encadrement de l’obligation de distribuer l’électricité.
+
+Avec ce projet de loi, le gouvernement du Québec vise à limiter l’augmentation du prix que les Québécois payent pour leur électricité. La hausse du prix des tarifs domestiques ne pourra pas dépasser 3 %, soit le taux supérieur actuel de la fourchette de maîtrise de l’inflation de la Banque du Canada.
+
+De plus, considérant l’importance de la demande en électricité à prévoir dans les prochaines années, le projet de loi no 2 vient apporter des modifications à la Loi sur la Régie de l’énergie (chapitre R-6.01) afin d’encadrer davantage l’obligation d’Hydro-Québec de distribuer de l’électricité.
+
+Il est ainsi prévu d’accorder le pouvoir au gouvernement de déterminer par règlement les cas et les conditions pour lesquels cette obligation ne s’applique pas. Les modifications proposées visent également à donner au ministre le pouvoir d’autoriser Hydro-Québec à desservir les projets requérant une puissance de 5 mégawatts et plus.
+
+« Avec ce projet de loi, on veut aider les Québécois à faire face à l’inflation. On s’est engagés à faire un bouclier anti-inflation et on va respecter notre engagement. On doit aussi mieux encadrer la distribution de notre électricité pour atteindre nos objectifs de transition énergétique et de création de richesse. »
+
+Pierre Fitzgibbon, ministre de l’Économie, de l’Innovation et de l’Énergie, ministre responsable du Développement économique régional et ministre responsable de la Métropole et de la région de Montréal
+
+Faits saillants :
+
+Depuis l’adoption en 2019 de la Loi visant à simplifier le processus d’établissement des tarifs de distribution d’électricité (L.Q. 2019, chapitre 27), les prix des tarifs sont indexés le 1er avril de chaque année selon la variation de l’indice des prix à la consommation.
+En proposant un plafonnement du taux d’indexation, le projet de loi no 2 vise à renforcer la prévisibilité des hausses tarifaires liées à ce mécanisme de fixation de tarifs de distribution d’électricité.
+L’article 76 de la Loi sur la Régie de l’énergie (chapitre R-6.01) prévoit qu’un titulaire de droit exclusif de distribution d’électricité est tenu de fournir l’électricité à toute personne qui le demande dans le territoire où s’exerce son droit exclusif. Dans un contexte de resserrement des bilans en énergie et en puissance d’Hydro-Québec, le projet de loi no 2 vise à revoir cette obligation de distribuer l’électricité. D’ici à l’adoption d’un règlement, le seuil sera de 5 mégawatts, ce qui correspond aux demandes de grande puissance.
+Ministère de l’Économie, de l’Innovation et de l’Énergie sur les réseaux sociaux :', '12/02/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/02/limitation-de-la-hausse-des-tarifs-domestiques-delectricite/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Aujourd’hui, souvenons-nous.
+', 'Le premier ministre, François Legault, et la ministre des Relations internationales et de la Francophonie et ministre responsable de la Condition féminine, Martine Biron, soulignent aujourd’hui, au nom du gouvernement du Québec, la Journée nationale de commémoration et d’action contre la violence faite aux femmes.
+
+Le 6 décembre 1989, 14 jeunes femmes ont été assassinées à l’École Polytechnique de Montréal, juste parce qu’elles étaient des femmes. Il s’agit de Geneviève Bergeron, Hélène Colgan, Nathalie Croteau, Barbara Daigneault, Anne-Marie Edward, Maud Haviernick, Barbara Klucznik-Widajewicz, Maryse Laganière, Maryse Leclair, Anne-Marie Lemay, Sonia Pelletier, Michèle Richard, Annie St-Arneault et Annie Turcotte.
+
+« Aujourd’hui, souvenons-nous de ces 14 femmes qui ont perdu la vie le 6 décembre 1989, parce qu’elles étaient des femmes. Au Québec, on vit dans l’une des sociétés les plus égalitaires au monde, mais des événements comme la tragédie de Polytechnique nous ont montré qu’on n’est jamais à l’abri de ces violences. On doit tous se mobiliser et travailler ensemble pour lutter contre les violences faites aux femmes. On ne doit jamais oublier ces événements. »
+
+François Legault, premier ministre du Québec
+
+« En ce jour de souvenir douloureux, je veux honorer la mémoire des 14 femmes qui ont été assassinées le 6 décembre 1989. Mes pensées vont également aux proches des victimes ainsi qu’aux survivantes et survivants de la tuerie de Polytechnique Montréal qui portent toujours en eux les blessures de cet événement. Les inégalités envers les femmes persistent aujourd’hui. Il est de la responsabilité de toute la société d’agir afin d’atteindre l’égalité de fait entre les femmes et les hommes et de mettre un terme à la violence. »
+
+Martine Biron, ministre des Relations internationales et de la Francophonie et ministre responsable de la Condition féminine
+
+Faits saillants :
+
+Le 25 novembre a été désigné par l’Organisation des Nations Unies Journée internationale pour l’élimination de la violence à l’égard des femmes.
+En 1991, le Parlement du Canada a institué le 6 décembre Journée nationale de commémoration et d’action contre la violence faite aux femmes.
+Chaque année, du 25 novembre au 6 décembre, le Québec se mobilise à l’occasion des Journées d’action contre la violence faite aux femmes. Cette période est l’occasion de réfléchir ensemble à la violence faite aux femmes et de sensibiliser la population à cet égard.
+Dans les dernières années, de nombreuses mesures ont été mises en place par le gouvernement du Québec pour contrer la violence conjugale et la violence sexuelle, notamment par le biais de différents plans d’action et stratégies.
+Des ressources existent, que vous soyez victime, témoin ou auteur :
+SOS violence conjugale – 1 800 363-9010 (aide offerte 24/24, 7/7)
+Info-aide violence sexuelle – 1 888 933-9007 (aide offerte 24/24, 7/7)
+Rebâtir – www.rebatir.ca , 1 833 REBATIR (732-2847)
+À cœur d’homme – https://www.acoeurdhomme.com/besoin-daide ', '12/06/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/06/aujourdhui-souvenons-nous/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Dépôt du projet de loi pour abolir le serment au roi', 'Le ministre de la Langue française, ministre responsable des Relations canadiennes et de la Francophonie canadienne, ministre responsable des Institutions démocratiques, ministre responsable de l’Accès à l’information et de la Protection des renseignements personnels et ministre responsable de la Laïcité, M. Jean-François Roberge, a posé un geste significatif aujourd’hui à l’Assemblée nationale pour mettre un terme définitif à l’obligation de prêter serment d’allégeance au roi en présentant le projet de loi no4, Loi visant à reconnaître le serment prévu par la Loi sur l’Assemblée nationale comme seul serment obligatoire pour y siéger.
+
+Le ministre responsable des Institutions démocratiques propose d’ajouter un article à la Loi constitutionnelle de 1867 qui prévoit que l’article 128 relatif au serment d’allégeance ne s’applique pas au Québec. Ainsi, le seul serment qui serait exigé des députés de l’Assemblée nationale avant qu’ils puissent siéger serait celui envers le peuple du Québec, un serment déjà prévu par la Loi sur l’Assemblée nationale.
+
+Tout en reflétant des valeurs contemporaines, ce geste posé par le gouvernement du Québec démontre sa volonté de régler cette question de façon permanente, en plus de prouver qu’il est à l’écoute de la grande majorité des Québécois.
+
+« Le gouvernement du Québec répond à un malaise qui était de plus en plus grandissant chez les Québécois. Le serment d’allégeance au roi est dépassé et ne reflète plus nos valeurs, qui sont maintenant ancrées dans la modernité. Je suis très fier de déposer ce projet de loi qui propose une modification à la Loi constitutionnelle de 1867. Cette modification fera en sorte que le seul serment qui sera exigé des députés de l’Assemblée nationale sera celui envers le peuple du Québec. En recommandant ce changement, le gouvernement du Québec pose un geste conforme à l’esprit démocratique de nos institutions. »
+
+Jean-François Roberge, ministre de la Langue française, ministre responsable des Relations canadiennes et de la Francophonie canadienne, ministre responsable des Institutions démocratiques, ministre responsable de l’Accès à l’information et de la Protection des renseignements personnels et ministre responsable de la Laïcité
+
+Faits saillants :
+
+L’article 128 de la Loi constitutionnelle de 1867 prévoit que les députés doivent, avant de pouvoir siéger à l’Assemblée nationale, prêter et souscrire le serment d’allégeance au roi prévu à la cinquième annexe de cette même loi.
+Le serment d’allégeance au roi suscite un malaise aussi bien dans la population que chez les députés.
+Pour de nombreux députés, ce serment ne représente pas leurs valeurs et leur engagement envers le peuple du Québec.
+D’autres solutions ont été examinées, mais la modification de la Loi constitutionnelle de 1867 apparaît la seule option permettant d’écarter de manière permanente l’obligation de prestation et de souscription du serment d’allégeance.', '12/06/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/06/depot-du-projet-de-loi-pour-abolir-le-serment-au-roi/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Place Québec : Un espace central pour les participants à la COP-15', 'La ministre des Relations internationales et de la Francophonie et ministre responsable de la Condition féminine, Martine Biron, est fière d’annoncer qu’une visibilité importante sera octroyée au Québec et à plusieurs de ses partenaires des gouvernements infranationaux et des villes lors de la 15e Conférence des Parties (COP-15) à la Convention sur la diversité biologique qui s’ouvre aujourd’hui, à Montréal.
+
+Soulignons que le gouvernement du Québec participera activement au 7e Sommet des gouvernements infranationaux et des villes qui aura lieu les 11 et 12 décembre, en marge de la COP-15. Grâce au soutien du gouvernement du Québec, un pavillon sera entièrement dédié à mettre de l’avant l’action des villes, régions et États fédérés pour la protection de la biodiversité, tout au long des deux semaines de l’événement. Il s’agit d’une première dans le cadre d’une COP sur la biodiversité.
+
+Par ailleurs, le gouvernement du Québec a rendu possible la création d’un espace central, connu sous le nom de Place Québec, qui se veut un point de rencontre et d’échange entre les participants à la COP-15. Cet espace comportera notamment des kiosques pour différents groupes de parties prenantes, dont les jeunes, la société civile et le secteur privé.
+
+« Place Québec s’inscrit dans notre vision internationale qui vise à accroître le rôle du Québec au sein des organisations environnementales et à favoriser la création de liens entre les différents acteurs environnementaux. L’établissement d’un espace à nos couleurs constitue une occasion de visibilité exceptionnelle et sans précédent pour le Québec. Dans les prochains jours, les yeux du monde seront rivés sur nous, et je suis convaincue que le Québec se démarquera par son leadership. »
+
+Martine Biron, ministre des Relations internationales et de la Francophonie et ministre responsable de la Condition féminine
+
+Faits saillants :
+
+Sur la scène internationale, le Québec joue un rôle de leader en biodiversité. Il est d’ailleurs le coordonnateur du Comité consultatif des gouvernements infranationaux pour la biodiversité, en collaboration avec l’organisme Regions4.
+Le Québec, par l’entremise de son émissaire aux changements climatiques et enjeux arctiques et nordiques, Jean Lemire, est le représentant officiel des gouvernements infranationaux au sein de la Convention sur la diversité biologique (CDB) et des négociations du CMB.
+Il s’est déclaré lié par décret à la CDB depuis son adoption en 1992 et accueille le Secrétariat de la Convention sur la diversité biologique (SCDB) à Montréal depuis 1996. Il a souscrit aux principes ainsi qu’aux objectifs de la CDB et s’est ainsi engagé à la mettre en œuvre sur son territoire et selon ses compétences.
+Le gouvernement du Québec a investi 650 000 $ pour l’organisation du Sommet des gouvernements infranationaux et des villes ainsi que 650 000 $ pour la création de Place Québec.', '12/07/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/07/place-quebec-un-espace-central-pour-les-participants-a-la-cop-15/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Un meilleur accès aux renseignements de santé ', 'Le ministre de la Santé, Christian Dubé, et le ministre de la Cybersécurité et du Numérique, Éric Caire, ont déposé aujourd’hui le projet de loi sur les renseignements de santé et de services sociaux et modifiant diverses dispositions. Il s’agit d’un levier important pour exécuter le Plan santé et ainsi améliorer la qualité et l’organisation des soins et des services offerts au Québec.
+
+Ce projet de loi vise essentiellement à favoriser une circulation plus fluide et sécuritaire des renseignements de santé et de services sociaux en fonction de balises bien établies. L’accès à ces renseignements de santé et de services sociaux constitue la pierre angulaire d’un système innovant et performant. Au Québec, les règles qui encadrent les pratiques en matière d’accès aux renseignements de santé et de services sociaux sont dispersées dans plusieurs lois et règlements. Il en découle une complexité qui rend le travail des professionnels de la santé beaucoup plus ardu que nécessaire. En fin de compte, ce sont les Québécois qui écopent de cette absence de cohérence : avec une information limitée, la prise de décision est plus complexe, ce qui allonge les délais et empêche une meilleure organisation des soins.
+
+Les patients seront libérés de la responsabilité d’assurer eux-mêmes la circulation de leurs renseignements et d’en autoriser la transmission entre les différents intervenants à leur trajectoire de soins. La protection des renseignements personnels étant primordiale, des mécanismes sont prévus pour en assurer la confidentialité et la sécurité. Afin d’assurer une cohérence entre les différentes lois qui traitent de l’accès aux renseignements, de garantir un niveau de protection optimal et de faciliter le travail, le projet de loi propose plusieurs changements structurels demandés par les acteurs du terrain.
+
+« Le dépôt du projet de loi est une étape importante pour offrir aux Québécois un système de santé plus humain et plus performant en modernisant l’encadrement des renseignements de santé et de services sociaux. Il s’agit d’un des piliers du Plan santé. Un meilleur accès et une circulation plus fluide des renseignements de santé et de services sociaux sont fondamentaux pour fournir des services de qualité, efficaces, efficients et sécuritaires. Les bénéfices seront nombreux à la fois pour les patients, les gestionnaires, les travailleurs de la santé et les chercheurs. »
+
+Christian Dubé, ministre de la Santé
+
+« Une meilleure prise en charge de sa santé passe par un encadrement moderne des renseignements. Notre gouvernement va de l’avant en ce sens afin d’améliorer la qualité des services de santé et des services sociaux offerts aux usagers. En s’assurant que les prestataires de soins aient accès plus rapidement aux renseignements pertinents, les nouvelles mesures proposées par ce projet de loi permettront notamment aux patients de recevoir des soins de meilleure qualité et plus adaptés à leur état de santé. La protection des renseignements personnels est primordiale et des mécanismes sont prévus pour en assurer la confidentialité et la sécurité. »
+
+Éric Caire, ministre de la Cybersécurité et du Numérique
+
+Faits saillants :
+
+Notons qu’à la suite du dépôt du projet de loi 19, en décembre 2021, le ministère de la Santé et des Services sociaux a reçu l’avis de plusieurs organismes, lesquels ont souligné la qualité et les avancements du projet de loi. Des précisions ont été apportées à la suite des consultations afin que le projet de loi respecte les plus hauts standards éthiques et de protection. La nouvelle vision en partage et en circulation des données aura un effet concret sur le terrain, notamment par une allocation optimale des ressources et des trajectoires de soins.
+Le projet de loi propose notamment :
+d’intégrer dans une seule et même loi toutes les dispositions sur l’accès et la protection des renseignements de santé et de services sociaux et, ainsi, d’en clarifier l’application;
+d’inclure le secteur privé dans les secteurs assujettis au partage des renseignements;
+de libérer les patients de la responsabilité d’assurer eux-mêmes la circulation de leurs renseignements entre les différents intervenants à leur trajectoire de soins;
+de permettre un accès plus direct aux données par les intervenants du réseau;
+de permettre l’accès aux données pour une gestion plus efficace du système de santé et de services sociaux;
+d’assouplir les modalités d’accès aux renseignements pour les chercheurs en établissement ou affiliés à un établissement et de créer un Centre d’accès pour la recherche pour traiter les demandes provenant de chercheurs externes au secteur de la santé.', '12/07/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/07/un-meilleur-acces-aux-renseignements-de-sante/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Un excellent premier bilan du plan d’action contre l’exploitation sexuelle des mineurs', 'Le ministre de la Sécurité publique et ministre responsable de la région de l’Estrie, M. François Bonnardel, est fier de déposer le premier rapport de mise en œuvre du Plan d’action gouvernemental 2021-2026 en réponse aux recommandations de la Commission spéciale sur l’exploitation sexuelle des mineurs (PACSESM) à l’Assemblée nationale. Il dresse un bilan très positif de cette première année de mise en œuvre.
+
+En effet, 34 des 37 mesures prévues au PACSESM sont en cours de réalisation et 1 mesure est déjà complétée. Les résultats obtenus à ce jour découlent du travail et de la collaboration des 18 ministères et organismes gouvernementaux partenaires du plan d’action.
+
+« Ce premier bilan témoigne du sérieux accordé à la lutte contre l’exploitation sexuelle des mineurs au Québec. Il démontre non seulement que notre gouvernement a respecté son engagement, mais surtout qu’il a su rallier de nombreux intervenants à cette priorité nationale. Beaucoup reste à faire pour combattre un tel fléau, mais nous sommes déterminés à poursuivre notre collaboration afin de protéger nos jeunes et de réduire le nombre d’actes criminels à la source. »
+
+François Bonnardel, ministre de la Sécurité publique et ministre responsable de la région de l’Estrie
+
+Faits saillants :
+
+Le PACSESM, dévoilé le 3 décembre 2021, prévoit des investissements de 150 millions $ sur cinq ans. Intitulé Briser le cycle de l’exploitation sexuelle, il cible cinq axes d’intervention pour répondre aux besoins des populations touchées : la recherche; la communication et la sensibilisation; la prévention et la formation; la répression, ainsi que la reconstruction et la réhabilitation.
+Il faudra plus d’un an pour mesurer tous les effets concrets des réalisations, mais plusieurs retombées sont déjà observables :
+Les opérations de l’Équipe intégrée de lutte contre le proxénétisme et de la nouvelle Équipe intégrée de lutte contre la production et la distribution de pornographie juvénile ont conduit à 171 arrestations pour la période du 1er octobre 2021 au 30 septembre 2022;
+La réalisation d’une campagne nationale de communication visant à sensibiliser la population aux pièges et aux conséquences de l’exploitation sexuelle a généré de nombreux résultats, dont plus de 14,4 millions de vues sur les plateformes numériques et une augmentation de 29 % du volume d’appels à la ligne Info-aide violence sexuelle le mois suivant le lancement;
+La Journée nationale de la lutte contre l’exploitation sexuelle au Québec et la première semaine thématique annuelle, tenues en mars 2022, ont mené à plusieurs articles dans l’actualité et à diverses initiatives de partenaires sur les médias sociaux et sur leurs plateformes;
+La bonification du Programme de prévention et d’intervention en matière d’exploitation sexuelle des jeunes a permis d’accorder 2,25 M$ à 35 organismes communautaires.
+Par ailleurs, une mesure additionnelle, initialement non prévue au PACSESM, a aussi permis le financement du projet Sphères, une initiative regroupant six partenaires communautaires et institutionnels de la région montréalaise et qui offre des services personnalisés d’accompagnement aux personnes victimes d’exploitation sexuelle âgées de 12 à 24 ans. La somme octroyée au projet est de 880 000 $ sur trois ans.
+Le prochain rapport de mise en œuvre sera déposé en décembre 2024. D’ici là, des avancements majeurs sont prévus en ce qui a trait à quatre grands enjeux, soit le financement des organismes œuvrant auprès des personnes victimes et de leurs proches; la particularité des interventions en contexte autochtone; les obstacles à la sortie de la prostitution et à la réinsertion sociale; et le développement des connaissances, qui se traduira notamment par des formations destinées aux milieux de l’intervention sociale, des forces de l’ordre, des services correctionnels et du système judiciaire.', '12/08/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/08/un-excellent-premier-bilan-du-plan-daction-contre-lexploitation-sexuelle-des-mineurs/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Mise en place du Bouclier anti-inflation', 'Le ministre des Finances, M. Eric Girard, a confirmé aujourd’hui, dans la mise à jour économique et financière, des investissements additionnels totalisant plus de 13 milliards de dollars d’ici cinq ans pour mettre en place le Bouclier anti-inflation et ainsi aider les Québécois à faire face à la hausse du coût de la vie.
+
+La mesure phare annoncée aujourd’hui est la bonification importante, s’élevant à 8,1 milliards de dollars, du montant pour le soutien aux aînés. Elle s’ajoute aux autres mesures du Bouclier déjà annoncées au cours des dernières semaines, soit le versement d’un nouveau montant ponctuel pouvant atteindre 600 $ et la limitation à 3 % de l’indexation de plusieurs tarifs gouvernementaux.
+
+La bonne performance de l’économie au début de 2022 et la hausse de l’inflation ont engendré une augmentation des revenus autonomes. Le gouvernement fait donc le choix de redonner aux Québécois cet argent supplémentaire en mettant en place les mesures du Bouclier anti-inflation.
+
+Globalement, les mesures annoncées en 2022 pour faire face à la hausse élevée du coût de la vie représentent une aide fiscale pouvant atteindre 3 100 $ pour un aîné seul de 70 ans ou plus et 2 200 $ pour un couple.
+
+Bonification de 8 G$ du montant pour le soutien aux aînés
+
+Dès cette année, le montant maximal du crédit d’impôt remboursable pour le soutien aux aînés passera de 411 $ à 2 000 $.
+
+Cette bonification augmentera l’aide offerte aux aînés de 70 ans ou plus qui profitent déjà de cette aide fiscale et permettra d’accroître le nombre de personnes qui en bénéficieront. Ainsi, 398 500 aînés supplémentaires auront accès au crédit d’impôt, pour un total de plus de 1,1 million d’aînés.
+
+Un nouveau montant ponctuel pour le coût de la vie pouvant atteindre 600 $
+
+Comme annoncé le 9 novembre dernier, le gouvernement versera d’ici la fin de l’année un nouveau montant ponctuel pouvant atteindre 600 $ par adulte, ce qui aidera les Québécois à faire face à la hausse du coût de la vie, qui se reflète notamment dans les dépenses liées au panier d’épicerie et au loyer. 
+
+Cette mesure est plus généreuse pour les ménages à faible revenu puisque le montant maximal sera versé aux personnes dont le revenu ne dépassait pas 50 000 $ en 2021. Plus de 71 % des 6,5 millions de Québécois admissibles recevront le plein montant.
+
+L’indexation de plusieurs tarifs gouvernementaux limitée à 3 % pour les quatre prochaines années
+
+Afin d’atténuer l’impact de l’inflation sur les Québécois, le gouvernement plafonnera l’indexation de plusieurs tarifs importants à 3 %, dont ceux d’Hydro-Québec, les droits sur le permis de conduire et l’immatriculation, les frais de services de garde à contribution réduite, les droits de scolarité universitaires et la contribution à payer en centre d’hébergement et de soins de longue durée (CHSLD). En plus d’atténuer les pressions inflationnistes, cette mesure représente une réduction de plus de 1,6 milliard de dollars des dépenses des Québécois sur cinq ans.
+
+Indexation de 6,44 % du régime fiscal et des programmes d’assistance sociale
+
+Les principaux paramètres du régime fiscal des particuliers et des programmes d’assistance sociale seront indexés de 6,44 % dès le 1er janvier 2023 afin de refléter la hausse du prix des biens et services. Ainsi, les Québécois profiteront d’un allègement important représentant plus de 2,3 milliards de dollars par année.
+
+Favoriser l’abordabilité des logements et renforcer la sécurité à Montréal
+
+Le gouvernement souhaite également favoriser l’abordabilité des logements, notamment pour les ménages québécois à plus faible revenu qui ont vu leur loyer augmenter au cours des dernières années. Ainsi, il prévoit des sommes de 445 millions de dollars pour permettre la réalisation de 3 000 logements sociaux et abordables au moyen d’un partenariat avec des fonds fiscalisés et Desjardins et pour bonifier le programme Allocation-logement.
+
+Un investissement additionnel de plus de 250 millions de dollars sur cinq ans est aussi prévu afin d’accroître la sécurité dans la métropole avec l’ajout de 225 policiers et d’intervenants psychosociaux. Ce montant s’ajoute aux sommes déjà allouées pour la lutte contre les violences armées.
+
+La croissance économique du Québec ralentit
+
+À l’instar de l’économie mondiale, les perspectives économiques du Québec et du Canada se sont détériorées pour l’année 2023. La progression de l’activité économique au Québec devrait passer de 3,1 % en 2022 à 0,7 % en 2023. Il s’agit d’une importante révision à la baisse par rapport à la prévision de mars 2022, alors qu’une croissance de 2,0 % était attendue en 2023.
+
+Après une hausse annuelle record en 2021 (4,1 %), la création d’emplois ralentira. La modération de l’activité économique atténuera la demande de travail, ce qui fera croître temporairement le taux de chômage. Après un creux annuel historique en 2022, il remontera pour se situer à 5 % en moyenne en 2023.
+
+Sur une note plus positive, l’écart de niveau de vie du Québec avec l’Ontario continue à diminuer. Grâce aux efforts déployés, notamment en matière de productivité et de création de richesse, cet écart est passé de 16,4 % à 12,8 % en quatre ans. Le gouvernement continue de travailler sur plusieurs fronts pour compléter le rattrapage.
+
+Un déficit budgétaire moins important que prévu en 2022-2023
+
+Le déficit budgétaire pour 2022-2023 a diminué par rapport aux prévisions du budget de mars 2022, passant de près de 6,5 milliards de dollars à 5,2 milliards de dollars. Le retour à l’équilibre budgétaire est toujours prévu d’ici 2027-2028.
+
+Depuis le budget de mars 2022, la hausse de l’inflation a eu pour effet d’augmenter les revenus autonomes de l’ordre de 14 milliards de dollars sur l’horizon du cadre financier. Le déploiement du Bouclier anti-inflation permet au gouvernement de redonner ces revenus aux Québécois.
+
+La réduction du poids de la dette demeure une priorité pour le gouvernement, car elle favorise une meilleure équité intergénérationnelle en plus de contribuer positivement à la croissance économique. Le poids de la dette brute s’établira à 40,4 % du PIB au 31 mars 2023, ce qui est sous l’objectif de 45 % prévu par la Loi sur la réduction de la dette et instituant le Fonds des générations.
+
+Un scénario économique alternatif prévoyant une récession
+
+Dans le contexte économique actuel, où une forte incertitude plane sur les prévisions économiques, un scénario alternatif prévoyant une récession en 2023 a été élaboré afin d’évaluer l’incidence d’une modération plus importante que prévu du PIB réel sur le cadre financier et sur la dette du gouvernement du Québec.
+
+Selon le scénario de récession, l’activité économique au Québec reculerait de 1,0 % en 2023 avant de progresser de 1,2 % en 2024. Il s’agit d’un écart de 1,7 point de pourcentage en 2023 et de 0,4 point de pourcentage en 2024 par rapport au scénario de référence.
+
+Le recul temporaire de l’activité économique prévu dans le scénario de récession aurait une incidence à la hausse de plus de 5,0 milliards de dollars sur les déficits budgétaires, sur l’horizon du cadre financier. Dans ces circonstances, et afin de pallier les effets d’un ralentissement économique plus fort que prévu, le gouvernement fait preuve de prudence et de rigueur en prévoyant une provision pour risques économiques et autres mesures de soutien et de relance de 8,0 milliards de dollars.
+
+« La hausse significative du coût de la vie a un impact sur tous, particulièrement sur les aînés et les personnes à faible revenu. Le gouvernement fait donc le choix d’aider rapidement les Québécois par le biais du Bouclier anti-inflation afin de protéger leur pouvoir d’achat. Cette action forte, combinée à un financement adéquat des principales missions de l’État et à un cadre financier prudent et rigoureux, nous permet d’être en bonne posture afin d’affronter l’incertitude économique qui guette le Québec et l’économie mondiale. »
+
+Eric Girard, ministre des Finances et ministre responsable des Relations avec les Québécois d’expression anglaise
+
+Faits saillants :
+
+Le montant maximal du crédit d’impôt remboursable pour le soutien aux aînés passera de 411 $ à 2 000 $.
+Compte tenu de la bonification importante de ce soutien, le crédit d’impôt pour activités des aînés ne sera pas reconduit.
+Plus de 1,2 milliard de dollars, soit 65 % du crédit d’impôt pour le soutien aux aînés qui sera versé pour l’année 2022, profiteront à des aînés dont le revenu individuel est inférieur à 25 000 $.
+Un nouveau montant ponctuel pour le coût de la vie pouvant atteindre 600 $ par personne sera versé à 6,5 millions de Québécois d’ici la fin de l’année.
+L’indexation de plusieurs tarifs gouvernementaux sera limitée à 3 % pour les quatre prochaines années.
+Les principaux paramètres du régime d’imposition des particuliers et des programmes d’assistance sociale seront indexés de 6,44 % dès le 1er janvier 2023.
+Pour protéger la santé de nos jeunes, une contribution fiscale sera exigée sur les produits de vapotage au Québec comme au fédéral.
+La croissance économique du Québec ralentit, et elle devrait se situer à 0,7 % en 2023.
+Le déficit budgétaire 2022-2023, moins important que prévu, se situera à 5,2 milliards de dollars.
+Le retour à l’équilibre budgétaire est toujours prévu pour 2027-2028.
+Une provision pour risques économiques de 8,0 milliards de dollars est prévue pour pallier les effets d’un ralentissement économique plus fort qu’anticipé.', '12/08/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/08/mise-en-place-du-bouclier-anti-inflation/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Accroissement de l’autonomie alimentaire', 'Le gouvernement du Québec et Investissement Québec annoncent une aide financière de plus de 32 millions de dollars à Ferme d’Hiver pour soutenir son projet d’expansion de ferme verticale vouée à la production de fraises à Vaudreuil-Dorion ainsi que son projet de mise en place d’une vitrine technologique. C’est le ministre de l’Agriculture, des Pêcheries et de l’Alimentation et ministre responsable de la région du Centre-du-Québec qui s’est rendu sur le site de l’entreprise pour en faire l’annonce au nom du gouvernement.
+
+Le ministère de l’Agriculture, des Pêcheries et de l’Alimentation consent une aide financière pouvant atteindre 6 M$ issue du Programme d’aide financière pour favoriser le développement des serres. Cette aide sera octroyée sous la forme d’un ajustement aux coûts d’électricité, au cours des huit prochaines années. Ferme d’Hiver bénéficiera également d’une aide financière de 96 520 $ du programme Prime-Vert pour l’achat d’équipements et la construction d’infrastructures de gestion des résidus végétaux et des eaux usées.
+
+Le ministère de l’Économie, de l’Innovation et de l’Énergie, par l’entremise de son mandataire Investissement Québec, accorde un prêt de 7,5 M$ dans le cadre du programme ESSOR.
+
+De son côté, Investissement Québec appuie Ferme d’Hiver depuis ses tout débuts et réalise un nouvel investissement de 5 M$ en débenture convertible, de ses fonds propres, afin de soutenir l’entreprise dans son développement.
+
+Enfin, La Financière agricole du Québec octroie une garantie de prêt de 9,65 M$ à l’entreprise. En outre, sa filiale d’investissement stratégique, Capital Financière agricole, investit 1 M$ sous forme de capital de développement.
+
+Ce projet d’expansion fait suite à un projet de démonstration technologique pour lequel le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs avait accordé une aide financière pouvant atteindre 3,15 M$ dans le cadre du programme Technoclimat, qui s’inscrit dans la mesure 2.3.1 du Plan de mise en œuvre 2022-2027 du Plan pour une économie verte 2030 et qui vise à soutenir l’innovation pour stimuler le développement de solutions de réduction des émissions de gaz à effet de serre. Le projet répond également à la mesure 96.7 du Plan directeur en transition, innovation et efficacité énergétiques du Québec 2018-2023.
+
+« Une agriculture propulsée par une variété de modèles d’affaires est essentielle à l’accroissement d’une autonomie alimentaire durable au Québec. Nous pouvons être fiers de compter sur une industrie agricole innovatrice et dynamique. Ferme d’Hiver illustre bien la créativité de nos entreprises. Notre gouvernement est heureux de soutenir ses efforts pour offrir aux consommateurs des produits d’ici, sains, à longueur d’année. »
+
+André Lamontagne, ministre de l’Agriculture, des Pêcheries et de l’Alimentation et ministre responsable de la région du Centre-du-Québec
+
+« Le concept d’agriculture verticale et d’éclairage intelligent de Ferme d’Hiver est innovant et payant pour le Québec. En plus de favoriser la production locale et l’achat de produits québécois, il contribue au développement d’une industrie agricole responsable. »
+
+Pierre Fitzgibbon, ministre de l’Économie, de l’Innovation et de l’Énergie, ministre responsable du Développement économique régional et ministre responsable de la Métropole et de la région de Montréal
+
+« Il faut agir et poser des gestes pour assurer une transition énergétique durable. Par l’entremise du programme Technoclimat, nous soutenons les entreprises qui posent des actions dans le respect de l’environnement. Je félicite Ferme d’Hiver qui, en plus de contribuer à nourrir les gens d’ici et d’ailleurs toute l’année, est un exemple concret du leadership du Québec en matière d’innovation pour la transition énergétique et la réduction des émissions de gaz à effet de serre. C’est avec fierté que notre gouvernement finance ce projet qui vise à implanter une agriculture d’hiver innovante pour assurer et développer notre autonomie alimentaire. »
+
+Benoit Charette, ministre de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs et ministre responsable de la région des Laurentides
+
+« Investissement Québec est fier de renouveler son soutien à Ferme d’Hiver. Ses solutions innovantes de production verticale répondent aux enjeux agroalimentaires et environnementaux auxquels nous sommes confrontés. Ce nouveau projet permettra à l’entreprise d’accroître la production locale et de renforcer l’autonomie alimentaire du Québec. »
+
+Guy LeBlanc, président-directeur général d’Investissement Québec
+
+« La Financière agricole du Québec et sa filiale d’investissement stratégique, Capital Financière agricole inc., sont fières de soutenir des projets structurants et à caractère durable. Chapeau à l’entreprise qui, grâce à l’audace de ses dirigeants, a développé une nouvelle technologie permettant de diversifier les produits cultivés à l’année et ainsi de bonifier l’offre de fraises fraîches au Québec. »
+
+Ernest Desrosiers, président-directeur général de La Financière agricole du Québec
+
+« L’appui du gouvernement et l’arrivée de nouveaux partenaires témoignent de la nécessité d’innover pour développer une agriculture locale plus durable et plus compétitive face aux marchés des importations. C’est un vote de confiance envers le potentiel industriel de Ferme d’Hiver et notre capacité à livrer un fruit de qualité supérieure. »
+
+Alain Brisebois, président et chef de la direction de Ferme d’Hiver
+
+Faits saillants :
+
+Le Programme d’aide financière pour favoriser le développement des serres a été bonifié dans le cadre de la Stratégie de croissance des serres au Québec 2020-2025.
+La Stratégie permettra d’offrir davantage de fruits et de légumes en serre en misant sur des sources d’énergie renouvelables reconnues pour leur faible empreinte environnementale.
+L’objectif de la Stratégie est de doubler la superficie en serres d’ici 2025, c’est-à-dire de passer de 123 hectares à 246 hectares. À ce jour, on compte 71 hectares de nouvelles serres, soit plus de 50 % de l’objectif.
+Le programme ESSOR  vise à appuyer, dans une perspective d’accroissement de la compétitivité et de la productivité, de création d’emplois et de développement durable, les projets d’investissement réalisés au Québec.', '12/13/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/13/accroissement-de-lautonomie-alimentaire/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'6 M$ pour les banques alimentaires du Québec
+', 'Pour répondre aux besoins croissants des Québécois qui sollicitent de l’aide alimentaire, le gouvernement du Québec accorde une aide d’urgence de 6 millions de dollars aux Banques alimentaires du Québec.
+
+La ministre responsable de la Solidarité sociale et de l’Action communautaire, Mme Chantal Rouleau, le ministre de l’Agriculture, des Pêcheries et de l’Alimentation et ministre responsable de la région du Centre-du-Québec, M. André Lamontagne, et la députée de Saint-François, Mme Geneviève Hébert, en ont fait l’annonce aujourd’hui.  
+
+Le directeur général des Banques alimentaires du Québec, M. Martin Munger, s’est également joint à cette annonce importante pour le milieu communautaire qui est confronté à des défis liés à l’inflation et à la hausse des coûts des aliments et des denrées.
+
+Les sommes accordées par notre gouvernement permettront aux Banques alimentaires du Québec de faire le plein de denrées supplémentaires et d’appuyer son réseau composé de 32 membres, notamment 19 membres Moisson, qui assurent une présence dans l’ensemble du territoire québécois. Ainsi, ce sont plus de 1200 organismes de terrain en lien avec ces partenaires qui se verront octroyer des moyens complémentaires pour venir en aide aux Québécoises et Québécois qui sollicitent leurs services en aide alimentaire.   
+
+Une aide totale de 14 millions de dollars en 2022
+
+Avec l’aide d’urgence de 6 millions de dollars annoncée aujourd’hui et la somme de 5 millions de dollars accordée en juin dernier, les investissements du gouvernement du Québec en 2022 pour appuyer les Banques alimentaires du Québec totalisent maintenant 11 millions de dollars. S’ajoute à ce montant un investissement de 3 millions supplémentaires qui a également été octroyé à d’autres organismes d’aide alimentaire qui sont présents sur le terrain, ce qui porte à 14 millions de dollars l’aide financière octroyée par le gouvernement du Québec en la matière en 2022.
+
+« Avec cette aide d’urgence, notre gouvernement répond aux besoins pressants et croissants des banques alimentaires qui sont confrontées à l’inflation et à la hausse du coût de la vie. Nous avons entendu les demandes de soutien déposées par les Banques alimentaires du Québec et cette solution leur permettra de continuer à appuyer les personnes et familles québécoises qui sollicitent de l’aide alimentaire. Ainsi, ces nouvelles sommes auront des retombées extrêmement bénéfiques pour que personne ne soit laissé derrière non seulement à l’aube de la période des Fêtes, mais également tout au long de l’année. »
+
+Mme Chantal Rouleau, ministre responsable de la Solidarité sociale et de l’Action communautaire
+
+« En plus d’être des acteurs importants en matière d’aide alimentaire au Québec, le réseau des Banques alimentaires du Québec et les organismes qu’il sert jouent un rôle important dans la lutte contre le gaspillage alimentaire et, par le fait même, contribuent à la réduction des émissions de gaz à effet de serre, deux objectifs qui figurent parmi les priorités de notre gouvernement. Aussi doivent-ils pouvoir compter sur des infrastructures adéquates et suffisantes afin d’être en mesure de répondre à l’augmentation du recours à l’aide alimentaire. »
+
+M. André Lamontagne, ministre de l’Agriculture, des Pêcheries et de l’Alimentation et ministre responsable de la région du Centre-du-Québec
+
+« Dans une société comme la nôtre, il est inconcevable de manquer de nourriture. Je suis heureuse que notre gouvernement rehausse son soutien aux banques alimentaires qui redistribuent toutes les denrées disponibles. Situé dans Saint-François, mais au service de la région, Moisson Estrie est l’un de ces organismes exemplaires très présents dans notre communauté pour les personnes en situation de vulnérabilité économique. »
+
+Mme Geneviève Hébert, députée de Saint-François et whip adjointe du gouvernement
+
+« Les organismes d’aide alimentaire de notre réseau font face à un niveau de demandes jamais vu dans l’histoire de notre organisation. À travers la province, la pression sur nos membres est immense à l’heure actuelle, c’est pourquoi le soutien annoncé par les ministères aujourd’hui, que ce soit pour l’achat à court terme de denrées ou pour la mise en place d’infrastructures plus adaptées, est un réel soulagement pour nous. »
+
+M. Martin Munger, directeur général des Banques alimentaires du Québec
+
+Faits saillants
+
+Depuis 1988, le réseau des Banques alimentaires du Québec  contribue à nourrir, chaque mois, de nombreuses personnes qui ont besoin d’aide alimentaire.
+Le réseau des Banques alimentaires du Québec est constitué de 19 membres Moisson et de 13 membres Associés et il dessert près de 1 200 organismes locaux.
+En 2021-2022, le réseau des Banques alimentaires du Québec a mobilisé 476 supermarchés pour le Programme de récupération en supermarchés (PRS), permettant la récupération de 6,2 millions de kilogrammes de denrées et évitant ainsi l’émission de plus de 5 900 tonnes de dioxyde de carbone (CO2) puisque ces aliments ont pu être consommés, plutôt que jetés ou compostés. L’organisme vise pour l’année 2025, par le biais du PRS, à collaborer avec près de 645 détaillants et à récupérer ainsi plus de 8,5 millions de kilogrammes de nourriture.
+Pour en savoir plus sur les activités du ministère de l’Emploi et de la Solidarité sociale, suivez-le sur les médias sociaux :
+
+facebook.com/EmploiSolidaritesocialeQc 
+twitter.com/messqc 
+linkedin.com/messqc 
+
+Annexe
+
+Région	Bénéficiaire	Description du projet	Montantaccordé
+Abitibi-Témiscamingue   	Centre de Bénévolat de la Vallée-de-l’Or	Construction d’un nouvel établissement	500 000 $
+Bas-Saint-Laurent	Moisson Kamouraska          	Construction d’un nouvel établissement	400 000 $
+Montérégie	Moisson Rive-Sud	Acquisition d’un terrain et construction d’un nouvel établissement	250 000 $
+Estrie	SOS Dépannage/Moisson Granby	Agrandissement d’infrastructures	250 000 $
+Bas-Saint-Laurent	Moisson Mitis	Acquisition d’équipements de transformation alimentaire	227 808 $
+Laurentides	Moisson Laurentides	Aménagement d’une cuisine de transformation alimentaire et acquisition d’un générateur électrique	293 299 $
+Estrie	Moisson Estrie	Aménagement d’en espace d’entreposage	64 970 $
+Montréal	Moisson Montréal	Amélioration de l’unité de transformation et achat d’équipements	216 593 $
+Mauricie et Centre-du-Québec	Moisson Mauricie/Centre-du-Québec	Aménagement et installation d’équipements	210 648 $
+Saguenay-Lac-Saint-Jean	Moisson Saguenay-Lac-Saint-Jean	Aménagement d’un nouvel entrepôt	203 173 $
+Gaspésie-Îles-de-la-Madeleine	Collectif Aliment-Terre	Aménagement de nouveaux locaux	58 272 $
+Capitale-Nationale	Moisson Québec	Investissement dans les équipements   	21 898 $
+Nord-du-Québec	Carrefour communautaire de Chibougamau	Aménagement d’espaces d’entreposage	6 855 $
+', '12/14/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/14/6-m-pour-les-banques-alimentaires-du-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Des gestes concrets pour protéger notre eau', 'Le premier ministre du Québec, M. François Legault, a profité, aujourd’hui, de sa participation à la COP15 afin de prendre des engagements qui visent à mieux protéger cet or bleu que représentent les réserves d’eau douce du Québec. Le gouvernement du Québec déposera, au courant de la prochaine session parlementaire, un projet de loi sur la protection de l’eau, dans un contexte où les réserves d’eau douce deviendront de plus en plus rares au cours des prochaines années.
+
+Le Québec dispose de dizaines de milliers de rivières et de plus de trois millions de plans d’eau. Il détient 3 % des réserves d’eau douce renouvelable de la planète. Le fleuve Saint-Laurent, une véritable richesse collective, draine à lui seul plus de 25 % des réserves mondiales d’eau. En 2021, le Québec a reçu moins de 3 millions de dollars en redevances pour des prélèvements d’eau qui totalisaient 811 milliards de litres. Ce n’est pas une situation acceptable pour la population québécoise.
+
+Ainsi, le projet de loi proposé viserait d’abord à hausser les redevances sur l’eau afin que celle-ci soit payée à sa juste valeur. Il proposerait également la création d’un fonds bleu, financé notamment à partir de la hausse des redevances. Ce fonds, qui pourrait atteindre 150 millions de dollars par année, d’ici 2026, permettrait au gouvernement du Québec de financer des projets de protection et de mise en valeur des cours d’eau sur son territoire. Il permettrait, par exemple, au Québec de lutter contre les espèces aquatiques envahissantes, de nettoyer des berges de rivières, de procéder à la revégétalisation de bandes riveraines et d’assurer la mise aux normes d’installations sanitaires individuelles.
+
+Un appel à l’action
+
+Enfin, le premier ministre a profité de sa participation à la COP15 pour faire un appel à l’action. À quelques jours de la fin de la COP15, il est temps que les États se concertent pour faire de la biodiversité une priorité réelle et mettre en place les actions nécessaires à l’atteinte de la cible de protection de 30 % des terres et des océans d’ici 2030.
+
+« Comme premier ministre, comme gouvernement, on a le devoir de préserver ce que nos prédécesseurs nous ont laissé. On a le devoir, à l’égard de celles et ceux qui vont venir après nous, de leur laisser une qualité de vie aussi bonne que la nôtre. Moralement, on ne peut pas laisser aux prochaines générations la responsabilité de corriger nos erreurs. Ensemble, on doit profiter des quelques jours qu’il nous reste pour créer le « moment Montréal » dont la planète a besoin. Le Québec répond présent. »
+
+François Legault, premier ministre du Québec
+
+« Le Québec possède, sur son territoire, une réserve qui représente 3 % de l’eau douce du monde. C’est une donnée qui démontre toute l’importance qu’on doit accorder à la protection de notre eau, cette richesse qui est aussi notre or bleu. Avec cette annonce, le gouvernent affirme haut et fort son engagement à doubler d’effort pour protéger l’eau et la mettre en valeur. Maintenant, c’est le temps de passer à l’action et de travailler tous ensemble pour poser des gestes concrets et durables afin de préserver notre territoire et notre richesse naturelle. »
+
+Benoit Charrette, ministre de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs
+
+Faits saillants :
+
+Le gouvernement du Québec a annoncé plusieurs mesures, lors de la COP15, dont la mise en place du Plan nature 2030, qui prévoit des investissements de 650 millions de dollars sur sept ans. Ce plan vise l’atteinte de la prochaine cible mondiale de conservation de 30 % du territoire planétaire d’ici 2030. Il inclut notamment un soutien financier historique de 23 millions de dollars, sur quatre ans, pour appuyer les initiatives des communautés autochtones en matière de conservation de la biodiversité.
+Le gouvernement a par ailleurs annoncé le lancement d’une feuille de route en finance durable, qui vise à doter le Québec des outils pour répondre le mieux aux défis environnementaux qui entraînent des risques pour les marchés financiers et les entreprises.
+Le gouvernement a également annoncé l’implantation, à Montréal, d’un bureau du Programme des Nations unies pour les établissements humains (ONU-Habitat), afin d’y élaborer le programme mondial sur les villes vertes, résilientes et durables.
+Le Québec est un membre actif de différents réseaux multilatéraux de gouvernements infranationaux liés à la biodiversité. Depuis 2018, il coordonne le Comité consultatif des gouvernements infranationaux pour la biodiversité, qui est reconnu comme la voix officielle des États fédérés au sein de la Convention sur la diversité biologique.
+Le Québec est également un partenaire fondateur du Processus d’Édimbourg pour lesgouvernements infranationaux et locaux.', '12/15/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/15/des-gestes-concrets-pour-proteger-notre-eau/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Lionel Carmant bonifie les budgets des centres de crise', 'Le ministre responsable des Services sociaux, Lionel Carmant, annonce que le financement récurrent destiné aux centres d’intervention de crise du Québec sera bonifié de 5 millions $ à compter de l’année 2023-2024.
+
+Les centres d’intervention de crise sont des partenaires incontournables du réseau de la santé et des services sociaux. Ils répondent aux besoins psychosociaux de la population en situation de crise depuis 30 ans, et ce, sept jours sur sept, 24 heures sur 24.
+
+Ce financement est versé annuellement aux organismes communautaires œuvrant comme centres d’intervention de crise. La bonification vise à consolider et renforcer leur offre de service dans un contexte de pénurie de main-d’œuvre afin de contribuer à l’attraction et à la rétention du personnel. Par ailleurs, soulignons que l’accessibilité des centres d’intervention de crise diminue la pression sur les services du réseau en évitant de nombreuses consultations à l’urgence pour des problématiques psychosociales ou pour des troubles de santé mentale.
+
+« Les centres de crise sont un maillon essentiel de la prise en charge immédiate et 24/7 des personnes en situation de détresse psychologique. Ces cinq millions de dollars que l’on injecte maintenant et qui seront récurrents vont permettre de maintenir des services de première ligne adéquats en santé mentale à la population. »
+
+Lionel Carmant, ministre responsable des Services sociaux
+
+Faits saillants :
+
+Une partie de la bonification sera accordée pour l’année en cours (2022-2023).
+Les établissements de santé et de services sociaux seront responsables de la répartition de la somme allouée pour la bonification du financement des centres d’intervention de crise sur leur territoire.
+Rappelons que le Plan d’action interministériel en santé mentale 2022-2026 vise à favoriser la santé mentale optimale de la population ainsi qu’à faciliter l’accès à des soins et services de qualité pour les personnes présentant des troubles mentaux ou des symptômes associés, et leurs proches.
+Par ce plan d’action, le gouvernement du Québec s’engage à mettre à contribution l’ensemble des acteurs concernés pour que toutes les Québécoises et tous les Québécois aient accès, au bon moment, à des actions, des services et un accompagnement adaptés à leurs besoins en matière de santé mentale.', '12/15/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/15/lionel-carmant-bonifie-les-budgets-des-centres-de-crise/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Inauguration de la Maison du loisir et du sport ', 'C’est avec une grande fierté que la ministre responsable du Sport, du Loisir et du Plein air, Mme Isabelle Charest, a inauguré aujourd’hui la nouvelle Maison du loisir et du sport, à Saint-Léonard, en compagnie de la présidente du conseil d’administration du Regroupement Loisir et Sport du Québec, Mme Johanne Murphy, et de plusieurs représentantes et représentants des organismes provinciaux de loisir et de sport.
+
+Pour l’occasion, la ministre responsable de la Solidarité sociale et de l’Action communautaire et députée de Pointe-aux-Trembles, Mme Chantal Rouleau, l’adjoint gouvernemental au Sport, Loisir et Plein air et député de Jonquière, M. Yannick Gagnon, la députée d’Anjou─Louis-Riel, Mme Karine Boivin-Roy, la présidente du conseil d’administration du RLSQ, Mme Johanne Murphy, ainsi que le premier vice-président du Groupe MACH, M. Pierre-Jacques Lefaivre, étaient également présents.
+
+L’ensemble des fédérations du RLSQ ont emménagé dans les nouveaux espaces à la fin de l’été 2022. Le nouvel immeuble, situé au 7665, boulevard Lacordaire à Montréal, dans l’arrondissement Saint-Léonard, comporte cinq étages et offre des locaux modernes et attrayants à de nombreux organismes provinciaux de loisir et de sport. L’enveloppe budgétaire prévue pour la réalisation de ce projet était de 25 millions de dollars.
+
+La Maison du loisir et du sport, où sont maintenant regroupés quelque 600 employés, pourra poursuivre son mandat en offrant notamment des services partagés professionnels et techniques (services d’administration, juridiques, informatiques et de voyage).
+
+« Un projet qui était attendu depuis longtemps que cette nouvelle et magnifique Maison du loisir et du sport, un projet tellement important pour tout l’écosystème du sport et du loisir québécois! Je souhaite que l’endroit devienne un lieu de rassemblement où règne un fort esprit de communauté, de proximité. Je suis certaine que le fait que tous ces organismes soient regroupés au même endroit fera émerger les meilleures pratiques et les meilleures idées afin d’inciter le plus de Québécoises et Québécois possible à adopter un mode de vie sain et physiquement actif. Merci à tous ceux et celles qui ont contribué au projet et longue vie à la Maison! »
+
+Isabelle Charest, ministre responsable du Sport, du Loisir et du Plein air
+
+« Cette Maison du loisir et du sport est un projet attendu depuis plusieurs années et il s’est maintenant concrétisé. Pour nous tous, c’est une fierté d’accueillir les bénévoles, les travailleuses et les travailleurs dans un environnement lumineux, inspirant et mobilisateur. La qualité des installations reflète la vitalité, le rayonnement et le professionnalisme des organismes résidents. »
+
+Sylvain B. Lalonde, président-directeur général du Regroupement Loisir et Sport du Québec
+
+Faits saillants
+
+L’enveloppe de 25 millions de dollars provient du Fonds pour le développement du sport et de l’activité physique.
+Le Groupe MACH est propriétaire du terrain et a investi plus de 60 millions de dollars dans la construction du bâtiment qui accueille la Maison du loisir et du sport. Par la suite, le RLSQ lui paiera un loyer, notamment grâce aux subventions gouvernementales.
+Le RLSQ effectue présentement une analyse pour l’aménagement et la location d’espaces supplémentaires au cinquième étage dans le but d’accueillir des fédérations additionnelles.', '12/19/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/19/inauguration-de-la-maison-du-loisir-et-du-sport/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Journées d’accès gratuit dans les parcs nationaux', 'Afin de promouvoir la pratique d’activités de plein air et de donner la chance à tous de profiter des richesses de notre territoire québécois, le gouvernement du Québec offrira à l’ensemble de la population plusieurs journées d’accès gratuit dans les parcs nationaux au cours des prochains mois.
+
+La ministre responsable du Sport, du Loisir et du Plein air, Mme Isabelle Charest, la ministre du Tourisme, Mme Caroline Proulx, et le président-directeur général de la Société des établissements de plein air du Québec (Sépaq), M. Jacques Caron, en ont fait l’annonce aujourd’hui au parc national de la Yamaska. Ainsi, du 28 décembre 2022 au 14 mars 2023, les visiteurs des parcs nationaux n’auront pas à débourser de droits d’accès quotidiens lors de 24 journées, selon un calendrier prédéfini et disponible en ligne sur le site de la Sépaq.
+
+« Profiter du plein air comporte des bénéfices puissants pour notre santé physique et mentale. Et quoi de mieux que découvrir, en même temps, notre magnifique territoire? L’accessibilité à nos infrastructures est une de mes priorités. Fournir des occasions supplémentaires aux Québécoises et Québécois d’en profiter sans frais, c’est donner la chance à plus de gens de bénéficier de cette richesse naturelle, tout en favorisant leur bien-être. Je vous invite à profiter de cette occasion unique pour sortir prendre un bon bol d’air frais dans un parc national près de chez vous! »
+
+Isabelle Charest, ministre responsable du Sport, du Loisir et du Plein air
+
+« Le tourisme de nature et d’aventure est de plus en plus populaire auprès des touristes québécois et d’ailleurs, et nous souhaitons maximiser l’accès à la nature afin d’en faire un caractère distinctif du Québec. Ces journées d’accès gratuit à nos parcs nationaux permettront à tous de profiter de ces joyaux. En plus de stimuler les activités touristiques en région pendant la saison froide, cette mesure permettra aux Québécois et à nos visiteurs de s’approprier notre magnifique hiver et de découvrir toutes les activités qu’il est possible de faire pendant cette saison. »
+
+Caroline Proulx, ministre du Tourisme et ministre responsable de la région de Lanaudière
+
+« La Sépaq est fière de faire partie de l’initiative gouvernementale qui vise à faire bouger davantage la population québécoise. Les territoires naturels et les activités de plein air ont un rôle à jouer dans l’amélioration de la santé publique et la promotion de saines habitudes de vie. Ces journées d’accès gratuit inciteront certainement différentes personnes à profiter des joies de l’hiver dans un décor naturel à couper le souffle. »
+
+Jacques Caron, président-directeur général de la Sépaq
+
+Faits saillants :
+
+Les journées d’accès gratuit varient d’une semaine à l’autre de façon qu’elles soient le plus accessibles possible au plus grand nombre en fonction des différentes réalités individuelles.
+Il en coûte généralement 9,25 $ par jour à un adulte pour accéder à un parc national de la Sépaq, et l’entrée est gratuite pour les jeunes de 17 ans et moins.
+La Sépaq invite les intéressés à réserver leur journée gratuite en ligne jusqu’à 30 jours à l’avance afin de s’assurer une admission dans leur parc national préféré à la date ciblée.
+La mesure gouvernementale offre l’accès gratuit aux parcs nationaux à certains moments, mais pas à l’ensemble des activités tarifées des établissements, ni à la location d’équipement. 
+Liens connexes :
+
+Pour consulter le calendrier des journées de gratuité et les modalités d’accès à cette mesure, visitez le site Web de la Sépaq.', '12/20/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/20/journees-dacces-gratuit-dans-les-parcs-nationaux/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,1,'Mes vœux de Noël les plus chaleureux', 'Sur cette photo, j’ai un an et des poussières… Assis sur les genoux de mon père Lucien, aux côtes de ma mère Pauline, tout sourire, je ne sais pas encore la chance que j’ai. Partager un repas de Noël en famille, recevoir la parenté, avoir des cadeaux sous le sapin, aussi modestes soient-ils, sont des privilèges dont on s’aperçoit quand on est grand.
+
+En cette période économique difficile, je sais bien que plusieurs d’entre vous peinent à joindre les deux bouts. Les conséquences de l’inflation sont particulièrement dures pour le budget des gens à faible revenu et de la classe moyenne, qui n’ont pas toujours le coussin financier nécessaire pour passer à travers de telles hausses de prix. En cette fin d’année, vous protéger et vous assurer une qualité de vie demeurent des enjeux fondamentaux pour notre gouvernement. J’espère que les mesures de notre Bouclier contre l’inflation vous donneront le répit dont vous avez besoin pour le temps des Fêtes.
+
+Puisque l’heure est aux bilans, j’en profite pour vous dire combien je suis fier d’être votre premier ministre. Les dernières années ont exigé de tout le monde bien des compromis et je salue aujourd’hui la résilience et la solidarité dont font preuve les Québécoises et Québécois.
+
+Je vous souhaite de passer de très Joyeuses Fêtes, entourés de ceux et celles que vous aimez. Ayons une pensée pour les gens qui passeront les Fêtes isolés ou en manque d’un être cher. Le Québec est une nation chaleureuse, tissée serrée, qui sait fêter. Alors, fêtons!
+
+Chaleureusement,
+
+François Legault,
+
+Chef de la Coalition Avenir Québec et premier ministre du Québec 
+
+Noël chez les Brais-Legault
+Chez nous, le temps des Fêtes, c’est des moments en famille, de la musique et des rires. Je vous partage ici une recette, un album et une tradition qui durent dans la famille d’année en année.
+
+La compote d’oignons
+
+Ce petit délice, concocté par Isabelle, se retrouve à notre table de Noël chaque année. Il accompagne à merveille les pâtés et les fromages.
+
+3 c. à soupe de beurre
+3 oignons rouges émincés finement
+2 c. à soupe de sirop d’érable
+1 c. à soupe de vinaigre de xérès (ou balsamique)
+3 c. à soupe d’alcool au choix (Isabelle change chaque année : Grand Marnier, cognac, ou autre.)
+À feu moyen, fondre le beurre et attendrir les oignons pendant une vingtaine de minutes. Ajouter le sirop d’érable, le vinaigre et l’alcool, puis, laisser réduire environ 10 minutes. Retirer du feu. Saler et poivrer au goût. Voilà! Bon appétit!
+
+
+Un des bas de Noël fabriqués par Isabelle
+Les traditions qui ne se perdent pas
+Malgré l’âge de nos fils, qui sont maintenant des adultes, les bas de Noël, fabriqués à la main par Isabelle quand les enfants étaient petits, trônent toujours fièrement dans notre salon.
+
+La musique qui nous accompagne ? Un incontournable : Marie-Michèle Desrosiers chante les classiques de Noël. Avec l’Orchestre symphonique de Prague, la chanteuse reprend sur cet album les plus beaux airs de Noël. Un grand cru du temps des Fêtes!', '12/21/2022 20:00:00 PM','https://coalitionavenirquebec.org/fr/blog/2022/12/21/mes-voeux-de-noel-les-plus-chaleureux/')
+
+--PLQ
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Une équipe solide au service de tous les Québécois.e.s', 'Une équipe solide au service de tous les Québécois.e.s', '10/12/2022 20:00:00 PM','https://plq.org/fr/communiques/une-equipe-solide-au-service-de-tous-les-quebecois-e-s/')
+
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Dominique Anglade dévoile les porte-paroles de l’équipe libérale', 'La cheffe de l’opposition officielle, Dominique Anglade, dévoile aujourd’hui la composition de son équipe de porte-paroles en prévision de la 43e législature.
+
+Les Québécoises et les Québécois comptent sur l’équipe libérale pour affronter les défis économiques qui sont devant nous. Il s’agit d’une équipe renouvelée qui déploiera toute son énergie au service des citoyens de toutes les régions du Québec. Grâce à leur mélange d’expérience de vie et d’expérience parlementaire, nos députés sont prêts à relever les défis qui sont devant nous.
+
+– Dominique Anglade, cheffe de l’opposition officielle
+
+Marc Tanguay, député de LaFontaine
+Leader
+Transports et mobilité durable
+Institutions démocratiques
+Relations canadiennes et francophonie canadienne
+Loi électorale
+Accès à l’information et protection des renseignements personnels
+Éthique
+Capitale-Nationale
+Filomena Rotiroti, députée de Jeanne-Mance–Viger
+Whip en chef
+Immigration, francisation et intégration
+Enrico Ciccone, député de Marquette
+Président du caucus
+Sports, Loisir, Plein air et Saines habitudes de vie
+Bas-Saint-Laurent Gaspésie-Îles-de-la-Madeleine
+Monsef Derraji, député de Nelligan
+Leader adjoint
+Santé
+André A. Morin, député de l’Acadie
+Justice
+Relations avec les Premières nations et Inuit
+Nord-du-Québec
+Madwa-Nika Cadet, députée de Bourassa-Sauvé
+Emploi
+Travail
+Jeunesse
+Langue française
+Métropole
+Sona Lakhoyan Olivier, députée de Chomedey
+Tourisme
+Laurentides
+Lanaudière
+Elisabeth Prass, députée de D’Arcy-McGee
+Services sociaux
+Santé mentale
+Personnes vivant avec un handicap ou avec le spectre de l’autisme
+Lutte contre le racisme
+Gregory Kelley, député de Jacques-Cartier
+Solidarité sociale et action communautaire
+Ressources naturelles
+Côte-Nord
+Linda Caron, députée de La Pinière
+Aînés, proches aidants et soins à domicile
+Montérégie
+Frédéric Beauchemin, député de Marguerite-Bourgeoys
+Finances
+Conseil du Trésor et Administration gouvernementale
+Infrastructures
+Cybersécurité et Numérique
+Estrie
+Saguenay-Lac-Saint-Jean
+Virginie Dufour, députée de Mille-Iles
+Affaires municipales et Habitation
+Laval
+Michelle Setlakwe, députée de Mont-Royal–Outremont
+Culture et Communications
+Relations internationales et Francophonie
+Chaudière-Appalaches
+Centre-du-Québec
+Désirée McGraw, députée de Notre-Dame-de-Grâce
+Environnement et lutte contre les changements climatiques
+Faune et Parcs
+Relations avec les Québécois d’expression anglaise
+André Fortin, député de Pontiac
+Économie
+Innovation
+Énergie
+Forêt
+Développement économique régional
+Agriculture, Pêcheries et alimentation
+Outaouais
+Abitibi-Témiscamingue
+Brigitte Garceau, députée de Robert-Baldwin
+Famille
+Condition féminine
+Protection de la jeunesse
+Suivi du rapport Rebâtir la confiance
+Mauricie
+Marwah Rizqy, députée de Saint-Laurent
+Éducation et enseignement supérieur
+Jennifer Maccarone, députée de Westmount–Saint-Louis
+Sécurité publique
+Communauté 2SLGBTQIA+', '10/27/2022 20:00:00 PM','https://plq.org/fr/communiques/dominique-anglade-devoile-les-porte-paroles-de-lequipe-liberale-2-2/')
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Rafael P. Ferraro nommé nouveau président du Parti libéral du Québec', 'Le Conseil exécutif du Parti libéral du Québec, appuyé par le Conseil de direction, a procédé à la nomination de Rafael P. Ferraro à titre de nouveau président du PLQ, conformément à la Constitution, ainsi qu’au Règlement général de la formation politique.
+
+Activement impliqué au sein de diverses instances militantes du Parti libéral du Québec depuis 2010, Rafael P. Ferraro rassemble une longue feuille de route en matière d’implication bénévole. Ayant agi à titre de coordonnateur aux communications pour la Commission-Jeunesse du PLQ, président du Conseil régional de la Montérégie-Ouest, ainsi que président de la Commission juridique, il fut également nommé président d’élection lors de la course à la chefferie du Parti en 2019. Avocat associé au sein d’un cabinet international exerçant sa pratique en litige, il est reconnu pour son engagement militant et son dévouement envers la formation politique. Rafael P. Ferraro fut l’avocat ayant assuré la représentation du PLQ lors de l’élection générale de 2022 dans le contexte de la reconnaissance du candidat dans Matane-Matapédia à titre de candidat officiel, un dossier qu’il a su plaider avec succès.
+
+Je souhaite féliciter chaleureusement Rafael P. Ferraro, le nouveau président du Parti libéral du Québec. Son engagement, sa fine connaissance de nos instances militantes et son leadership rassembleur seront des atouts considérables. Nos membres, comme Rafael, partagent notre désir d’un Québec inclusif, prospère et durable. C’est avec une énergie renouvelée que notre équipe entreprend ce nouveau chapitre. Je remercie sincèrement également Linda Caron pour tout le travail réalisé au cours de son mandat.
+
+– Dominique Anglade, cheffe du Parti libéral du Québec
+
+Je tiens tout d’abord à remercier notre cheffe Dominique Anglade, les membres du Conseil exécutif et du Conseil de direction pour ma nomination à titre de président du Parti libéral du Québec. Notre Parti aura de nombreux défis à relever au cours des prochaines années, je suis convaincu que nous possédons tous les outils nécessaires pour se redynamiser et convaincre à nouveau les électeurs que nous sommes la meilleure option pour gouverner le Québec. Le PLQ est pour moi une organisation unique et une grande famille. Nous sommes la seule formation politique qui s’appuie sur des valeurs solides et qui représente tous les Québécois. C’est ce message que j’irai porter aux quatre coins du Québec à la rencontre de nos militants et de nos sympathisants libéraux.
+
+– Rafael P. Ferraro, président du Parti libéral du Québec', '10/27/2022 20:00:00 PM','https://plq.org/fr/communiques/rafael-p-ferraro-nomme-nouveau-president-du-parti-liberal-du-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Les prévisions économiques trop optimistes de la CAQ feront souffrir les familles démunies', 'Face à l’actuel ralentissement économique qui pourrait bien se transformer en récession, Frédéric Beauchemin, porte-parole de l’opposition officielle en matière de finances et sa collègue porte-parole en emploi, Madwa-Nika Cadet, pressent le gouvernement Legault de faire connaître ses intentions afin de protéger les familles les plus démunies et de faire face à la pénurie de main-d’œuvre sans couper dans les services à la population.
+
+L’inflation et la hausse des taux hypothécaires rendront la vie difficile aux familles québécoises. Il est de plus en plus prévisible que le ralentissement économique qui s’amorce pourrait aboutir en véritable récession. Pendant ce temps, que fait la CAQ, se demandent les députés libéraux de Marguerite-Bourgeoys et de Bourassa-Sauvé?
+
+La Banque du Canada a déjà haussé son taux directeur à six reprises depuis le début de l’année seulement et 2022 n’est pas encore terminée. De plus, une croissance économique négative en 2023 est maintenant envisageable selon des experts. M. Beauchemin et Mme Cadet s’inquiètent de l’inaction de la CAQ face à ces chiffres alarmants et craignent que celle-ci fasse le choix de couper dans les services à la population en plus d’abandonner les entreprises.
+
+Durant la campagne électorale, alors que je disais qu’une récession était à nos portes, la CAQ présentait un cadre financier beaucoup trop optimiste, ce qui fera souffrir les familles les plus démunies et qui seront les plus durement touchées par la hausse du coût de la vie et des taux d’intérêts. Que fera François Legault pour les aider de façon durable?
+
+– Frédéric Beauchemin, porte-parole libéral en matière de finances
+
+Si la pénurie de main-d’œuvre dans le secteur privé pourrait s’atténuer à cause du ralentissement économique, il en sera autrement dans le secteur public où les besoins de services à la population ne diminueront pas. Puisque la CAQ ne semble pas mesurer l’ampleur du problème, ils devront tôt ou tard couper dans les services publics. À quel endroit François Legault va-t-il couper? En santé? En éducation?
+
+– Madwa-Nika Cadet, porte-parole libérale en matière d’emploi', '11/2/2022 20:00:00 PM','https://plq.org/fr/communiques/les-previsions-economiques-trop-optimistes-de-la-caq-feront-souffrir-les-familles-demunies/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Déclaration de Dominique Anglade', 'Il y a 7 ans, le 9 novembre 2015, j’écrivais la première page de ma vie politique comme élue, à titre de députée libérale de Saint-Henri–Sainte-Anne.
+
+Je me souviens encore de ma petite dernière. Elle était alors haute comme trois pommes et, aujourd’hui, elle me dépasse…presque, 7 ans plus tard, me voici devant vous pour fermer un chapitre très riche de ma vie et en commencer un nouveau.
+
+Durant toutes ces années, j’ai eu le privilège de servir les citoyens de Saint-Henri–Sainte-Anne. Je l’ai fait avec beaucoup de détermination et d’empathie parce que c’est un comté qui a besoin d’amour et de cœur.
+
+J’ai aussi eu le privilège d’occuper la fonction de vice-première ministre et celui d’être la deuxième femme à occuper le poste de ministre de l’Économie.
+
+Et si j’ai choisi la politique comme véhicule, c’est parce qu’au plus profond de moi j’ai la conviction que l’on doit travailler pour que chaque personne, peu importe où elle habite sur notre territoire, peu importe le milieu duquel elle est issue, peu importe ses origines, puisse atteindre son plein potentiel, qu’elle puisse être tout ce qu’elle peut être.
+
+Tout au long de mon parcours, j’ai toujours défendu des valeurs qui m’ont été transmises par mes parents. Des valeurs d’inclusion, de respect et d’égalité des chances.
+
+Je vais toujours voir grand pour le Québec. Pour que le Québec prenne pleinement sa place sur l’échiquier canadien comme ailleurs dans le monde. Un Québec capable de défendre sa langue et sa culture en incluant tous les Québécois.
+
+Pour moi, être libérale, c’est croire en une société respectueuse des droits et libertés de chacun, ceux des autochtones qui sont ici depuis des millénaires et ceux du dernier immigrant qui vient de s’installer chez nous.
+
+For me, being a liberal means believing in a society that respects the rights and freedoms of everyone.
+
+Le Parti libéral doit s’ancrer dans la modernité. Se saisir de l’importance que représente la lutte aux changements climatiques comme un vecteur de création de richesse collective nécessaire à l’expression de notre solidarité.
+
+Être libérale, c’est reconnaître le chemin parcouru par les femmes, mais de prendre conscience de l’ampleur du chemin qui reste à faire pour une société véritablement plus juste et équitable au moment même où ces femmes sont au front.
+
+Notre parti est confronté à de nombreux défis. Il doit poursuivre son travail, car nous avons un grand devoir de reconnexion avec les francophones et toutes les régions du Québec tout en restant fidèles à nos valeurs.
+
+C’est ce grand parti qui est à l’origine de tant de réformes et de la Révolution tranquille. Le droit de vote des femmes, la nationalisation de l’électricité, la création de la Caisse de dépôt et placement, la mise en place du ministère de la Culture, le français comme langue officielle, l’assurance maladie, les grands projets de développement économique liés à notre hydro-électricité, le Fonds des générations, les grands projets de transport collectif.
+
+Le Parti libéral a véritablement façonné le Québec tel qu’on le connaît aujourd’hui.
+
+Lors de la dernière élection, nous avons eu un puissant vent de face. Dans ce contexte difficile, j’ai, jour après jour, donné le meilleur de moi-même.
+
+Depuis le 3 octobre dernier, j’ai pris la pleine mesure des résultats et comme plusieurs, j’ai été déçue. J’ai alors entamé une réflexion personnelle qui est normale. J’ai eu de très nombreuses discussions avec nos candidats élus et non élus, des militants et de nombreuses personnalités respectées qui font partie de l’héritage libéral. Ma conviction en la pertinence et la nécessité d’un Parti libéral du Québec fort à l’Assemblée nationale reste inébranlable.
+
+Les enjeux démographiques, culturels, socio-économiques et écologiques sont trop importants pour que l’opposition officielle soit déchirée. Le Parti libéral du Québec doit opérer un renouvellement de son offre politique et de sa façon même de faire de la politique et n’a pas le luxe d’être miné par des intrigues internes dont les Québécois n’ont que faire.
+
+En conséquence, ayant à l’esprit les intérêts du Québec et le bien du parti, j’ai informé le président du parti de ma démission à titre de cheffe du Parti libéral du Québec.
+
+J’annonce également que je quitterai mes fonctions de députée de Saint-Henri–Sainte-Anne le 1er décembre.
+
+Having in mind the interests of Quebec and the good of the Party, I have informed the party president of my resignation as Leader of the Quebec Liberal Party.
+
+I am also announcing that I will step down as Member of the National Assembly for Saint-Henri-Sainte-Anne on December 1st of this year.
+
+Aux militants libéraux, il y a de grands défis devant nous et nous aurons besoin de tout le monde. Notre parti a et aura grand besoin de vous et vos contributions sont et seront inestimables.
+
+J’adresse aussi mes remerciements à ma gang. J’ai adoré partager avec vous la magnifique aventure qui nous a réunis. Je ne peux pas tous vous nommer, mais à toutes et tous, la meilleure des suites, je ne serai jamais bien loin.
+
+À mes collègues du caucus, je vous souhaite d’agir dans l’harmonie et l’unité afin que vos actions puissent avoir le maximum d’impact dans la suite des choses à titre d’opposition officielle.
+
+À mes concitoyens de Saint-Henri–Sainte-Anne qui m’ont permis de vivre une expérience hors du commun : vous représenter à l’Assemblée nationale aura été le privilège d’une vie.
+
+De manière plus personnelle, j’ai une pensée très particulière pour ma sœur Pascale qui a toujours été là. « Une chance qu’on s’a. »
+
+Pour mes parents, qui ont continué d’inspirer mes actions tandis que mes beaux-parents ont été d’une présence indéfectible, merci à vous quatre.
+
+Pour mon partenaire de vie. 24 ans ensemble la semaine dernière, merci d’avoir rendu le tout possible. Tu avais promis d’être un roc. Tu as livré la marchandise. J’ai hâte de poursuivre la route ensemble.
+
+À Michaël, Clara et Sophia, je vous ai donné la vie, mais c’est vous qui plus que jamais donnez un sens à la mienne. Merci mes amours.
+
+Quant à moi, j’entame un nouveau chapitre de ma vie.
+
+À titre de citoyenne engagée, je vais mettre à profit les enseignements de ma vie antérieure et ceux des 7 dernières années d’expérience politique à servir autrement le Québec.
+
+– Dominique Anglade, députée de Saint-Henri–Sainte-Anne et cheffe du Parti libéral du Québec', '11/07/2022 20:00:00 PM','https://plq.org/fr/communiques/declaration-de-dominique-anglade/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Les députés libéraux suivront une formation sur les changements climatiques', 'Les députés du Parti libéral du Québec souhaitent démontrer leur détermination à lutter contre les changements climatiques en étant la première formation politique à s’engager à suivre une formation sur le climat offerte par Réalité Climatique Canada.
+
+De son côté, la CAQ n’a identifié que 51% des mesures permettant l’atteinte de sa cible de réduction des GES de 37,5% sous le seuil de 1990, d’ici 2030, et n’a pas de plan pour atteindre l’objectif de carboneutralité en 2050.
+
+Les groupes environnementaux et les experts sont catégoriques : les députés de l’Assemblée nationale doivent constamment parfaire leurs connaissances si le Québec veut atteindre ses objectifs de réduction d’émissions de GES. Pour atteindre la carboneutralité en 2050, il faudra que l’ensemble des décisions gouvernementales prennent en compte leur impact sur le climat.
+
+La formation non partisane visera à favoriser une meilleure prise de décision, fondée sur la science. L’opposition officielle encourage toutes les formations politiques à se former adéquatement pour se doter de bons moyens d’actions climatiques.
+
+La formation proposée est gratuite pour tous ceux qui en font la demande.
+
+« Nous engager à suivre une formation, tel que recommandé par les scientifiques, est un geste fort qui démontre que nous sommes prêts à agir mais aussi à acquérir de meilleures connaissances dans l’élaboration de politiques publiques. J’ai moi-même été formée par Al Gore en plus d’avoir cofondé le volet canadien de son organisme Climate Reality. Je crois fermement que, nous, les députées et députés du Parti libéral du Québec, ne sommes pas seulement ouverts : nous sommes prêts à poser des gestes concrets. »
+
+-Désirée McGraw, députée de Notre-Dame-de-Grâce et porte-parole de l’opposition officielle en matière d’environnement et de lutte contre les changements climatiques et en matière de faune et de parcs', '12/01/2022 20:00:00 PM','https://plq.org/fr/communiques/les-deputes-liberaux-suivront-une-formation-sur-les-changements-climatiques/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Mise à jour économique : la CAQ doit mettre ses priorités à la bonne place', 'À l’occasion de sa mise à jour économique, le gouvernement caquiste doit faire les bons choix afin d’offrir aux Québécoises et aux Québécois une économie plus forte, plus verte et plus prospère, selon Frédéric Beauchemin, porte-parole de l’opposition officielle en matière de finances, d’économie et d’innovation.
+
+Celui-ci s’inquiète de voir la CAQ proposer des solutions complètement déconnectées comme lier les tarifs d’Hydro-Québec au taux d’inflation, présenter des mesures qui ne permettront d’atteindre que 51% des objectifs de réduction de GES d’ici 2030 et se réjouir de la pénurie de main-d’œuvre en prétendant que c’est « une bonne nouvelle ».
+
+À l’opposé, pour faire face à cet important manque de travailleurs au Québec, M. Beauchemin rappelle que les propositions libérales permettraient à nos entreprises de croître et de profiter d’opportunités économiques exceptionnelles.
+
+Il souhaite donc mettre de l’avant :
+
+Exemption d’impôt pour les premiers 30 000$ gagnés par les travailleurs de 65 ans et plus;
+Congé de cotisations au RRQ à partir de 62 ans;
+Automatisation, robotisation et investissements en innovation;
+Compléter le réseau des services de garde, permettant aux parents des quelques 51,000 enfants en attente de places de retourner sur le marché du travail;
+Plus grande implication des régions afin d’augmenter notre capacité d’accueil en matière d’immigration.
+D’autre part, le député libéral de Marguerite-Bourgeoys estime que le gouvernement doit mettre en place des mesures qui aideront les personnes les moins nanties et qui sont les plus touchées par la hausse du coût de la vie. Lorsqu’il est question d’aider les plus vulnérables, M. Beauchemin et le Parti libéral proposent notamment :
+
+Une allocation-aînés de 2000$ par année non imposable pour les personnes de 70 ans et plus;
+Une augmentation du crédit à la solidarité de 25%;
+L’abolition de la TVQ sur les produits essentiels;
+Une baisse d’impôt pour le premier palier d’imposition.
+M. Beauchemin souhaite, par ailleurs, un investissement majeur afin de résorber les déficits des sociétés de transport et ainsi assurer le maintien des services de transport en commun partout à Montréal, mais aussi ailleurs au Québec.
+
+La mise à jour économique du 8 décembre prochain est une occasion en or pour le gouvernement caquiste de démontrer à tous les Québécois qu’il souhaite vraiment relancer l’économie en présentant des solutions qui donneront de réels résultats et qui leur permettront de recevoir les services auxquels ils ont droit.
+
+« Ce que j’attends et que tous les Québécois attendent du gouvernement Legault, c’est qu’il fasse les bons choix, c’est-à dire proposer des mesures ciblées et responsables tout en tenant compte des impératifs de la lutte aux changements climatiques. Malheureusement, ce n’est pas ce à quoi la CAQ nous a habitués dans les quatre dernières années et ce n’est surtout pas rassurant pour l’économie du Québec. »
+
+-Frédéric Beauchemin, porte-parole de l’opposition officielle en matière de finances, d’économie et d’innovation
+
+
+Fred Beauchemin', '12/02/2022 20:00:00 PM','https://plq.org/fr/communiques/mise-a-jour-economique-la-caq-doit-mettre-ses-priorites-a-la-bonne-place/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'De meilleures conditions pour le personnel infirmier et des soins plus humains', 'Le porte-parole de l’opposition officielle en matière de santé, M. André Fortin, a présenté aujourd’hui à l’Assemblée nationale, un projet de loi visant à améliorer la qualité des soins par la fixation de ratios dans certains établissements du réseau de la santé et des services sociaux. Ces ratios sont plus que jamais pertinents, surtout avec le contexte de pénurie de main-d’œuvre qui frappe aussi dans le milieu de la santé.
+
+Selon les mesures proposées au projet de loi, la fixation de ratios se traduirait par la présence d’une équipe minimale de professionnels en soins pour un groupe de patients ayant des problèmes de santé similaires. Ce minimum serait ajustable à la hausse selon leurs besoins. En nombre suffisant, les professionnels auraient le temps de dispenser des soins plus sécuritaires aux patients et pourraient utiliser enfin toutes leurs compétences, estime le député libéral de Pontiac.
+
+Une diminution de la charge de travail, de l’insatisfaction, de l’absentéisme, de la détresse, de l’épuisement et des accidents de travail a été démontrée par plusieurs projets pilotes. En offrant des conditions optimales au personnel soignant, il serait plus facile de recruter une main-d’œuvre qui, depuis longtemps, est manquante sur le terrain.
+
+« Le manque criant de personnel dans nos établissements de santé nous démontre une fois de plus l’importance de mettre en place de tels ratios qui ont déjà fait leurs preuves. Bonifier le salaire du personnel soignant, c’est important, mais il faut lui offrir des conditions de travail décentes et valorisantes. Les ratios auraient des effets positifs sur la rétention et le recrutement des infirmières et préposées ainsi que des bienfaits pour les soins aux patients des hôpitaux et des CHSLD. Quatre ans après le dépôt d’un tel projet de loi, nous demandons au gouvernement caquiste qu’il démontre un minimum d’ouverture et qu’il permette aux députés d’étudier ce projet de loi. »
+
+-André Fortin, député de Pontiac et porte-parole de l’opposition officielle en matière de santé', '12/07/2022 20:00:00 PM','https://plq.org/fr/communiques/de-meilleures-conditions-pour-le-personnel-infirmier-et-des-soins-plus-humains/?')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Marwah Rizqy dépose un projet de loi sur la qualité de l’air dans les écoles', 'La députée de Saint-Laurent et porte-parole de l’opposition officielle en matière d’éducation, Mme Marwah Rizqy, a déposé, à l’Assemblée nationale, un projet de loi intitulé Loi visant à assurer la santé et la sécurité des élèves en classe en encadrant la qualité de l’air ambiant dans les écoles. Celui-ci vise à garantir un environnement sécuritaire et propice à la réussite scolaire des élèves.
+
+La porte-parole de l’opposition officielle en éducation dépose ce projet de loi pour une seconde fois cette année. Elle démontre ainsi une volonté claire d’assurer la santé et la sécurité des élèves et du personnel scolaire dans les établissements scolaires.
+
+S’il y a une chose que nous devons absolument retenir après plus de deux ans de pandémie face à un virus qui se transmet principalement par aérosols, c’est l’importance de la ventilation dans nos écoles. Merci aux experts qui ont été consultés pour la rédaction de ce projet de loi. L’apport de la physicienne Nancy Delagrave de COVID-STOP et de l’ingénieur Louis Grenier est inestimable. Grâce à leur précieuse contribution, le projet de loi intègre les meilleures pratiques.
+
+« En 2022, nous méritons une meilleure solution que celle d’ouvrir les fenêtres en hiver pour ventiler les écoles du Québec! C’est la deuxième fois que je dépose ce même projet de loi et j’ose espérer que le nouveau ministre aura une oreille plus attentive que son prédécesseur et y donnera suite. Avec ce projet de loi, on instaure des mesures structurantes et durables qui garantissent une qualité optimale de l’air dans nos écoles. Les élèves et les enseignants ont le droit de vivre dans un environnement sécuritaire. C’est un facteur déterminant dans la réussite des élèves. »
+
+-Marwah Rizqy, députée de Saint-Laurent et porte-parole de l’opposition officielle en matière d’éducation
+
+« Alors que les urgences pédiatriques des hôpitaux de Montréal débordent, nous devons nous attaquer à la transmission des virus respiratoires là où ça compte. Les virus du SRAS-CoV-2, de l’influenza et respiratoire syncytial se transmettent principalement, voire exclusivement, par aérosols. La ventilation peut diminuer le nombre de cas de plus de 82 % selon une étude italienne en visant des seuils de CO2 suffisamment bas. La filtration à l’aide d’un purificateur portable peut réduire 92 % des particules infectieuses en suspension dans l’air en 6 minutes. Il est grand temps de se donner les outils pour diminuer la contagion et préserver la santé et la capacité d’apprentissage de nos enfants. Il est impératif que le Québec rejoigne d’autres juridictions avec une approche rationnelle et lucide de la Covid. »
+
+– Nancy Delagrave, physicienne et coordonnatrice scientifique du groupe COVID-STOP
+
+« Le projet de loi sur la qualité de l’air dans nos écoles pour nos enfants et le personnel enseignant a une place toute spéciale dans mon coeur. Mon père, Jacques, a enseigné dans nos belles écoles québécoises mais est malheureusement décédé pendant la pandémie dans un CHSLD. Lors de ses funérailles, j’ai promis à ma famille élargie Grenier de faire quelque chose d’utile en son honneur. Alors, ce projet de loi, en collaboration avec plusieurs personnes de qualité, est l’aboutissement de cette volonté de protéger nos plus vulnérables. Nos enfants sont la ressource la plus précieuse de notre société. Au nom de mon père Jacques, on vous demande de prendre une approche non-partisane et faire ce que doit pour que les infections respiratoires dans nos écoles diminuent. »
+
+– Louis Grenier, ingénieur
+
+La députée libérale de Saint-Laurent demande la collaboration du gouvernement afin que le projet de loi chemine et soit adopté rapidement pour le bénéfice des élèves et du personnel scolaire.', '12/08/2022 20:00:00 PM','https://plq.org/fr/communiques/marwah-rizqy-depose-un-projet-de-loi-sur-la-qualite-de-lair-dans-les-ecoles-2/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Enrayer les bagarres dans les sports chez les jeunes', 'Le député de Marquette et porte-parole de l’opposition officielle en matière de sports, de loisirs, de plein air et de saines habitudes de vie, Enrico Ciccone, a présenté aujourd’hui à l’Assemblée nationale un projet de loi visant à interdire les batailles dans les activités sportives auxquelles participent des personnes de moins de 18 ans.
+
+À cet effet il a lancé, à plusieurs reprises, de vibrants plaidoyers pour protéger les jeunes et estime qu’avec ce que l’on sait aujourd’hui sur les conséquences, notamment, des commotions cérébrales dont il a été lui-même victime à plus d’une reprise, qu’il est évident que les bagarres n’ont plus leur place sur la glace.
+
+« Je mène un combat contre la violence dans les sports, principalement le hockey, depuis plusieurs années maintenant. Aujourd’hui, je poursuis ma croisade à l’Assemblée nationale. Au hockey, l’augmentation du temps de pénalité à la suite d’une bagarre, ce n’est plus suffisant. Ça prend un geste concret, une position ferme, c’est-à-dire, l’interdiction complète. On continue de laisser nos jeunes de 15, 16 et 17 ans se tapocher quand on connaît l’impact des commotions cérébrales sur la santé. C’est absolument inacceptable. C’est la deuxième fois que je dépose ce projet de loi; j’espère que cette fois-ci sera la bonne et que la ministre acceptera de l’appeler pour permettre aux parlementaires de l’étudier et enfin l’adopter. »
+
+-Enrico Ciccone, député de Marquette et porte-parole de l’opposition officielle en matière de sports, loisirs, plein air et saines habitudes de vie', '12/08/2022 20:00:00 PM','https://plq.org/fr/communiques/enrayer-les-bagarres-dans-les-sports-chez-les-jeunes/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'L’opposition officielle veut faire la lumière sur l’utilisation des salles d’isolement dans nos écoles', 'La porte-parole de l’opposition officielle en matière d’éducation et d’enseignement supérieur, Marwah Rizqy, a fait parvenir, aujourd’hui, une demande de mandat d’initiative au président de la Commission de la culture et de l’éducation sur l’utilisation des salles d’isolement ou de retrait dans le réseau de l’éducation.
+
+La députée libérale de Saint-Laurent s’inquiète d’apprendre, dans un article publié sur Radio-Canada1, que les salles de retrait normalement utilisées pour calmer les enfants servent également de lieux de punition et dans les cas mentionnés dans ledit article, s’apparentent à des cachots.
+
+C’est pourquoi, en collaboration avec sa collègue porte-parole pour les personnes vivant avec un handicap ou avec le spectre de l’autisme, Elisabeth Prass, Mme Rizqy demande à ce que la Commission de la culture et de l’éducation étudie la question. Elle propose également que ses membres se rendent sur les lieux afin de constater de visu la situation dans laquelle un enfant peut être plongé.
+
+« Une école doit d’abord être un lieu d’apprentissage sain et sécuritaire pour l’ensemble des élèves, qu’ils aient un handicap ou des défis particuliers. Des parents ont osé dénoncer cette pratique qui doit faire, selon nous, l’objet d’une étude plus attentive afin de se doter des meilleures pratiques. Le mandat permettrait notamment de répondre à des questions importantes telles que :
+
+· Combien y a-t-il de salles dites d’apaisement ou d’isolement?
+
+· Combien d’enfants y sont envoyés?
+
+· Pendant combien de temps?
+
+· Est-ce que le consentement parental est obtenu? »
+
+-Marwah Rizqy, députée de Saint-Laurent et porte-parole de l’opposition officielle en matière d’éducation et d’enseignement supérieur
+
+ 
+
+« Les enfants aux besoins particuliers ont le droit de profiter pleinement de ces lieux d’apaisement pour retrouver leur calme, leur concentration et pour bien réussir en classe. Le mandat d’initiative que nous réclamons permettra d’apporter un éclairage plus précis sur une pratique qui est loin de faire l’unanimité. »
+
+-Elisabeth Prass, députée de D’Arcy-McGee et porte-parole de l’opposition officielle pour les personnes vivant avec un handicap ou avec le spectre de l’autisme
+
+1.https://ici.radio-canada.ca/nouvelle/1940580/salles-retrait-isolement-apaisement-ecole-autisme-tsa-education-specialisee?depuisRecherche=true', '12/16/2022 20:00:00 PM','https://plq.org/fr/communiques/lopposition-officielle-veut-faire-la-lumiere-sur-lutilisation-des-salles-disolement-dans-nos-ecoles/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'L’opposition condamne le blocage du couloir de Latchine', 'L’opposition officielle condamne vivement le blocage du couloir de Latchine par l’Azerbaïdjan dans la foulée de son conflit avec l’Arménie. Les porte-paroles en matière de relations internationales, Michelle Setlakwe, de justice, André A. Morin, et la députée de Chomedey d’origine arménienne, Sona Lakhoyan Olivier, craignent que la situation ne dégénère en une grave crise humanitaire.
+
+Les députés libéraux joignent leur voix à une part grandissante de la communauté internationale qui réclame la réouverture de ce corridor essentiel à la libre circulation afin d’assurer l’approvisionnement d’aliments, de médicaments et de carburant pour l’enclave de Haut-Karabakh.
+
+« Nous sommes précoccupés par la hausse récente des hostilités entre l’Arménie et l’Azerbaïjan. Nous souhaitons que les deux parties impliquées agissent afin de permettre la reprise d’un dialogue constructif. Étant moi-même de descendance arménienne, j’espère sincèrement que c’est cette voie qui sera privilégiée. »
+
+-Michelle Setlakwe, députée de Mont-Royal–Outremont et porte-parole de l’opposition officielle en matière de relations internationales
+
+« La communauté internationale doit se mobiliser afin de s’assurer que la situation du Haut-Karabakh ne dégénère en une véritable crise humanitaire. La population de la région ne doit, en aucun cas, être prise en otage et menacée de pénurie d’aliments ou de médicaments. »
+
+-André A. Morin, député de l’Acadie et porte-parole de l’opposition officielle en matière de justice
+
+« Comme mes compatriotes québécois issus de la communauté arménienne, je suis très inquiète de la situation qui prévaut actuellement dans cette région. Mes collègues de l’opposititon officielle se joignent à moi pour leur offrir tout notre soutien. »
+
+-Sona Lakhoyan Olivier, députée de Chomedey', '12/16/2022 20:00:00 PM','https://plq.org/fr/communiques/lopposition-condamne-le-blocage-du-couloir-de-latchine/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'COP15 : une opportunité à saisir pour le Québec', '
+La porte-parole de l’opposition officielle en matière d’environnement et de lutte contre les changements climatiques et en matière de faune et de parcs, Désirée McGraw, se réjouit de l’accord survenu à l’occasion de la COP15 sur un cadre global de protection de la biodiversité.
+
+Selon la députée libérale de Notre-Dame-de-Grâce, qui suit la Convention sur la biodiversité depuis sa participation comme reporter et recherchiste à la toute première COP en 1994, l’accord de Kunming-Montréal représente un tournant pour l’humanité, qui doit forger une nouvelle relation avec la nature.
+
+Elle s’inquiète cependant de la volonté réelle de la CAQ d’atteindre les cibles de l’entente, qui exige de mieux protéger 30% des milieux naturels terrestres et marins d’ici 2030. Pour elle, le bilan du gouvernement Legault n’a rien de rassurant, notamment les plus de 70 projets d’aires protégées toujours en attente. Mme McGraw demande donc au gouvernement de se fixer un objectif réalisable dans le présent mandat, soit d’atteindre 25% d’ici 2025, comme le fait le gouvernement canadien.
+
+La protection de la biodiversité sera un enjeu de tous les instants dans les prochaines années et le Québec doit se positionner comme un leader mondial en la matière, estime Mme McGraw. Elle reconnaît que la mise en œuvre de l’entente demandera encore beaucoup de négociations mais que le Québec doit saisir l’opportunité d’y jouer un rôle de premier plan.
+
+« Toutes les nations comprennent le défi sans précédent auquel la planète est confrontée. Je pense que cet accord fondamental peut et doit ouvrir une nouvelle ère de leadership et d’action collaborative pour restaurer la santé, la qualité et l’abondance de la nature à l’échelle mondiale, tout en plaçant les peuples autochtones et les communautés locales au cœur de cette transformation. Cependant, pour chaque avancée réalisée lors de la COP15, il reste un vide à combler. Nous avons encore besoin d’un objectif mesurable pour la nature qui soit au moins aussi ambitieux que nos objectifs en matière de changement climatique. Le véritable travail pour garantir la santé planétaire et la sécurité humaine ne fait que commencer. »
+
+– Désirée McGraw, députée de Notre-Dame-de-Grâce et porte-parole de l’opposition officielle en matière d’environnement et de lutte contre les changements climatiques et en matière de faune et de parcs', '12/19/2022 20:00:00 PM','https://plq.org/fr/communiques/cop15-une-opportunite-a-saisir-pour-le-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,2,'Le Parti libéral du Québec au travail pour les régions', 'En ce début de législature, l’équipe libérale est déjà au travail afin de faire entendre les préoccupations de toutes les régions du Québec à l’Assemblée nationale. Le chef de l’opposition officielle et député de LaFontaine, Marc Tanguay, a présenté les députés qui seront les porte-paroles de l’opposition officielle pour chacune des régions du Québec.
+
+Reprochant au gouvernement Legault d’abandonner les régions, le chef libéral affirme que son équipe de porte-paroles régionaux sera plus présente que jamais sur le terrain pour entendre les préoccupations des citoyens de tout le Québec et pour mettre fin à l’approche mur-à-mur.
+
+Le député de LaFontaine rappelle d’ailleurs que son parti souhaite mettre de l’avant des solutions mieux adaptées à la réalité régionale, donner une véritable voix aux citoyens des régions et soutenir les gouvernements de proximité.
+
+Chaque région est différente et fait face à ses enjeux propres et l’opposition officielle compte les mettre de l’avant et proposer des solutions concrètes et durables pour chacun d’eux, via ses députés responsables. C’est d’ailleurs le mandat clair que leur a confié M. Tanguay, en plus de celui d’être sur le terrain le plus possible.
+
+Députés libéraux responsables par région :
+
+· Abitibi-Témiscamingue : André Fortin;
+
+· Bas-Saint-Laurent : Enrico Ciccone;
+
+· Capitale-Nationale : Marc Tanguay;
+
+· Centre-du-Québec : Michelle Setlakwe;
+
+· Chaudière-Appalaches : Michelle Setlakwe;
+
+· Côte-Nord : Gregory Kelley;
+
+· Estrie : Frédéric Beauchemin;
+
+· Gaspésie–Îles-de-la-Madeleine : Enrico Ciccone;
+
+· Lanaudière : Sona Lakhoyan Olivier;
+
+· Laurentides : Sona Lakhoyan Olivier;
+
+· Laval : Virginie Dufour;
+
+· Mauricie : Brigitte Garceau;
+
+· Métropole : Madwa-Nika Cadet;
+
+· Montérégie : Linda Caron;
+
+· Nord-du-Québec : André A. Morin;
+
+· Outaouais : André Fortin;
+
+· Saguenay–Lac-St-Jean : Frédéric Beauchemin.
+
+« Le gouvernement de François Legault est dans sa cinquième année et les résultats sont catastrophiques. Les Québécoises et les Québécois n’ont pas accès aux services essentiels auxquels ils ont droit. Nos députés seront présents dans toutes les régions du Québec et s’assureront de porter la voix des citoyens. Si la CAQ a abandonné les régions au cours des cinq dernières années, l’équipe libérale va se charger de rappeler le gouvernement à ses responsabilités. »
+
+– Marc Tanguay, chef de l’opposition officielle', '12/21/2022 20:00:00 PM','https://plq.org/fr/communiques/le-parti-liberal-du-quebec-au-travail-pour-les-regions/')
+
+-- PQ
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LETTRE À FRANÇOIS LEGAULT', 'Monsieur le Premier Ministre,
+
+Je sollicite votre collaboration dans le dossier du serment au roi prévu dans la constitution canadienne de 1867.
+
+Comme vous le savez, j’ai signifié à l’Assemblée nationale mon intention de ne pas prêter serment d’allégeance au roi d’Angleterre et de m’en tenir uniquement au serment d’allégeance envers le peuple québécois prévu à l’article 15 de la Loi sur l’Assemblée nationale.
+
+Depuis que j’ai fait connaître publiquement cette intention, de nombreuses voix se sont fait entendre dans la société civile pour que tous les élus emboitent le pas et mettent fin à cette mascarade humiliante, en refusant eux aussi de prêter serment au roi. Un grand nombre de juristes et de constitutionnalistes ont également pris la parole pour signifier qu’à leurs yeux, l’Assemblée nationale n’a pas l’obligation de sanctionner un élu qui refuserait de prêter serment au roi d’Angleterre, en l’empêchant de siéger. Malheureusement, j’ai reçu jeudi dernier une réponse préliminaire du secrétaire général de l’Assemblée que vous trouverez ci-jointe. On comprend de cette réponse que le secrétaire général ne considère pas avoir le pouvoir de changer la pratique des deux serments en vigueur, ni l’interprétation de ses prédécesseurs indiquant que le cumul des deux serments est une condition pour siéger au salon bleu.
+
+Le secrétaire général indique toutefois que les choses pourraient en être autrement si « un acte » de l’Assemblée nationale venait clarifier les choses et préciser la volonté des élus sur ce sujet. On peut sans doute y voir une reconnaissance de la souveraineté de l’Assemblée nationale en la matière, de même que la possibilité pour l’Assemblée de confirmer formellement l’interprétation adoptée par plusieurs juristes voulant que, dans l’hypothèse où les élus exprimaient clairement leur volonté en ce sens, le refus du
+serment au roi d’Angleterre ne devrait pas empêcher un élu de siéger.
+
+C’est pourquoi je sollicite formellement votre collaboration pour qu’à titre de Premier ministre, vous initiez à la reprise des travaux parlementaires une motion à l’effet que le défaut de prêter serment au roi ne devrait pas empêcher un député démocratiquement élu de siéger. Je demande également de laisser le libre-choix à chacun des députés nouvellement élus de la Coalition Avenir Québec (CAQ) de donner l’exemple et d’entendre la voix de plusieurs analystes politiques en refusant eux aussi de prêter serment au roi, de sorte que notre volonté politique et notre solidarité en la matière ne fassent aucun doute.
+Je sais que dans votre programme, et ce depuis 2015, la CAQ s’était engagée à abolir la monarchie britannique au Québec. Nous sommes donc entièrement d’accord sur cette orientation. Si l’abolition complète de la monarchie au Québec implique plusieurs démarches complexes, nous sommes ici devant une occasion de poser un geste simple et concret pour nous libérer de ces institutions archaïques et respecter la liberté de conscience de chaque député. Qui plus est le geste requis de votre part implique
+le dépôt d’une simple motion qui prendra une quinzaine de minutes tout au plus.
+
+N’ayant aucun doute sur votre volonté de collaborer sur cet enjeu et vous remerciant d’emblée pour la suite que vous donnerez à la présente, je vous prie de croire, Monsieur le Premier Ministre, à
+l’expression de ma haute collaboration.
+
+Paul St-Pierre Plamondon', '10/17/2022 20:00:00 PM','https://pq.org/2022/10/17/4222/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LETTRE À DOMINIQUE ANGLADE', 'Madame la Cheffe de l’opposition officielle,
+
+Je sollicite votre collaboration dans le dossier du serment au roi prévu dans la constitution canadienne de 1867.
+
+Comme vous le savez, j’ai signifié à l’Assemblée nationale mon intention de ne pas prêter serment d’allégeance au roi d’Angleterre et de m’en tenir uniquement au serment d’allégeance envers le
+peuple québécois prévu à l’article 15 de la Loi sur l’Assemblée nationale.
+
+Depuis que j’ai fait connaître publiquement cette intention, de nombreuses voix se sont fait entendre dans la société civile pour que tous les élus emboitent le pas et mettent fin à cette mascarade humiliante, en refusant eux aussi de prêter serment au roi. Un grand nombre de juristes et de constitutionnalistes ont également pris la parole pour signifier qu’à leurs yeux, l’Assemblée nationale n’a pas l’obligation de sanctionner un élu qui refuserait de prêter serment au roi d’Angleterre, en l’empêchant de siéger.
+
+Malheureusement, j’ai reçu jeudi dernier une réponse préliminaire du secrétaire
+général de l’Assemblée que vous trouverez ci-jointe. On comprend de cette réponse que le secrétaire général ne considère pas avoir le pouvoir de changer la pratique des deux serments en vigueur, ni
+l’interprétation de ses prédécesseurs indiquant que le cumul des deux serments est une condition pour siéger au salon bleu.
+
+Le secrétaire général indique toutefois que les choses pourraient en être autrement si « un acte » de l’Assemblée nationale venait clarifier les choses et préciser la volonté des élus sur ce sujet. On peut sans doute y voir une reconnaissance de la souveraineté de l’Assemblée nationale en la matière, de même que la possibilité pour l’Assemblée de confirmer formellement l’interprétation adoptée par plusieurs juristes voulant que, dans l’hypothèse où les élus exprimaient clairement leur volonté en ce sens, le refus du
+serment au roi d’Angleterre ne devrait pas empêcher un élu de siéger.
+
+C’est pourquoi je sollicite formellement votre collaboration pour qu’à titre de cheffe de l’opposition officielle, vous consentiez à la reprise des travaux parlementaires une motion à l’effet que le défaut de prêter serment au roi ne devrait pas empêcher un député démocratiquement élu de siéger. Je demande également de laisser le libre-choix à chacun des députés nouvellement élus du Parti
+libéral du Québec de donner l’exemple et d’entendre la voix de plusieurs analystes politiques en refusant eux aussi de prêter serment au roi, de sorte que notre volonté politique et notre solidarité en la matière ne fassent aucun doute.
+
+Je sais que votre programme ne contient rien de spécifique sur cet enjeu, mais je connais votre intérêt sincère pour la démocratie québécoise et la santé de nos institutions. Nul doute que plusieurs de vos élus ne sont pas tout à fait à l’aise avec cet exercice de génuflexion. Si l’abolition complète de la monarchie au Québec implique plusieurs démarches complexes, nous sommes ici devant une occasion de poser un geste simple et concret pour nous libérer de ces institutions archaïques et respecter la liberté de conscience de chaque député. Qui plus est le geste requis de votre part implique un simple vote en faveur d’une motion qui prendra une quinzaine de minutes tout au plus.
+
+N’ayant aucun doute sur votre volonté de collaborer sur cet enjeu et vous remerciant d’emblée pour la suite que vous donnerez à la présente, je vous prie de croire, Madame la Cheffe de l’opposition officielle, à l’expression de ma haute collaboration.
+
+Paul St-Pierre Plamondon', '10/17/2022 20:00:00 PM','https://pq.org/2022/10/17/lettre-a-dominique-anglade/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LETTRE À GABRIEL NADEAU-DUBOIS', 'Monsieur le co-porte-parole de Québec solidaire,
+
+Je sollicite votre collaboration dans le dossier du serment au roi prévu dans la constitution canadienne de 1867.
+
+Comme vous le savez, j’ai signifié à l’Assemblée nationale mon intention de ne pas prêter serment d’allégeance au roi d’Angleterre et de m’en tenir uniquement au serment d’allégeance envers le peuple québécois prévu à l’article 15 de la Loi sur l’Assemblée nationale.
+
+Depuis que j’ai fait connaître publiquement cette intention, de nombreuses voix se sont fait entendre dans la société civile pour que tous les élus emboitent le pas et mettent fin à cette mascarade humiliante, en refusant eux aussi de prêter serment au roi. Un grand nombre de juristes et de constitutionnalistes ont également pris la parole pour signifier qu’à leurs yeux, l’Assemblée nationale n’a pas l’obligation de sanctionner un élu qui refuserait de prêter serment au roi d’Angleterre, en l’empêchant de siéger. Malheureusement, j’ai reçu jeudi dernier une réponse préliminaire du secrétaire général de l’Assemblée que vous trouverez ci-jointe. On comprend de cette réponse que le secrétaire général ne considère pas avoir le pouvoir de changer la pratique des deux serments en vigueur, ni l’interprétation de ses prédécesseurs à indiquant que le cumul des deux serments est une condition pour siéger au salon bleu.
+
+Le secrétaire général indique toutefois que les choses pourraient en être autrement si « un acte » de l’Assemblée nationale venait clarifier les choses et préciser la volonté des élus sur ce sujet. On peut sans doute y voir une reconnaissance de la souveraineté de l’Assemblée nationale en la matière, de même que la possibilité pour l’Assemblée de confirmer formellement l’interprétation adoptée par plusieurs juristes voulant que, dans l’hypothèse où les élus exprimaient clairement leur volonté en ce sens, le refus du serment au roi d’Angleterre ne devrait pas empêcher un élu de siéger.
+
+C’est pourquoi je sollicite formellement votre collaboration pour qu’à titre de co-porte-parole de Québec solidaire, vous consentiez à la reprise des travaux parlementaires à une motion à l’effet que le défaut de prêter serment au roi ne devrait pas empêcher un député démocratiquement élu de siéger. Je demande également de laisser le libre-choix à chacun des députés nouvellement élus de Québec solidaire de donner l’exemple et d’entendre la voix de plusieurs analystes politiques en refusant eux aussi de prêter
+serment au roi, de sorte que notre volonté politique et notre solidarité en la matière ne fassent aucun doute.
+
+Je connais votre engagement envers l’abolition de ce serment au roi d’Angleterre, notamment à travers le projet de loi que vous avez déposé en 2019 et les nombreuses sorties de Sol Zanetti sur ce sujet. Nous logeons définitivement à la même enseigne sur cet enjeu et nul doute que plusieurs de vos élus ne sont pas du tout à l’aise avec cet exercice de génuflexion. Si l’abolition complète de la monarchie au Québec implique plusieurs démarches complexes, nous sommes ici devant une occasion de poser un geste simple et concret pour nous libérer de ces institutions archaïques et respecter la liberté de conscience de chaque député. Qui plus est le geste requis de votre part implique un simple vote en faveur d’une motion qui prendra une quinzaine de minutes tout au plus.
+
+N’ayant aucun doute sur votre volonté de collaborer sur cet enjeu et vous remerciant d’emblée pour la suite que vous donnerez à la présente, je vous prie de croire, Monsieur le co-porte-parole de Québec solidaire, à l’expression de ma haute collaboration.
+
+Paul St-Pierre Plamondon', '10/17/2022 20:00:00 PM','https://pq.org/2022/10/17/lettre-a-gabriel-nadeau-dubois/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'CRISE DANS LES URGENCES : LE MINISTRE DUBÉ DOIT CESSER D’IMPROVISER', 'Le député des Îles-de-la-Madeleine et porte-parole du Parti Québécois en matière de santé, Joël Arseneau, dénonce l’immobilisme et l’improvisation actuelle du gouvernement en plein milieu d’une crise dont il ne semble pas prendre la pleine mesure. Le Parti Québécois juge que l’annonce d’une cellule de crise pour Montréal apparait improvisée, insuffisante et surtout incomplète dans sa composition.  
+
+EN BREF :  
+
+Les urgences du Québec débordent au détriment de la santé et de la sécurité des patients et du personnel alors que la CAQ ne semblent pas réaliser l’ampleur de la crise; 
+Le Parti Québécois demande une véritable cellule de crise pour tout le Québec, qui regroupera non seulement des gestionnaires du réseau, mais des experts indépendants, des urgentistes et surtout les syndicats et du personnel de terrain. 
+Ceci est nécessaire pour trouver des solutions qui répondent à l’ampleur de la situation partout au Québec. 
+À terme, il faut impérativement renforcer la première ligne, effectuer un virage vers les soins à domicile et sevrer le système de santé public des agences privées. 
+Alors que plusieurs urgences au Québec sont occupées comme jamais et que certaines ont atteint des taux d’occupation jamais vus, le personnel soignant peine à imaginer comment il va traverser la période automnale ainsi que la période des fêtes à venir. Le député Joël Arseneau s’inquiète : « Fermetures d’urgences, taux d’occupation de plus de 150% selon les régions, crise cardiaque traitée trop tard, patients qui attendent plus de 15 heures sans obtenir de services malgré un état de santé précaire : c’est franchement inquiétant, car un niveau aussi élevé d’achalandage, et ce partout au Québec, met à risque la santé et la sécurité des patients! » 
+
+Ce qui est d’autant plus inquiétant, c’est que nous avons l’impression que le gouvernement ne réalise pas l’ampleur et la gravité de la situation qui sévit partout au Québec. Tant le premier ministre que le ministre Dubé font référence au « plan santé » de la CAQ déposé en avril dernier pour résoudre la crise actuelle. Or, c’est loin d’être convaincant : « Ce plan ne répond pas à l’urgence immédiate, on parle de mesures à moyen et long terme. La crise actuelle impose une réaction et des mesures rapides et inédites. Comme pour la crise sanitaire, une situation exceptionnelle appelle à l’application de mesures exceptionnelles. Ce qu’il faut envisager, c’est la mise sur pied d’un comité national de crise qui regrouperait, non pas uniquement des gestionnaires de Montréal, mais aussi et surtout experts indépendants, des urgentistes, les syndicats et le personnel sur le terrain, notamment pour trouver des solutions concrètes et applicables immédiatement. Pour l’instant c’est trop peu, insuffisant et surtout très tard », a déclaré le député du Parti Québécois.  
+
+Il faut aussi prendre les moyens, dès maintenant, pour mettre fin à l’hémorragie du personnel qui fuit vers le réseau privé avec des mesures fortes de rétention et d’attraction : adopter des ratios soignants/patients sécuritaires, abolir le temps supplémentaire obligatoire en plus de s’affranchir de la dépendance malsaine aux agences de placement privées. En parallèle, il faut impérativement assurer une première ligne efficace pour offrir des options aux Québécois à l’extérieur des urgences, qui peinent à remplir leur mission, notamment avec les CLSC et le soutien à domicile. « Le débordement actuel vécu dans les urgences démontre que le Guichet d’accès à la première ligne (GAP) du ministre Dubé ne fonctionne pas, car si tel était le cas, on ne serait pas rendu là », a-t-il conclu.', '10/27/2022 20:00:00 PM','https://pq.org/2022/10/27/crise-dans-les-urgences-le-ministre-dube-doit-cesser-dimproviser/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'UNE ÉQUIPE AGUERRIE POUR FAIRE AVANCER LE QUÉBEC', 'Paul St-Pierre Plamondon est fier de présenter les dossiers qu’il portera avec ses députés aguerris. Avec ses deux collègues, il est prêt à porter la voix des citoyens et à former une opposition constructive, mais ferme sur les enjeux déterminants. 
+
+« Les Québécois pourront compter sur un trio de premier plan et à toute épreuve, pour porter leur voix devant le gouvernement. Je suis honoré d’avoir Joël et Pascal à mes côtés pour faire avancer le Québec. Au-delà des dossiers particuliers regroupés par thème, chaque député du Parti Québécois portera fermement l’option indépendantiste à l’Assemblée nationale. Nous porterons aussi tous un regard sur les enjeux d’éthique dans nos secteurs respectifs, ce dossier étant transversal. La responsabilité nous incombe donc à tous » a déclaré d’emblée le député de Camille-Laurin. 
+
+Pascal Bérubé, député de Matane-Matapédia, s’occupera des travaux parlementaires en tant que Leader, ainsi que des grands chantiers de l’identité, de l’éducation et des régions. « Pascal a cette passion qu’on lui connait bien pour notre nation, il veillera de près à ce que la CAQ n’abandonne pas notre langue et notre culture à un inévitable déclin, en plus de s’assurer que les régions qui n’ont pas de ministres ou qui n’ont pas de députés de l’opposition, soient quand même entendues fortement au salon bleu. Pascal est aussi l’homme de la situation pour surveiller le nouveau ministre de l’éducation! » a expliqué le chef du Parti Québécois.  
+
+Joël Arseneau s’occupera pour sa part des services publics et de la justice sociale, de l’environnement et des changements climatiques, des transports et des infrastructures. « Joël s’est montré un député robuste et crédible notamment en santé comme en transports. Il a aussi toute ma confiance pour mener le dossier de l’environnement et des changements climatiques, l’enjeu crucial de notre époque. Il est d’ailleurs aux premières loges des conséquences chez lui aux Îles, face à l’érosion des côtes. Il saura continuer de porter ses dossiers avec brio », a dit le chef de la troisième opposition. 
+
+Pour sa part, Paul St-Pierre Plamondon sera la voix des Québécois en économie, en justice et pour les relations avec les Premières Nations et les Inuits. « Je veux veiller à conserver une société juste pour tous, et je porterai votre voix sur ces dossiers. Notre équipe est prête à faire honneur aux Québécois qui nous ont accordé leur confiance, et à gagner le cœur des autres » a-t-il conclu.', '11/04/2022 20:00:00 PM','https://pq.org/2022/11/04/une-equipe-aguerrie-pour-faire-avancer-le-quebec/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'PAUL ST-PIERRE PLAMONDON S’INDIGNE QUE LE PROJET DE RAY-MONT LOGISTIQUES SOIT ENFONCÉ DANS LA GORGE DES RÉSIDENTS DE L’EST.', 'Le chef du Parti Québécois et député de Camille-Laurin, Paul St-Pierre Plamondon, s’indigne que le ministère de l’Environnement et de la Lutte aux changements climatiques approuve le projet de transbordement de conteneurs de Ray-Mont Logistiques alors qu’aucune étude d’impacts n’a été rendue publique et qu’il n’y a vraisemblablement aucune acceptabilité sociale. Il réitère qu’il faut déclencher un BAPE immédiatement. 
+
+EN BREF :
+
+· Le Parti Québécois dénonce que la 1ère phase du projet de Ray-Mont Logistiques soit approuvée sans que les études sur le bruit ne soient rendues publiques et qu’aucune étude d’impact ne soit réalisée sur les conséquences du projet pour la qualité de l’air, les vibrations, la circulation ou la santé des résidents de l’Est de Montréal. 
+
+· La CAQ agit sans transparence et sans aucune considération pour l’acceptabilité sociale du projet
+
+· Le chef du Parti Québécois dénonce que le ministre refuse de lancer un BAPE. 
+
+· Les 2e et 3e phases de ce projet pourraient amener encore plus de vibrations, de bruit, de poussière et de circulation de camions dans l’Est de Montréal.  Le ministère doit déclencher un BAPE pour l’ensemble du projet.
+
+Paul St-Pierre Plamondon s’indigne que le projet de transbordement de conteneurs de Ray-Mont Logistiques soit approuvé par le ministre sans acceptabilité sociale pour ce projet : « Encore une fois, l’Est de Montréal écope. Pire encore, le projet actuel, qui permet l’entreposage de 5000 conteneurs, ne concerne que 10% du terrain. Le promoteur compte augmenter ses activités dans des phases 2 et 3, mais ses intentions ne sont pas rendues publiques, aucune étude sur les conséquences de l’ensemble du projet n’a été réalisée et les citoyens, jamais consultés! ». Il rappelle qu’aucune étude n’a été rendue publique par le ministère pour répondre aux inquiétudes des citoyens et que ce projet amènera du bruit 7 jours sur 7, de 7h00 à 19h00, et implique jusqu’à 1500 déplacements de conteneurs par jour.
+
+Le député de Camille-Laurin réclame toujours un BAPE sur l’ensemble du projet. « Tel que je m’y étais engagé en campagne, il est nécessaire de lancer des études pour consulter les citoyens et répondre aux inquiétudes légitimes par rapport à l’impact du projet sur la qualité de l’air, l’augmentation des vibrations, les conséquences sur la santé et l’augmentation de la circulation. Les impacts sonores du projet initial ont été évalués pour accorder le certificat de conformité environnemental mais n’ont pas été rendus publics et n’ont pas passé le test de l’acceptabilité sociale, ce qui est inacceptable. Le ministre a le pouvoir de demander une étude exhaustive du projet global, et c’est de son devoir de le faire dans les circonstances » réclame le chef du Parti Québécois.', '11/04/2022 20:00:00 PM','https://pq.org/2022/11/04/paul-st-pierre-plamondon-sindigne-que-le-projet-de-ray-mont-logistiques-soit-enfonce-dans-la-gorge-des-residents-de-lest/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS DEMANDE AU MINISTRE GIRARD DE REVOIR SON PLAN D’ACTION
+', 'Le député de Matane-Matapédia, Pascal Bérubé, dénonce vivement le choix du gouvernement de la CAQ de continuer dans la «voie des chèques» pour tous les Québécois qui font moins de 100 000$. Le ministre Girard doit prendre acte de l’inflation présente et du risque de récession, et adopter plutôt une mesure ciblée qui aide ceux qui en ont vraiment besoin, sans négliger de s’attaquer aux causes à long terme de la hausse du coût de la vie.
+
+EN BREF :
+
+Le Parti Québécois dénonce l’entêtement du gouvernement caquiste de verser des chèques à tous ceux qui font moins de 100 000$
+Il faut plutôt opter pour une mesure plus ciblée qui aide réellement ceux qui en ont besoin
+De surcroit, il faut agir sur les causes structurantes de la hausse du coût de la vie pour renforcer notre économie à long terme
+Pascal Bérubé s’indigne que le gouvernement de la CAQ continue dans la « voie des chèques » pour tous ceux qui gagnent moins de 100 000$ : «C’est une mesure qui ratisse trop large, envoyer 800$ aux familles qui gagnent 200 000$ par année, alors que certains sont cruellement dans le besoin dans la situation actuelle. Il faut cibler et mettre le plafond plus bas». Celui-ci rappelle d’ailleurs que si on ramenait le plafond actuel à 80 000$ par année, l’État économiserait des centaines de millions qui pourraient ensuite être redirigés pour mieux aider ceux qui en ont réellement besoin.
+
+Dans le contexte actuel, injecter de l’argent sous forme de chèques est irresponsable, car le gouvernement n’affiche aucune ambition d’agir sur les causes structurantes qui fragilisent le portefeuille des Québécois. «La réalité, c’est que les chèques envoyés, non seulement contribuent à l’inflation en ratissant trop large, mais vont en outre directement dans les poches des pétrolières et des gens qui fixent les prix à la hausse, en violation flagrante des règles de concurrence les plus élémentaires», a expliqué le député.
+
+Ce qu’il faut faire, c’est aider les plus démunis rapidement en doublant le crédit de solidarité et en aidant les personnes ayant un revenu inférieur à 50 000$ avec un chèque plus substantiel. Ceci doit impérativement être accompagné de mesures structurantes pour baisser le coût de la vie: «Il faut à tout prix un bureau de la concurrence avec du mordant pour débusquer des stratagèmes qui fixent les prix artificiellement à la hausse. Nous devons aussi viser à augmenter graduellement le salaire minimum à 18$ de l’heure. Sans oublier que le transport est un poste de dépense important pour les familles, il faut donc rapidement augmenter l’offre de véhicules électriques et de transport en commun abordables pour sortir de notre dépendance au pétrole», a conclu Pascal Bérubé.', '11/9/2022 20:00:00 PM','https://pq.org/2022/11/09/le-parti-quebecois-demande-au-ministre-girard-de-revoir-son-plan-daction/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'FONDS POUR LES PERTES ET PRÉJUDICES CAUSÉS PAR LES CHANGEMENTS CLIMATIQUES JOËL ARSENEAU PRESSE LE MINISTRE CHARRETTE D’AGIR', 'Le député des Îles-de-la-Madeleine et porte-parole du Parti Québécois en matière d’Environnement et de Lutte contre les changements climatiques, Joël Arseneau, presse le ministre de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs, Benoit Charette, de rapidement constituer un Fonds québécois pour les pertes et préjudices causés par les changements climatiques et subis par les pays du Sud. Cette question de justice climatique est au cœur des discussions de la 27e conférence des Nations unies sur le climat (COP27), à Charm el-Cheikh, en Égypte.
+
+EN BREF
+
+Joël Arseneau invite le ministre Charrette à se commettre dès aujourd’hui à créer un Fonds québécois pour les pertes et préjudices causés par les changements climatiques ;
+Ce Fonds permettra de soutenir les pays du Sud et les états vulnérables subissant des « pertes et préjudices » causés par les changements climatiques, comme la désertification et l’érosion ;
+Selon lui, le Québec peut aller de l’avant en attendant la mise sur pied d’un Fonds international ;
+Pour Joël Arseneau, l’occasion est belle pour positionner le Québec en leader dans la lutte contre les changements climatiques.
+Alors que le ministre s’est montré ouvert à cette proposition, le député Arseneau estime que ce tiède appui manque d’ambition. « L’occasion est belle pour positionner le Québec en leader en termes de financement des pertes et dommages liés aux changements climatiques. Il faut envoyer un signal fort et aller de l’avant dès maintenant : la planète ne peut plus attendre », soutient-il.
+
+Selon le député des Îles-de-la-Madeleine, en attendant la création d’un fonds international, le Québec peut aller de l’avant. « Sur qui devrions-nous prendre exemple ? Sur l’Écosse, qui a déjà agi l’an dernier, ou plutôt sur des pays qui se trainent les pieds dans la lutte contre les changements climatiques comme le Canada ? Poser la question, c’est y répondre », martèle l’élu.
+
+Ainsi, Joël Arseneau invite le ministre Charrette à se commettre dès aujourd’hui à créer ce fonds pour consacrer la position du Québec en tant que leader planétaire en matière de lutte aux changements climatiques, tout en s’assurant de la transparence, de la saine gestion des fonds publics et disposant de garanties de résultat. « On a besoin d’ambition et de créativité pour faire des avancées importantes », conclut le député Arseneau.', '11/15/2022 20:00:00 PM','https://pq.org/2022/11/15/fonds-pour-les-pertes-et-prejudices-causes-par-les-changements-climatiquesjoel-arseneau-presse-le-ministre-charrette-dagir/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'UN SOUTIEN TROP TIMIDE POUR LES QUÉBÉCOIS QUI SOUFFRENT DE L’INFLATION', 'Le chef du Parti Québécois et porte-parole en matière de finances, Paul St-Pierre Plamondon, constate que la mise à jour économique du gouvernement rate la cible sur l’essentiel. « Malheureusement, on n’en donne pas assez aux moins fortunés, et trop à ceux qui n’en ont pas besoin.»
+
+EN BREF
+
+Le Parti Québécois salue l’aide accordée aux aînés ainsi que pour la lutte contre la violence par armes à feu.
+Cependant, l’aide accordée aux Québécois les moins fortunés n’est pas suffisante et l’aide accordée aux Québécois les plus riches est indécente.
+Il y a un manque d’ambition complet pour aller chercher de nouveaux revenus chez les grandes corporations qui ont profité de la crise, comme les pétrolières.
+On manque également d’ambition dans les mesures pour s’attaquer aux causes du coût de la vie exorbitant, notamment en ce qui a trait à la concurrence.
+La hausse projetée des revenus découlant de l’impôt des particuliers mérite des explications, dans un contexte où l’on prévoit un ralentissement économique et où la CAQ promet de baisser les impôts dans les prochaines années.
+Certes, pour faire face à l’inflation, le gouvernement a prévu certaines mesures qui vont aider comme l’aide accordée aux ainés et pour la lutte contre la violence par armes à feu, mais il rate la cible sur l’essentiel. « Il n’est pas normal qu’on offre des chèques de 400$ à des gens qui ont un revenu de 100 000$. Le Parti Québécois l’a toujours dit, il faudrait prioriser les gens qui en ont réellement besoin de l’aide. En voulant ratisser le plus large possible, l’aide accordée par la CAQ aux moins nantis n’est que de 600$. On aurait également pu doubler le crédit de solidarité pour aider 3,3 millions de Québécois moins fortunés. Les choix du gouvernement sont indécents à ce niveau-là », a déclaré le chef du Parti Québécois.
+
+Le Parti Québécois constate également qu’il y a un manque d’ambition complet pour aller chercher de nouveaux revenus chez ceux qui ont profité de la crise et qui contribuent à une hausse du coût de la vie astronomique, comme les pétrolières. « Au Québec, on laisse les profiteurs de crise s’en mettre plein les poches sur le dos des citoyens parce qu’on manque de courage pour agir. Pourtant, de nombreux pays ont choisi d’imposer une taxe sur les superprofits des pétrolières. Il faut rappeler que CAA-Québec estime que la marge au détail devrait normalement avoisiner les 8-9 cents le litre. En campagne électorale, on parlait d’une grande iniquité régionale, alors que dans plusieurs régions comme la Gaspésie ou la Côte-Nord, les marges de profit au détail étaient de 14 ou 15 cents. Maintenant, en quelques semaines à peine, malgré une diminution du prix du baril, on parle de marges ayant jusqu’à 27 cents, par exemple pour la Côte-Nord. Au Saguenay, c’est 25 cents. En refusant d’agir, le chèque envoyé par la CAQ transite directement des poches des Québécois vers les surprofits des pétrolières. Nous devrons aller chercher ces sommes découlant de superprofits et veiller à ce qu’il y ait davantage de concurrence, sinon 2023 sera à nouveau marqué par l’appauvrissement des Québécois à la pompe comme à l’épicerie », a ajouté le député de Camille-Laurin.
+
+Le chef péquiste se questionne également sur la hausse des revenus de l’impôt des particuliers qui est prévue par le gouvernement. « Dans un contexte où l’on prévoit un ralentissement économique et où l’on a promis des baisses d’impôts de plusieurs milliards, comment pouvons-nous prévoir une hausse soutenue des revenus d’imposition des particuliers par l’État ? On a connu l’effet libéral par le passé, qui gonfle les revenus artificiellement. Est-ce qu’on est maintenant devant un effet CAQ ? Ou a-t-on exclu des projections la baisse d’impôt promise par la CAQ ? Nous posons la question au ministre », a poursuivi Paul St-Pierre Plamondon.
+
+Une mise à jour économique, c’est aussi un geste politique. On peut donc se demander pourquoi certains secteurs sont mis de l’avant et d’autres non, comme le dossier de l’habitation par exemple. « Ç’a pris quatre ans au gouvernement avant de réaliser qu’il y avait une crise, il nous arrive avec une mesurette de 3000 logements qui vont être subventionnés, alors qu’il y a au moins 10 000 unités qui sont en attentes, donc nous sommes loin du compte », a conclu le député des Îles-de-la-Madeleine, Joël Arseneau.', '12/8/2022 20:00:00 PM','https://pq.org/2022/12/08/un-soutien-trop-timide-pour-les-quebecois-qui-souffrent-de-linflation/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS SE RALLIE AUX EXPERTS ET S’ENGAGE À UNE MEILLEURE PROTECTION DU TERRITOIRE EN MILIEUX URBAINS ', 'À l’occasion de la COP15 qui se déroule présentement à Montréal, le chef du Parti Québécois, Paul St-Pierre Plamondon, ainsi que le député des Îles-de-la-Madeleine et porte-parole en matière d’environnement et de lutte aux changements climatiques, Joël Arseneau, répondent favorablement aux recommandations en matière de protection de la biodiversité du Comité consultatif sur les changements climatiques. « Nous nous engageons à faire une réelle “ceinture verte” autour des grands centres urbains québécois, comme Montréal et Québec. Nous comptons aller plus loin qu’une simple protection du territoire qui se limite au nord du Québec. Il faut prioriser les milieux d’intérêt stratégique pour la biodiversité et les milieux urbains doivent être inclus », a mentionné le chef péquiste, Paul St-Pierre Plamondon.
+
+EN BREF
+
+Le Parti Québécois s’engage à faire une réelle « ceinture verte » autour des grands centres afin d’assurer une meilleure protection du territoire en milieux urbains.
+Le Parti Québécois s’inquiète du déclin rapide de la faune et de la flore québécoise et demande au gouvernement de se doter d’une stratégie nationale sur la biodiversité pour lui permettre d’atteindre ses objectifs climatiques, comme la réduction des gaz à effet de serre et la protection du territoire.
+Cette stratégie nationale serait une première au Québec, en plus de répondre à la recommandation du Comité consultatif sur les changements climatiques et d’assurer une cohérence dans les actions de l’État.
+
+Les experts sont unanimes : la biodiversité est fondamentale pour le respect des objectifs climatiques et contribue à la richesse de notre territoire. Il est essentiel de valoriser et protéger les écosystèmes sur notre territoire, puisque ceux-ci ont la capacité de séquestrer du carbone. Bien que le ministre Charrette se soit engagé à protéger 30% du territoire d’ici 2030, c’est un engagement qui demeure trop flou.
+
+« Tel que le mentionne le Comité, il est important de représenter la diversité des écosystèmes du Québec. Une politique qui ne protégerait que les écosystèmes dans le Nord serait vouée à l’échec puisqu’elle ne permettrait pas d’atteindre nos objectifs internationaux. Non seulement notre formation politique s’engage à la réalisation de cet objectif en visant un équilibre sur l’ensemble du territoire, mais nous nous engageons à surveiller le gouvernement, qui refuse de s’y engager clairement », a poursuivi Joël Arseneau.
+
+Pour une stratégie nationale en matière de biodiversité
+
+Tout comme les experts, le Parti Québécois considère également essentiel de doter le Québec d’une approche visant à renforcer mutuellement les politiques climatiques et les politiques de biodiversité du gouvernement en adoptant une stratégie nationale sur la biodiversité. « Cette stratégie assurerait une cohérence dans les actions de l’État, car c’est bien beau avoir des objectifs, mais il faut pouvoir cibler les actions à entreprendre pour les atteindre. C’est ce qu’on attend d’un État comme le Québec; une approche sérieuse et concrète qui mobilise autant l’ensemble de l’appareil gouvernemental que les acteurs sociaux et le milieu économique », a ajouté le chef du Parti Québécois.
+
+« Contrairement à ce que le ministre Benoit Charrette a déjà mentionné il y a quelques mois, il est possible d’en faire plus en matière d’environnement. Ce serait l’occasion pour la CAQ de démontrer qu’elle est sérieuse dans la lutte aux changements climatiques ainsi que dans la protection du territoire et de la biodiversité et qu’elle peut nous livrer autre chose que des paroles en l’air et des stratégies de communication », a conclu le député de Camille-Laurin.', '12/14/2022 20:00:00 PM','https://pq.org/2022/12/14/le-parti-quebecois-se-rallie-aux-experts-et-sengage-a-une-meilleure-protection-du-territoire-en-milieux-urbains/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS DEMANDE UNE ENTENTE ET UN ÉCHÉANCIER POUR LA FERMETURE DU CHEMIN ROXHAM', 'En amont de la rencontre Trudeau-Legault de vendredi, le chef du Parti Québécois, Paul St-Pierre Plamondon et l’avocat spécialiste en immigration Stéphane Handfield réclament, à nouveau, la fermeture immédiate du chemin Roxham, par lequel plus de 36 000 personnes sont entrées au Québec en traversant irrégulièrement les frontières canadiennes. Toutefois, ils insistent : le problème réside au-delà des personnes en situation de vulnérabilité; il concerne bien davantage les réseaux de passeurs et l’institutionnalisation inacceptable d’un tel système sur le territoire québécois par le gouvernement fédéral. « François Legault a une obligation de résultat en sortant de cette rencontre avec Justin Trudeau. Il a demandé un mandat fort afin d’obtenir non seulement plus de pouvoirs en matière d’immigration, mais aussi de manière plus globale des gains à l’intérieur du Canada. Maintenant qu’il a obtenu ce mandat fort, on s’attend à ce que le premier ministre nous explique quand et comment le Québec va pouvoir fermer le chemin Roxham », a demandé le chef péquiste.
+
+EN BREF
+
+Le Parti Québécois réitère sa demande de fermer le chemin Roxham.
+En prévision de la rencontre Legault-Trudeau de vendredi, il exige du premier ministre les résultats suivants:
+Un échéancier et un plan d’action pour arriver à la fermeture du chemin RoxhamUne communication transparente avec les Québécois sur les actions pour démanteler les réseaux de passeurs
+Exiger les remboursements du fédéral pour les dépenses engrangées par le Québec
+Le gouvernement fédéral prévoit qu’au total, 50 000 passages irréguliers auront lieu cette année via le chemin Roxham. Cet afflux crée des conditions indignes et indécentes, car les demandeurs d’asile attendent maintenant en moyenne 14 mois avant de recevoir un permis de travail, et doivent se tourner vers l’aide sociale pour se nourrir et se loger en attente d’avoir un statut au pays. « C’est un scandale! Nous avons vu récemment que plusieurs demandeurs d’asile étaient réduits à l’itinérance en raison du manque de logements et de services. Un important reportage a récemment démontré cette nouvelle réalité. C’est sans parler des autres services qui débordent : santé, écoles, etc., et nos capacités de recevoir un lot de personnes de manière totalement désorganisée sont largement dépassées. Devant ces constats, il est évident que nous sommes devant une crise migratoire qui est créée de toute pièce par un gouvernement fédéral qui nuit au Québec et à son système d’intégration des nouveaux arrivants de manière totalement consciente », a poursuivi Stéphane Handfield.
+
+En vue de la rencontre qui aura lieu ce vendredi entre les premiers ministres du Québec et du Canada, le chef du Parti Québécois a tenu à formuler trois demandes claires au premier ministre du Québec. « À la suite de sa rencontre avec Justin Trudeau, nous demandons à François Legault de nous fournir un échéancier et son plan d’action pour arriver à terme à une fermeture du chemin Roxham et une redirection des migrants vers les points d’entrées réguliers jusqu’à ce que l’entente sur les tiers pays sûrs soit renégociée convenablement. Nous souhaitons également qu’il informe les Québécois sur les actions qui sont prises pour démanteler les réseaux de passeurs qui se font des milliers de dollars sur le dos des gens. Finalement, nous demandons au premier ministre d’exiger les remboursements quotidiens du fédéral pour les dépenses engrangées par le gouvernement du Québec à son insu et de nous fournir les montants totaux. Cela fera bientôt 6 ans que nous sommes pris avec ce problème et François Legault n’a d’autre choix que d’obtenir des résultats réels », a renchéri Paul St-Pierre Plamondon.
+
+Un scandale libéral qui se doit terminer
+
+Le chef du Parti Québécois rappelle que le gouvernement fédéral a institutionnalisé ce passage illégal et semble souhaiter le rendre perpétuel : « Il faut rappeler que ce sont des donateurs libéraux qui gèrent les installations du chemin Roxham et qu’on est potentiellement devant un autre scandale des commandites, sur le dos du Québec. Vouloir fermer le chemin Roxham et rediriger les migrants vers des postes réguliers, et casser les réseaux de passeurs qui se font des centaines de milliers de dollars sur le dos de gens vulnérables est la chose responsable à faire, pour la société d’accueil, ainsi que pour le cheminement et l’accueil des migrants. Il ne faut pas blâmer les gens qui cherchent à améliorer leur sort; il faut blâmer le gouvernement fédéral qui se cache derrière une fausse « ouverture » pour perpétuer un système qui est en réalité nocif pour tout le monde. Au final, le Québec ne peut pas accepter d’institutionnaliser un tel système sur son territoire. »
+
+«Si le fédéral refuse de coopérer à la sortie de cette énième rencontre, le premier ministre du Québec devra nous expliquer quel est son plan à moyen terme pour arriver à faire fermer ce chemin-là pour de bon. Se dire fâché ne sera pas suffisant cette fois-ci », a conclu le député de Camille-Laurin.', '12/15/2022 20:00:00 PM','https://pq.org/2022/12/15/le-parti-quebecois-demande-une-entente-et-un-echeancier-pour-la-fermeture-du-chemin-roxham/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS DEMANDE AU GOUVERNEMENT DE MULTIPLIER LES CLINIQUES D’IPS', 'En amont d’une visite à la clinique d’infirmières praticiennes spécialisées (IPS) au CSLC Olivier Guimond ouverte au début du mois dans l’est de Montréal, le chef du Parti Québécois et député de Camille-Laurin, Paul St-Pierre-Plamondon ainsi que le député des Îles-de-la-Madeleine et porte-parole en matière de santé et de services sociaux, Joël Arseneau, demandent au gouvernement de la CAQ de multiplier les cliniques d’IPS partout sur le territoire québécois pour diminuer la pression sur les urgences.
+
+EN BREF
+
+Avec la crise actuelle dans les urgences, le Parti Québécois réitère sa position soutenue depuis plusieurs années déjà : il faut multiplier les cliniques autonomes d’IPS au Québec au sein même des CLSC pour désengorger les urgences.
+Beaucoup de patients qui se présentent aux urgences peuvent être pris en charge par une IPS de première ligne et il est enfin temps que leur autonomie professionnelle soit reconnue et leur expertise utilisée à leur plein potentiel, et ce, directement dans le réseau public.
+Alors que la clinique d’IPS SABSA à Québec a depuis longtemps fait ses preuves, ce n’est que la semaine dernière qu’une autre clinique autonome d’IPS a été implantée, dans la région métropolitaine. Certes, nous sommes satisfaits que les citoyens de l’est de l’île de Montréal bénéficient enfin de ce type de clinique, car il y avait urgence d’agir après des années de négligence et de sous-financement chronique. Toutefois, nous demandons à la CAQ d’aller plus loin en multipliant ces cliniques dans toutes les régions du Québec, pas uniquement à Montréal : « Au lieu de s’entêter avec le modèle de « mini-hôpitaux privés » qui risque de cannibaliser davantage les ressources du réseau public au profit du réseau privé, nous sommes convaincus que l’implantation de cliniques autonomes d’IPS dans les CSLC partout au Québec favorisera le désengorgement des urgences en plus de faciliter l’accès à la première ligne. On fait d’une pierre, deux coups », a déclaré Joël Arseneau.
+
+Les IPS ont une expertise et une pratique infirmière avancée; elles sont en mesure notamment de diagnostiquer des maladies chroniques, des affections mineures et des suivis de grossesses sans la surveillance d’un médecin. « Imaginez pouvoir se rendre dans un CLSC et être pris en charge par une IPS qui pourra traiter les urgences mineures ou vous rediriger vers le bon professionnel. Accroitre l’accessibilité de la première ligne, ça signifie utiliser l’autonomie et l’expertise de tous les professionnels de la santé, particulièrement des IPS », a renchéri le chef du Parti Québécois.  
+
+Qui plus est, l’inaction de la CAQ en matière de santé et d’autonomie professionnelle nous a fait perdre beaucoup de temps. Il faut prendre les grands moyens et accélérer la création de nouvelles cliniques, car la nécessité d’avoir une première ligne plus forte ne peut plus attendre encore 4 ans. La CAQ doit cesser ses exercices de communication, prendre ses responsabilités et mettre en place les solutions qui émanent du terrain et qui fonctionnent vraiment. « Une équipe a réussi à mettre sur pied la clinique d’IPS au CLSC Olivier Guimond en moins de 30 jours. Pourquoi ne pas poursuivre dans cet élan? Les professionnels répondront présents », a conclu le député de Camille-Laurin.', '12/16/2022 20:00:00 PM','https://pq.org/2022/12/16/le-parti-quebecois-demande-au-gouvernement-de-multiplier-les-cliniques-dips/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,3,'LE PARTI QUÉBÉCOIS VEUT S’ATTAQUER AU GASPILLAGE', 'Dans la foulée du nouvel accord mondial adopté pour la biodiversité à la COP15 lundi, qui fait de l’une de ses cibles la réduction des déchets alimentaires, le député de Matane-Matapédia et porte-parole en matière d’agriculture, Pascal Bérubé, ainsi que le député des Îles-de-la-Madeleine et porte-parole en matière d’environnement et de la lutte aux changements climatiques, Joël Arseneau, réitèrent l’importance de lutter contre le gaspillage au sens plus large et s’engagent à déposer une loi antigaspillage lors de la prochaine session parlementaire. « Les enquêtes journalistiques s’accumulent : de grandes chaînes jettent chaque année des produits neufs aux ordures, que ce soient des invendus alimentaires, des vêtements ou des produits commerciaux divers. Ce fléau a un coût environnemental majeur, en plus d’être moralement intolérable du point de vue social », a déclaré Pascal Bérubé.
+
+EN BREF
+
+Les grandes entreprises québécoises ne sont soumises à aucune loi leur interdisant de gaspiller, ce faisant, celles-ci sont peu motivées à mesurer, suivre et réduire le gaspillage de leurs invendus.
+Bien qu’il se réjouisse que l’accord mondial table sur la réduction du gaspillage alimentaire, le Parti Québécois souhaite aller plus loin et étendre les actions à d’autres secteurs.
+Le Parti Québécois entend donc déposer une loi antigaspillage au cours de la prochaine session parlementaire et souhaite obtenir l’appui du gouvernement de la CAQ.
+Un des objectifs importants découlant de l’accord mondial de la COP15 est la réduction de 50% des déchets alimentaires. Pour atteindre cet objectif au Québec d’ici 2030, il faut interdire aux géants du milieu alimentaire de jeter leurs invendus comestibles. D’une part, ces entreprises doivent mesurer, suivre et réduire leurs résidus alimentaires. D’autre part, il faut les obliger à transférer les invendus comestibles à des organismes qui pourront en faire la redistribution ou la revalorisation, comme les banques alimentaires ou les entreprises de production et de transformation de produits. « Près de 700 000 Québécoises et Québécois reçoivent de l’assistance d’un comptoir d’aide alimentaire chaque mois dû à leur situation financière précaire. Il faut contraindre les grandes chaînes de restaurants ou les épiceries à créer des partenariats stratégiques pour réduire significativement le gaspillage », a poursuivi le député de Matane-Matapédia.
+
+Plus largement, le Parti Québécois croit qu’il faut aussi s’attarder au gaspillage des biens. « Il est tout à fait inacceptable de voir des entreprises comme Home Depot détruire impunément des tonnes de produits neufs et les mettre aux ordures. En matière de gaspillage, c’est la totale! Le coût environnemental de ces pratiques est exorbitant, en raison de la production, de toute la chaîne de transport et de l’élimination d’un bien qui n’a jamais servi. C’est sans parler du coût économique. Malheureusement, cette situation n’est seulement que la pointe de l’iceberg, d’où l’importance de légiférer rapidement », a renchéri Joël Arseneau.
+
+Le Parti Québécois compte donc s’inspirer de la France pour développer un projet de loi et à le déposer lors de la prochaine session parlementaire. « Certes, il faut éliminer le gaspillage alimentaire, mais on doit aussi viser d’autres secteurs de produits destinés à la vente. On peut penser à l’interdiction de l’élimination des produits invendus, forcer les entreprises à donner à des organismes ou à les recycler. Nous espérons que notre initiative incite la CAQ à faire de la lutte au gaspillage une réelle priorité », a conclu Pascal Bérubé.', '12/20/2022 20:00:00 PM','https://pq.org/2022/12/20/le-parti-quebecois-veut-sattaquer-au-gaspillage/')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE DEMANDE À LA CAQ UN SOMMET NATIONAL SUR LE CLIMAT', 'En marge du caucus de Québec solidaire à Sherbrooke, Gabriel Nadeau-Dubois et Manon Massé ont demandé à François Legault de présenter, dans la première année du mandat, un nouveau plan de lutte aux changements climatiques permettant d’atteindre la cible de réduction des émissions du Québec pour 2030. Dans le cadre de cette démarche, les porte-parole de Québec solidaire ont proposé la tenue d’un Sommet national sur le climat.
+
+« Le 3 octobre dernier, les Québécoises et les Québécois nous ont confié le mandat d’être la voix de l’environnement à l’Assemblée nationale. Chaque fois que le gouvernement va vouloir nous faire reculer dans la lutte aux changements climatiques, nous serons des adversaires coriaces, mais chaque fois qu’il voudra aller dans le bon sens, nous serons son allié », a soutenu Gabriel Nadeau-Dubois.
+
+« Le plan vert de la CAQ risque de rater complètement la cible. On doit faire mieux. Ce qu’on propose à François Legault, c’est de reprendre la toute première mesure du plan solidaire: un Sommet national sur le climat. Il faut que la lutte aux changements climatiques sorte des bureaux du ministère de l’Environnement et devienne notre projet commun au Québec. Le Sommet national sur le climat, c’est le tremplin vers une nouvelle feuille de route climatique », a affirmé le porte-parole de Québec solidaire.
+
+Un Sommet national sur le climat réunirait les forces vives de la société québécoise, dont le milieu des affaires,  les organismes gouvernementaux, les organisations syndicales, étudiantes et communautaires, les municipalités, les partis d’opposition ainsi que les représentantes et représentants des Premières Nations et Inuit.
+
+« François Legault doit ouvrir grandes ses oreilles, écouter les propositions, il va se rendre compte qu’au Québec, les partenaires, ils en ont de l’ambition, ils en ont des solutions. Ce qui nous manque, c’est du leadership en haut pour arriver avec un plan cohérent qui met tout le monde en action. On n’a plus de temps à perdre », a conclu Manon Massé.
+
+', '10/13/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-demande-a-la-caq-un-sommet-national-sur-le-climat')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'RUBA GHAZAL APPELLE À LA SOLIDARITÉ AVEC LES FEMMES IRANIENNES', 'La députée solidaire de Mercier, Ruba Ghazal, appelle les députées de l’Assemblée nationale à exprimer d’une voix commune leur solidarité avec les femmes iraniennes qui se battent pour leurs droits face à une violente répression de la part des autorités. Par l’entremise d’une lettre officielle envoyée vendredi à l’ensemble des élues, la députée invite ses collègues à participer à l’écriture d’une déclaration en appui aux Iraniennes.
+
+« Si nous voulons que les morts tragiques de Mahsa Amini, cette jeune femme de 22 ans, et de nombreuses autres femmes et adolescentes ne soient pas en vain, nous devons agir ensemble. C’est pour ça que je propose qu’on rédige une déclaration commune dénonçant cette répression. Dans cette déclaration, on pourrait demander le retrait de la République islamique d’Iran de La Commission de la condition de la femme des Nations Unies et exiger la fin à toute discrimination et violence basée sur le genre », propose Mme Ghazal.
+
+Cette déclaration serait envoyée à l’Organisation des Nations Unies, au président iranien, ainsi qu’au premier ministre du Canada.
+
+« Cette année au Québec, nous avons élu plus de députées que jamais auparavant. Certes, il y a encore du travail à faire pour atteindre une réelle égalité entre les genres, mais nous en avons fait du chemin dans les dernières décennies. Je crois qu’en tant que Québécoises, on a le devoir de ne pas oublier le sort que de nombreuses femmes subissent à travers le monde. Et en tant que députée, on peut user de notre privilège d’élues pour faire bouger les choses. Ne sous-estimons jamais le pouvoir de la solidarité internationale! Elle a été primordiale pour mettre fin à l’apartheid en Afrique du Sud, par exemple », a-t-elle expliqué.
+
+Mme Ghazal sera présente à la manifestation en soutien aux femmes iraniennes ce samedi à 14h30 à la Place Émilie-Gamelin. Veuillez noter que Christine Labrie sera également présente dans un rassemblement à Sherbrooke dès 14h.
+
+« Demain, je vais marcher pour les Iraniennes et ensuite j’espère que je pourrai compter sur mes collègues députées pour envoyer un message clair aux Iraniennes : nous sommes avec vous », a conclu la députée.', '10/21/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/ruba-ghazal-appelle-a-la-solidarite-avec-les-femmes-iraniennes')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'CABINET FANTÔME : DES RESPONSABILITÉS IMPORTANTES POUR LES NOUVEAUX ÉLUS DE QUÉBEC SOLIDAIRE', 'Les porte-parole Manon Massé et Gabriel Nadeau-Dubois ont dévoilé aujourd’hui la répartition des responsabilités au sein du caucus de Québec solidaire pour la prochaine session parlementaire.
+
+« Le 3 octobre, on a reçu un mandat clair de la population québécoise : être la voix de l’environnement à l’Assemblée nationale. Avec Alejandra Zaga Mendez à l’Environnement, Etienne Grandmont aux Transports et Haroun Bouazzi à l’Énergie, le comité sur la transition écologique de la CAQ n’aura pas de chèque en blanc. Québec solidaire va être une opposition constructive et combative, toujours prête à collaborer pour faire avancer la lutte aux changements climatiques et toujours prête à se battre quand la CAQ voudra nous faire reculer », déclare Gabriel Nadeau-Dubois, qui sera pour sa part responsable du dossier de la lutte aux changements climatiques à titre de chef parlementaire.
+
+« Je suis très fière de l’équipe solide qu’on présente aujourd’hui à la population québécoise. Québec solidaire sera au front dans les prochains mois pour parler de logement, de santé mentale, d’environnement et de coût de la vie. Les responsabilités ont été soigneusement distribuées selon les forces, les compétences et les intérêts de chaque député. Ça fait un cabinet fantôme extrêmement motivé et efficace », ajoute Manon Massé.
+
+Voici la répartition complète des dossiers politiques pour le caucus de Québec solidaire :
+
+Gabriel Nadeau-Dubois (Gouin)
+
+Porte-parole et chef parlementaire de Québec solidaire
+
+Lutte contre les changements climatiques
+
+Manon Massé (Sainte-Marie – Saint-Jacques)
+
+Porte-parole de Québec solidaire
+
+Relations avec les Premières Nations et les Inuit; Services sociaux en Déficience intellectuelle et TSA (DI-TSA), Santé mentale, Communautés LGBTQ+, Solidarité sociale et Action communautaire; Itinérance
+
+Alexandre Leduc (Hochelaga-Maisonneuve)
+
+Leader parlementaire de Québec solidaire
+
+Travail, Emploi, Enseignement supérieur, Laïcité
+
+Haroun Bouazzi (Maurice-Richard)
+
+Finances, Économie et Innovation, Énergie, Cybersécurité et Numérique, Relations internationales et Francophonie
+
+Andrés Fontecilla (Laurier-Dorion)
+
+Logement et Habitation, Immigration, Francisation et Intégration, Lutte contre le racisme, Sécurité publique
+
+Ruba Ghazal (Mercier)
+
+Éducation, Culture et Communications, Langue française, Condition féminine
+
+Etienne Grandmont (Taschereau)
+
+Transports et mobilité durable, Infrastructures, Affaires municipales, Développement économique régional, Tourisme
+
+Christine Labrie (Sherbrooke)
+
+Conseil du trésor et administration gouvernementale, Services sociaux, Aîné-es, Justice
+
+Vincent Marissal (Rosemont)
+
+Santé, Éthique, Métropole, Sports, Loisirs et plein air
+
+Alejandra Zaga Mendez (Verdun)
+
+Environnement, Faune et Parcs, Ressources naturelles et forêts, Agriculture, Pêcheries et Alimentation, Jeunesse, Relations avec les Québécois-es d’expression anglaise
+
+Sol Zanetti (Jean-Lesage) 
+
+Souveraineté et relations intergouvernementales canadiennes, Institutions démocratiques, Accès à l’information et protection des renseignements personnels, Famille; Capitale-Nationale', '10/27/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/cabinet-fantome-des-responsabilites-importantes-pour-les-nouveaux-elus-de-quebec-solidaire')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'CRISE DANS LES URGENCES: VINCENT MARISSAL DEMANDE UNE «RENCONTRE 911» AVEC LE MINISTRE DUBÉ', 'Le porte-parole de Québec solidaire en matière de Santé, Vincent Marissal, tire la sonnette d’alarme et presse le ministre de la Santé Christian Dubé de convoquer une rencontre 911 avec les partis d’opposition pour faire le point sur l’état des urgences à travers le Québec.
+
+« Je demande au ministre Dubé de convoquer une rencontre 911 sur l’état des urgences au Québec avec les partis d’opposition dès la semaine prochaine. La session parlementaire n’est même pas commencée que déjà, la CAQ reprend ses mauvaises habitudes et gouverne sans consulter ni rendre de comptes. On ne retournera pas siéger à l’Assemblée nationale avant un mois, il doit y avoir une reddition de compte hebdomadaire entre le ministre de la Santé et des élus de l’opposition. La cellule de crise du gouvernement ne doit pas se rencontrer entre quatre murs », déclare Vincent Marissal.
+
+Dans une lettre envoyée aujourd’hui, le député de Rosemont demande au ministre de la Santé de convoquer une rencontre hebdomadaire sur l’état des urgences au Québec avec des représentants de l’ensemble des partis d’opposition.
+
+« C’est aberrant qu’un homme soit décédé après avoir passé 16 heures aux urgences sans être vu par un médecin. Il faut agir rapidement si on veut éviter que d’autres drames se produisent », ajoute M. Marissal.
+
+Pour consulter la lettre envoyée au ministre de la Santé, cliquez ici.
+
+La crise dans les urgences en quelques chiffres
+
+Les indicateurs du MSSS indiquent un taux d’occupation des civières qui se situe au-dessus de 110% depuis le 1er août dernier.
+Dans les 10 derniers jours, c’est un taux moyen de 125 % qu’on observe à la grandeur du Québec.
+Des taux catastrophiques de 200% d’occupation des lits dans les hôpitaux dédiés aux enfants sur l’île de Montréal, dans les hôpitaux des Laurentides, de Lanaudière, de Montérégie-Ouest et de l’Outaouais.', '10/28/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/crise-dans-les-urgences-vincent-marissal-demande-une-rencontre-911-avec-le-ministre-dube')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'TUNNEL LOUIS-HIPPOLYTE-LAFONTAINE - QUÉBEC SOLIDAIRE PROPOSE UN PLAN POUR VOIR LA LUMIÈRE AU BOUT DU TUNNEL', 'Alors que s’amorce une deuxième journée de travaux dans le tunnel Louis-Hippolyte-Lafontaine, Etienne Grandmont, responsable solidaire en matière de transports, soumet un plan pour voir la lumière au bout du tunnel alors que des enjeux de mobilité s’annoncent catastrophiques dans le cadre du méga chantier qui durera 3 ans.
+« Il faut agir sur l’ensemble du réseau, les solutions mises de l’avant par la ministre Guilbault sont bâclées et insuffisantes. Certaines seront en place quelques jours alors qu’on en a pour plus de 1000 jours de travaux! La CAQ a échoué à offrir de véritables alternatives aux gens qui voyagent entre Montréal et la Rive-Sud », s’inquiète Etienne Grandmont, député solidaire de Taschereau.
+Québec solidaire propose 4 voies de passage pour voir la lumière au bout du tunnel :
+Rendre le transport en commun gratuit entre la Rive-Sud et Montréal
+Réduire les tarifs de 50% du transport en commun dans l’agglomération de Longueuil.
+Voie réservée pour le covoiturage et les bus sur le Pont-Jacques-Cartier.
+Travailler avec les sociétés de transport pour développer l’offre et la fréquence des bus, des trains et des traversiers.
+« Le fiasco du tunnel doit servir de leçon au MTQ : il faut arrêter la gestion à la petite semaine de nos infrastructures en transport et penser à long terme. L’avenir de notre mobilité c’est le transport en commun arrimé avec de meilleures politiques d’occupation de notre territoire, ça ne se règle pas sur un coin de table », conclut l’expert en transports.
+Québec solidaire invite la ministre Guilbault à collaborer avec les oppositions pour étudier leurs solutions, rien ne doit être laissé sur la table alors que les besoins sont criants et les attentes sont élevées.', '11/1/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/tunnel-louis-hippolyte-lafontaine-quebec-solidaire-propose-un-plan-pour-voir-la-lumiere-au-bout-du-tunnel')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'PROFILAGE RACIAL : QUÉBEC SOLIDAIRE DEMANDE À FRANÇOIS LEGAULT DE NE PAS PORTER LA DÉCISION DE LA COUR SUPÉRIEURE EN APPEL', 'Andrés Fontecilla, porte-parole solidaire en matière de sécurité publique et de lutte contre le racisme, a interpellé le Premier ministre du Québec, M. François Legault, pour lui demander de ne pas porter en appel la récente décision de la Cour supérieure qui rend inopérant l’article 636 du Code de la sécurité routière qui permet les interpellations policières sans motif valable d’une personne conduisant un véhicule.
+« Dans les derniers mois, François Legault a tenu des amalgames irresponsables en mêlant immigration et violence. Aujourd’hui, il a l’opportunité de montrer qu’il est disposé à agir de la façon la plus concrète contre le profilage racial », a déclaré M. Fontecilla.
+Si le Premier ministre portait en appel la décision, il irait à l’encontre des recommandations de son propre gouvernement visant l’interdiction des interpellations policières aléatoires. Ces recommandations ont été faites par plusieurs ministres de la CAQ dans le cadre du rapport du Groupe d’action contre le racisme en décembre 2020 et peuvent être consultées à la page 42 de ce document.
+M. Legault avait laissé planer le doute à la suite de la décision de la Cour supérieure la semaine dernière. Il avait notamment mentionné l’importance de la lutte contre la violence, alors que pour l’Association des directeurs de police, le pouvoir d’intercepter un conducteur sans motif réel sert uniquement à des fins de sécurité routière.
+Le député solidaire était accompagné de plusieurs intervenants du milieu, Marjorie Villefranche de la Maison d’Haïti, Lesly Blot, victime du profilage racial et témoin dans le procès du juge Yergeau, Victor Armony, chercheur et professeur ainsi que Fo Niemi, co-fondateur du Centre de recherche-action sur les relations raciales (CRARR).
+« En reconnaissant que les personnes noires sont souvent victimes de profilage racial dans cette décision historique, la Cour a de nouveau affirmé leurs droits et libertés constitutionnels, dont la liberté de conduire sans se faire interpeller de manière discriminatoire par la police. Il est donc essentiel que le Premier ministre du Québec reconnaisse aussi ces droits, s’il veut prouver l’engagement de son gouvernement de lutter contre le racisme », a déclaré M. Niemi.
+
+« Pour être vraiment efficace dans la lutte contre la criminalité, la police doit pouvoir compter sur la confiance de la population qu’elle dessert. Et cette confiance est érodée quand on peut avoir l’impression que ses interventions ne sont pas toujours fondées sur une pratique neutre et équitable d’un point de vue procédural », a ajouté M. Armony.
+À Montréal, les personnes autochtones et noires ont entre quatre et cinq fois plus de chances d’être interpellées, par rapport aux personnes blanches, selon une étude menée pour le compte du SPVM par Victor Armony, Mariam Hassaoui et Massimiliano Mulone en 2019.
+« Je salue le courage de Jean Christopher Luamba, jeune homme qui grâce à sa ténacité a réussi à redonner espoir en la justice à nos communautés. Je félicite le juge Yergeau pour la justesse de son analyse  du profilage racial qu’il dit imprimé dans nos coeurs et nos esprits », a conclu Mme Villefranche. M. Luamba est à l’origine du recours qui a mené à la décision de la Cour.', '11/2/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/profilage-racial-quebec-solidaire-demande-a-francois-legault-de-ne-pas-porter-la-decision-de-la-cour-superieure-en-appel')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE SIÉGERA AU SALON BLEU ET DÉPOSERA UN PROJET DE LOI POUR RENDRE FACULTATIF LE SERMENT AU ROI', 'À la suite de la décision du président de l’Assemblée nationale concernant le serment au roi, les députés solidaires ont décidé de faire leur entrée au Salon Bleu le 29 novembre prochain et de déposer immédiatement un nouveau projet de loi pour rendre facultatif ce serment. Pour pouvoir déposer le projet de loi, les députés compléteront leur assermentation prochainement.
+« Prêter serment au roi, c’est inutile et archaïque. Ça n’a plus sa place dans notre démocratie. La décision du président de l’Assemblée est très décevante, mais elle est claire et sans appel: pour corriger cette injustice pour de bon, il faut adopter un projet de loi. Québec solidaire ne fait pas confiance aux deux partis fédéralistes pour faire ce travail. Quand on veut changer les règles du jeu, on ne peut pas s’en remettre aux autres. Il faut le faire soi-même. Nous allons prendre nos responsabilités, entrer au Salon bleu, et nous assurer que plus personne ne soit obligé de faire ce serment humiliant », déclare Gabriel Nadeau-Dubois.
+Québec solidaire utilisera tous les moyens parlementaires à sa disposition pour mettre fin à cette obligation illégitime. « Je prends l’engagement auprès du chef du Parti Québécois de collaborer avec lui pour résoudre l’impasse actuelle. Nous sommes ouverts à déposer une motion afin de permettre à tous les députés de siéger sans faire le serment controversé. Nous allons utiliser tous les moyens à notre disposition pour débloquer le cul-de-sac. Mais pour le faire, il faut siéger », ajoute le chef parlementaire de Québec solidaire.
+« Les pressions de Québec solidaire et du Parti Québécois ont permis d’obtenir l’engagement de la CAQ de déposer un projet de loi rapidement et c’est tant mieux. Mais qui s’assurera de l’adoption de cette loi au Salon bleu, si aucun indépendantiste n’y siège? Nous allons mettre la pression sur la CAQ et le PLQ, tout en déposant notre propre projet de loi. Ce sera notre premier geste parlementaire de la session », affirme M. Nadeau-Dubois.
+Rappelons que le député solidaire Sol Zanetti a déposé un projet de loi dès 2019 pour rendre le serment au roi facultatif pour les élus québécois. Le Parti libéral du Québec a bloqué son adoption en juin dernier.', '11/3/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-siegera-au-salon-bleu-et-deposera-un-projet-de-loi-pour-rendre-facultatif-le-serment-au-roi')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'COP 27 À CHARM EL-CHEIKH EN ÉGYPTE: « BENOÎT CHARETTE DOIT ATTEINDRE SES PROPRES OBJECTIFS! » - ALEJANDRA ZAGA-MENDEZ', 'Alors que la Conférence des Nations unies sur les changements climatiques débute en Égypte, Alejandra Zaga-Mendez, responsable solidaire en matière d’environnement, interpelle le ministre Benoît Charette pour qu’il passe à la vitesse supérieure. Québec solidaire lui demande de déposer un nouveau plan de réduction qui permet d’atteindre sa propre cible d’émission de GES.
+« La cible du Québec est déjà insuffisante, il faut minimalement avoir un plan complet pour l’atteindre!, déclare la députée solidaire de Verdun, Alejandra Zaga-Mendez. Le plan vert de la CAQ n’est pas à la hauteur des défis qui nous attendent et le ministre de l’Environnement doit remplir les objectifs qu’il s’est lui-même fixés avant d’aller vanter le Québec comme leader à l’international. »
+
+Rappelons que les mesures de lutte contre les changements climatiques identifiées et chiffrées par le gouvernement de la CAQ ne permettent d’atteindre que 51% de sa cible de réduction des émissions de GES de 37,5% d’ici 2030, par rapport à 1990.
+
+« François Legault a décidé de renouveler sa confiance à Benoît Charette à l’Environnement, c’est son choix. Mais le ministre doit commencer par corriger ce qu’il a bâclé dans le mandat précédent et nous arriver rapidement avec un nouveau plan de lutte aux changements climatiques permettant d’atteindre la cible du Québec, c’est la moindre des choses! », a affirmé Gabriel Nadeau-Dubois, le porte-parole de Québec solidaire, également responsable de la lutte contre les changements climatiques.
+
+Sommet national sur le climat
+
+Dans le cadre de son premier caucus, Québec solidaire avait proposé à la CAQ d’organiser un Sommet national sur le climat. Un tel sommet réunirait les forces vives de la société québécoise, dont le milieu des affaires, les organismes gouvernementaux, les organisations syndicales, étudiantes et communautaires, les municipalités, les partis d’opposition ainsi que les représentantes et représentants des Premières Nations et Inuit.
+
+« C’est bien les rencontres avec les autres pays et les groupes de partout dans le monde, mais on est dû pour se parler dans le blanc des yeux au Québec aussi! Il est temps d’asseoir tout notre monde autour de la même table et avoir un véritable Sommet national sur le climat, ici, au Québec. Nous sommes nombreux à avoir de l’ambition et des solutions, ce qui nous manque, c’est de la volonté et du leadership du gouvernement pour arriver avec un plan cohérent qui met tout le monde en action », défend Alejandra Zaga-Mendez, également titulaire d’un doctorat en développement durable et conservation.', '11/8/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/cop-27-a-charm-el-cheikh-en-egypte-benoit-charette-doit-atteindre-ses-propres-objectifs-alejandra-zaga-mendez')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'VINCENT MARISSAL DEMANDE À LA CAQ DE RÉGLER LA PÉNURIE DE MÉDICAMENTS POUR ENFANTS', 'Le porte-parole de Québec solidaire en matière de Santé, Vincent Marissal, presse le gouvernement de la CAQ de mobiliser toutes les ressources à sa disposition pour pallier rapidement la pénurie de médicaments pour enfants qui sévit depuis plusieurs mois au Québec.
+
+« Tous les parents savent que quand bébé fait de la fièvre et pleure, c’est crucial d’avoir accès rapidement à des médicaments pour calmer la douleur. Ça m’inquiète de penser que des parents en sont réduits à utiliser leurs propres médicaments pour fabriquer des remèdes maison pour leurs enfants. La CAQ ne peut pas se contenter de regarder Ottawa voler à sa rescousse en restant les bras croisés. Ce n’est pas une solution à long terme et c’est la responsabilité du Québec de prendre en main la santé des Québécois », déclare Vincent Marissal, lui-même père de famille.
+
+Le député de Rosemont presse le ministre de la Santé, Christian Dubé, de trouver des solutions rapidement pour pallier la pénurie. Il rappelle qu’en juin dernier, le gouvernement de la CAQ a octroyé un prêt de 25 millions $ à l’entreprise pharmaceutique Jubilant HollisterStier pour accroître la capacité de production de son usine montréalaise.
+
+« Le gouvernement a des leviers pour agir rapidement. Il y a des entreprises au Québec spécialisées dans la fabrication de produits pharmaceutiques, le gouvernement peut aller chercher du renfort auprès d’eux », fait valoir M. Marissal.
+
+Pharma-Québec, la solution à long terme
+
+La vraie solution à long terme est d’assurer l’autosuffisance médicale du Québec, ce que propose Québec solidaire depuis des années avec la création de Pharma-Québec, une société d’État qui permettrait notamment de créer un centre de production local de vaccins, de médicaments génériques et de matériel sanitaire afin de prévenir les ruptures de stock.
+
+« Si on avait eu Pharma-Québec à notre disposition, on aurait été capable de produire ou acquérir rapidement des médicaments génériques à faible coût, ici au Québec. La pandémie de COVID-19 nous a fait prendre conscience collectivement que l’on n’est pas à l’abri des bris dans la chaîne d’approvisionnement mondiale. Les pénuries de médicaments peuvent mettre des vies en danger, il faut tirer des leçons des dernières années et mettre en place des solutions à long terme pour éviter que ça se reproduise », conclut Vincent Marissal.
+
+Rappelons que la proposition de Pharma-Québec a été présentée une première fois par Amir Khadir et Françoise David en 2006. S’en est suivi le dépôt de projets de loi devant quatre gouvernements différents, dont le dernier en 2020 par le député de Jean-Lesage, Sol Zanetti.', '11/17/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/vincent-marissal-demande-a-la-caq-de-regler-la-penurie-de-medicaments-pour-enfants')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'COP 27 À CHARM EL-CHEIKH EN ÉGYPTE - QUÉBEC SOLIDAIRE DEMANDE À LA CAQ DE CRÉER UN FONDS D’URGENCE CLIMATIQUE', 'Le ministre Benoit Charette est de retour de la COP 27 en Égypte et Québec solidaire l’interpelle en demandant la création d’un Fonds d’urgence climatique pour le Québec. Le ministre a profité de son passage en Égypte pour faire des annonces de soutien à certains pays, mais il revient les mains vides en matière d’adaptation aux changements climatiques ou encore pour les pertes et les préjudices vécus au Québec.
+
+« Je veux saluer Benoît Charette qui applique le principe de justice climatique avec ses annonces en matière de solidarité internationale, mais ça ne suffira pas. Il ne faut pas se contenter de se donner bonne conscience en envoyant des chèques à l’international, il faut aussi se préparer ici », souligne Alejandra Zaga Mendez, responsable solidaire en matière d’environnement.
+
+Lors de son passage à la COP 27 le ministre Charette a annoncé des montants en agriculture et en adaptation pour d’autres États. Toutefois, rien n’est prévu pour les défis d’adaptation aux changements climatiques au Québec ou encore en matière de pertes et préjudices, des enjeux au cœur des négociations pour le climat.
+
+« C’est une très bonne chose de s’engager à l’international, mais ça ne nous dispense pas de se préparer ici afin de protéger notre territoire et notre monde, précise Gabriel Nadeau-Dubois, porte-parole de Québec solidaire. Les changements climatiques font déjà des ravages ici, parlez-en aux gens de la Gaspésie et des Îles-de-la-Madeleine! Les municipalités sonnent sans cesse l’alarme, il faut que François Legault prenne au sérieux l’adaptation aux changements climatiques et crée un Fonds d’urgence climatique. »
+
+Un coussin de sécurité pour faire face aux bouleversements 
+
+Les gouvernements précédents ont laissé la crise climatique s’aggraver. Il n’est plus possible de simplement lutter contre les changements climatiques, il faut également s’adapter à ceux qui viendront inévitablement : la température augmentera, des espèces disparaîtront, les niveaux d’eau vont monter, etc. Si le gouvernement a des réserves pour éventualités, il n’a pas d’argent mis de côté spécifiquement pour les urgences climatiques.
+
+« Un Fonds d’urgence climatique, c’est un coussin de sécurité pour préparer le Québec aux bouleversements qui s’en viennent. Benoît Charette ne peut pas revenir au Québec les mains vides. On doit savoir comment va s’incarner et se financer notre réponse aux situations d’urgence à venir. L’adaptation aux changements climatiques et aux situations climatiques extrêmes, mais aussi prévoir les pertes et préjudices sont des enjeux pressants pour le Québec également », conclut Alejandra Zaga Mendez.
+
+Partager
+Tweeter', '11/19/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/cop-27-a-charm-el-cheikh-en-egypte-quebec-solidaire-demande-a-la-caq-de-creer-un-fonds-durgence-climatique')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'CAUCUS PRÉSESSIONNEL DE QUÉBEC SOLIDAIRE - UN GEL DES TARIFS POUR AFFRONTER LE COÛT DE LA VIE', 'Pour Québec solidaire, la priorité de la session sera le coût de la vie. En marge du caucus présessionnel de la formation politique à Québec, les porte-parole Gabriel Nadeau-Dubois et Manon Massé ont appelé à un gel des tarifs de l’État pour la prochaine année, alors qu’une grande partie de la population québécoise doit se serrer la ceinture.
+
+
+« La dernière chose dont les Québécoises et les Québécois ont besoin en ce moment, c’est des augmentations des tarifs. L’inflation étouffe les familles, les jeunes et les aînés. La hausse des taux d’intérêts augmente les risques de faillite. Quand toutes les factures explosent, le strict minimum, c’est de ne pas en rajouter. L’État doit montrer l’exemple et le gouvernement Legault doit montrer qu’il est solidaire de la population face à la hausse fulgurante du coût de la vie. Ce sera notre priorité de la session, parce que c’est la priorité des gens », a lancé Gabriel Nadeau-Dubois.
+
+« Dans la situation actuelle, augmenter les tarifs du chauffage, de la garde des enfants et des études universitaires, ce n’est pas un bouclier anti-inflation, c’est un gouvernement qui baisse la garde! J’espère que la CAQ va réaliser que ça n’a aucun bon sens que l’État contribue lui-même au problème. Pour bien des gens, le chèque de François Legault est déjà dépensé. La mise à jour économique du ministre Girard doit aider les Québécoises et les Québécois après Noël », a renchéri Manon Massé.
+
+Un gel des tarifs pour 2023 remettrait de l’argent dans les poches des usagers de nombreux services essentiels, dont Hydro-Québec, la SAAQ, les services de garde, les CHSLD, les chambres privées dans les hôpitaux et les établissements universitaires, entre autres.
+
+Une opposition forte et unie
+
+Gabriel Nadeau-Dubois et Manon Massé ont accueilli trois nouveaux députés au sein du caucus solidaire: le député de Maurice-Richard, Haroun Bouazzi, la députée de Verdun, Alejandra Zaga Mendez et le député de Taschereau, Étienne Grandmont.
+
+« Les Québécois ont besoin d’une opposition forte et unie au gouvernement Legault, une opposition qui se concentre à 110% sur son travail de chien de garde. Cette équipe-là, c’est Québec solidaire. L’équipe solidaire est prête, elle est plus motivée que jamais et on va se battre pour le monde. » a affirmé M. Nadeau-Dubois.', '11/23/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/caucus-presessionnel-de-quebec-solidaire-un-gel-des-tarifs-pour-affronter-le-cout-de-la-vie')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'QUÉBEC SOLIDAIRE RÉCLAME UN PLAFONNEMENT DES HAUSSES DE LOYER', 'Québec, le 2 décembre 2022 – Le porte-parole de Québec solidaire, Gabriel Nadeau-Dubois, et le responsable solidaire en matière de Logement, Andrés Fontecilla, appellent le gouvernement de la CAQ à décréter un plafonnement des hausses de loyer pour aider les centaines de milliers de ménages locataires à faire face à la hausse fulgurante du coût de la vie.
+ 
+
+« Au lieu de hausser les factures des Québécois avec son projet de loi sur les tarifs gouvernementaux, François Legault devrait s’occuper de la dépense qui coûte le plus cher aux ménages : le logement. La CAQ se pète les bretelles avec son bouclier anti-inflation, mais la vérité, c’est que le gouvernement est en train de passer à côté de la crise qui frappe les Québécois durement, au jour le jour. Si François Legault veut vraiment aider les gens face à l’inflation galopante, il doit agir pour mettre fin aux hausses de loyer abusives », déclare Gabriel Nadeau-Dubois.
+
+ 
+
+En 2021, le Tribunal administratif du logement (TAL) recommandait une hausse de 0,8% des loyers. Pourtant, les locataires québécois ont connu une augmentation moyenne de 3,6% du prix de leur loyer au cours de la même période, selon la SCHL.
+
+ 
+
+« Le gouvernement de la CAQ doit se rendre à l’évidence : la hausse des loyers est devenue hors de contrôle et beaucoup de propriétaires ne respectent pas l’indice recommandé par le Tribunal du logement. Lutter contre l’inflation sans rien faire pour freiner l’explosion des prix des loyers, c’est un coup d’épée dans l’eau », ajoute Andrés Fontecilla.
+
+ 
+
+Québec solidaire propose de plafonner les hausses de loyer en fonction de l’indice de fixation des loyers du Tribunal administratif du logement. Celui-ci, rendu public chaque année afin de suggérer aux propriétaires une hausse de loyer raisonnable en fonction du contexte économique, n’est pourtant pas obligatoire.
+
+ 
+
+« C’est une solution simple et efficace pour mieux encadrer les hausses de loyer. Non seulement c’est une mesure à coût nul, mais en plus, pour de nombreux propriétaires honnêtes qui se réfèrent déjà à l’indice d’augmentation du TAL, ça ne va rien changer. Mais pour les spéculateurs qui contournent les règles pour augmenter les loyers en flèche, ça va être la fin de la récréation », fait valoir M. Fontecilla.
+
+ 
+
+L’indice de fixation des loyers en bref
+
+Chaque année, au mois de janvier, le Tribunal administratif du logement (TAL) recommande un taux d’augmentation des loyers pour l’année à venir.
+Cet indice de fixation des prix des loyers tient compte du contexte économique pour déterminer un seuil d’augmentation juste et raisonnable, notamment les taxes foncières, les taux d’intérêt et le coût de l’énergie.
+Avec la proposition solidaire, les propriétaires qui ont besoin d’augmenter leur(s) loyer(s) au-delà du taux fixé pourront entamer des démarches pour justifier une telle hausse auprès du TAL, comme c’est actuellement le cas lorsque des locataires contestent leur hausse de loyer au tribunal.', '12/2/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/quebec-solidaire-reclame-un-plafonnement-des-hausses-de-loyer')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'RUBA GHAZAL DÉPOSE UNE MOTION TRANSPARTISANE À PROPOS DE LA SITUATION DES FEMMES EN IRAN', 'Dans une motion transpartisane déposée aujourd’hui par la députée de Mercier, Ruba Ghazal, et adoptée à l’unanimité, les élues et élus de l’Assemblée nationale du Québec ont uni leurs voix pour condamner la répression des femmes en Iran sous un régime théocratique oppressif.
+Par cette motion, les élues de l’Assemblée nationale tiennent à démontrer leur pleine solidarité aux femmes en Iran qui manifestent pour le respect de leurs droits, et à offrir leur soutien à la communauté iranienne du Québec.
+
+Elles rappellent que le Québec est un État démocratique où le respect des droits de la personne et la liberté d’expression sont des valeurs fondamentales de notre nation.
+
+En outre, l’ensemble des élus de l’Assemblée nationale du Québec ont tenu à se positionner en tant que défenseurs des droits de la personne, et dénoncent toutes formes de violence contre le peuple iranien.
+
+Voici le libellé de la motion adoptée à l’unanimité :
+
+Que l’Assemblée nationale unisse sa voix pour condamner la violente répression des manifestations et les abus aux droits de la personne commis par le régime théocratique iranien envers sa population depuis la mort de la jeune femme kurde, Mahsa Amini;
+
+Qu’elle affirme son entière solidarité aux femmes en Iran qui prennent part à une véritable révolution féministe et démocratique en sortant dans la rue sans voile, au péril de leur vie, pour défendre leurs droits et ceux des générations futures;
+
+Qu’elle salue également les hommes iraniens qui se sont massivement solidarisés avec leurs concitoyennes, rompant avec l’antagonisme de genre dont le régime a cherché à en faire le fondement de l’ordre social iranien;
+
+Qu’elle affirme son entière solidarité à nos frères et sœurs de la diaspora iranienne du Québec, ils et elles portent avec force la voix de leurs proches en Iran pour que ces derniers voient un jour leurs droits fondamentaux et démocratiques respectés;
+
+Qu’elle condamne fermement les meurtres d’enfant commis par le régime iranien, l’utilisation de la torture dans les prisons iraniennes et la condamnation à la peine de mort à des manifestants emprisonnés de façon arbitraire;
+
+Que l’Assemblée nationale demande aux autorités de la République islamique d’Iran de collaborer pleinement avec la commission d’enquête internationale indépendante qui portera sur les violations alléguées des droits de la personne dans la foulée des soulèvements populaires suivant la mort de Mahsa Amini;
+
+Que l’Assemblée nationale demande le retrait de la République islamique d’Iran de la Commission de la condition de la femme des Nations Unies.
+
+« Femme, vie, liberté ! »
+
+ 
+
+Citations :
+
+« Je suis bouleversée par le courage inouï dont les femmes iraniennes ont fait preuve depuis la mort de Mahsa Amini. Elles sont à l’origine du soulèvement historique qui se déroule devant les yeux du monde en Iran. Je ne pouvais pas rester silencieuse face à leur détermination à lutter pour leur liberté et leur dignité face à un régime sanguinaire et barbare. C’est pour cette raison que j’ai lancé cet appel de solidarité à mes collègues de l’Assemblée nationale du Québec. Je suis fière que mon appel ait été entendu et que nous unissions notre voix en solidarité avec le peuple iranien. »
+
+Ruba Ghazal, députée de Mercier
+« On ne peut pas rester silencieux face à ce qu’il se passe en Iran. Nous unissions donc nos voix de manière transpartisane, en tant qu’élus de l’Assemblée nationale du Québec, pour condamner les actes de violence qui sont commis au quotidien contre ce peuple, plus particulièrement contre les femmes. Leur courage ne passe pas inaperçu! »
+
+Sylvie D’Amours, députée de Mirabel
+« Nous sommes tous bouleversés devant les images de répression violente qui se déroulent sous nos yeux envers les femmes iraniennes qui manifestent pour leurs libertés individuelles. D’une seule voix, avec tous nos collègues de l’Assemblée nationale, nous désirons affirmer notre soutien non seulement envers les femmes et les hommes qui sont dans les rues du pays, mais aussi à toute la communauté iranienne québécoise. Nous pouvons être fiers d’offrir à tous nos concitoyennes et concitoyens, de quelque origine que ce soit, une société qui met en valeur la liberté d’expression et qui protège sans réserve les droits de la personne. »
+
+Michelle Setlakwe, Porte-parole de l’opposition officielle en matière de relations internationales et de francophonie et députée de Mont-Royal-Outremont
+Brigitte Garceau, Porte-parole de l’opposition officielle en matière de condition féminine et députée de Robert-Baldwin
+« Il y a déjà deux mois et demi que les femmes iraniennes se soulèvent au nom de la dignité et de la liberté. Elles ont été rejointes par toute une société qui a choisi de se battre avec détermination contre un régime qui l’étouffe avec violence depuis trop longtemps. Nous avons le devoir de relayer leur combat et de saluer leur courage pour éviter qu’ils ne soient oubliés par la communauté internationale. Je suis heureuse que les parlementaires québécois aient refusé le silence et se soient levés en solidarité avec la communauté iranienne. »
+
+Marie-Laurence Desgagné, présidente du Comité national des jeunes du Parti Québécois
+« C’est un geste d’une grande signification pour la communauté d’origine iranienne vivant au Québec et qui vient renforcer notre sentiment de sécurité psychologique. »
+
+Sherazad Adib, professionnelle chez Catalyst et Québécoise d’origine iranienne
+« Notre devoir et responsabilité est de soutenir un combat universel, notre devoir et responsabilité est de soutenir un peuple qui dénoncent l’obscurantisme, notre devoir et responsabilité est de défendre la dignité humaine, la Femme, la Vie, la Liberté ! »
+
+Hanieh Ziaei, Politologue et Iranologue, Chaire Raoul-Dandurand de l’UQAM', '12/2/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/ruba-ghazal-depose-une-motion-transpartisane-a-propos-de-la-situation-des-femmes-en-iran')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'REJOIGNEZ LE COLLECTIF OPTION NATIONALE POUR L''INDÉPENDANCE!', 'C’est avec enthousiasme que nous vous annonçons notre projet de redynamisation du collectif Option nationale! Notre organisation militante, reconnue officiellement par le parti, a pour objectif la promotion et la mise en œuvre de l’indépendance du Québec. Son champ d’action se situe autant à l’intérieur de son parti, Québec solidaire, qu’auprès du grand public. C’est Option nationale, par exemple, qui a organisé l’Université indépendantiste, un événement à teneur pédagogique et dont la dernière édition eut lieu en 2019.
+Vous voulez vous battre pour l’indépendance avec nous? C’est maintenant possible! Vous n’avez qu’à remplir le formulaire d’adhésion suivant: https://forms.gle/fMoDxywagrTWctqA9
+En adhérant (sans frais), nous vous tiendrons au courant de nos développements importants par courriel. Vous aurez aussi la chance de participer à notre très importante assemblée générale de refonte en janvier, où l’on devra se positionner sur plusieurs enjeux clés, notamment en matière de stratégie d’accession à l’indépendance.
+Au plaisir de militer avec vous! Et vive le Québec libre!
+L’équipe d’Option nationale', '12/14/2022 20:00:00 PM','https://quebecsolidaire.net/nouvelle/rejoignez-le-collectif-option-nationale-pour-lindependance')
+
+
+
+
+
+
+
+
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'Test', 'nullenull', '10/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'Test', 'nullenull', '10/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'Test', 'nullenull', '10/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,4,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '10/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '11/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')
+INSERT INTO Publication (MediaID,MediaUserID,Titre,Texte,PublicationDate,UrlPublication) values (1,5,'Test', 'nullenull', '12/15/2022 20:00:00 PM','')

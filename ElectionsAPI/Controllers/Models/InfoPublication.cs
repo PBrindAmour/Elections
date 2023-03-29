@@ -1,5 +1,6 @@
 ﻿namespace ElectionsAPI.Controllers.Models
 {
+    //Modèle pour obtenir les informations de publication
     public class InfoPublication
     {
         public string NomParti { get; set; }

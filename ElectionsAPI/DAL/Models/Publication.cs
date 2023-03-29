@@ -19,5 +19,8 @@ namespace ElectionsAPI.DAL.Models
         public string? Texte { get; set; }
         public DateTime PublicationDate { get; set; }
         public string? UrlPublication { get; set; }
+        public string? TexteTronquer { get; set; }
+        public string? TexteNettoye { get; set; }
+
     }
 }

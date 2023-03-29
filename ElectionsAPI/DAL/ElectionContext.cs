@@ -22,6 +22,12 @@ namespace ElectionsAPI.DAL
             modelBuilder.Entity<PartiMedia>().HasKey(c => new { c.PartiId, c.MediaId });
             modelBuilder.Entity<ChefParti>().HasKey(c => new { c.PersonneId, c.PartiId });
             modelBuilder.Entity<DictionnaireTheme>().HasKey(c => new { c.ThemeId, c.Mot });
+            modelBuilder.Entity<Lisibilite>().HasKey(c => new { c.PublicationId, c.TestId });
+            modelBuilder.Entity<Compressibilite>().HasKey(c => new { c.PublicationId, c.TextId });
+            modelBuilder.Entity<Tfidf>().HasKey(c => new { c.PartiId, c.MediaId, c.Mot });
+
+
+
         }
         // Définition des éléments de la base de données
         public virtual DbSet<Media> Medias { get; set; }
@@ -35,6 +41,11 @@ namespace ElectionsAPI.DAL
         public virtual DbSet<Region> Regions { get; set; }
         public virtual DbSet<DictionnaireTheme> DictionnaireThemes { get; set; }
         public virtual DbSet<Theme> Themes { get; set; }
+        public virtual DbSet<Lisibilite> Lisibilites { get; set; }
+        public virtual DbSet<Compressibilite> Compressibilites { get; set; }
+        public virtual DbSet<TestLisibilite> TestLisibilites { get; set; }
+        public virtual DbSet<Tfidf> Tfidfs { get; set; }
+
 
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace ElectionsAPI.Controllers.Models
 {
-    /* Statistiques de genre par parti */
+    /* Modèle pour les Statistiques de genre par parti */
     public class InfoGenre
     {
         public string NomParti { get; set; }

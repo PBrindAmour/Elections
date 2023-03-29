@@ -349,3 +349,36 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 /ElectionsAPI/appsettings.Development.json
+/Tableaux
+/Textes
+/uml
+/wordclouds
+/0.txt
+/1.txt
+/Caq.png
+/caqsiteweb.png
+/imagecaq.jpg
+/emisisons.txt
+/lisibilite.txt
+/lisibiliteVrai.txt
+/similarite1.txt
+/Td-Idf par parti TVA resultat 2.txt
+/Td-Idf par parti TVA resultat 1.txt
+/Td-Idf par parti melanger resultat2.txt
+/Td-Idf par parti melanger resultat2 version2.txt
+/Td-Idf par parti melanger resultat1.txt
+/Td-Idf par parti cinqchefsuneelection resultat 2.txt
+/Td-Idf par parti cinqchefsuneelection resultat 1.txt
+/Td-Idf 2 émissions version4.txt
+/Td-Idf 2 émissions version3.txt
+/similariteMedias.txt
+/tested.py
+/test.py
+/workcloud.py
+/wordcloud.txt
+/Predictation
+/ElectionsAPI/DAL/Interfaces/ITfIdfStore.cs
+/ElectionsAPI/Controllers/TfIdfController.cs
+/ElectionsAPI/DAL/TfIdfStore.cs
+/ElectionsAPI/Engine/TfIdfEngine.cs
+/ElectionsAPI/Engine/TfIdfEngine.cs
